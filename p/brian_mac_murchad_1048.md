@@ -2,7 +2,7 @@
 
 ### 1095
 
-![brian_mac_murchad_1095](C:\Users\diego\ck3aars\ck3-murchad\p\i\brian_mac_murchad_1095.jpg)
+![brian_mac_murchad_1095](i/brian_mac_murchad_1095.jpg)
 
 ## LIFE
 
