@@ -22,7 +22,9 @@ Briain
 
 ## VASSALS
 
-- Earl Domnall mag Aed of Ailech
+### 1095
+
+- [Earl Domnall mag Aed of Ailech](domnall_mag_aed_1027.md)
 - Earl Olav mac Ragnvald of Ormond
 
 ## PARENTS
