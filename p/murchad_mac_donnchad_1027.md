@@ -50,8 +50,8 @@ Briain
 
 1069
 
-![murchad_mac_donnchad_1069](C:\Users\diego\ck3aars\ck3-murchad\p\i\murchad_mac_donnchad_1069.jpg)
+![murchad_mac_donnchad_1069](i/murchad_mac_donnchad_1069.jpg)
 
 1095
 
-![murchad_mac_donnchad_1095](i\murchad_mac_donnchad_1095.jpg)
+![murchad_mac_donnchad_1095](i/murchad_mac_donnchad_1095.jpg)
