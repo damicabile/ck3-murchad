@@ -12,6 +12,10 @@ Neill Noigiallaich
 
 Cetchathach
 
+## LIEGE
+
+[Petty King Murchad mac Donnchad of Munster](murchad_mac_donnchad_1027.md)
+
 ## TITLES 
 
 - Earldom of Ailech (9.8.1074- conquered by claimant)
