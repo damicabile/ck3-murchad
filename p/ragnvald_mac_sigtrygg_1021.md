@@ -1,5 +1,9 @@
 # Earl Ragnvald mac Sigtrygg of Ormond
 
+### 1069
+
+![ragnvald_mac_sigtrygg_1069](i/ragnvald_mac_sigtrygg_1069.jpg)
+
 ## LIFE
 
 01.01.1021-30.09.1079
@@ -39,10 +43,6 @@ Vedrafjord
 - Earl Olav mac Ragnvald of Ormond
 
 ## PHOTOS
-
-### 1069
-
-![ragnvald_mac_sigtrygg_1069](i/ragnvald_mac_sigtrygg_1069.jpg)
 
 ### 1079
 

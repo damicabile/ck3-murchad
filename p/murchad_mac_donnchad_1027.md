@@ -1,5 +1,9 @@
 # Petty King Murchad mac Donnchad of Munster
 
+### 1069
+
+![murchad_mac_donnchad_1069](i/murchad_mac_donnchad_1069.jpg)
+
 ## LIFE
 
 01.01.1027-
@@ -57,11 +61,7 @@ Briain
 - Earl Enguerrand mac Murchad of Ennis
 - Ceithernach mac Murchad Briain
 
-## PHOTOS
-
-### 1069
-
-![murchad_mac_donnchad_1069](i/murchad_mac_donnchad_1069.jpg)
+## OTHER PHOTOS
 
 ### 1095
 

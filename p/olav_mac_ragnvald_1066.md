@@ -1,8 +1,14 @@
 # Earl Olav mac Ragnvald of Ormond
 
+#### 1095
+
+![olav_mac_ragnvald_1095](i/olav_mac_ragnvald_1095.jpg)
+
 ## LIFE
 
-01.01.1066 - HOUSE
+01.01.1066 -
+
+## HOUSE
 
 Vedrafjord
 
@@ -31,12 +37,3 @@ Vedrafjord
 - ?
 - ?
 
-- ## CHILDREN
-
-
-
-## PHOTOS
-
-### 1095
-
-![olav_mac_ragnvald_1095](i/olav_mac_ragnvald_1095.jpg)

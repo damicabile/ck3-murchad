@@ -1,5 +1,9 @@
 # Earl Domnall mag Aed of Ailech
 
+### 1095
+
+![domnall_mag_aed_1095](i/domnall_mag_aed_1095.jpg)
+
 ## LIFE
 
 01.01.1027-
@@ -41,12 +45,9 @@ Cetchathach
 - Mael-Mide nic Domnall ua Neill Noigiallaich
 - Aed mac Domnall ua Neill Noigiallaich
 
-## PHOTOS
+## OTHER PHOTOS
 
-1069
+### 1069
 
 ![domnall_mag_aed_1069](i/domnall_mag_aed_1069.jpg)
 
-1095
-
-![domnall_mag_aed_1095](i/domnall_mag_aed_1095.jpg)
