@@ -26,11 +26,16 @@ Briain
 
 ## VASSALS
 
-- Earl Olav mac Ragnvald of Ormond (30.09.1079 - inherited )
+- [Earl Olav mac Ragnvald of Ormond](i/olav_mac_ragnvald_1066.md) (30.09.1079 - inherited )
 - Earl Flaitherbach mac Domnall of Oriel (11.03.1098 - inherited)
 - Earl Donnchad mac Murchad of Ailech (24.06.1095 - revoked)
 - Earl Aed mac Domnall of Breifne (11.03.1098 - inherited)
 - Earl Enguerrand mac Murchad of Enis (24.06.1095 - inherited)
+
+### PARENTS
+
+- [Petty King Murchad mac Donnchad of Munster](murchad_mac_donnchad_1027.md)
+- ?
 
 ## GRANDPARENTS
 
