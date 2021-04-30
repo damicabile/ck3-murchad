@@ -18,7 +18,7 @@ Cetchathach
 
 ## TITLES 
 
-- Earldom of Ailech (9.8.1074- conquered by claimant)
+- Earldom of Ailech (9.8.1074 - conquered by claimant)
 - Earldom of Oriel (10.1.1077 - conquered by claimant)
 - Earldom of Breifne (28.8.1090 - conquered by claimant)
 
