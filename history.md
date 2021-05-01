@@ -5,7 +5,7 @@
 
 
 - [Murchad mac Donnchad of Munster - 1069](h/1069.md)
-- [Murchad Mac Donnchad of Munster - 1089](h/1089.mdl)
+- [Murchad Mac Donnchad of Munster - 1089](h/1089.md)
 - [Petty King Brian II mac Murchad of Munster, 1095](h/1095.md)
 - [Petty King Brian II mac Murchad of Munster, 1108](h/1108.md)
 - [Petty King Faelan mac Brian of Munster, 1128](h/1128.md)
