@@ -20,7 +20,7 @@
 - [Bhatair mac Ciar](p/bhatair_mac_ciar_1167.md) (1167-1239), *Duke of Ulster, Briain*
 - [Briccene mac Conmal](p/briccene_mac_conmal_1158.md) (1158-1209)*, gCais-Padraig*
 - [Cacht nic Morien](p/cacht_nic_morien_1201.md) (1201- ), *Briain*
-- [Caindelban II mac Caindelban](p/caindalban_ii_mac_caindelban_1147.md) (1147-1227 ), *High King of Ireland, Briain*
+- [Caindelban II mac Caindelban](p/caindelban_ii_mac_caindelban_1147.md) (1147-1227 ), *High King of Ireland, Briain*
 - [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219-), *Duke of Ulster, Briain*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215- ), *Duke of Connacht, Briain*
