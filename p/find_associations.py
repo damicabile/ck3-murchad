@@ -5,7 +5,7 @@ def do_replace(source, zz_st, format_tt):
      for zz_s in zz_st:   
         with open(source, 'r') as fa:
             file_source = fa.read()
-            old, new = zz_s[1], format_tt.format(zz_s[0])
+            old, new = zz_s[1][1], format_tt.format(zz_s[0])
             print('replacing {} with {}'.format(old, new))
             replace_file = file_source.replace(old, new)
             
@@ -24,22 +24,25 @@ for file_name in os.listdir(dir_mds):
        file_names.append(file_name)
 
 zz_groups = []
+
     
 with open(ppl_file, 'r') as fp:
     for line in fp.readlines():
         zm = re.search('\[([\w\s\-\+]+)\]\((.*?)\)', line)
         if zm:
-            zz_groups.append(zm.groups(1)[1])
+            zz_groups.append(zm.groups(1))
             
 
 zz_all = zz_groups[:len(file_names)]
 
 zz_st = zip(file_names, zz_all)
+for zz_s in zz_st:
+    print(zz_s)
 
-
-for history_ff, history_oo in zip(history_ffs, history_oos):
-    file_to_ana = os.path.join(history_dirs, history_ff)
-    do_replace(file_to_ana, zz_st, '../p/{}')
-    
-do_replace(ppl_newfile, zz_st, 'p/{}')
+if True:
+    for history_ff, history_oo in zip(history_ffs, history_oos):
+        file_to_ana = os.path.join(history_dirs, history_ff)
+        do_replace(file_to_ana, zz_st, '../p/{}')
+        
+    do_replace(ppl_newfile, zz_st, 'p/{}')
     
