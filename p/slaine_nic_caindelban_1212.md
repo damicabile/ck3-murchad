@@ -23,3 +23,12 @@ High Queen Slaine nic Caindelban of Ireland, 1212-1229, Briain
 		?
 		
 ```
+
+## HISTORY
+
+### [1249](../h/1249.md)
+
+![img](../h/14-Queen-Gobflaith-1249/death1.JPG)
+
+
+

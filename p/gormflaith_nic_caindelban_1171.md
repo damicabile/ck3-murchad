@@ -35,3 +35,9 @@ High Queen Gormflaith nic Caindelban, 1171-, Briain
 				Duchess Gwenllian, 1042-1103
 		
 ```
+
+## HISTORY
+
+### [1249](../h/1249.md)
+
+![img](../h/14-Queen-Gobflaith-1249/queen1.jpg)
