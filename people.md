@@ -8,7 +8,7 @@
 
 - [Abban mac Cobflaith](https://drive.google.com/file/d/1hmP-Y6fYUM-ITI2NDpdtr-RY0VzxfwXN/view?usp=sharing) (1132-1191), *Earl of Athlone, Briain*
 - [Abban mag Eochad](https://drive.google.com/file/d/1pTKoA4mNhZm7Oze4MzV688hotECAkx4r/view?usp=sharing) (1181-1234), *Earl of Athlone, Briain*
-- [Abel mac ](https://drive.google.com/file/d/1HuynI7sPLFhrs8ZeZbsKIiBPj7cplQgv/view?usp=sharing)[Gormflaith](https://drive.google.com/file/d/1HuynI7sPLFhrs8ZeZbsKIiBPj7cplQgv/view?usp=sharing) (1190- ), *Prince of Ireland, Briain*
+- [Abel mac Gormflaith](https://drive.google.com/file/d/1HuynI7sPLFhrs8ZeZbsKIiBPj7cplQgv/view?usp=sharing) (1190- ), *Prince of Ireland, Briain*
 - [Adomnan mac Maire](https://drive.google.com/file/d/1mleQ0G7lTwzQ68IrBZc6ObucYDfS0Sax/view?usp=sharing) (1162-1219), *Earl of Ui Mhaine, gCais-Gaillimhe*
 - [Aed mac Muirenn](https://drive.google.com/file/d/15ocOLNT53j3mLXVlVf9diYDdLTe4bRWf/view?usp=sharing) (1209- ), *King of Scotland, Briain*
 - [Aengus I mac Cobflaith](https://drive.google.com/file/d/1lujpbBgf2jeP-a8bqKDJ0P36y3nqxkve/view?usp=sharing) (1123-1190)*, Duke of Meath, Briain*
@@ -39,8 +39,8 @@
 - [Farannan mac Ciar](https://drive.google.com/file/d/1IURSTxAaf9BqWZlS_E0P1_qY-1Ml7rGZ/view?usp=sharing) (1179-1238), *Earl of Ennis, Briain*
 - [Fiachnae mac Gilla-Ruad](https://drive.google.com/file/d/1kuyr5YBmsclKksC8mfRD4NrcaGELOCiW/view?usp=sharing) (1167-1227), *gCais-Cruachu*
 - [Finnacan mac Caindelban](https://drive.google.com/file/d/1vh4id67olHD-pFPnHbSi0uAVODMzDv6j/view?usp=sharing) (1161-1224)*, gCais-Gabhran*
-- [Flaithgus mac Cuan](https://drive.google.com/file/d/1XybeSFM9xtahYVPH2qQvn0844huGBJMM/view?usp=sharing) (1236- ), *Duke of Deheubarth, Briain*
 - [Flaitheman nic Caindelban](https://drive.google.com/file/d/1RxtDCSblhNxbxabNSQs6WKsoGarPmit0/view?usp=sharing) (1175-1237)*, Briain*
+- [Flaithgus mac Cuan](https://drive.google.com/file/d/1XybeSFM9xtahYVPH2qQvn0844huGBJMM/view?usp=sharing) (1236- ), *Duke of Deheubarth, Briain*
 - [Gelgeis nic Gnathnad](https://drive.google.com/file/d/136RhCgdi5VC4iOUdL079GIUgP8yV_QhQ/view?usp=sharing) (1217- ), *Countess of Athlone, Briain*
 - [Gilla-Ruad mac Conchenn](https://drive.google.com/file/d/1hvU9m_54cRRb3swRHYCYG0i9Der2Yjph/view?usp=sharing) (1182-1238), *Earl of Ui Mhaine, gCais-Gaillimhe*
 - [Gilla-Ruad mac Fiachnae](https://drive.google.com/file/d/1XMdVMKjYb9b4KNEE3n9x6dQSM9xc8KJo/view?usp=sharing) (1142-1204)*, gCais-Cruachu*
@@ -52,6 +52,7 @@
 - [Labraid mac Gormflaith of Ireland](https://drive.google.com/file/d/1dLteWKh8d2qNJdGwuCy8A1nlJB9VVJD2/view?usp=sharing) (1190- ), *Briain*
 - [Loeguire mac Caindelban](https://drive.google.com/file/d/1Tyi_75sY1YGSpGD1YsbHH4UHeREen9fM/view?usp=sharing) (1182-1244), *Prince of Ireland, Briain*
 - [Lugaid mac Cacht](https://drive.google.com/file/d/1rCPfBFcF-bWmLuYzzIlSwupRfO7L0h6g/view?usp=sharing) (1227- ), *Lord of Gwent, Briain*
+- [Mahaut of Hwicce](https://drive.google.com/file/d/1o8tEfDe4Z_ZXgWfriwh7yzWoMeIxUIpI/view?usp=sharing) (1217-1248), *Duchess of Deheubarth, Hwicce*
 - [Mael-Muire nig Ailpin](https://drive.google.com/file/d/1FJRoiNp6DX892_edoDByZP_QkHwpCYR5/view?usp=sharing) (1125-1195)*, Countess of Briefne, gCais-Fathain*
 - [Mathieu de Mousson](https://drive.google.com/file/d/1_pjHZPrYXV9Ow_NIpSMm3wWPVGpTHKgR/view?usp=sharing) (1187- ), *High King of Ireland, Mousson*
 - [Morien nic Finneacht](https://drive.google.com/file/d/1fnXu0l6N7OXeLDeMLXrsLvty6xbhFD3b/view?usp=sharing) (1183- ), *LLewellyn*
