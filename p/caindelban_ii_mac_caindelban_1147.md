@@ -1,8 +1,8 @@
-# High King Caindelban II mac Caindelban, 1147-1227, Briain
+# High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain
 
 ## FAMILY TREE 
 ```
-High King Caindelban II mac Caindelban, 1147-1227, Briain
+High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain
 	High King Caindelban I, 1114-1186
 		High King Faelan, 1084-1136
 			High King Brian II, 1048-1111

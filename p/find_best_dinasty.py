@@ -5,7 +5,7 @@ import sys
 
 file_names = []
 #s = sys.argv[0]
-s = "Hunydd Mathrafal"    
+s = "Lerthan Crovan"    
 
 best_files, most_tabs = [], 100
 for file_name in os.listdir(os.getcwd()):

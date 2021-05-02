@@ -1,8 +1,8 @@
-# High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
+# Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain
 
 ## FAMILY TREE 
 ```
-High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain 
+Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain
 	High King Faelan, 1084-1136
 		High King Brian II, 1048-1111
 			High King Murchad, 1027-1095

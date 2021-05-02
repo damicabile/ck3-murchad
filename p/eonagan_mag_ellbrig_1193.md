@@ -33,18 +33,4 @@ Earl Eonagan mag Ellbrig of Briefne, 1193-, gCais-Inis
 			Countess Cobflaith, 1101-1176
 				High King Faelan, 1084-1136
 				Elisabet Crovan, 1083-1148			
-
-
-
-
-The father Earl Ailpin's greatfathers were cousins
-Bruatur gCais-Inis, 1108-1135
-	Duke Enguerrand, 1081-1148
-		High King Murchad, 1027-1095
-Earl Ailpin, 1101-1136
-	Earl Donnchad, 1068-1109
-		High King Murchad, 1027-1095
-Faelan
-	Briain II
-		Murchad
 ```

@@ -1,8 +1,8 @@
-# High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
+# Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 
 ## FAMILY TREE 
 ```
-High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain 
+Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 	High King Faelan, 1084-1136
 		High King Brian II, 1048-1111
 			High King Murchad, 1027-1095

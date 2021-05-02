@@ -1,8 +1,8 @@
-# High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
+# Duke Conmal mac Faelan of Ulster, 1122-1188, Briain
 
 ## FAMILY TREE 
 ```
-High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain 
+Duke Conmal mac Faelan of Ulster, 1122-1188, Briain
 	High King Faelan, 1084-1136
 		High King Brian II, 1048-1111
 			High King Murchad, 1027-1095

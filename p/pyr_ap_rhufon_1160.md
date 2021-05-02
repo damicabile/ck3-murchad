@@ -1,8 +1,8 @@
-# Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
+# Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 
 ## FAMILY TREE 
 ```
-Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
+Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 	Duke Rhufon, 1140-1166
 		Duke Gruffydd III, 1064-1140
 			Duke Maredudd III, 1047-1099
