@@ -32,4 +32,5 @@ Princess Failenn Briain nic Gormflaith of Ireland, 1193-, Briain
 				Duchess Octreda, 1091-1108
 			Lerthan Crovan, 1108-1169
 				Dimmasach Crovan, 1074-1116
-				Duchess Sybilla, 1081-1115```
+				Duchess Sybilla, 1081-1115
+```

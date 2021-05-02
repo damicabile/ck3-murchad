@@ -32,4 +32,5 @@ Lord Talorc ab Aine of Ynys Mon, 1200-, Ruairc
 				Elisabet Crovan, 1083-1148		
 			High Queen Flann, 1117-1172
 				Domnall ua Neill Noigiallaich, 1069-1120
-				Rois Neill, 1071-1145```
+				Rois Neill, 1071-1145
+```

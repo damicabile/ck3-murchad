@@ -39,4 +39,5 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217, Briain
 At least 16 inbreeding
 
 
+
 ```

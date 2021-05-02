@@ -32,4 +32,5 @@ King Senchan mac Somhairle of Wales, 1188, gCais-Tegeingl
 				?Mother of Filipu de Lacon
 			Aelfswith Aelfricson, 1118-1173
 				Count William, 1026-1081
-				Baroness Berthe, 1050-1115```
+				Baroness Berthe, 1050-1115
+```

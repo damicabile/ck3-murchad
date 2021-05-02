@@ -32,4 +32,5 @@ Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain
 				Maria Yngling, 1047-1101
 			Duchess Sybilla, 1081-1115
 				Duke Morcar, 1046-1084
-				Duchess Gwenllian, 1042-1103```
+				Duchess Gwenllian, 1042-1103
+```

@@ -32,4 +32,5 @@ King Aed mac Muirenn of Scotland, 1209-, Briain
 				Hywela Mathrafal, 1093-1161
 			Aelwyd Morgannwg, 1093-1158
 				Earl Meurig, 1068-1139
-				Countess Cristin, 1068-1137```
+				Countess Cristin, 1068-1137
+```

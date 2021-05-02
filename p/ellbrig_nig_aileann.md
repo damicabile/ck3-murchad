@@ -1,8 +1,8 @@
-# Ellbrig nig Aileann, 1155-1223, Briain
+# Ellbrib Briain, 1155-1223
 
 ## FAMILY TREE 
 ```
-Ellbrig nig Aileann, 1155-1223, Briain
+Ellbrib Briain, 1155-1223
 	Earl Aelfmaer, 1128-1167
 		Earl Osraed, 1088-1149
 			Earl Wulfgeat, 1025-1100

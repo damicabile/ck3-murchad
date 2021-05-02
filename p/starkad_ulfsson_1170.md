@@ -16,4 +16,5 @@ Starkad Ulfsson Slatte, 1170-1209, Slatte
 			Mayor Mlada, 1075-1124
 		Countess Johanne, 1113-1185
 			Count Kristian, 1092-1115
-			Gurli Blixen, 1067-1128```
+			Gurli Blixen, 1067-1128
+```

@@ -32,4 +32,5 @@ Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe
 				Hywela Mathrafal, 1093-1161
 			Aelwyd Morgannwg, 1093-1158
 				Earl Meurig, 1068-1139
-				Countess Cristin, 1068-1137```
+				Countess Cristin, 1068-1137
+```

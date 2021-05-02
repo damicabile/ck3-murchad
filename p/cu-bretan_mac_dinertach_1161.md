@@ -32,4 +32,5 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 				Maria Yngling, 1047-1101
 			Duchess Sybilla, 1081-1115
 				Duke Morcar, 1046-1084
-				Duchess Gwenllian, 1042-1103```
+				Duchess Gwenllian, 1042-1103
+```

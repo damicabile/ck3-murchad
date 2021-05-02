@@ -32,7 +32,7 @@ for history_ff, history_oo in zip(history_ffs, history_oos):
     for zz_s in zz_st:   
         with open(file_to_ana, 'r') as fa:
             file_source = fa.read()
-            old, new = zz_s[1], '..\p\{}'.format(zz_s[0])
+            old, new = zz_s[1], '../p/{}'.format(zz_s[0])
             print('replacing {} with {}'.format(old, new))
             replace_file = file_source.replace(old, new)
             

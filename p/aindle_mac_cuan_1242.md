@@ -32,4 +32,5 @@ Lord Aindle mac Cuan of Brycheniog, 1242, Briain
 				Duchess Ealdgyth, 1135-1176
 			Hasala von Emden, 1146-1215
 				Claus von Emden, 1127-1154
-				Countess Irmgard, 1128-1194```
+				Countess Irmgard, 1128-1194
+```

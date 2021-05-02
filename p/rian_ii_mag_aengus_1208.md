@@ -32,4 +32,5 @@ Duke Rian II mag Aengus of Meath, 1208, Llewellyn
 				Ragnhild Yngling, 1040-1101
 			Sioben Cetchathach-Gaillimhe, 1104-1139
 				Faelcar Cetchahach-Gaillimhe, 1069-1137
-				Tuathflaith Dal fiatach, 1085-1152```
+				Tuathflaith Dal fiatach, 1085-1152
+```

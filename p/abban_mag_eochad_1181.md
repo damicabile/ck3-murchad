@@ -32,4 +32,5 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
 				Aurengarde, 1038-1102
 			Alienor de Bray, 1073-1145
 				Baron Bouchard, 1048-1115
-				Baroness Euphrosine, 1049-1106```
+				Baroness Euphrosine, 1049-1106
+```

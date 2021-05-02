@@ -33,4 +33,5 @@ Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain
 			Lerthan Crovan, 1108-1169
 				Dimmasach Crovan, 1074-1116
 				Duchess Sybilla, 1081-1115
+
 ```

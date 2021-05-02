@@ -32,4 +32,5 @@ Duke Canannan mac Fiachnae of Ulster, 1219-, Briain
 				Mechthild von Katlenbug, 1135-1203
 			Emma von Zähringen, 1157-1226
 				Duke Adalbert I, 1125-1186
-				Katalin Arpad-Visegrad, 1125-1195```
+				Katalin Arpad-Visegrad, 1125-1195
+```

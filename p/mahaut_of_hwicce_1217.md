@@ -16,4 +16,5 @@ Duchess Mahaut of Deheubarth, 1217-1248, Hwicce
 			Duchess Ealdgyth, 1135-1176
 		Hasala von Emden, 1146-1215
 			Claus von Emden, 1127-1154
-			Countess Irmgard, 1128-1194```
+			Countess Irmgard, 1128-1194
+```

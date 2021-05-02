@@ -31,4 +31,5 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
 				?
 			Agathe de Normandie, 1064-1091
 				King William, 1027-1092
-				Mathilde van Vlaanderen, 1032-1095```
+				Mathilde van Vlaanderen, 1032-1095
+```

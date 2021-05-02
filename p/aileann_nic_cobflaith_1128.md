@@ -24,4 +24,5 @@ Aileann nic Cobflaith, 1128-1184, Briain
 				?
 			Princess Ragnhild, 1045-1110
 				King Harald IV, 1015-1082
-				Yelizaveta Rurikid, 1025-1089	```
+				Yelizaveta Rurikid, 1025-1089	
+```

@@ -21,4 +21,5 @@ Earl Faelchu mac Farannan of Ennis, 1212-, Briain
 	Cathan, 1187-1248
 		?
 		?
-	```
+	
+```

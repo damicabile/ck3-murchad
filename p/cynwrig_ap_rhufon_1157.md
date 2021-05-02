@@ -8,4 +8,5 @@ Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
 		Iudloguen de Rennes, 1112-1178
 	Madalena d'Armagnac, 1135-1206
 		Ricard d'Armagnac, 1113-1179
-		Magdalena de Perigord, 1111-1183```
+		Magdalena de Perigord, 1111-1183
+```

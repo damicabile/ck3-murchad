@@ -32,4 +32,5 @@ Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe
 				Radislava Morosini, 1093-1166
 			Baroness Aurengarde, 1111-1164
 				Count Savary, 1082-1143
-				Alienor de Bray, 1073-1145```
+				Alienor de Bray, 1073-1145
+```

@@ -32,4 +32,5 @@ Duke Cilline mac Failenn of Connacht, 1215-, Briain
 				High Queen Flann, 1117-1172
 			High Queen Constance, 1144-1209
 				Prince Randolph I, 1108-1149
-				Lerthan Crovan, 1108-1169```
+				Lerthan Crovan, 1108-1169
+```

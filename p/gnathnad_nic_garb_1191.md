@@ -32,4 +32,5 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 				Eilika von Cilli, 1050-1106
 			Countess Cobflaith, 1101-1176
 				High King Faelan, 1084-1136
-				Elisabet Crovan, 1083-1148```
+				Elisabet Crovan, 1083-1148
+```

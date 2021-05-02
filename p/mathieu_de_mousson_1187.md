@@ -16,4 +16,5 @@ High King Mathieu of Ireland, 1187, Mousson
 			Agata Szecsenyi, 1101-1166
 		Countess Gertrude, 1121-1181
 			Count Ehrenfried, 1084-1147
-			Klementia von Berg, 1080-1152```
+			Klementia von Berg, 1080-1152
+```
