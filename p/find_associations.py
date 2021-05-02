@@ -1,11 +1,22 @@
 import os
 import re
 
+def do_replace(source, zz_st, format_tt):
+     for zz_s in zz_st:   
+        with open(source, 'r') as fa:
+            file_source = fa.read()
+            old, new = zz_s[1], format_tt.format(zz_s[0])
+            print('replacing {} with {}'.format(old, new))
+            replace_file = file_source.replace(old, new)
+            
+        with open(source, 'w') as fw:
+            fw.write(replace_file)    
+
 dir_mds = 'C:\Users\diego\ck3aars\ck3-murchad\p'
-ppl_file = 'C:\Users\diego\ck3aars\ck3-murchad\people.md'
+ppl_file = "C:\\Users\\diego\\ck3aars\\ck3-murchad\\refpeople.md"
+ppl_newfile = 'C:\Users\diego\ck3aars\ck3-murchad\people.md'
 history_dirs = 'C:\Users\diego\ck3aars\ck3-murchad\h'
-history_ffs = ['1249_b.md']
-history_oos = ['1249_b_o.md']
+history_ffs = history_oos = ['1209.md', '1227.md', '1249.md']
 
 file_names = []  
 for file_name in os.listdir(dir_mds):
@@ -28,14 +39,7 @@ zz_st = zip(file_names, zz_all)
 
 for history_ff, history_oo in zip(history_ffs, history_oos):
     file_to_ana = os.path.join(history_dirs, history_ff)
-    file_to_w = os.path.join(history_dirs, history_oo)
-    for zz_s in zz_st:   
-        with open(file_to_ana, 'r') as fa:
-            file_source = fa.read()
-            old, new = zz_s[1], '../p/{}'.format(zz_s[0])
-            print('replacing {} with {}'.format(old, new))
-            replace_file = file_source.replace(old, new)
-            
-        with open(file_to_ana, 'w') as fw:
-            fw.write(replace_file)
+    do_replace(file_to_ana, zz_st, '../p/{}')
+    
+do_replace(ppl_newfile, zz_st, 'p/{}')
     
