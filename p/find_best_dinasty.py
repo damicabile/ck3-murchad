@@ -5,7 +5,7 @@ import sys
 
 file_names = []
 #s = sys.argv[0]
-s = "Duke Gruffydd III, 1064-1140"    
+s = "Hunydd Mathrafal"    
 
 best_files, most_tabs = [], 100
 for file_name in os.listdir(os.getcwd()):
@@ -14,8 +14,6 @@ for file_name in os.listdir(os.getcwd()):
             for line in fp.readlines():
                 num_tabs = len([x for x in line if x == '\t'])
                 if s in line:
-                    print(line)
-                    print(file_name)
                     if num_tabs < most_tabs:
                         best_files, most_tabs = [file_name], num_tabs
                     elif num_tabs == most_tabs:
