@@ -1,8 +1,8 @@
-# Cacht nic Morien Briain, 1201-, Briain
+# Cacht nic Morien Briain, 1201-1255, Briain
 
 ## FAMILY TREE 
 ```
-Cacht nic Morien Briain, 1201-, Briain
+Cacht nic Morien Briain, 1201-1255, Briain
 	Loeguire Briain, 1182-1244
 		High King Caindelban II, 1147-1227
 			High King Caindelban I, 1114-1186

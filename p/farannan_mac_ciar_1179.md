@@ -21,8 +21,8 @@ Earl Farannan mac Ciar of Ennis, 1179-1238, Briain
 	Ciar gCais-Cruachu, 1148-1222
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136
-				High King Brian II, 1048-1111, 2
-				Hunydd Mathrafal,1042-1099, 2
+				High King Brian II, 1048-1111
+				Hunydd Mathrafal,1042-1099
 			Elisabet Crovan, 1083-1148			
 				Duke Gudrod, 1049-1115
 				Princess Ragnhild, 1045-1110

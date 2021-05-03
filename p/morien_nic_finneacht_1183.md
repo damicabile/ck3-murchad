@@ -1,9 +1,9 @@
-# Morien nic Finneacht, 1183-, LLewellyn
+# Morien nic Finneacht, 1183-1251, LLewellyn
 
 ## FAMILY TREE 
 ```
-Morien nic Finneacht, 1183-, LLewellyn
-	Duke Rian, 1144-1211
+Morien nic Finneacht, 1183-1251, LLewellyn
+	Duke Rian I, 1144-1211
 		Duke Aengus I, 1123-1190
 			Duke Udalschalk, 1095-1162
 				Serene Doge Luchino, 1042-1099

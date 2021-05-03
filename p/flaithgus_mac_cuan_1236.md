@@ -1,8 +1,8 @@
-# Duke Flaithgus mac Cuan of Deheubarth, 1236, Briain
+# Duke Flaithgus mac Cuan of Deheubarth, 1236-, Briain
 
 ## FAMILY TREE 
 ```
-Duke Flaithgus mac Cuan of Deheubarth, 1236, Briain
+Duke Flaithgus mac Cuan of Deheubarth, 1236-, Briain
 	Cuan Briain, 1216-
 		High King Mathieu, 1187
 			Renaud de Mousson, 1148-1206

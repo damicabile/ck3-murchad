@@ -1,8 +1,8 @@
-# Prince Labraid mac Gormflaith of Ireland, 1190-, Briain
+# Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain
 
 ## FAMILY TREE 
 ```
-Prince Labraid mac Gormflaith of Ireland, 1190-, Briain
+Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain
 	Starkad Slatte, 1170-1209
 		Ulf Slatte, 1152-1176
 			Starkad Slatte, 1126-1189

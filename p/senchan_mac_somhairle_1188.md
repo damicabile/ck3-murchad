@@ -1,8 +1,8 @@
-# King Senchan mac Somhairle of Wales, 1188, gCais-Tegeingl
+# King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
 
 ## FAMILY TREE 
 ```
-King Senchan mac Somhairle of Wales, 1188, gCais-Tegeingl
+King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
 	Somhairle Briain, 1158-1223
 		Duke Aengus I, 1123-1190
 			Duke Udalschalk, 1095-1162

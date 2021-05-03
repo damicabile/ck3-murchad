@@ -1,8 +1,8 @@
-# Lord Aindle mac Cuan of Brycheniog, 1242, Briain
+# Lord Aindle mac Cuan of Brycheniog, 1242-1268, Briain
 
 ## FAMILY TREE 
 ```
-Lord Aindle mac Cuan of Brycheniog, 1242, Briain
+Lord Aindle mac Cuan of Brycheniog, 1242-1268, Briain
 	Cuan Briain, 1216-1249
 		High King Mathieu, 1187
 			Renaud de Mousson, 1148-1206

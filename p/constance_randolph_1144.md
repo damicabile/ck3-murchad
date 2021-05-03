@@ -1,9 +1,9 @@
-# High Queen Constance of Ireland, 1144-1209, Normandie-Bedford
+# High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford
 
 ## FAMILY TREE 
 
 ```
-High Queen Constance of Ireland, 1144-1209, Normandie-Bedford
+High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford
 	Prince Randolph I, 1108-1149
 		King Richard, 1055-1113
 			King William, 1027-1092
@@ -18,4 +18,4 @@ High Queen Constance of Ireland, 1144-1209, Normandie-Bedford
 		Duchess Sybilla, 1081-1115
 			Duke Morcar, 1046-1084
 			Duchess Gwenllian, 1042-1103
-```			
+```

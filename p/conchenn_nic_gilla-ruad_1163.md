@@ -1,8 +1,8 @@
-# Conchenn nic Gilla Ruad, 1163-1225, gCais-Cruachu
+# Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu
 
 ## FAMILY TREE 
 ```
-Conchenn nic Gilla Ruad, 1163-1225, gCais-Cruachu
+Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu
 	Gilla-Ruad gCais-Cruachu, 1142-1204
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136

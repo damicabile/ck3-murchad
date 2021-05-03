@@ -1,8 +1,8 @@
-# Prince Flaitheman nic Caindelban, 1175-1237	, Briain
+# Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 
 ## FAMILY TREE 
 ```
-Prince Flaitheman nic Caindelban, 1175-1237	, Briain
+Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 	High King Caindelban II, 1147-1227
 		High King Caindelban I, 1114-1186
 			High King Faelan, 1084-1136

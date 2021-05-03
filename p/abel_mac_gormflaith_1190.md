@@ -1,8 +1,8 @@
-# Prince Abel mac Gormflaith of Ireland, 1190-, Briain
+# King Abel mac Gormflaith of Ireland, 1190-1269, Briain
 
 ## FAMILY TREE 
 ```
-Prince Abel mac Gormflaith of Ireland, 1190-, Briain
+King Abel mac Gormflaith of Ireland, 1190-1269, Briain
 	Starkad Slatte, 1170-1209
 		Ulf Slatte, 1152-1176
 			Starkad Slatte, 1126-1189

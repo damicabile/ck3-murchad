@@ -1,8 +1,8 @@
-# High Queen Gormflaith nic Caindelban, 1171-, Briain
+# High Queen Gormflaith nic Caindelban of Ireland, 1171-, Briain
 
 ## FAMILY TREE 
 ```
-High Queen Gormflaith nic Caindelban, 1171-, Briain
+High Queen Gormflaith nic Caindelban of Ireland, 1171-, Briain
 	High King Caindelban II, 1147-1227
 		High King Caindelban I, 1114-1186
 			High King Faelan, 1084-1136

@@ -1,8 +1,8 @@
-# Captain Fiachnae mac Gilla Ruad, 1167-1227, gCais-Cruachu
+# Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu
 
 ## FAMILY TREE 
 ```
-Captain Fiachnae mac Gilla Ruad, 1167-1227, gCais-Cruachu
+Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu
 	Gilla-Ruad gCais-Cruachu, 1142-1204
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136

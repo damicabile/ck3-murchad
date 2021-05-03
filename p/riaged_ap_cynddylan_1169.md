@@ -1,4 +1,4 @@
-# Riaged ab Cynddylan, 1169-1219, Caerloyw-Penfro
+# Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
 
 ## FAMILY TREE 
 ```

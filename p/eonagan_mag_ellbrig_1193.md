@@ -1,8 +1,8 @@
-# Earl Eonagan mag Ellbrig of Briefne, 1193-, gCais-Inis
+# Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis
 
 ## FAMILY TREE 
 ```
-Earl Eonagan mag Ellbrig of Briefne, 1193-, gCais-Inis
+Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis
 	Earl Ailpin, 1158-1222
 		Earl Cormac, 1133-1197
 			Bruatur gCais-Inis, 1108-1135
