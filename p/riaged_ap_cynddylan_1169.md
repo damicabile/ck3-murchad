@@ -11,7 +11,7 @@ Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
 			Duncan Dunkeld, 1104-1128
 			Martha de Dunkeld, 1079-1150
 	Garb Briain, 1147-1214
-		Gwyn Ynis Cybi, 1127-1168
+		Morien Caerloyw-Tyddewi, 1127-1168
 			Lord Rhiwallon, 1087-1137
 			Lady Elen, 1092-1174
 		Muirgel Briain, 1130-1201

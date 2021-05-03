@@ -15,7 +15,7 @@ King Lorcan mac Morien of England, 1204-, Briain
         High Queen Constance, 1144-1209
             Prince Randolph I, 1108-1149
                 King Richard, 1055-1113
-                Petty Queen Octreda, 1091-1108
+                Duchess Octreda, 1091-1108
             Lerthan Crovan, 1108-1169
                 Dimmasach Crovan, 1074-1116
                 Duchess Sybilla, 1081-1115
@@ -31,9 +31,9 @@ King Lorcan mac Morien of England, 1204-, Briain
 			Duke Fiachnae, 1125-1184
                 High King Faelan, 1084-1136
                 Elisabet Crovan, 1083-1148
-            Morien Caerloyw-Tyddwei, 1122-1192
+            Morien Caerloyw-Tyddewi, 1122-1192
                 Elidyr Caerloyw-Tyddewi, 1085-1150
-                Duchess Gwenllian, 1090-1148
+                Petty Queen Gwenllian, 1090-1148
 ​```
 ```
 

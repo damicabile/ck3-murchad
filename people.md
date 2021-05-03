@@ -22,7 +22,7 @@
 - [Cacht nic Morien](p/cacht_nic_morien_1201.md) (1201-1255), *Briain*
 - [Caindelban I mac Faelan](p/caindelban_i_mac_faelan_1114.md) (1114-1186), *High King of Ireland, Briain*
 - [Caindelban II mac Caindelban](p/caindelban_ii_mac_caindelban_1147.md) (1147-1227), *High King of Ireland, Briain*
-- [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219-1239), *Duke of Ulster, Briain*
+- [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219- ), *Duke of Ulster, Briain*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215- ), *Duke of Connacht, Briain*
 - [Cobflaith nic Faelan](p/cobflaith_nic_faelan_1101.md) (1101-1176), *Countess of Ceredigion, Briain*
@@ -68,7 +68,7 @@
 - [Natfraich mac Morien](p/natfraich_mac_morien_1218.md) (1218-), *Earl of Ailech, Briain*
 - [Niallan Mac Farannan](p/niallan_mac_farannan_1217.md) (1217-), *Duke of Powys, Briain*
 - [Pyr ab Rhufon](p/pyr_ap_rhufon_1160.md) (1160-1228), *Caerloyw-Penfro*
-- [Rian ab Aengus](p/rian_ab_aengus_1144.md)*,* (1144-1211)*, Duke of Meath, LLewellyn*
+- [Rian I ab Aengus](p/rian_ab_aengus_1144.md)*,* (1144-1211)*, Duke of Meath, LLewellyn*
 - [Riaged ap Cynddylan](p/riaged_ap_cynddylan_1169.md) (1169-1219), *Caerloyw-Penfro*
 - [Rian II mag Aengus](p/rian_ii_mag_aengus_1208.md) (1208- ), *Duke of Meath, Llewellyn*
 - [Senchan mac Somhairle](p/senchan_mac_somhairle_1188.md) (1188-1255), *King of Wales, gCais-Tegeingl*

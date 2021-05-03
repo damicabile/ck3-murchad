@@ -20,10 +20,10 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 				Morien Caerloyw-Tyddewi, 1086-1160
 	Garb Briain, 1147-1214
 		Gwyn Ynys Cybi, 1127-1168
-			High King Rhiwallon, 1087-1137
-				High King Meilys, 1047-1101
+			Lord Rhiwallon, 1087-1137
+				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
-			High Queen Elen, 1092-1174
+			Lady Elen, 1092-1174
 				Earl Idwal, 1054-1112
 				Sioned Ynys Cybi, 1048-1114
 		Muirgel Briain, 1130-1201

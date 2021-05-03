@@ -17,7 +17,7 @@ Duke Rian II mag Aengus of Meath, 1208-, Llewellyn
 				Elisabet Crovan, 1083-1148			
 			Morien Caerloyw-Tyddewi, 1122-1192
 				Elidyr Caerloyw-Tyddewi, 1085-1150
-				Duchess Gwenllian, 1090-1148
+				Petty Queen Gwenllian, 1090-1148
 	Duchess Joan, 1174-1238
 		Peter de Normandie, 1139-1201
 			Earl Robert, 1107-1165

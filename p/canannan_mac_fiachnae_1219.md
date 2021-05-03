@@ -1,10 +1,10 @@
-# Duke Canannan mac Fiachnae of Ulster, 1219-1239, Briain
+# Duke Canannan mac Fiachnae of Ulster, 1219, Briain
 
 ## FAMILY TREE 
 ```
-Duke Canannan mac Fiachnae of Ulster, 1219-1239, Briain
+Duke Canannan mac Fiachnae of Ulster, 1219, Briain
 	Fiachnae Briain, 1189-1235
-		Duke Bhatair mac Ciar, 1167-1239
+		Duke Bhatair, 1167-1239
 			Aed Briain, 1142-1207
 				Earl Cathnio, 1108-1171
 				Countess Ite, 1111-1171	

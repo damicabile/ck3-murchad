@@ -10,7 +10,7 @@ Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe
 				Aethelswith of Hereford, 1070-1125
 			Countess Flann, 1097-1161
 				High King Olav, 1066-1132
-				Flann ua Neill Noigiallach, 1076-1143
+				Flann ua Neill Noigiallaich, 1076-1143
 		Aileann Briain, 1128-1184
 			Duke Udalschalk, 1096-1162
 				Serene Doge Luchino, 1042-1099
@@ -30,7 +30,7 @@ Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe
 			Elidyr Caerloyw-Tyddewi, 1085-1150
 				Lord Iorwerth, 1053-1109
 				Thyra Reventlow, 1051-1121
-			Duchess Gwenllian, 1090-1148
+			Petty Queen Gwenllian, 1090-1148
 				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
 ```

@@ -3,7 +3,7 @@
 ## FAMILY TREE 
 ```
 Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
-	Duke Rian, 1144-1211
+	Duke Rian I, 1144-1211
 		Duke Aengus I, 1123-1190
 			Duke Udalschalk, 1095-1162
 				Serene Doge Luchino, 1042-1099
@@ -30,8 +30,8 @@ Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
 			Elidyr Caerloyw-Tyddewi, 1085-1150
 				Lord Iorwerth, 1053-1109
 				Thyra Reventlow, 1051-1121
-			Duchess Gwenllian, 1090-1148
-				High King Meilys, 1047-1101
+			Petty Queen Gwenllian, 1090-1148
+				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
 				
 ```

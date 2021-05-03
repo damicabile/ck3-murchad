@@ -13,7 +13,7 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 				Princess Ragnhild, 1045-1110
 		High Queen Flann, 1117-1172
 			Domnall ua Neill Noigiallaich, 1069-1120
-				Earl Flaitherbach, 1045-1110
+				Earl Flaithbertach, 1045-1110
 				Flann, 1037-1111
 			Rois Neill, 1071-1145
 				Domnall Neill, 1030-1077
@@ -23,7 +23,7 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 			King Richard, 1055-1113
 				King William, 1027-1092
 				Mathilde van Vlaanderen, 1032-1095
-			Petty Queen Octreda, 1091-1108
+			Duchess Octreda, 1091-1108
 				Duke Eadwin, 1044-1106
 				Mor Dunkeld, 1073-1125
 		Lerthan Crovan, 1108-1169

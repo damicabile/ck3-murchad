@@ -4,7 +4,7 @@
 ```
 Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi
 	High King LLes, 1134-1202
-		Gruffyyd Caerloyw-Penfro, 1116-1177
+		Gruffydd Caerloyw-Penfro, 1116-1177
 			Maredudd Caerloyw-Penfro, 1099-1138
 				Duke Gruffydd III, 1064-1140
 				Duchess Nest, 1065-1124

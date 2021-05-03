@@ -14,7 +14,7 @@ Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe
 		Conchenn gCais-Cruachu, 1163-1225
 			Gilla-Ruad gCais-Cruachu, 1142-1204
 				Duke Fiachnae, 1125-1184, 2
-				Morien Caerloyw-Tyddewi, 1122-1192, 2
+				Morien Caerloyw-Tyddewi, 1122-1192
 			Sybilla de Beaumont, 1130-1203
 				Ralph de Beaumont, 1111-1166
 				Aelwyd Morgannwg, 1093-1158

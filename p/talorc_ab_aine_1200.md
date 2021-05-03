@@ -9,8 +9,8 @@ Lord Talorc ab Aine of Ynys Mon, 1200-, Ruairc
 				High King Faelan, 1084-1136
 				Elisabet Crovan, 1083-1148		
 			Morien Caerloyw-Tyddewi, 1122-1192
-				Elydir Caerloyw-Tyddewi, 1085-1150
-				Duchess Gwenllian, 1090-1148
+				Elidyr Caerloyw-Tyddewi, 1085-1150
+				Petty Queen Gwenllian, 1090-1148
 		Mairgred Briain, 1153-124
 			Slebine Briain, 1132-1201
 				Duke Udalschalk, 1096-1162

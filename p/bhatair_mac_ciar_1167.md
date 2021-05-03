@@ -30,7 +30,7 @@ Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain
 			Elidyr Caerloyw-Tyddewi, 1085-1150
 				Lord Iorwerth, 1053-1109
 				Thyra Reventlow, 1051-1121
-			Duchess Gwenllian, 1090-1148
+			Petty Queen Gwenllian, 1090-1148
 				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
 ```

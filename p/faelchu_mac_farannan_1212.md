@@ -17,7 +17,7 @@ Earl Faelchu mac Farannan of Ennis, 1212-, Briain
 				Elisabet Crovan, 1083-1148			
 			Morien Caerloyw-Tyddewi, 1122-1192
 				Elidyr Caerloyw-Tyddewi, 1085-1150
-				Duchess Gwenllian, 1090-1148
+				Petty Queen Gwenllian, 1090-1148
 	Cathan, 1187-1248
 		?
 		?

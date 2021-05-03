@@ -15,7 +15,7 @@ Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu
 			Elidyr Caerloyw-Tyddewi, 1085-1150
 				Lord Iorwerth, 1053-1109
 				Thyra Reventlow, 1051-1121
-			Duchess Gwenllian, 1090-1148
+			Petty Queen Gwenllian, 1090-1148
 				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
 	Sybilla de Beaumont, 1130-1203

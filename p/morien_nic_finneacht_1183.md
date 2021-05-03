@@ -26,11 +26,11 @@ Morien nic Finneacht, 1183-1251, LLewellyn
 			Elisabet Crovan, 1083-1148
 				Duke Gudrod, 1049-1115
 				Princess Ragnhild, 1045-1110
-		Morien Caerloyw-Tyddwei, 1122-1192
+		Morien Caerloyw-Tyddewi, 1122-1192
 			Elidyr Caerloyw-Tyddewi, 1085-1150
 				Lord Iorwerth, 1122-1192
-				Thyra-Reventlow, 1051-1121
-			Duchess Gwenllian, 1090-1148
+				Thyra Reventlow, 1051-1121
+			Petty Queen Gwenllian, 1090-1148
 				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
 ```

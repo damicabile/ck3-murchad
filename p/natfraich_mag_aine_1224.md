@@ -26,7 +26,7 @@ Duke Natfraich mag Aine of Ulster, 1224-, Got
             	Humbert de Savoie, 1115-1168
             	Helvis d'Ivrea, 1145-1200
 		Muirne gCais-Inis, 1183-1259
-			Earl-Ailpin, 1158-1222
+			Earl Ailpin, 1158-1222
 				Earl Cormac, 1133-1197
 				Countess Mael-Muire, 1125-1195
 			Ellbrig Briain, 1155-1223

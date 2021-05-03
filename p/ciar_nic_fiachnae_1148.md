@@ -26,7 +26,7 @@ Ciar nic Fiachnae, 1148-1222, gCais-Cruachu
 			Thyra Reventlow, 1051-1121
 				?
 				?
-		Duchess Gwenllian, 1090-1148
+		Petty Queen Gwenllian, 1090-1148
 			Lord Meilys, 1047-1101
 				High King Rhiwallon, 1025-1083
 				?

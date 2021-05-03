@@ -18,7 +18,7 @@ Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain
 			Countess Johanne, 1113-1185
 				Count Kristian, 1092-1115
 				Gurli Blixen, 1067-1128
-	Gormflaith Briain, 1171-
+	High Queen Gormflaith, 1171-1253
 		High King Caindelban II, 1147-1227
 			High King Caindelban I, 1114-1186
 				High King Faelan, 1084-1136
@@ -29,7 +29,7 @@ Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain
 		High Queen Constance, 1144-1209
 			Prince Randolph I, 1108-1149
 				King Richard, 1055-1113
-				Petty Queen Octreda, 1091-1108
+				Duchess Octreda, 1091-1108
 			Lerthan Crovan, 1108-1169
 				Dimmasach Crovan, 1074-1116
 				Duchess Sybilla, 1081-1115

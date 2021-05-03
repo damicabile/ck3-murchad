@@ -6,8 +6,8 @@ Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi
 	Duke Meilys II, 1163-1181
 		Duke Owain II, 1139-1166
 			Duke Meilys I, 1110-1165
-				High King Rhiwallon, 1087-1137
-				High Queen Elen, 1092-1174
+				Lord Rhiwallon, 1087-1137
+				Lady Elen, 1092-1174
 			Duchess Eylo, 1113-1159
 				Count Gonzalo, 1066-1128
 				Ximena, 1080-1146

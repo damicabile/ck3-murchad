@@ -28,8 +28,8 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain
 				Lady Nest, 1104-1172
 		Garb Briain, 1147-1214
 			Gwyn Ynys Cybi, 1127-1168
-				High King Rhiwallon, 1087-1137
-				High Queen Elen, 1092-1174
+				Lord Rhiwallon, 1087-1137
+				Lady Elen, 1092-1174
 			Muirgel Briain, 1130-1201
 				Duke Udalschalk, 1096-1162
 				Countess Cobflaith, 1101-1176	

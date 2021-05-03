@@ -15,12 +15,12 @@ Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
 			Elidyr Caerloyw-Tyddewi, 1085-1150
 				Lord Iorwerth, 1053-1109
 				Thyra Reventlow, 1051-1121
-			Duchess Gwenllian, 1090-1148
+			Petty Queen Gwenllian, 1090-1148
 				Lord Meilys, 1047-1101
 				Eadhild, 1050-1114
 	Sybilla de Beaumont, 1130-1203
 		Ralph de Beaumont, 1111-1166
-			Earl Henryi, 1052-1120
+			Earl Henri, 1052-1120
 				Earl Roger, 1020-1090
 				Countess Mabel, 1022-1083
 			Hywela Mathrafal, 1093-1161

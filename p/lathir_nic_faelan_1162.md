@@ -13,7 +13,7 @@ Lathir nic Faelan, 1162-1231, Briain
 				Princess Ragnhild, 1045-1110	
 		High Queen Flann, 1117-1172
 			Domnall ua Neill Noigiallaich, 1069-1120
-				Earl Flaitherbach, 1045-1110
+				Earl Flaithbertach, 1045-1110
 				Flann, 1037-1111
 			Rois Neill, 1071-1145
 				Domnall Neill, 1030-1077

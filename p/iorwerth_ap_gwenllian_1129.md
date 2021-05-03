@@ -11,7 +11,7 @@ Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi
 		Thyra Reventlow, 1051-1121
 			?
 			?
-	Duchess Gwenllian, 1090-1148
+	Petty Queen Gwenllian, 1090-1148
 		Lord Meilys, 1047-1101
 			High King Rhiwallon, 1025-1083
 			?

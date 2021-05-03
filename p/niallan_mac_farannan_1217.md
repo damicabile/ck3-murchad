@@ -4,7 +4,7 @@
 
 ```
 Duke Niallan Mac Farannan (1217-) of Powys, Briain
-	Earl Farannan mac Ciar of Ennis, 1179-1238, Briain
+	Earl Farannan, 1179-1238, Briain
         Aed Briain, 1142-1207
             Earl Cathnio, 1108-1171
                 Earl Aed, 1078-1147 
@@ -18,7 +18,7 @@ Duke Niallan Mac Farannan (1217-) of Powys, Briain
                 Elisabet Crovan, 1083-1148
             Morien Caerloyw-Tyddewi, 1122-1192
                 Elidyr Caerloyw-Tyddewi, 1085-1150
-                Duchess Gwenllian, 1090-1148
+                Petty Queen Gwenllian, 1090-1148
      Cathan (1187-1248)
      	?
      	?

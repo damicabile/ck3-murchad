@@ -1,8 +1,8 @@
-# Duke Rian ab Aengus of Meath, 1144-1211, LLewellyn
+# Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn
 
 ## FAMILY TREE 
 ```
-Duke Rian ab Aengus of Meath, 1144-1211, LLewellyn
+Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn
 	Duke Aengus I, 1123-1190
 		Duke Udalschalk, 1096-1162
 			Serene Doge Luchino, 1042-1099

@@ -14,7 +14,7 @@ Lord Lugaid mac Cacht of Gwent, 1227-, Briain
 		Annwyl Caerloyw-Tyddewi, 1171-
 			Lord Iorwerth, 1129-1191
 				Elidyr Caerloyw-Tyddewi, 1085-1150
-				Duchess Gwenllian, 1090-1148
+				Petty Queen Gwenllian, 1090-1148
 			Ffraid Caerloyw-Penfro, 1145-1208
 				Gruffydd Caerloyw-Penfro, 1116-1177
 				Epiphania Makrembolites, 1111-1187
@@ -27,10 +27,10 @@ Lord Lugaid mac Cacht of Gwent, 1227-, Briain
 				Prince Randolph I, 1108-1149
 				Lerthan Crovan, 1108-1169
 		Morien LLewellyn, 1183-
-			Duke Rian, 1144-1211
+			Duke Rian I, 1144-1211
 				Duke Aengus I, 1123-1190
 				Duchess Rhiandrech, 1116-1187
 			Duchess Finneacht, 1143-1205
 				Duke Fiachnae, 1125-1184
-				Morien Caerloyw-Tyddwei, 1122-1192
+				Morien Caerloyw-Tyddewi, 1122-1192
 ```

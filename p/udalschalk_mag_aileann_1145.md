@@ -15,7 +15,7 @@ Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe
 			High King Olav, 1066-1132
 				High King Ragnvald, 1021-1079
 				?
-			Flann ua Neill Noigiallach, 1076-1143
+			Flann ua Neill Noigiallaich, 1076-1143
 				Earl Flaithbertach, 1045-1110
 				Flann, 1037-1111
 	Aileann Briain, 1128-1184

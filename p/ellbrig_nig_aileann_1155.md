@@ -16,7 +16,7 @@ Ellbrig nig Aileann, 1155-1223, Briain
 				High King Ragnvald, 1021-1079
 				?
 			Flann ua Neill Noigiallaich, 1076-1143
-				Earl Flaitherbach, 1045-1110
+				Earl Flaithbertach, 1045-1110
 				Flann, 1037-1111		
 	Aileann Briain, 1128-1184
 		Duke Udalschalk, 1096-1162
