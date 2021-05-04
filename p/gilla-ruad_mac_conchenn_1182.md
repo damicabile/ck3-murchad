@@ -20,7 +20,7 @@ Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe
 				Petty Queen Gwenllian, 1090-1148
 	Conchenn gCais-Cruachu, 1163-1225
 		Gilla-Ruad gCais-Cruachu, 1142-1204
-			Duke Fiachnae, 1125-1184, 2
+			Duke Fiachnae, 1125-1184
 				High King Faelan, 1084-1136
 				Elisabet Crovan, 1083-1148			
 			Morien Caerloyw-Tyddewi, 1122-1192
