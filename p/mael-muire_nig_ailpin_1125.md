@@ -13,7 +13,7 @@ Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain
 				Adelaide de Normandie, 1029-1084
 		Rois Neill, 1071-1145
 			Domnall Neill, 1030-1077
-				Earl Niall. 1004-1061
+				Earl Niall, 1004-1061
 				?
 			Eua, 1040-1090
 				?

@@ -27,7 +27,7 @@ Duke Rian II mag Aengus of Meath, 1208-, Llewellyn
 				Earl William, 1063-1140
 				Cecilia Conteville-Christchurch, 1084-1150
 		Gurli Stibolt, 1137-1207
-			King Sörkvir, 1067-1137
+			King Sorkvir, 1067-1137
 				Count Hakon, 1026-1086
 				Ragnhild Yngling, 1040-1101
 			Sioben Cetchathach-Gaillimhe, 1104-1139

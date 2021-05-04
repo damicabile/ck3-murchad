@@ -18,7 +18,7 @@ Duke Cilline mac Failenn of Connacht, 1215-, Briain
 			Rikiza Sigurdr-Kyle, 1124-1186
 				?Father of Rikiza Sigurdr-Kyle
 				Banmormaer Cumman, 1082-1144
-	Failenn Briain, 1193-
+	Failenn Briain, 1193-1266
 		Starkad Slatte, 1170-1209
 			Ulf Slatte, 1152-1176
 				Starkad Slatte, 1126-1189

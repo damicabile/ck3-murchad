@@ -13,7 +13,7 @@ Duke Natfraich mag Aine of Ulster, 1224-, Got
 		Narbflaith Briain, 1173-1242
 			Aed Briain, 1142-1207
 				Earl Cathnio, 1108-1171
-				Countess Ite, 1111, 1171
+				Countess Ite, 1111-1171
 			Ciar gCais-Cruachu, 1148-1222
 				Duke Fiachnae, 1125-1184
 				Morien Caerloyw-Tyddewi, 1122-1192

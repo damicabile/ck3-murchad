@@ -3,7 +3,7 @@
 ## FAMILY TREE 
 ```
 Duke Flaithgus mac Cuan of Deheubarth, 1236-, Briain
-	Cuan Briain, 1216-
+	Cuan Briain, 1216-1249
 		High King Mathieu, 1187
 			Renaud de Mousson, 1148-1206
 				Ogier de Mousson, 1128-1200

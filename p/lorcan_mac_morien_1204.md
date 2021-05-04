@@ -1,4 +1,4 @@
-# King Lorcan mac Morien of England, 1204- , Briain
+# King Lorcan mac Morien of England, 1204-, Briain
 
 ## FAMILY TREE 
 

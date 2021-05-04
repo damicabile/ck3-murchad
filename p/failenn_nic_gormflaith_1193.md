@@ -1,8 +1,8 @@
-# Princess Failenn Briain nic Gormflaith of Ireland, 1193-1266, Briain
+# Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain
 
 ## FAMILY TREE 
 ```
-Princess Failenn Briain nic Gormflaith of Ireland, 1193-1266, Briain
+Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain
 	Starkad Slatte, 1170-1209
 		Ulf Slatte, 1152-1176
 			Starkad Slatte, 1126-1189

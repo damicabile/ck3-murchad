@@ -23,9 +23,9 @@ King Abel mac Gormflaith of Ireland, 1190-1269, Briain
 			High King Caindelban I, 1114-1186
 				High King Faelan, 1084-1136
 				Elisabet Crovan, 1083-1148
-			High Queen Flann nic Rois of Ireland
-				Domnall mac Flaithbertach ua Neill Noigiallaich
-				Rois nic Domnall Neill
+			High Queen Flann, 1117-1172
+				Domnall ua Neill Noigiallaich, 1069-1120
+				Rois Neill, 1071-1145
 		High Queen Constance, 1144-1209
 			Prince Randolph I, 1108-1149
 				King Richard, 1055-1113

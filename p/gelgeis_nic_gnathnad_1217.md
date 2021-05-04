@@ -33,11 +33,5 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain
 			Muirgel Briain, 1130-1201
 				Duke Udalschalk, 1096-1162
 				Countess Cobflaith, 1101-1176	
-				
-3x: Countess Cobflaith, Duke Udalschalk
-2x: Earl Abban 1132-1192, Gilla-na-Naem mac Mathgamma, Gnathnad mac Mathgamma, Lady Nest
-At least 16 inbreeding
-
-
 
 ```

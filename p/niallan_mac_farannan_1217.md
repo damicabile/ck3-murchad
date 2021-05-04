@@ -1,10 +1,10 @@
-# Duke Niallan Mac Farannan (1217-) of Powys, Briain
+# Duke Niallan Mac Farannan of Powys, 1217-, Briain
 
 ## FAMILY TREE
 
 ```
-Duke Niallan Mac Farannan (1217-) of Powys, Briain
-	Earl Farannan, 1179-1238, Briain
+Duke Niallan Mac Farannan of Powys, 1217-, Briain
+	Earl Farannan, 1179-1238
         Aed Briain, 1142-1207
             Earl Cathnio, 1108-1171
                 Earl Aed, 1078-1147 
@@ -19,7 +19,7 @@ Duke Niallan Mac Farannan (1217-) of Powys, Briain
             Morien Caerloyw-Tyddewi, 1122-1192
                 Elidyr Caerloyw-Tyddewi, 1085-1150
                 Petty Queen Gwenllian, 1090-1148
-     Cathan (1187-1248)
+     Cathan, 1187-1248
      	?
      	?
 ```

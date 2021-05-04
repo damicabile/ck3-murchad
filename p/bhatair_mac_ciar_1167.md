@@ -10,7 +10,7 @@ Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain
 				Lasairfiona, 1057-1112
 			Countess Cathan, 1078-1144
 				High King Brian II, 1048-1111
-				Hunydd Mathrafal,1042-1099
+				Hunydd Mathrafal, 1042-1099
 		Countess Ite, 1111-1171
 			Wigebert von der Lippe, 1064-1125
 				?Father of Wigebert von der Lippe
@@ -22,7 +22,7 @@ Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136
 				High King Brian II, 1048-1111
-				Hunydd Mathrafal,1042-1099
+				Hunydd Mathrafal, 1042-1099
 			Elisabet Crovan, 1083-1148			
 				Duke Gudrod, 1049-1115
 				Princess Ragnhild, 1045-1110

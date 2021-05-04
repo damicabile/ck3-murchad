@@ -54,7 +54,7 @@
 - [Gormflaith nic Caindelban](p/gormflaith_nic_caindelban_1171.md) (1171- ), *High Queen of Ireland, Briain*
 - [Gormlaith nic Dunlaith](p/gormlaith_nic_dunlaith_1214.md) (1214- ), *Countess of Ui Mhaine, gCais-Gaillimhe*
 - [Gwerfyl ferch Meilys](p/gwerfyl_ferch_meilys_1180.md) (1180-1248), *Lady of Merionnydd, Ynys Cybi*
-- [Labraid mac Gormflaith of Ireland](p/labraid_mac_gormflaith_1188.md) (1188-1257), *Prince of Ireland, Briain*
+- [Labraid mac Gormflaith](p/labraid_mac_gormflaith_1188.md) (1188-1257), *Prince of Ireland, Briain*
 - [Lathir nic Faelan](p/lathir_nic_faelan_1162.md) (1162-1231), *Briain*
 - [Loeguire mac Caindelban](p/loeguire_mac_caindelban_1182.md) (1182-1244), *Prince of Ireland, Briain*
 - [Lorcan mac Morien](p/lorcan_mac_morien_1204.md) (1204-), *King of England, Briain*
@@ -74,9 +74,9 @@
 - [Senchan mac Somhairle](p/senchan_mac_somhairle_1188.md) (1188-1255), *King of Wales, gCais-Tegeingl*
 - [Sion ab Augustin](p/sion_ab_augustin_1224.md) (1224-1232), *Lord of Eryri, Ruairc* 
 - [Slaine nic Caindelban](p/slaine_nic_caindelban_1212.md) (1212-1229), *High Queen of Ireland, Briain*
-- [Somhairle mage Aengus](p/somhairle_mag_aengus_1158.md) (1158-1223), *Briain*
+- [Somhairle mag Aengus](p/somhairle_mag_aengus_1158.md) (1158-1223), *Briain*
 - [Sorcha ferch Finneacht](p/sorcha_ferch_finneacht_1172.md) (1172-1235 ), *Queen of Wales, Llewellyn*
-- [Starkad Ulfsson](p/starkad_ulfsson_1170.md) (1170-1209), *Slatte*
+- [Starkad Ulfsson Slatte](p/starkad_ulfsson_1170.md) (1170-1209), *Slatte*
 - [Taithlech mac Senchan](p/taithlech_mac_senchan_1243.md) (1243-), *King of Wales, gCais-Tegeingl*
 - [Talorc ab Aine](p/talorc_ab_aine_1200.md) (1200- ), *Lord of Ynys Mon, Ruairc*
 - [Udalschalk mag Aileann](p/udalschalk_mag_aileann_1145.md) (1145-1214)*, Earl of Ui Mhaine, gCais-Gaillimhe*

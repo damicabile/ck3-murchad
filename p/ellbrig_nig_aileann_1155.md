@@ -29,7 +29,7 @@ Ellbrig nig Aileann, 1155-1223, Briain
 		Countess Cobflaith, 1101-1176
 			High King Faelan, 1084-1136
 				High King Brian II, 1048-1111
-				Hunydd Mathrafal,1042-1099
+				Hunydd Mathrafal, 1042-1099
 			Elisabet Crovan, 1083-1148	
 				Duke Gudrod, 1049-1115
 				Princess Ragnhild, 1045-1110

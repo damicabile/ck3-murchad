@@ -1,4 +1,4 @@
-# King Taithlech mac Senchan of Wales, 1243- , gCais-Tegeingl
+# King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
 
 ## FAMILY TREE
 

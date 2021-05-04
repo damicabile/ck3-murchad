@@ -22,7 +22,7 @@ Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136
 				High King Brian II, 1048-1111
-				Hunydd Mathrafal,1042-1099
+				Hunydd Mathrafal, 1042-1099
 			Elisabet Crovan, 1083-1148			
 				Duke Gudrod, 1049-1115
 				Princess Ragnhild, 1045-1110

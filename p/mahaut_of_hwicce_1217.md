@@ -1,8 +1,8 @@
-# Duchess Mahaut of Deheubarth, 1217-1248, Hwicce
+# Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce
 
 ## FAMILY TREE 
 ```
-Duchess Mahaut of Deheubarth, 1217-1248, Hwicce
+Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce
 	Duke Robert I, 1179-1249	
 		Duke Harold, 1162-1204
 			Duke Aelfweard II, 1137-1200

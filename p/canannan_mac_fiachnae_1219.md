@@ -1,8 +1,8 @@
-# Duke Canannan mac Fiachnae of Ulster, 1219, Briain
+# Duke Canannan mac Fiachnae of Ulster, 1219-, Briain
 
 ## FAMILY TREE 
 ```
-Duke Canannan mac Fiachnae of Ulster, 1219, Briain
+Duke Canannan mac Fiachnae of Ulster, 1219-, Briain
 	Fiachnae Briain, 1189-1235
 		Duke Bhatair, 1167-1239
 			Aed Briain, 1142-1207
@@ -12,9 +12,9 @@ Duke Canannan mac Fiachnae of Ulster, 1219, Briain
 				Duke Fiachnae, 1125-1184		
 				Morien Caerloyw-Tyddewi, 1122-1192
 		Duchess Muirenn, 1165-1222
-			Gilla-Ruad gCais-Cruachu, 1142-1204 (uncle)
-				Duke Fiachnae, 1125-1184 (grandfather)		
-				Morien Caerloyw-Tyddewi, 1122-1192 (grandmother)
+			Gilla-Ruad gCais-Cruachu, 1142-1204
+				Duke Fiachnae, 1125-1184	
+				Morien Caerloyw-Tyddewi, 1122-1192
 			Sybilla de Beaumont, 1130-1203
 				Ralph de Beaumont, 1111-1166
 				Aelwyd Morgannwg, 1093-1158
@@ -30,7 +30,7 @@ Duke Canannan mac Fiachnae of Ulster, 1219, Briain
 			Gottfried von Stuttgart, 1160-1225
 				Heribert von Stuttgart, 1136-1188
 				Mechthild von Katlenbug, 1135-1203
-			Emma von Zähringen, 1157-1226
+			Emma von Zahringen, 1157-1226
 				Duke Adalbert I, 1125-1186
 				Katalin Arpad-Visegrad, 1125-1195
 ```

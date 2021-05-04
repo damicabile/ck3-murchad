@@ -18,7 +18,7 @@ Lord Lugaid mac Cacht of Gwent, 1227-, Briain
 			Ffraid Caerloyw-Penfro, 1145-1208
 				Gruffydd Caerloyw-Penfro, 1116-1177
 				Epiphania Makrembolites, 1111-1187
-	Cacht Briain, 1201-
+	Cacht Briain, 1201-1255
 		Loeguire Briain, 1182-1244
 			High King Caindelban II, 1147-1227
 				High King Caindelban I, 1114-1186
@@ -26,7 +26,7 @@ Lord Lugaid mac Cacht of Gwent, 1227-, Briain
 			High Queen Constance, 1144-1209
 				Prince Randolph I, 1108-1149
 				Lerthan Crovan, 1108-1169
-		Morien LLewellyn, 1183-
+		Morien LLewellyn, 1183-1251
 			Duke Rian I, 1144-1211
 				Duke Aengus I, 1123-1190
 				Duchess Rhiandrech, 1116-1187

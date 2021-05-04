@@ -1,8 +1,8 @@
-# Cacht nic Morien Briain, 1201-1255, Briain
+# Cacht nic Morien, 1201-1255, Briain
 
 ## FAMILY TREE 
 ```
-Cacht nic Morien Briain, 1201-1255, Briain
+Cacht nic Morien, 1201-1255, Briain
 	Loeguire Briain, 1182-1244
 		High King Caindelban II, 1147-1227
 			High King Caindelban I, 1114-1186
@@ -18,7 +18,7 @@ Cacht nic Morien Briain, 1201-1255, Briain
 			Lerthan Crovan, 1108-1169
 				Dimmasach Crovan, 1074-1116
 				Duchess Sybilla, 1081-1115
-	Morien LLewellyn, 1183-
+	Morien LLewellyn, 1183-1251
 		Duke Rian I, 1144-1211
 			Duke Aengus I, 1123-1190
 				Duke Udalschalk, 1095-1162

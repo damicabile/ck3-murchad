@@ -1,9 +1,9 @@
-# Earl Natfraich mac Morien of Ailech, 1218- , Briain
+# Earl Natfraich mac Morien of Ailech, 1218-, Briain
 
 ## FAMILY TREE
 
 ```
-Earl Natfraich mac Morien of Ailech, 1218- , Briain
+Earl Natfraich mac Morien of Ailech, 1218-, Briain
 	Loeguire Briain, 1182-1244
 		High King Caindelban II, 1147-1227
             High King Caindelban I, 1114-1186
