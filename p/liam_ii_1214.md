@@ -1,8 +1,9 @@
-# Duke Cilline mac Failenn of Connacht, 1215-, Briain
+# Duke Liam II of Northumbria, 1214-, Briain
 
-## FAMILY TREE 
+## FAMILY TREE
+
 ```
-Duke Cilline mac Failenn of Connacht, 1215-, Briain
+Duke Liam II of Northumbria, 1214-, Briain
 	Dagr Gurlisson Sigurdr-Kyle, 1194-1243
 		Mormaer Diodmundr Filippusson, 1168-1203
 			Mormaer Filippus, 1146-1177
@@ -26,11 +27,15 @@ Duke Cilline mac Failenn of Connacht, 1215-, Briain
 			Blahomira z Vickova, 1152-1209
 				Count Ojir, 1120-1181
 				Countess Johanne, 1113-1185
-		High Queen Gormflaith, 1171-1253
+		High Queen Gormflaith, 1171-
 			High King Caindelban II, 1147-1227
 				High King Caindelban I, 1114-1186
 				High Queen Flann, 1117-1172
 			High Queen Constance, 1144-1209
 				Prince Randolph I, 1108-1149
 				Lerthan Crovan, 1108-1169
+
 ```
+
+
+
