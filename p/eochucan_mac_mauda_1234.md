@@ -1,9 +1,9 @@
-# Duke Euochucan mac Mauda of Lancaster, 1234-, Briain
+# Duke Eochucan mac Mauda of Lancaster, 1234-, Briain
 
 ## FAMILY TREE
 
 ```
-Duke Euochucan mac Mauda of Lancaster, 1234-, Briain
+Duke Eochucan mac Mauda of Lancaster, 1234-, Briain
 	Savary de Cognac, 1199-1259
 		Onfroy de Cognac, 1172-1233
 			Savary de Cognac, 1138-1190

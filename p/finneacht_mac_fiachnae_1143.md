@@ -1,8 +1,8 @@
-# Duchess Finneacht mac Fiachnae, 1143-1205, gCais-Cruachu
+# Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu
 
 ## FAMILY TREE 
 ```
-Duchess Finneacht mac Fiachnae, 1143-1205, gCais-Cruachu
+Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu
 	Duke Fiachnae, 1125-1184
 		High King Faelan, 1084-1136
 			High King Brian II, 1048-1111
