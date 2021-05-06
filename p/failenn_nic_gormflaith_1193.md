@@ -18,7 +18,7 @@ Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain
 			Countess Johanne, 1113-1185
 				Count Kristian, 1092-1115
 				Gurli Blixen, 1067-1128
-	High Queen Gormflaith, 1171-
+	High Queen Gormflaith, 1171-1253
 		High King Caindelban II, 1147-1227
 			High King Caindelban I, 1114-1186
 				High King Faelan, 1084-1136

@@ -27,7 +27,7 @@ Duke Liam II of Northumbria, 1214-, Briain
 			Blahomira z Vickova, 1152-1209
 				Count Ojir, 1120-1181
 				Countess Johanne, 1113-1185
-		High Queen Gormflaith, 1171-
+		High Queen Gormflaith, 1171-1253
 			High King Caindelban II, 1147-1227
 				High King Caindelban I, 1114-1186
 				High Queen Flann, 1117-1172
