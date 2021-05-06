@@ -42,7 +42,7 @@
 - [Cu-Bretan mac Dinertach](p/cu-bretan_mac_dinertach_1161.md) (1161-1232), *Got*
 - [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201- ), *Lord of Merionnydd, Ynys Cybi*
 - [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222)*, Caerloyw-Penfro*
-- [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md), (1141-1210)*, Prince of Ireland, Briain*
+- [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Ellbrig nig Aileann](p/ellbrig_nig_aileann_1155.md) (1155-1223), *Briain*
 - [Eochad mag Abban](p/eochad_mag_abban_1163.md) (1163-1191), *Briain*
 - [Eochucan mac Mauda](p/eochucan_mac_mauda_1234.md) (1234-), *Duke of Lancaster, Briain*
@@ -65,6 +65,7 @@
 - [Gormflaith nic Caindelban](p/gormflaith_nic_caindelban_1171.md) (1171-1253), *High Queen of Ireland, Briain*
 - [Gormlaith nic Dunlaith](p/gormlaith_nic_dunlaith_1214.md) (1214- ), *Countess of Ui Mhaine, gCais-Gaillimhe*
 - [Gwerfyl ferch Meilys](p/gwerfyl_ferch_meilys_1180.md) (1180-1248), *Lady of Merionnydd, Ynys Cybi*
+- [Iorwerth ap Gwenllian](p/iorwerth_ap_gwenllian_1129.md) (1129-1191), *Lord of Morgannwg, Caerloyw-Tyddewi*
 - [Labraid mac Gormflaith](p/labraid_mac_gormflaith_1188.md) (1188-1257), *Prince of Ireland, Briain*
 - [Lathir nic Faelan](p/lathir_nic_faelan_1162.md) (1162-1231), *Briain*
 - [Lethlobur mag Euginia](p/lethlobur_mag_euginia_1241.md) (1241-), *Earl of Northumberland, Briain*

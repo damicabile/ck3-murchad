@@ -36,3 +36,17 @@ Duke Natfraich mag Aine of Ulster, 1224-, Got
 				Aileann Briain, 1128-1184
 ```
 
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
+* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)

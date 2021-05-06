@@ -34,3 +34,15 @@ Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe
 				Earl Meurig, 1068-1139
 				Countess Cristin, 1068-1137
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)

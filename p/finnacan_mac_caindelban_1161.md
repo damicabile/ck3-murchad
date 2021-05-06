@@ -35,3 +35,9 @@ Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran
 				?
 		
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)

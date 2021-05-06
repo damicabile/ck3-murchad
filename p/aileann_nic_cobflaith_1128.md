@@ -26,3 +26,9 @@ Aileann nic Cobflaith, 1128-1184, Briain
 				King Harald IV, 1015-1082
 				Yelizaveta Rurikid, 1025-1089	
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)

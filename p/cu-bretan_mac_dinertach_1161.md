@@ -34,3 +34,10 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 				Duke Morcar, 1046-1084
 				Duchess Gwenllian, 1042-1103
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)

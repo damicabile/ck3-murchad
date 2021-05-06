@@ -18,3 +18,9 @@ Starkad Ulfsson Slatte, 1170-1209, Slatte
 			Count Kristian, 1092-1115
 			Gurli Blixen, 1067-1128
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)

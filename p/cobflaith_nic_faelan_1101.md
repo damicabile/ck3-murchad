@@ -34,3 +34,8 @@ Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain
 				King Yaroslav, 983-1054
 				Ingierdr af Munso, 1001-1050
 ```
+
+
+# REFERENCES
+
+## ANCESTORS

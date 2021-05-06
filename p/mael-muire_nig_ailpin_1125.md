@@ -33,3 +33,9 @@ Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain
 			Mathilde van Vlaanderen, 1032-1095
 				Duke Boudewijn V, 1012-1072
 				Adele Capet, 1009-1077```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)

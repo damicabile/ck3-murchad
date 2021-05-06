@@ -34,3 +34,13 @@ Duke Canannan mac Fiachnae of Ulster, 1219-, Briain
 				Duke Adalbert I, 1125-1186
 				Katalin Arpad-Visegrad, 1125-1195
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_nic_gilla-ruad_1165.md)

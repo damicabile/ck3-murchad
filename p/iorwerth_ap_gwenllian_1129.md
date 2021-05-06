@@ -20,4 +20,8 @@ Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi
 			?
 ```
 
-nephew of Morien Caerloyw-Tyddewi, Duke Fiachnae's wife
+
+# REFERENCES
+
+## ANCESTORS
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)

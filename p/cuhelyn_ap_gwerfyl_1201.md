@@ -35,3 +35,11 @@ Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi
 				Rhonwen Caerloyw-Penfro, 1104-1166
 
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)

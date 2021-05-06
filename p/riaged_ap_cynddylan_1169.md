@@ -18,3 +18,9 @@ Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
 			Duke Udalschalk, 1096-1162
 			Countess Cobflaith, 1101-1176
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)

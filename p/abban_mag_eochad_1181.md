@@ -34,3 +34,11 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
 				Baron Bouchard, 1048-1115
 				Baroness Euphrosine, 1049-1106
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)

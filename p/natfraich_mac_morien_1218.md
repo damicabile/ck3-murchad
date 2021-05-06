@@ -35,3 +35,16 @@ Earl Natfraich mac Morien of Ailech, 1218-, Briain
                 Elidyr Caerloyw-Tyddewi, 1085-1150
                 Petty Queen Gwenllian, 1090-1148
 
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)

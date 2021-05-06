@@ -34,3 +34,10 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 				High King Faelan, 1084-1136
 				Elisabet Crovan, 1083-1148
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)

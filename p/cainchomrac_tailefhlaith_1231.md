@@ -37,3 +37,13 @@ Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got
 
 ```
 
+
+# REFERENCES
+
+## ANCESTORS
+* [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](finnacan_mac_caindelban_1161.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)

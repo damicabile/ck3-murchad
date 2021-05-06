@@ -34,3 +34,14 @@ Duke Cilline mac Failenn of Connacht, 1215-, Briain
 				Prince Randolph I, 1108-1149
 				Lerthan Crovan, 1108-1169
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
