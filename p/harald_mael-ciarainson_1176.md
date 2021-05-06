@@ -1,0 +1,39 @@
+# Harold Mael-Ciarainson, 1176-1237, Briain
+
+## FAMILY TREE
+
+```
+Harold Mael-Ciarainson,Briain, 1176-1237
+	Mael-Ciarain Aibilinson Briain, 1153-1227
+		Jacques Wigeriche, 1133-1171
+			King Gottfried II, 1076-1147
+				King Gottfried I, 1040-1090
+				Gertrude von Nassau, 1048-1109
+			Ermessinde, 1098-1155
+				?
+				?
+		Aibilin Briain, 1135-1203
+			High King Caindelban I, 1114-1186
+				High King Faelan, 1084-1136
+				Elisabet Crovan, 1083-1148
+			High Queen Flann, 1117-1172
+				Domnall ua Neill Noigiallaich, 1069-1120
+				Rois Neill, 1071-1145
+	Barbara Chatenois-Neufchateau, 1152-1220
+		Count Karl, 1134-1196
+			Count Udo, 1117-1175
+				Count Karl, 1092-1139
+				Gudrun von Nellenburg, 1097-1165
+			Serhilda von Beilstein, 1116-1183
+				Count Wolfgang, 1092-1139
+				Almodis d'Urgell, 1097-1171
+		Gertrude Ezzonen, 1126-1173
+			Count Heinrich, 1095-1156
+				Count Eberhard, 1066-1117
+				Filippa van Zutphen, 1075-1144
+			Agata Szecsenyi, 1101-1166
+				Mate Szecsenyi, 1077-1143
+				Hildegard Ludowinger, 1056-1120
+			
+```
+

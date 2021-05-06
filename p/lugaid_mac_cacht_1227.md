@@ -1,9 +1,9 @@
-# Lord Lugaid mac Cacht of Gwent, 1227-, Briain
+# Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain
 
 ## FAMILY TREE 
 ```
-Lord Lugaid mac Cacht of Gwent, 1227-, Briain
-	Rhun Caerloyw-Penfro, 1201-
+Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain
+	Rhun Caerloyw-Penfro, 1201-1258
 		Rhufon Caerloyw-Penfro, 1179-1229
 			Cynwrig Caerloyw-Penfro, 1157-1222
 				Duke Rhufon, 1140-1166
@@ -11,7 +11,7 @@ Lord Lugaid mac Cacht of Gwent, 1227-, Briain
 			Duchess Dubchoblaig, 1157-1179
 				Jacques Wigeriche, 1133-1171
 				Aibilin Briain, 1135, 1203
-		Annwyl Caerloyw-Tyddewi, 1171-
+		Annwyl Caerloyw-Tyddewi, 1171-1251
 			Lord Iorwerth, 1129-1191
 				Elidyr Caerloyw-Tyddewi, 1085-1150
 				Petty Queen Gwenllian, 1090-1148
