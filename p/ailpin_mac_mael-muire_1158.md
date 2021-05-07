@@ -43,4 +43,7 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
 
 ## HISTORY
+* [1209.md](../h/1209.md)
+* [1227.md](../h/1227.md)
+* [1249.md](../h/1249.md)
 #### END REFERENCES

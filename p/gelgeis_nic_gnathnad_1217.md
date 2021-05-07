@@ -40,10 +40,10 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 
 ## HISTORY
 * [1249.md](../h/1249.md)

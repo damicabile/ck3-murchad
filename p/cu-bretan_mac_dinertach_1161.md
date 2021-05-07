@@ -43,4 +43,6 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 * [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
 
 ## HISTORY
+* [1227.md](../h/1227.md)
+* [1249.md](../h/1249.md)
 #### END REFERENCES

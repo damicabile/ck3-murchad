@@ -23,8 +23,8 @@ Eochad mag Abban, 1163-1191, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 
 ## HISTORY
 * [1227.md](../h/1227.md)

@@ -39,8 +39,8 @@ Ellbrig nig Aileann, 1155-1223, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
 
 ## HISTORY
 * [1227.md](../h/1227.md)
