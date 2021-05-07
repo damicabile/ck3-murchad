@@ -42,4 +42,9 @@ Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+
+## HISTORY
+* [1209.md](../h/1209.md)
+* [1227.md](../h/1227.md)
+* [1249.md](../h/1249.md)
 #### END REFERENCES

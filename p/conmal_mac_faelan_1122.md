@@ -39,4 +39,7 @@ Duke Conmal mac Faelan of Ulster, 1122-1188, Briain
 # REFERENCES
 
 ## ANCESTORS
+
+## HISTORY
+* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES

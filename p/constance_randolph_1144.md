@@ -24,4 +24,8 @@ High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford
 # REFERENCES
 
 ## ANCESTORS
+
+## HISTORY
+* [1186_2.md](../h/1186_2.md)
+* [1227.md](../h/1227.md)
 #### END REFERENCES

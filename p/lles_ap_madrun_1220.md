@@ -40,9 +40,11 @@ Lord Lles ap Madrun of Merionnydd, 1220-, Ynys Cybi
 # REFERENCES
 
 ## ANCESTORS
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 * [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
+
+## HISTORY
 #### END REFERENCES

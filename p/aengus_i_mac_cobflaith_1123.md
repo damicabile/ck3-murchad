@@ -33,4 +33,8 @@ Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain
 
 ## ANCESTORS
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+
+## HISTORY
+* [1186_2.md](../h/1186_2.md)
+* [1209.md](../h/1209.md)
 #### END REFERENCES
