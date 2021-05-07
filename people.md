@@ -12,6 +12,7 @@
 - [Adomnan mac Maire](p/adomnan_mac_maire_1162.md) (1162-1219), *Earl of Ui Mhaine, gCais-Gaillimhe*
 - [Aed mac Muirenn](p/aed_mac_muirenn_1209.md) (1209- ), *King of Scotland, Briain*
 - [Aed mac Narbflaith](p/aed_mac_narbflaith_1202.md) (1202-1263), *Got*
+- [Aed mag Ite](p/aeg_mag_ite_1142.md) (1142-1207), *Briain*
 - [Aengus II mac Finneacht](p/aengus_ii_mac_finneacht_1177.md) (1177-1239), *Duke of Meath, LLewellyn*
 - [Aengus I mac Cobflaith](p/aengus_i_mac_cobflaith_1123.md) (1123-1190)*, Duke of Meath, Briain*
 - [Aibilin mac Caindelban](p/aibilin_mac_caindelban_1135.md) (1135-1203), *Princess of Ireland, Briain*
@@ -21,6 +22,7 @@
 - [Ailpin mac Sinech](p/ailpin_mac_sinech_1257.md) (1257-), *Earl of Breifne, gCais-Inis*  
 - [Aindle mac Cuan](p/aindle_mac_cuan_1242.md) (1242-1268), *Lord of Brycheniog, Briain*
 - [Aine ferch Sithmaith](p/aine_ferch_sithmaith_1169.md) (1169-1220), *Lady of Eryri, Ruairc*
+- [Ben-Ulad nic Deirdre](p/ben-ulad_nic_deirdre_1152.md) (1152-1218), *gCais-Inis*
 - [Bhatair mac Ciar](p/bhatair_mac_ciar_1167.md) (1167-1239), *Duke of Ulster, Briain*
 - [Bhatair mac Sioban](p/bhatair_mac_sioban_1236.md) (1236-), *Duke of York, gCais-Inis*
 - [Briccene mac Conmal](p/briccene_mac_conmal_1158.md) (1158-1209)*, gCais-Padraig*
@@ -32,6 +34,7 @@
 - [Caindelban II mac Caindelban](p/caindelban_ii_mac_caindelban_1147.md) (1147-1227), *High King of Ireland, Briain*
 - [Cairech nic Lugaid](p/cairech_nic_lugaid_1250.md) (1250-), *Lady of Gwent, Briain* 
 - [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219- ), *Duke of Ulster, Briain*
+- [Cathnio mac Cathan](p/cathnio_mac_cathan_11108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215- ), *Duke of Connacht, Briain*
 - [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-), *Lady of Ferlix, Briain*
@@ -45,7 +48,8 @@
 - [Cuan mac Gormflaith](p/cuan_mac_gormflaith_1216.md) (1216-1249), *Prince of Ireland, Briain*
 - [Cu-Bretan mac Dinertach](p/cu-bretan_mac_dinertach_1161.md) (1161-1232), *Got*
 - [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201- ), *Lord of Merionnydd, Ynys Cybi*
-- [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222)*, Caerloyw-Penfro*
+- [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222), *Caerloyw-Penfro*
+- [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Ellbrig nig Aileann](p/ellbrig_nig_aileann_1155.md) (1155-1223), *Briain*
