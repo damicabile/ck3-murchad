@@ -24,3 +24,4 @@ Starkad Ulfsson Slatte, 1170-1209, Slatte
 
 ## ANCESTORS
 * [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+#### END REFERENCES

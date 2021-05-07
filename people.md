@@ -24,7 +24,7 @@
 - [Bhatair mac Ciar](p/bhatair_mac_ciar_1167.md) (1167-1239), *Duke of Ulster, Briain*
 - [Bhatair mac Sioban](p/bhatair_mac_sioban_1236.md) (1236-), *Duke of York, gCais-Inis*
 - [Briccene mac Conmal](p/briccene_mac_conmal_1158.md) (1158-1209)*, gCais-Padraig*
-- [Bruatur mac Rian](p/bruatur_mac_rian_1241.md) (1241-), *Earl of Essex, Briain*
+- [Bruatur mac Rian](p/bruatur_mac_rian_1241.md) (1241-), *Earl of Essex, Llewellyn*
 - [Buaidbeo mac Cuan](p/buaidbeo_mac_cuan_1247.md) (1247-), *Duke of Essex, Briain*
 - [Cacht nic Morien](p/cacht_nic_morien_1201.md) (1201-1255), *Briain*
 - [Cainchomrac mac Tailefhlaith](p/cainchomrac_tailefhlaith_1231.md) (1231-), *Duke of Kent, Got*
@@ -46,7 +46,7 @@
 - [Cu-Bretan mac Dinertach](p/cu-bretan_mac_dinertach_1161.md) (1161-1232), *Got*
 - [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201- ), *Lord of Merionnydd, Ynys Cybi*
 - [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222)*, Caerloyw-Penfro*
-- [Dimmasach mac Dinertach](../p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
+- [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Ellbrig nig Aileann](p/ellbrig_nig_aileann_1155.md) (1155-1223), *Briain*
 - [Eochad mag Abban](p/eochad_mag_abban_1163.md) (1163-1191), *Briain*
@@ -81,7 +81,7 @@
 - [Lathir nic Faelan](p/lathir_nic_faelan_1162.md) (1162-1231), *Briain*
 - [Lethlobur mag Euginia](p/lethlobur_mag_euginia_1241.md) (1241-), *Earl of Northumberland, Briain*
 - [Liam II](p/liam_ii_1214.md) (1214-), *Duke of Northumbria, Briain*
-- [LLes ap Madrun](p/lles_ab_madrun_1220.md) (1220-), *Lord of Merionnydd, Briain*
+- [Lles ap Madrun](p/lles_ap_madrun_1220.md) (1220-), *Lord of Merionnydd, Ynys Cybi*
 - [Loeguire mac Caindelban](p/loeguire_mac_caindelban_1182.md) (1182-1244), *Prince of Ireland, Briain*
 - [Lorcan mac Morien](p/lorcan_mac_morien_1204.md) (1204-), *King of England, Briain*
 - [Lugaid mac Cacht](p/lugaid_mac_cacht_1227.md) (1227-1257), *Lord of Gwent, Briain*

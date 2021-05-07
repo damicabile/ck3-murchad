@@ -3,9 +3,9 @@
 ## FAMILY TREE
 
 ```
-Earl Farannan mac Slaine of Cambridgeshire, 1239 -, gCais-Mathrafal        
+Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal        
 	Duke Niallan, 1217-
-        Earl Farannan mac Ciar of Ennis, 1179-1238, Briain
+        Earl Farannan, 1179-1238
             Aed Briain, 1142-1207
                 Earl Cathnio, 1108-1171
                 Countess Ite, 1111-1171
@@ -32,3 +32,16 @@ Earl Farannan mac Slaine of Cambridgeshire, 1239 -, gCais-Mathrafal
     			Duchess Finneacht, 1143-1205
 ```
 
+
+# REFERENCES
+
+## ANCESTORS
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [Duke Niallan Mac Farannan of Powys, 1217-, Briain](niallan_mac_farannan_1217.md)
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+#### END REFERENCES

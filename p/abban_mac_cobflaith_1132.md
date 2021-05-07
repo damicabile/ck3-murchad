@@ -33,3 +33,4 @@ Earl Abban mac Cobflaith of Athlone, 1132-1191, Briain
 
 ## ANCESTORS
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+#### END REFERENCES

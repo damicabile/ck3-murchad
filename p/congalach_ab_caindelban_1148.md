@@ -41,3 +41,4 @@ Prince Congalach ab Caindelban of Ireland, 1148-1209, Evans
 
 ## ANCESTORS
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+#### END REFERENCES

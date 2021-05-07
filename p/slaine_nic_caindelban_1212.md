@@ -36,3 +36,4 @@ High Queen Slaine nic Caindelban of Ireland, 1212-1229, Briain
 ## ANCESTORS
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+#### END REFERENCES
