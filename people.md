@@ -52,6 +52,7 @@
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Donnchad mac Murchad](p/donnchad_mac_murchad_1068.md) (1068-1109), *Earl of Ailech, Briain*
 - [Efyrddyl ferch Gruffydd](p/efyrddyl_ferch_gruffydd_1124.md) (1124-1194), *Seisyll*
+- [Elen ferch Idwal](p/elen_ferch_idwal_1092.md) (1092-1174), *Lady of Penllyn, Seisyll*
 - [Ellbrig nig Aileann](p/ellbrig_nig_aileann_1155.md) (1155-1223), *Briain*
 - [Elisabet Gudrodsdatter](p/elisabet_gudrodsdatter_1083.md) (1083-1148), *Crovan*
 - [Enguerrand mac Murchad](p/enguerrand_mac_murchad_1081.md) (1081-1148), *Duke of Ulster, gCais-Inis*
