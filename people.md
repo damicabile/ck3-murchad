@@ -95,6 +95,7 @@
 - [Mahaut of Hwicce](p/mahaut_of_hwicce_1217.md) (1217-1248), *Duchess of Deheubarth, Hwicce*
 - [Mauda nic Morien](p/mauda_nic_morien_1199.md) (1199-), *Briain*
 - [Mathieu de Mousson](p/mathieu_de_mousson_1187.md) (1187- ), *High King of Ireland, Mousson*
+- [Meilys II ab Owain](p/meilys_ii_ab_owain_1163.md) (1163-1181), *Duke of Powys, Ynys-Cybi*
 - [Morien nic Finneacht](p/morien_nic_finneacht_1183.md) (1183-1251 ), *LLewellyn*
 - [Muirenn nic Gilla-Ruad](p/muirenn_nic_gilla-ruad_1165.md) (1165-1222), *Duchess of Ulster, gCais-Cruachu*
 - [Muiredach mac Flaitheman](p/muiredach_macflaitheman_1216.md) (1216-), *Briain*
