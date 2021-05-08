@@ -29,8 +29,8 @@ Lord Lles ap Madrun of Merionnydd, 1220-, Ynys Cybi
     	Heulwen Morgannwg, 1160-1233
     		Cadwal Morgannwg, 1141-1209
     			Meiriadog Morgannwg, 1103-1166
-    			Sioned Brycheniog, 1102-1167
-    		Madrun Brycheniog, 1140-1212
+    			Sioned Brycheiniog, 1102-1167
+    		Madrun Brycheiniog, 1140-1212
     			Lord Bleddyn, 1098-1149
     			Leofflaed of Shrewsbury, 1103-1169		
         
@@ -40,11 +40,11 @@ Lord Lles ap Madrun of Merionnydd, 1220-, Ynys Cybi
 # REFERENCES
 
 ## ANCESTORS
-* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
+* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 
 ## HISTORY
 #### END REFERENCES

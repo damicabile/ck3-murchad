@@ -27,10 +27,10 @@ Lathir nic Faelan, 1162-1231, Briain
 				Prince Michael I, 1050-1111
 				Basilissa Martha, 1042-1080			
 		Rhonwen Caerloyw-Penfro, 1104-1166
-			Duke Gruffydd III, 1064-1140
-				Duke Maredudd III, 1047-1099
+			Petty King Gruffydd III, 1064-1140
+				Petty King Maredudd III, 1047-1099
 				?
-			Duchess Nest, 1065-1124
+			Petty Queen Nest, 1065-1124
 				Iestyn Morgannwg, 1045-1112
 				Angharad, 1045-1066			
 ```

@@ -39,8 +39,8 @@ Ciar nic Fiachnae, 1148-1222, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 
 ## HISTORY
 * [1209.md](../h/1209.md)

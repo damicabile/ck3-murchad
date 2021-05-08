@@ -3,9 +3,9 @@
 ## FAMILY TREE 
 ```
 Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
-	Duke Rhufon, 1140-1166
-		Duke Gruffydd III, 1064-1140
-			Duke Maredudd III, 1047-1099
+	Petty King Rhufon, 1140-1166
+		Petty King Gruffydd III, 1064-1140
+			Petty King Maredudd III, 1047-1099
 				Petty King Bleddyn, 1025-1086
 				Haer Efionydd, 1030-1065
 			?
@@ -17,7 +17,11 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 					?
 		Iudloguen de Rennes, 1112-1178
 			Duke Morcondeleu I, 1068-1114
+				Duke Konan, 1033-1085
+				Adelindis de Cornouaille, 1035-1102
 			Countess Proscen, 1069-1138
+				Gwilherm de Penthievre, 1040-1096
+				Moruen, 1039-1098
 	Madalena d'Armagnac, 1135-1206
 		Ricard d'Armagnac, 1113-1179
 			Count Ricard, 1095-1125
