@@ -53,7 +53,7 @@
 - [Eonagan mag Ellbrig](p/eonagan_mag_ellbrig_1193.md) (1193-1260), *Earl of Briefne, gCais-Inis*
 - [Ernad Seonaidson](p/ernad_seonaidson_1245.md) (1245-), *Earl of Warwickshire, Briain*
 - [Ewan](p/ewan_1232.md) (1232-), *Duke of East Anglia, Briain*
-- [Faelan mac Briain](p/faelan_mac_briain_1084.md) (1084-1136), *High King of Ireland, Briain*
+- [Faelan mac Briain](p/faelan_mac_brian_1084.md) (1084-1136), *High King of Ireland, Briain*
 - [Faelchu mac Farannan](p/faelchu_mac_farannan_1212.md) (1212- ), *Earl of Ennis, Briain*
 - [Failenn nic Gormflaith](p/failenn_nic_gormflaith_1193.md) (1193-1266), *Princess of Ireland, Briain*
 - [Farannan mac Ciar](p/farannan_mac_ciar_1179.md) (1179-1238), *Earl of Ennis, Briain*

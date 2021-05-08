@@ -30,7 +30,7 @@ Earl Faelchu mac Farannan of Ennis, 1212-, Briain
 ## ANCESTORS
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 * [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 * [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)

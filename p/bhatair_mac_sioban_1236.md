@@ -43,7 +43,7 @@ Duke Bhatair mac Sioban of York, 1236-, gCais-Inis
 * [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
 * [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Duke Conmal mac Faelan of Ulster, 1122-1188, Briain](conmal_mac_faelan_1122.md)

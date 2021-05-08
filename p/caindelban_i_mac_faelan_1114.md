@@ -39,7 +39,7 @@ High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 
 ## HISTORY
 * [1167.md](../h/1167.md)

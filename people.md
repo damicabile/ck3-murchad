@@ -28,6 +28,7 @@
 - [Caindelban II mac Caindelban](p/caindelban_ii_mac_caindelban_1147.md) (1147-1227), *High King of Ireland, Briain*
 - [Cairech nic Lugaid](p/cairech_nic_lugaid_1250.md) (1250-), *Lady of Gwent, Briain*
 - [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219- ), *Duke of Ulster, Briain*
+- [Cathan nic Brian](p/cathan_nic_brian_1078.md) (1078-1144), *Countess of Ennis, Briain*
 - [Cathnio mac Cathan](p/cathnio_mac_cathan_1108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215- ), *Duke of Connacht, Briain*
@@ -54,6 +55,7 @@
 - [Eonagan mag Ellbrig](p/eonagan_mag_ellbrig_1193.md) (1193-1260), *Earl of Briefne, gCais-Inis*
 - [Ernad Seonaidson](p/ernad_seonaidson_1245.md) (1245-), *Earl of Warwickshire, Briain*
 - [Ewan](p/ewan_1232.md) (1232-), *Duke of East Anglia, Briain*
+- [Faelan mac Brian](p/faelan_mac_brian_1084.md) (1084-1136), *High King of Ireland, Briain*
 - [Faelchu mac Farannan](p/faelchu_mac_farannan_1212.md) (1212- ), *Earl of Ennis, Briain*
 - [Failenn nic Gormflaith](p/failenn_nic_gormflaith_1193.md) (1193-1266), *Princess of Ireland, Briain*
 - [Farannan mac Ciar](p/farannan_mac_ciar_1179.md) (1179-1238), *Earl of Ennis, Briain*
@@ -102,7 +104,7 @@
 - [Rian I ab Aengus](p/rian_i_ab_aengus_1144.md) (1144-1211), *Duke of Meath, LLewellyn*
 - [Riaged ap Cynddylan](p/riaged_ap_cynddylan_1169.md) (1169-1219), *Caerloyw-Penfro*
 - [Rian II mag Aengus](p/rian_ii_mag_aengus_1208.md) (1208- ), *Duke of Meath, Llewellyn*
-- [Sean mac Briain](p/sean_mac_briain_1101.md) (1101-1135), *Earl of Oriel, Briain*
+- [Sean mac Brian](p/sean_mac_brian_1101.md) (1101-1135), *Earl of Oriel, Briain*
 - [Senchan mac Somhairle](p/senchan_mac_somhairle_1188.md) (1188-1255), *King of Wales, gCais-Tegeingl*
 - [Sion ab Augustin](p/sion_ab_augustin_1224.md) (1224-1232), *Lord of Eryri, Ruairc*
 - [Slaine nic Caindelban](p/slaine_nic_caindelban_1212.md) (1212-1229), *High Queen of Ireland, Briain*
