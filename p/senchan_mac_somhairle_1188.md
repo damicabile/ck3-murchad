@@ -40,8 +40,8 @@ King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
 
 ## ANCESTORS
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 
 ## HISTORY
 * [1209.md](../h/1209.md)

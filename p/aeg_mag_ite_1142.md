@@ -1,10 +1,10 @@
-# Aed mag Ite, (1142-1207), Briain
+# Aed mag Ite, 1142-1207, Briain
 
 ## FAMILY TREE
 
 ```
-Aed mag Ite, (1142-1207), Briain
-	Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain
+Aed mag Ite, 1142-1207, Briain
+	Earl Cathnio, 1108-1171
 		Earl Aed, 1078-1147
 			Earl Domnall, 1027-1098
 				Earl Aed, 1078-1147
@@ -31,3 +31,11 @@ Aed mag Ite, (1142-1207), Briain
 				?
 				?
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
+
+## HISTORY
+#### END REFERENCES

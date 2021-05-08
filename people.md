@@ -34,7 +34,7 @@
 - [Caindelban II mac Caindelban](p/caindelban_ii_mac_caindelban_1147.md) (1147-1227), *High King of Ireland, Briain*
 - [Cairech nic Lugaid](p/cairech_nic_lugaid_1250.md) (1250-), *Lady of Gwent, Briain* 
 - [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219- ), *Duke of Ulster, Briain*
-- [Cathnio mac Cathan](p/cathnio_mac_cathan_11108.md) (1108-1171), *Earl of Ennis, Briain*
+- [Cathnio mac Cathan](p/cathnio_mac_cathan_1108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215- ), *Duke of Connacht, Briain*
 - [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-), *Lady of Ferlix, Briain*

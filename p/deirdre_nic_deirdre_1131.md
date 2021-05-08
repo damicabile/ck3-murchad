@@ -3,7 +3,7 @@
 ## FAMILY TREE
 
 ```
-Deirdre gCais-Inis, 1131-1196
+Deirdre nic Deirdre, 1131-1196, gCais-Inis
 	Loup de Saulx, 1105-1167
 		Renaud de Saulx, 1065-1136
 			Count Guy, 1040-1103
@@ -31,3 +31,12 @@ Deirdre gCais-Inis, 1131-1196
 			?
 			?
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
+
+## HISTORY
+* [1186.md](../h/1186.md)
+#### END REFERENCES
