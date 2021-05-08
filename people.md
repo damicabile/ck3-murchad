@@ -54,7 +54,6 @@
 - [Eonagan mag Ellbrig](p/eonagan_mag_ellbrig_1193.md) (1193-1260), *Earl of Briefne, gCais-Inis*
 - [Ernad Seonaidson](p/ernad_seonaidson_1245.md) (1245-), *Earl of Warwickshire, Briain*
 - [Ewan](p/ewan_1232.md) (1232-), *Duke of East Anglia, Briain*
-- [Faelan mac Briain](p/faelan_mac_briain_1084.md) (1084-1136), *High King of Ireland, Briain*
 - [Faelchu mac Farannan](p/faelchu_mac_farannan_1212.md) (1212- ), *Earl of Ennis, Briain*
 - [Failenn nic Gormflaith](p/failenn_nic_gormflaith_1193.md) (1193-1266), *Princess of Ireland, Briain*
 - [Farannan mac Ciar](p/farannan_mac_ciar_1179.md) (1179-1238), *Earl of Ennis, Briain*
@@ -75,6 +74,7 @@
 - [Gormflaith nic Caindelban](p/gormflaith_nic_caindelban_1171.md) (1171-1253), *High Queen of Ireland, Briain*
 - [Gormlaith nic Dunlaith](p/gormlaith_nic_dunlaith_1214.md) (1214- ), *Countess of Ui Mhaine, gCais-Gaillimhe*
 - [Gwerfyl ferch Meilys](p/gwerfyl_ferch_meilys_1180.md) (1180-1248), *Lady of Merionnydd, Ynys Cybi*
+- [Haer](p/haer_1132.md) (1132-1197), *Brycheiniog*
 - [Haraldr II](p/haraldr_ii_1125.md) (1125-1213), *Duke of the Isles, Crovan*
 - [Harold Mael-Ciarainson](p/harald_mael-ciarainson_1176.md) (1176-1237), *Briain*
 - [Iorwerth ap Gwenllian](p/iorwerth_ap_gwenllian_1129.md) (1129-1191), *Lord of Morgannwg, Caerloyw-Tyddewi*
@@ -102,6 +102,7 @@
 - [Rian I ab Aengus](p/rian_i_ab_aengus_1144.md) (1144-1211), *Duke of Meath, LLewellyn*
 - [Riaged ap Cynddylan](p/riaged_ap_cynddylan_1169.md) (1169-1219), *Caerloyw-Penfro*
 - [Rian II mag Aengus](p/rian_ii_mag_aengus_1208.md) (1208- ), *Duke of Meath, Llewellyn*
+- [Sean mac Briain](p/sean_mac_briain_1101.md) (1101-1135), *Earl of Oriel, Briain*
 - [Senchan mac Somhairle](p/senchan_mac_somhairle_1188.md) (1188-1255), *King of Wales, gCais-Tegeingl*
 - [Sion ab Augustin](p/sion_ab_augustin_1224.md) (1224-1232), *Lord of Eryri, Ruairc*
 - [Slaine nic Caindelban](p/slaine_nic_caindelban_1212.md) (1212-1229), *High Queen of Ireland, Briain*
