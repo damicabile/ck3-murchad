@@ -1,8 +1,8 @@
-# Earl Sean mac Brian of Oriel, 1101-1135, Briain
+# Earl Sean mac Brian of Oriel, 1101-1135, Laighin
 
 ## FAMILY TREE
 ```
-Earl Sean mac Brian of Oriel, 1101-1135, Briain
+Earl Sean mac Brian of Oriel, 1101-1135, Laighin
     High King Brian II, 1048-1111
         High King Murchad, 1027-1095
             Donnchad Briain, 990-1065
