@@ -39,9 +39,11 @@ Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 
 ## HISTORY
-* [1209.md](../h/1209.md)
+* [1186.md](../h/1186.md)
+#### END REFERENCES* [1209.md](../h/1209.md)
 #### END REFERENCES

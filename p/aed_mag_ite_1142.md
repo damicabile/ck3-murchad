@@ -39,4 +39,5 @@ Aed mag Ite, 1142-1207, Briain
 * [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
 ## HISTORY
+* [1186.md](../h/1186.md)
 #### END REFERENCES

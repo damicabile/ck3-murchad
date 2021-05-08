@@ -45,5 +45,6 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 ## ANCESTORS
 
 ## HISTORY
-* [1186_2.md](../h/1186_2.md)
+* [1186.md](../h/1186.md)
+#### END REFERENCES* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES

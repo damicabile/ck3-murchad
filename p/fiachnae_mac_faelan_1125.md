@@ -39,6 +39,6 @@ Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
 
 ## HISTORY
-#### END REFERENCES

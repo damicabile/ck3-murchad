@@ -31,9 +31,11 @@ Aileann nic Cobflaith, 1128-1184, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## HISTORY
-* [1186_2.md](../h/1186_2.md)
-* [1209.md](../h/1209.md)
+* [1186.md](../h/1186.md)
+#### END REFERENCES* [1186_2.md](../h/1186_2.md)
+#### END REFERENCES* [1209.md](../h/1209.md)
 #### END REFERENCES

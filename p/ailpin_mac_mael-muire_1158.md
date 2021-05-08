@@ -38,12 +38,12 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 * [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
 
 ## HISTORY
 * [1209.md](../h/1209.md)
-* [1227.md](../h/1227.md)
-* [1249.md](../h/1249.md)
+#### END REFERENCES* [1227.md](../h/1227.md)
+#### END REFERENCES* [1249.md](../h/1249.md)
 #### END REFERENCES

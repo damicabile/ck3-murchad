@@ -41,5 +41,6 @@ Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis
 ## ANCESTORS
 
 ## HISTORY
-* [1186_2.md](../h/1186_2.md)
+* [1186.md](../h/1186.md)
+#### END REFERENCES* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES

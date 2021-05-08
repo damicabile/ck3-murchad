@@ -26,5 +26,5 @@ High King Mathieu de Mousson of Ireland, 1187-, Mousson
 
 ## HISTORY
 * [1227.md](../h/1227.md)
-* [1249.md](../h/1249.md)
+#### END REFERENCES* [1249.md](../h/1249.md)
 #### END REFERENCES

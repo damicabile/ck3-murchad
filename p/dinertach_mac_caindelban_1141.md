@@ -39,9 +39,10 @@ Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_briain_1084.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## HISTORY
 * [1186_2.md](../h/1186_2.md)
-* [1209.md](../h/1209.md)
+#### END REFERENCES* [1209.md](../h/1209.md)
 #### END REFERENCES

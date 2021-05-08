@@ -43,6 +43,7 @@
 - [Cu-Bretan mac Dinertach](p/cu-bretan_mac_dinertach_1161.md) (1161-1232), *Got*
 - [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201- ), *Lord of Merionnydd, Ynys Cybi*
 - [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222), *Caerloyw-Penfro*
+- [Cynddylan ap Gruffydd](p/cynwrig_ap_rhufon_1157.md) (1157-1222), *Caerloyw-Penfro*
 - [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
