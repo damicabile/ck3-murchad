@@ -28,3 +28,12 @@ Elisabet Gudrodsdatter, 1083-1148, Crovan
 				King Olafr, 980-1022
 				Astrid Bodricz, 979-1006
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+
+## HISTORY
+* [1186.md](../h/1186.md)
+#### END REFERENCES

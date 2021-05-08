@@ -39,9 +39,10 @@ Somhairle mag Aengus, 1158-1223, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 
 ## HISTORY
 * [1227.md](../h/1227.md)

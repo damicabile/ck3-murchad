@@ -36,6 +36,7 @@ Aed mag Ite, 1142-1207, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
 * [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
 ## HISTORY

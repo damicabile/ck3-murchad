@@ -32,8 +32,8 @@ Lord Sion ab Augustin of Eryri, 1224-1232, Ruairc
 
 ## ANCESTORS
 * [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](aine_ferch_sithmaith_1169.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## HISTORY
 * [1227.md](../h/1227.md)

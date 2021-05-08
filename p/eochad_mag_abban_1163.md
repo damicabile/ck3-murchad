@@ -23,8 +23,9 @@ Eochad mag Abban, 1163-1191, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## HISTORY

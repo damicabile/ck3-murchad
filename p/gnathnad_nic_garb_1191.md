@@ -39,9 +39,10 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 
 ## HISTORY
 * [1249.md](../h/1249.md)

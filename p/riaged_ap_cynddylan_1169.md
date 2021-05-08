@@ -23,6 +23,7 @@ Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
 # REFERENCES
 
 ## ANCESTORS
+* [Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro](cynddylan_ap_gruffydd_1099.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## HISTORY

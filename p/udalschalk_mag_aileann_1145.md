@@ -41,8 +41,9 @@ Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe
 
 ## ANCESTORS
 * [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
-* [High King Faelan mac Briain of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 
 ## HISTORY
 * [1186.md](../h/1186.md)

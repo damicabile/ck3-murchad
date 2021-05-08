@@ -49,7 +49,7 @@
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Ellbrig nig Aileann](p/ellbrig_nig_aileann_1155.md) (1155-1223), *Briain*
-- [Elisabet Gudrodstatter](p/elisabet_gudrodsdatter_1083.md) (1083-1148), *Crovan*
+- [Elisabet Gudrodsdatter](p/elisabet_gudrodsdatter_1083.md) (1083-1148), *Crovan*
 - [Eochad mag Abban](p/eochad_mag_abban_1163.md) (1163-1191), *Briain*
 - [Eochucan mac Mauda](p/eochucan_mac_mauda_1234.md) (1234-), *Duke of Lancaster, Briain*
 - [Eonagan mag Ellbrig](p/eonagan_mag_ellbrig_1193.md) (1193-1260), *Earl of Briefne, gCais-Inis*
