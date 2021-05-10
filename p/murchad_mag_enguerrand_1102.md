@@ -28,3 +28,13 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
                 Estrid af Gorm, 997-1057
             ?
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+
+## HISTORY
+* [1167.md](../h/1167.md)
+#### END REFERENCES

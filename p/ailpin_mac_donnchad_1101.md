@@ -4,7 +4,7 @@
 
 ```
 Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain
-	Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain
+	Earl Donnchad, 1068-1109
         High King Brian II, 1048-1111
             High King Murchad, 1027-1095
                 Donnchad Briain, 990-1065
@@ -37,5 +37,6 @@ Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain
 # REFERENCES
 
 ## ANCESTORS
+* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
 
 ## HISTORY

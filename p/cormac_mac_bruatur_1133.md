@@ -39,8 +39,10 @@ Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis
 # REFERENCES
 
 ## ANCESTORS
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
 ## HISTORY
-* [1186.md](../h/1186.md)
+* [1167.md](../h/1167.md)
+#### END REFERENCES* [1186.md](../h/1186.md)
 #### END REFERENCES* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES

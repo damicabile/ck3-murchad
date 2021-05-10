@@ -46,6 +46,7 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 * [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
 
 ## HISTORY
-* [1186.md](../h/1186.md)
+* [1167.md](../h/1167.md)
+#### END REFERENCES* [1186.md](../h/1186.md)
 #### END REFERENCES* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES

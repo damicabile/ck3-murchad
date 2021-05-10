@@ -41,7 +41,8 @@ Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
 ## ANCESTORS
 
 ## HISTORY
-* [1186.md](../h/1186.md)
+* [1167.md](../h/1167.md)
+#### END REFERENCES* [1186.md](../h/1186.md)
 #### END REFERENCES* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES* [1209.md](../h/1209.md)
 #### END REFERENCES

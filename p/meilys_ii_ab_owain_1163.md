@@ -18,3 +18,13 @@ Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi
             Count William, 1026-1081
             Baroness Berthe, 1050-1115
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+
+## HISTORY
+* [1167.md](../h/1167.md)
+#### END REFERENCES

@@ -30,3 +30,12 @@ Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles
 				?
 				?
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+
+## HISTORY
+* [1167.md](../h/1167.md)
+#### END REFERENCES

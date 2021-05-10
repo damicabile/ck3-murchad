@@ -19,3 +19,13 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
         ?
         ?
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
+
+## HISTORY
+* [1167.md](../h/1167.md)
+#### END REFERENCES
