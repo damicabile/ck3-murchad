@@ -1,8 +1,8 @@
-# King Baethine Dubhson of England, 1205--, Briain
+# King Baethine Dubhson of England, 1205-, Briain
 
 ## FAMILY TREE
 ```
-King Baethine Dubhson of England, 1205--, Briain
+King Baethine Dubhson of England, 1205-, Briain
     Dubh Briain, 1183-1234
         Somhairle Briain, 1158-1223
             Duke Aengus I, 1123-1190
