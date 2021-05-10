@@ -36,5 +36,5 @@ Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain
 
 ## HISTORY
 * [1167.md](../h/1167.md)
-#### END REFERENCES* [1186.md](../h/1186.md)
+* [1186.md](../h/1186.md)
 #### END REFERENCES

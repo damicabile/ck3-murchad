@@ -45,6 +45,6 @@ Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain
 
 ## HISTORY
 * [1167.md](../h/1167.md)
-#### END REFERENCES* [1186_2.md](../h/1186_2.md)
-#### END REFERENCES* [1209.md](../h/1209.md)
+* [1186_2.md](../h/1186_2.md)
+* [1209.md](../h/1209.md)
 #### END REFERENCES

@@ -19,7 +19,7 @@ Duke Eochucan mac Mauda of Lancaster, 1234-, Briain
 			Charlotte de Guincamp, 1142-1183
 				?
 				?
-	Mauda Briain, 1199-
+	Mayor Mauda, 1199-1272
 		Loeguire Briain, 1182-1244
 			High King Caindelban II, 1147-1227
 				 High King Caindelban I, 1114-1186
@@ -40,16 +40,16 @@ Duke Eochucan mac Mauda of Lancaster, 1234-, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
-* [Mauda nic Morien, 1199-, Briain](mauda_nic_morien_1199.md)
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [Mauda nic Morien, 1199-, Briain](mauda_nic_morien_1199.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
 
 ## HISTORY
 * [1265.md](../h/1265.md)

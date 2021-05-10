@@ -36,5 +36,5 @@ Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro
 
 ## HISTORY
 * [1167.md](../h/1167.md)
-#### END REFERENCES* [1186.md](../h/1186.md)
+* [1186.md](../h/1186.md)
 #### END REFERENCES

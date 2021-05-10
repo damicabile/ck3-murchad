@@ -28,6 +28,6 @@ Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi
 
 ## HISTORY
 * [1167.md](../h/1167.md)
-#### END REFERENCES* [1186.md](../h/1186.md)
-#### END REFERENCES* [1186_2.md](../h/1186_2.md)
+* [1186.md](../h/1186.md)
+* [1186_2.md](../h/1186_2.md)
 #### END REFERENCES

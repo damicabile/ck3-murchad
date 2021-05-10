@@ -82,7 +82,7 @@
 - [Liam II](p/liam_ii_1214.md) (1214-), *Duke of Northumbria, Briain*
 - [Lles ap Madrun](p/lles_ap_madrun_1220.md) (1220-), *Lord of Merionnydd, Ynys Cybi*
 - [Loeguire mac Caindelban](p/loeguire_mac_caindelban_1182.md) (1182-1244), *Prince of Ireland, Briain*
-- [Lorcan mac Morien](p/lorcan_mac_morien_1204.md) (1204-), *King of England, Briain*
+- [Lorcan mac Morien](p/lorcan_morienson_1204.md) (1204-), *King of England, Briain*
 - [Lugaid mac Cacht](p/lugaid_mac_cacht_1227.md) (1227-1257), *Lord of Gwent, Briain*
 - [Mael-Muire nig Ailpin](p/mael-muire_nig_ailpin_1125.md) (1125-1195)*, Countess of Briefne, gCais-Fathain*
 - [Mahaut of Hwicce](p/mahaut_of_hwicce_1217.md) (1217-1248), *Duchess of Deheubarth, Hwicce*

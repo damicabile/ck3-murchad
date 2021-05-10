@@ -46,5 +46,5 @@ Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran
 
 ## HISTORY
 * [1186_2.md](../h/1186_2.md)
-#### END REFERENCES* [1209.md](../h/1209.md)
+* [1209.md](../h/1209.md)
 #### END REFERENCES

@@ -45,5 +45,5 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
 
 ## HISTORY
 * [1167.md](../h/1167.md)
-#### END REFERENCES* [1186.md](../h/1186.md)
+* [1186.md](../h/1186.md)
 #### END REFERENCES

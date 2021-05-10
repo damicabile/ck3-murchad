@@ -1,8 +1,8 @@
-# 	High King Mathieu de Mousson of Ireland, 1187-, Mousson
+# 	High King Mathieu de Mousson of Ireland, 1187-1251, Mousson
 
 ## FAMILY TREE 
 ```
-High King Mathieu de Mousson of Ireland, 1187-, Mousson
+High King Mathieu de Mousson of Ireland, 1187-1251, Mousson
 	Renaud de Mousson, 1148-1206
 		Ogier de Mousson, 1128-1200
 			Baron Renaud, 1062-1133
@@ -26,5 +26,5 @@ High King Mathieu de Mousson of Ireland, 1187-, Mousson
 
 ## HISTORY
 * [1227.md](../h/1227.md)
-#### END REFERENCES* [1249.md](../h/1249.md)
+* [1249.md](../h/1249.md)
 #### END REFERENCES

@@ -45,3 +45,4 @@ Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## HISTORY
+#### END REFERENCES

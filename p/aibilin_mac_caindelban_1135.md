@@ -45,3 +45,4 @@ Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## HISTORY
+#### END REFERENCES

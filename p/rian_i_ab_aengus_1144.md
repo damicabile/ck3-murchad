@@ -40,14 +40,14 @@ Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn
 
 ## ANCESTORS
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 
 ## HISTORY
 * [1186.md](../h/1186.md)
-#### END REFERENCES* [1186_2.md](../h/1186_2.md)
-#### END REFERENCES* [1209.md](../h/1209.md)
-#### END REFERENCES* [1227.md](../h/1227.md)
+* [1186_2.md](../h/1186_2.md)
+* [1209.md](../h/1209.md)
+* [1227.md](../h/1227.md)
 #### END REFERENCES

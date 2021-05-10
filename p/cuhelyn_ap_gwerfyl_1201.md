@@ -1,9 +1,9 @@
-# Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi
+# Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi
 
 ## FAMILY TREE 
 ```
-Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi
-	High King LLes, 1134-1202
+Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi
+	Duke LLes, 1134-1202
 		Gruffydd Caerloyw-Penfro, 1116-1177
 			Maredudd Caerloyw-Penfro, 1099-1138
 				Petty King Gruffydd III, 1064-1140
@@ -40,10 +40,10 @@ Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-, Ynys Cybi
 # REFERENCES
 
 ## ANCESTORS
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
 * [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
 * [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
 
 ## HISTORY

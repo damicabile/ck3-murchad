@@ -3,7 +3,7 @@
 ## FAMILY TREE 
 ```
 Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain
-	High King Mathieu, 1187
+	High King Mathieu, 1187-1251
 		Renaud de Mousson, 1148-1206
 			Ogier de Mousson, 1128-1200
 				Baron Renaud, 1062-1133
@@ -18,7 +18,7 @@ Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain
 			Countess Gertrude, 1121-1181
 				Count Ehrenfried, 1084-1147
 				Klementia von Berg, 1080-1152
-	High Queen Gormflaith, 1171-
+	High Queen Gormflaith, 1171-1253
 		High King Caindelban II, 1147-1227
 			High King Caindelban I, 1114-1186
 				High King Faelan, 1084-1136
@@ -40,13 +40,13 @@ Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [High King Mathieu de Mousson of Ireland, 1187-, Mousson](mathieu_de_mousson_1187.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [High King Mathieu de Mousson of Ireland, 1187-, Mousson](mathieu_de_mousson_1187.md)
 
 ## HISTORY
 * [1249.md](../h/1249.md)

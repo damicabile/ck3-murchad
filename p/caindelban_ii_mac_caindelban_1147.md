@@ -46,8 +46,8 @@ High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain
 
 ## HISTORY
 * [1167.md](../h/1167.md)
-#### END REFERENCES* [1186_2.md](../h/1186_2.md)
-#### END REFERENCES* [1209.md](../h/1209.md)
-#### END REFERENCES* [1227.md](../h/1227.md)
-#### END REFERENCES* [1249.md](../h/1249.md)
+* [1186_2.md](../h/1186_2.md)
+* [1209.md](../h/1209.md)
+* [1227.md](../h/1227.md)
+* [1249.md](../h/1249.md)
 #### END REFERENCES

@@ -46,5 +46,5 @@ Prince Congalach ab Caindelban of Ireland, 1148-1209, Evans
 
 ## HISTORY
 * [1186_2.md](../h/1186_2.md)
-#### END REFERENCES* [1209.md](../h/1209.md)
+* [1209.md](../h/1209.md)
 #### END REFERENCES

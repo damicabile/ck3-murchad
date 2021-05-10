@@ -39,12 +39,12 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 # REFERENCES
 
 ## ANCESTORS
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## HISTORY
 * [1227.md](../h/1227.md)
-#### END REFERENCES* [1249.md](../h/1249.md)
+* [1249.md](../h/1249.md)
 #### END REFERENCES
