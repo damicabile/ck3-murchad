@@ -39,9 +39,9 @@ Lathir nic Faelan, 1162-1231, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
 
 ## HISTORY
@@ -50,4 +50,5 @@ Lathir nic Faelan, 1162-1231, Briain
 * [1209.md](../h/1209.md)
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)
+
 #### END REFERENCES

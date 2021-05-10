@@ -36,4 +36,5 @@ Elisabet Gudrodsdatter, 1083-1148, Crovan
 
 ## HISTORY
 * [1186.md](../h/1186.md)
+
 #### END REFERENCES

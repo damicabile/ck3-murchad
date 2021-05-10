@@ -22,3 +22,14 @@ Prince Maccus Baethineson of England, 1273-, Briain
         ?
         ?
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [King Baethine Dubhson of England, 1205-, Briain](baethine_dubhson_1205.md)
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+
+## HISTORY
+
+#### END REFERENCES

@@ -26,4 +26,5 @@ Duke Haraldr II of the Isles, 1125-1213, Crovan
 
 ## HISTORY
 * [1167.md](../h/1167.md)
+
 #### END REFERENCES

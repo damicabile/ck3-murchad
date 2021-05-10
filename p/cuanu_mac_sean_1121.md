@@ -28,4 +28,5 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
 
 ## HISTORY
 * [1167.md](../h/1167.md)
+
 #### END REFERENCES

@@ -27,4 +27,5 @@ Starkad Ulfsson Slatte, 1170-1209, Slatte
 
 ## HISTORY
 * [1249.md](../h/1249.md)
+
 #### END REFERENCES

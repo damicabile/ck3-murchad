@@ -39,12 +39,13 @@ Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186_2.md](../h/1186_2.md)
 * [1209.md](../h/1209.md)
+
 #### END REFERENCES

@@ -34,3 +34,15 @@ Princess Eithne nic Baethine of England, 1238-, Briain
                 Mormaer Lugaed, 1121-1156   
                 Countess Saerlaith, 1118-1160
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [King Baethine Dubhson of England, 1205-, Briain](baethine_dubhson_1205.md)
+* [Martha Kyle, 1210-, Kyle](martha_kyle_1210.md)
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+
+## HISTORY
+
+#### END REFERENCES

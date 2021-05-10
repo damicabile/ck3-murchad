@@ -49,7 +49,7 @@
 - [Cuan mac Gormflaith](p/cuan_mac_gormflaith_1216.md) (1216-1249), *Prince of Ireland, Briain*
 - [Cu-Bretan mac Dinertach](p/cu-bretan_mac_dinertach_1161.md) (1161-1232), *Got*
 - [Cuanu mac Sean](p/cuanu_mac_sean_1121.md) (1121-1152), *Earl of Oriel, Laighin*
-- [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201- ), *Lord of Merionnydd, Ynys Cybi*
+- [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201-1263), *Lord of Merionnydd, Ynys Cybi*
 - [Cynddylan ap Gruffydd](p/cynddylan_ap_gruffydd_1099.md) (1099-1154), *Lord of Merionnydd, Caerloyw-Penfro*
 - [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222), *Caerloyw-Penfro*
 - [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*

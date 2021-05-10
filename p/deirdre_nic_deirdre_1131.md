@@ -42,4 +42,5 @@ Deirdre nic Deirdre, 1131-1196, gCais-Inis
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)
+
 #### END REFERENCES
