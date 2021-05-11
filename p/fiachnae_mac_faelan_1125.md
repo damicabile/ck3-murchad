@@ -39,8 +39,8 @@ Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## HISTORY
 * [1167.md](../h/1167.md)
