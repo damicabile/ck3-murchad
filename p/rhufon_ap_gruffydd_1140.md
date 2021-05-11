@@ -34,6 +34,18 @@ Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro
 
 ## ANCESTORS
 
+## DESCENDANTS
+* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](cathalan_mag_abel_1220.md)
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
+* [Princess Cathan Abeldohtor of Ireland, 1218-, Briain](cathan_abeldohtor_1218.md)
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
+* [Princess Caintigern Abeldohtor of Ireland, 1215-, Briain](caintigern_abeldohtor_1215.md)
+* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

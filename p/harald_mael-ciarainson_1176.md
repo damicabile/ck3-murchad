@@ -46,6 +46,12 @@ Harold Mael-Ciarainson, 1176-1237, Briain
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
+## DESCENDANTS
+* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1265.md](../h/1265.md)
 

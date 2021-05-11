@@ -1,5 +1,5 @@
-?Father of Gilla-na-Naem mac Mathgamma
-?Mother of Gilla-na-Naem mac Mathgamma
+?Father of Gilla-na-Naem mac Mathgamna
+?Mother of Gilla-na-Naem mac Mathgamna
 Alienor de Bray, 1073-1145
 Aurengarde, 1038-1102
 Baron Bouchard, 1048-1115
@@ -24,8 +24,8 @@ Eilika von Cilli, 1050-1106
 Elisabet Crovan, 1083-1148
 Eochad Briain, 1163-1191
 Garb Briain, 1147-1214
-Gilla-na-Naem mac Mathgamma, 1105-1135
-Gnathnad mac Mathgamma, 1134-1193
+Gilla-na-Naem mac Mathgamna, 1105-1135
+Gnathnad mac Mathgamna, 1134-1193
 Gormgus Briain, 1167-1221
 Gwyn Ynys Cybi, 1127-1168
 High King Faelan, 1084-1136

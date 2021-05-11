@@ -35,6 +35,11 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
 ## ANCESTORS
 * [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1167.md](../h/1167.md)
 

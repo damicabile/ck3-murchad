@@ -41,6 +41,18 @@ Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis
 ## ANCESTORS
 * [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
+## DESCENDANTS
+* [Duke Bhatair mac Sioban of York, 1236-, gCais-Inis](bhatair_mac_sioban_1236.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-, Got](natfraich_mag_aine_1224.md)
+* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+* [Earl Ailpin mac Sinech of Breifne, 1257-, gCais-Inis](ailpin_mac_sinech_1257.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

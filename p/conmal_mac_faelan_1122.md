@@ -42,6 +42,14 @@ Duke Conmal mac Faelan of Ulster, 1122-1188, Briain
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
+## DESCENDANTS
+* [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
+* [Duke Bhatair mac Sioban of York, 1236-, gCais-Inis](bhatair_mac_sioban_1236.md)
+* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

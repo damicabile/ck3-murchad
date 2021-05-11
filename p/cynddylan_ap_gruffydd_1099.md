@@ -22,6 +22,12 @@ Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro
 
 ## ANCESTORS
 
+## DESCENDANTS
+* [Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro](riaged_ap_cynddylan_1169.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1167.md](../h/1167.md)
 

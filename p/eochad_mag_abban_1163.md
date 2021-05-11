@@ -10,8 +10,8 @@ Eochad mag Abban, 1163-1191, Briain
 		Countess Cobflaith, 1101-1176
 			High King Faelan, 1084-1136
 			Elisabet Crovan, 1083-1148		
-	Gnathnad mac Mathgamma, 1134-1193
-		Gilla-na-Naem mac Mathgamma, 1105-1135
+	Gnathnad mac Mathgamna, 1134-1193
+		Gilla-na-Naem mac Mathgamna, 1105-1135
 			?
 			?
 		Lady Nest, 1104-1172
@@ -23,12 +23,22 @@ Eochad mag Abban, 1163-1191, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 
+## DESCENDANTS
+* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
+* [Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal](farannan_mac_slaine_1239.md)
+* [Earl Ailpin mac Sinech of Breifne, 1257-, gCais-Inis](ailpin_mac_sinech_1257.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain](gelgeis_nic_gnathnad_1217.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

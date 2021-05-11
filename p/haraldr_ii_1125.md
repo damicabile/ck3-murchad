@@ -24,6 +24,14 @@ Duke Haraldr II of the Isles, 1125-1213, Crovan
 
 ## ANCESTORS
 
+## DESCENDANTS
+* [Earl Ernad Seonaidson of Warwickshire, 1245-, Briain](ernad_seonaidson_1245.md)
+* [Lady Cnes nic Labraid of Ferlix, 1207-, Briain](cnes_nic_labraid_1207.md)
+* [Earl Lethlobur mag Euginia of Northumberland, 1241-, Briain](lethlobur_mag_euginia_1241.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 * [1167.md](../h/1167.md)
 

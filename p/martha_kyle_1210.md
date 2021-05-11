@@ -24,6 +24,12 @@ Martha Kyle, 1210-, Kyle
 
 ## ANCESTORS
 
+## DESCENDANTS
+* [Princess Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
+
+## RELATIVES
+
+##### END RELATIVES 
 ## HISTORY
 
 #### END REFERENCES
