@@ -56,6 +56,7 @@
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Donnchad mac Murchad](p/donnchad_mac_murchad_1068.md) (1068-1109), *Earl of Ailech, Briain*
+- [Dubh mac Somhairle](p/dubh_mac_somhairle_1183.md) (1183-1234), *Briain*
 - [Efyrddyl ferch Gruffydd](p/efyrddyl_ferch_gruffydd_1124.md) (1124-1194), *Seisyll*
 - [Eithne nic Baethine](p/eithne_nic_baethine_1238.md) (1238-), *Princess of England, Briain*
 - [Elen ferch Idwal](p/elen_ferch_idwal_1092.md) (1092-1174), *Lady of Penllyn, Seisyll*
@@ -97,7 +98,7 @@
 - [Laidine mac Narbflaith](p/laidine_mac_narbflaith_1200.md) (1200-1231), *Got*
 - [Lathir nic Faelan](p/lathir_nic_faelan_1162.md) (1162-1231), *Briain*
 - [Lethlobur mag Euginia](p/lethlobur_mag_euginia_1241.md) (1241-), *Earl of Northumberland, Briain*
-- [Liam II](p/liam_ii_1214.md) (1214-), *Duke of Northumbria, Briain*
+- [Liam II](p/liam_ii_1214.md) (1214-1271), *Duke of Northumbria, Briain*
 - [Lles ap Madrun](p/lles_ap_madrun_1220.md) (1220-), *Lord of Merionnydd, Ynys Cybi*
 - [Loeguire mac Caindelban](p/loeguire_mac_caindelban_1182.md) (1182-1244), *Prince of Ireland, Briain*
 - [Lorcan Morienson](p/lorcan_morienson_1204.md) (1204-1271), *King of England, Briain*
@@ -109,6 +110,7 @@
 - [Mauda nic Morien](p/mauda_nic_morien_1199.md) (1199-1272), *Mayor of Tirsa, Briain*
 - [Mathieu de Mousson](p/mathieu_de_mousson_1187.md) (1187-1251), *High King of Ireland, Mousson*
 - [Meilys II ab Owain](p/meilys_ii_ab_owain_1163.md) (1163-1181), *Duke of Powys, Ynys-Cybi*
+- [Morien](p/morien_1226.md) (1226-), *Duchess of Lancaster, gClais-Macclesfield*
 - [Morien nic Finneacht](p/morien_nic_finneacht_1183.md) (1183-1251), *LLewellyn*
 - [Morien nic Lorcan](p/morien_nic_lorcan_1221.md) (1221-), *Princess of England, Briain*
 - [Muirenn nic Gilla-Ruad](p/muirenn_nic_gilla-ruad_1165.md) (1165-1222), *Duchess of Ulster, gCais-Cruachu*
@@ -134,6 +136,7 @@
 - [Sorcha ferch Finneacht](p/sorcha_ferch_finneacht_1172.md) (1172-1235), *Queen of Wales, Llewellyn*
 - [Starkad Ulfsson Slatte](p/starkad_ulfsson_1170.md) (1170-1209), *Slatte*
 - [Stephanie Baethinedohtor](p/stephanie_baethinedohtor_1276.md) (1276-), *Princess of England, Briain*
+- [Tadg Barrdubson](p/tadg_barrdubson_1257.md) (1257-), *Duke of Deira, Got*
 - [Taithlech mac Senchan](p/taithlech_mac_senchan_1243.md) (1243-), *King of Wales, gCais-Tegeingl*
 - [Talorc ab Aine](p/talorc_ab_aine_1200.md) (1200-1271), *Lord of Ynys Mon, Ruairc*
 - [Thurcytel Saeberston](p/thurcytel_saebertson_1228.md) (1228-), *Duke of Mercia, Briain*

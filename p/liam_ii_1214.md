@@ -1,9 +1,9 @@
-# Duke Liam II of Northumbria, 1214-, Briain
+# Duke Liam II of Northumbria, 1214-1271, Briain
 
 ## FAMILY TREE
 
 ```
-Duke Liam II of Northumbria, 1214-, Briain
+Duke Liam II of Northumbria, 1214-1271, Briain
 	Dagr Gurlisson Sigurdr-Kyle, 1194-1243
 		Mormaer Diodmundr Filippusson, 1168-1203
 			Mormaer Filippus, 1146-1177
