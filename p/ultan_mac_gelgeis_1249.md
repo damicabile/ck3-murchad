@@ -57,10 +57,11 @@ Earl Ultan mac Gelgeis of Ossory, 1249-, Briain
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](ultan_mac_gelgeis_1249\1278.jpg)
+![1278](ultan_mac_gelgeis_1249/1278.jpg)
 
 #### END PORTRAITS
 

@@ -53,10 +53,11 @@ Princess Eithne nic Baethine of England, 1238-, Briain
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](eithne_nic_baethine_1238\1278.jpg)
+![1278](eithne_nic_baethine_1238/1278.jpg)
 
 #### END PORTRAITS
 

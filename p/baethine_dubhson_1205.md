@@ -54,10 +54,11 @@ King Baethine Dubhson of England, 1205-, Briain
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](baethine_dubhson_1205\1278.jpg)
+![1278](baethine_dubhson_1205/1278.jpg)
 
 #### END PORTRAITS
 

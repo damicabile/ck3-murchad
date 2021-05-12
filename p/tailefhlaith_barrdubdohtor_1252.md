@@ -65,13 +65,14 @@ Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](tailefhlaith_barrdubdohtor_1252\1278.jpg)
+![1278](tailefhlaith_barrdubdohtor_1252/1278.jpg)
 
 ## 1278
-![1278](tailefhlaith_barrdubdohtor_1252\1278.png)
+![1278](tailefhlaith_barrdubdohtor_1252/1278.png)
 
 #### END PORTRAITS
 

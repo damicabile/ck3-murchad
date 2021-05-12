@@ -65,10 +65,11 @@ Earl Aed Barrdubson of West Riding, 1261-, Got
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](aed_barrdubson_1261\1278.jpg)
+![1278](aed_barrdubson_1261/1278.jpg)
 
 #### END PORTRAITS
 

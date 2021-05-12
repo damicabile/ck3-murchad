@@ -61,10 +61,11 @@ Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](ailpin_mac_sinech_1257\1278.jpg)
+![1278](ailpin_mac_sinech_1257/1278.jpg)
 
 #### END PORTRAITS
 

@@ -65,10 +65,11 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
 
 #### END REFERENCES
 
+
 # PORTRAITS
 
 ## 1278
-![1278](tadg_barrdubson_1257\1278.jpg)
+![1278](tadg_barrdubson_1257/1278.jpg)
 
 #### END PORTRAITS
 
