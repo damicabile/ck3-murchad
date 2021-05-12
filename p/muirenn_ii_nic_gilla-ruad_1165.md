@@ -1,8 +1,8 @@
-# Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
+# Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
 
 ## FAMILY TREE 
 ```
-Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
+Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
 	Gilla-Ruad gCais-Cruachu, 1142-1204
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136

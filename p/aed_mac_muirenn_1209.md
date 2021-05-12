@@ -18,7 +18,7 @@ King Aed mac Muirenn of Scotland, 1209-, Briain
 			Morien Caerloyw-Tyddewi, 1122-1192
 				Elidyr Caerloyw-Tyddewi, 1085-1150
 				Petty Queen Gwenllian, 1090-1148			
-	Duchess Muirenn, 1165-1222 
+	Duchess Muirenn II, 1165-1222 
 		Gilla-Ruad gCais-Cruachu, 1142-1204 
 			Duke Fiachnae, 1125-1184 
 				High King Faelan, 1084-1136
@@ -41,7 +41,7 @@ King Aed mac Muirenn of Scotland, 1209-, Briain
 ## ANCESTORS
 * [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_nic_gilla-ruad_1165.md)
+* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
 * [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
 * [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)

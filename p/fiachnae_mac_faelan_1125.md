@@ -82,7 +82,7 @@ Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 * [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn](aengus_ii_mac_finneacht_1177.md)
 * [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
-* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_nic_gilla-ruad_1165.md)
+* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
 * [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
 
 ## RELATIVES

@@ -1,9 +1,9 @@
-# Duke Bhatair mac Sioban of York, 1236-, gCais-Inis
+# Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis
 
 ## FAMILY TREE
 
 ```
-Duke Bhatair mac Sioban of York, 1236-, gCais-Inis
+Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis
 	Earl Eoganan, 1193-1260
 		Earl Ailpin, 1158-1222
             Earl Cormac, 1133-1197

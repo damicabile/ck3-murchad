@@ -1,8 +1,8 @@
-# Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
+# Earl Ultan mac Gelgeis of Ossory, 1249-, Briain
 
 ## FAMILY TREE
 ```
-Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
+Earl Ultan mac Gelgeis of Ossory, 1249-, Briain
     Earl Muirgius, 1190-1250
         Gilla-na-Naem, 1165-1229
             Earl Abban, 1132-1191

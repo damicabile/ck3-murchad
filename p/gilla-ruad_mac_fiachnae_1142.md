@@ -53,7 +53,7 @@ Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu
 * [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
 * [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
 * [King Aed mac Muirenn of Scotland, 1209-, Briain](aed_mac_muirenn_1209.md)
-* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_nic_gilla-ruad_1165.md)
+* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
 
 ## RELATIVES
 
