@@ -3,10 +3,10 @@
 ## FAMILY TREE 
 ```
 Lady Cairech nic Lugaid of Gwent, 1250-, Briain
-	Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain
+    Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain
         Rhun Caerloyw-Penfro, 1201-
             Rhufon Caerloyw-Penfro, 1179-1229
-                Cynwrig Caerloyw-Penfro, 1157-1222			
+                Cynwrig Caerloyw-Penfro, 1157-1222            
                 Duchess Dubchoblaig, 1157-1179
             Annwyl Caerloyw-Tyddewi, 1171-1251
                 Lord Iorwerth, 1129-1191
@@ -19,15 +19,15 @@ Lady Cairech nic Lugaid of Gwent, 1250-, Briain
                 Duke Rian I, 1144-1211
                 Duchess Finneacht, 1143-1205
     Lady Elena of Brycheiniog, 1229-
-    	Niccolo Fibonacci, 1183-1235
-    		?
-    		?
-    	Mayor Margred, 1189-1244
-    		?
-    		Anowed, 1146-1210
-    			?
-    			?
-    	
+        Niccolo Fibonacci, 1183-1235
+            ?
+            ?
+        Mayor Margred, 1189-1244
+            ?
+            Anowed, 1146-1210
+                ?
+                ?
+        
 ```
 
 

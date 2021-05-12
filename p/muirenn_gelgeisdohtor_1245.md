@@ -13,11 +13,11 @@ Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
                 Lady Nest, 1104-1172 
         Muirenn I gCais-Cruachu, 1165-1230
             Gilla-Ruad gCais-Cruachu, 1142-1204
-				Duke Fiachnae, 1125-1184
-				Morien ferch Gwenllian, 1122-1192
-			Sybilla de Beaumont, 1130-1203
-				Ralph de Beaumont, 1111-1166
-				Aelwyd Morgannwg, 1093-1158
+                Duke Fiachnae, 1125-1184
+                Morien ferch Gwenllian, 1122-1192
+            Sybilla de Beaumont, 1130-1203
+                Ralph de Beaumont, 1111-1166
+                Aelwyd Morgannwg, 1093-1158
     Duchess Gelgeis, 1217-1277
         Earl Abban, 1181-1234
             Eochad Briain, 1163-1191

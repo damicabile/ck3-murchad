@@ -4,7 +4,7 @@
 ```
 Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc
     Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc
-        Slebine gCais-Cruachu, 1175-1236	
+        Slebine gCais-Cruachu, 1175-1236    
             Rigan gCais-Cruachu, 1150-1207
                 Duke Fiachnae, 1125-1184
                 Morien Caerloyw-Tyddewi, 1122-1192
@@ -31,7 +31,7 @@ Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc
                 Duke Owain II, 1139-1166
                 Agata de Lacon, 1137-1207
             Lathir Briain, 1162-1231
-                Faelan Briain, 1137-1173	
+                Faelan Briain, 1137-1173    
                 Countess Agnes, 1137-1197
 ```
 

@@ -3,10 +3,10 @@
 ## FAMILY TREE 
 ```
 Earl Ernad Seonaidson of Warwickshire, 1245-, Briain
-	Baldewin, 1211-1264
-		?
-		Heilwiwa, 1164-1223
-	Seonaid Briain, 1217-
+    Baldewin, 1211-1264
+        ?
+        Heilwiwa, 1164-1223
+    Seonaid Briain, 1217-
         Prince Labraid, 1188-1257
             Starkad Slatte, 1170-1209
                 Ulf Slatte, 1152-1176

@@ -3,22 +3,22 @@
 ## FAMILY TREE 
 ```
 Earl Lethlobur mag Euginia of Northumberland, 1241-, Briain
-	Dobieslaw Piast Sieradz, 1241-
-		Count Doman, 1158-1222	
-			Duke Wojciech, 1110-1182
-				Duke Enekio, 1088-1109
-				Duchess Wszemila, 1068-1140
-			Mechthild Renart, 1124-1190
-				Reineke Renart, 1102-1162
-				Countess Diedke, 1105-1150
-		Francesa de Foix, 1191-1255
-			Count Peire-Bernat, 1165-1222
-				Peire-Bernat de Foix, 1136-1197
-				Peironela Toulouse-Millau, 1136-1198
-			Huld Yngling, 1158-1202
-				Count Sumarlidi, 1118-1170
-				Marta Galta, 1119-1186
-	Euginia Briain, 1213-
+    Dobieslaw Piast Sieradz, 1241-
+        Count Doman, 1158-1222    
+            Duke Wojciech, 1110-1182
+                Duke Enekio, 1088-1109
+                Duchess Wszemila, 1068-1140
+            Mechthild Renart, 1124-1190
+                Reineke Renart, 1102-1162
+                Countess Diedke, 1105-1150
+        Francesa de Foix, 1191-1255
+            Count Peire-Bernat, 1165-1222
+                Peire-Bernat de Foix, 1136-1197
+                Peironela Toulouse-Millau, 1136-1198
+            Huld Yngling, 1158-1202
+                Count Sumarlidi, 1118-1170
+                Marta Galta, 1119-1186
+    Euginia Briain, 1213-
         Prince Labraid, 1188-1257
             Starkad Slatte, 1170-1209
                 Ulf Slatte, 1152-1176

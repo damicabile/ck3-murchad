@@ -29,11 +29,11 @@ Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain
                 Magdalena de Perigord, 1111-1183
         Caintigern Briain, 1156-1228
             Slebine Briain, 1132-1201
-				Duke Udalschalk, 1096-1162
-				Countess Cobflaith, 1101-1176
-			Beorhtwynn Margaretdohtor, 1123-1187
-				Aethelraed of Hampshire, 1045-1126
-				Margaret of Hwicce, 1099-1153
+                Duke Udalschalk, 1096-1162
+                Countess Cobflaith, 1101-1176
+            Beorhtwynn Margaretdohtor, 1123-1187
+                Aethelraed of Hampshire, 1045-1126
+                Margaret of Hwicce, 1099-1153
 ```
 
 # REFERENCES
