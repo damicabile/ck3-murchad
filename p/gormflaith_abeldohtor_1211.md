@@ -2,7 +2,7 @@
 
 ## FAMILY TREE
 
-```
+<pre>
 Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain
     King Abel, 1190-1269
         Starkad Slatte, 1170-1209
@@ -34,7 +34,7 @@ Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain
 			Beorhtwynn Margaretdohtor, 1123-1187
 				Aethelraed of Hampshire, 1045-1126
 				Margaret of Hwicce, 1099-1153
-```
+</pre>
 
 # REFERENCES
 
