@@ -1,8 +1,8 @@
-# Muirenn I nic Gilla-Ruad, 1165-1230,  gCais-Cruachu
+# Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu
 
 ## FAMILY TREE
 ```
-Muirenn I nic Gilla-Ruad, 1165-1230,  gCais-Cruachu
+Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu
     Gilla-Ruad gCais-Cruachu, 1142-1204
 		Duke Fiachnae, 1125-1184
 			High King Faelan, 1084-1136
