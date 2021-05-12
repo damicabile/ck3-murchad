@@ -1,8 +1,8 @@
-# High King Brian mac Murchad of Munster, 1048-1111, Briain
+# High King Brian II mac Murchad of Munster, 1048-1111, Briain
 
 ## FAMILY TREE
 ```
-High King Brian mac Murchad of Munster, 1048-1111, Briain
+High King Brian II mac Murchad of Munster, 1048-1111, Briain
     High King Murchad, 1027-1095
          Donnchad Briain, 990-1065
              High King Brian, 941-1014

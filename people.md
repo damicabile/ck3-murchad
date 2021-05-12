@@ -22,6 +22,7 @@
 - [Ben-Ulad nic Deirdre](p/ben-ulad_nic_deirdre_1152.md) (1152-1218), *gCais-Inis*
 - [Bhatair mac Ciar](p/bhatair_mac_ciar_1167.md) (1167-1239), *Duke of Ulster, Briain*
 - [Bhatair mac Sioban](p/bhatair_mac_sioban_1236.md) (1236-1269), *Duke of Deira, gCais-Inis*
+- [Brian II mac Murchad](p/brian_ii_mac_murchad_1084.md) (1084-1111), *High King of Munster, Briain*
 - [Briccene mac Conmal](p/briccene_mac_conmal_1158.md) (1158-1209)*, gCais-Padraig*
 - [Bruatur mac Rian](p/bruatur_mac_rian_1241.md) (1241-), *Earl of Essex, Llewellyn*
 - [Buaidbeo mac Cuan](p/buaidbeo_mac_cuan_1247.md) (1247-), *Duke of Essex, Briain*
