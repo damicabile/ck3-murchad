@@ -15,3 +15,4 @@
 - [High Queen Slaine mac Caindelban of Ireland, 1227](h/1227.md)
 - [High Queen Gormflaith nic Caindelban of Ireland, 1249](h/1249.md)
 - [High King Abel mac Gormflaith of Ireland, 1265](h/1265.md)
+- [King Baethine of England, 1278](h/1278.md)
