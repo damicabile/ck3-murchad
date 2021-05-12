@@ -39,22 +39,22 @@ Morien nic Finneacht, 1183-1251, LLewellyn
 # REFERENCES
 
 ## ANCESTORS
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## DESCENDANTS
-* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
 * [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
+* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
 * [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 * [Duke Eochucan mac Mauda of Lancaster, 1234-, Briain](eochucan_mac_mauda_1234.md)
 
 ## RELATIVES

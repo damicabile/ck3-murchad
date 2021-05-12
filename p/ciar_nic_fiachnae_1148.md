@@ -39,25 +39,28 @@ Ciar nic Fiachnae, 1148-1222, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got](cainchomrac_tailefhlaith_1231.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-, Got](natfraich_mag_aine_1224.md)
-* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
-* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
-* [Earl Faelchu mac Farannan of Ennis, 1212-, Briain](faelchu_mac_farannan_1212.md)
-* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 * [Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal](farannan_mac_slaine_1239.md)
-* [Duke Niallan Mac Farannan of Powys, 1217-, Briain](niallan_mac_farannan_1217.md)
+* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
+* [Duke Farannan of Munster, 1239-, gCais-Mathrafal](farannan_1239.md)
 * [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
-* [King Aed mac Muirenn of Scotland, 1209-, Briain](aed_mac_muirenn_1209.md)
+* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got](cainchomrac_tailefhlaith_1231.md)
+* [Duke Niallan Mac Farannan of Powys, 1217-, Briain](niallan_mac_farannan_1217.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-, Got](natfraich_mag_aine_1224.md)
+* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
+* [Earl Faelchu mac Farannan of Ennis, 1212-, Briain](faelchu_mac_farannan_1212.md)
 * [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
+* [King Aed mac Muirenn of Scotland, 1209-, Briain](aed_mac_muirenn_1209.md)
+* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 
 ## RELATIVES
 

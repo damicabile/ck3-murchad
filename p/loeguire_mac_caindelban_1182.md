@@ -40,23 +40,23 @@ Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain
 
 ## ANCESTORS
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
-* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
 * [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 * [Princess Rois nic Lorcan of England, 1225-, Briain](rois_nic_lorcan_1225.md)
+* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
 * [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
-* [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
-* [Princess Morien nic Lorcan of England, 1221-, Briain](morien_nic_lorcan_1221.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 * [Earl Natfraich mac Morien of Ailech, 1218-, Briain](natfraich_mac_morien_1218.md)
+* [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
 * [Duke Eochucan mac Mauda of Lancaster, 1234-, Briain](eochucan_mac_mauda_1234.md)
+* [Princess Morien nic Lorcan of England, 1221-, Briain](morien_nic_lorcan_1221.md)
 
 ## RELATIVES
 

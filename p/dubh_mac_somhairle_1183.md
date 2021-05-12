@@ -39,18 +39,18 @@ Dubh mac Somhairle, 1183-1234, Briain
 # REFERENCES
 
 ## ANCESTORS
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## DESCENDANTS
-* [Princess Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
 * [King Baethine Dubhson of England, 1205-, Briain](baethine_dubhson_1205.md)
 * [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephanie_baethinedohtor_1276.md)
 * [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
+* [Princess Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
 
 ## RELATIVES
 

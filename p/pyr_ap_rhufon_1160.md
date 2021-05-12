@@ -46,10 +46,10 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 * [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
 
 ## DESCENDANTS
-* [Princess Caintigern Abeldohtor of Ireland, 1215-, Briain](caintigern_abeldohtor_1215.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
-* [Princess Cathan Abeldohtor of Ireland, 1218-, Briain](cathan_abeldohtor_1218.md)
 * [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](cathalan_mag_abel_1220.md)
+* [Princess Cathan Abeldohtor of Ireland, 1218-, Briain](cathan_abeldohtor_1218.md)
+* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+* [Princess Caintigern Abeldohtor of Ireland, 1215-, Briain](caintigern_abeldohtor_1215.md)
 
 ## RELATIVES
 

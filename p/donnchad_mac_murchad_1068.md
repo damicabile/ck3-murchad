@@ -27,9 +27,9 @@ Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain
 ## ANCESTORS
 
 ## DESCENDANTS
-* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
-* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](ailpin_mac_donnchad_1101.md)
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
+* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](ailpin_mac_donnchad_1101.md)
+* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
 * [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 
 ## RELATIVES

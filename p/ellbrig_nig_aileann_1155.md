@@ -40,18 +40,20 @@ Ellbrig nig Aileann, 1155-1223, Briain
 
 ## ANCESTORS
 * [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## DESCENDANTS
-* [Duke Bhatair mac Sioban of York, 1236-, gCais-Inis](bhatair_mac_sioban_1236.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-, Got](natfraich_mag_aine_1224.md)
+* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
+* [Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis](bhatair_mac_sioban_1236.md)
 * [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
-* [Earl Ailpin mac Sinech of Breifne, 1257-, gCais-Inis](ailpin_mac_sinech_1257.md)
-* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
 * [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
+* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-, Got](natfraich_mag_aine_1224.md)
 
 ## RELATIVES
 

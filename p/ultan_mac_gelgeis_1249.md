@@ -34,3 +34,33 @@ Earl Ultan mac Gelgeis of Ossory, 1249-, Briain
                 Gwyn Ynys Cybi, 1127-1168
                 Muirgel Briain, 1130-1201
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
+* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1278.md](../h/1278.md)
+
+#### END REFERENCES
+
+# PORTRAITS
+
+## 1278
+![1278](ultan_mac_gelgeis_1249\1278.jpg)
+
+#### END PORTRAITS
+

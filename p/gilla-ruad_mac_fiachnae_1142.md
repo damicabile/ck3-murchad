@@ -39,21 +39,26 @@ Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Duke Bhatair mac Sioban of York, 1236-, gCais-Inis](bhatair_mac_sioban_1236.md)
-* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
-* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
+* [Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis](bhatair_mac_sioban_1236.md)
 * [Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu](fiachnae_mac_gilla-ruad_1167.md)
-* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
-* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 * [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
+* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
+* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
+* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
+* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
+* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
 * [King Aed mac Muirenn of Scotland, 1209-, Briain](aed_mac_muirenn_1209.md)
-* [Duchess Muirenn nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
+* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 
 ## RELATIVES
 

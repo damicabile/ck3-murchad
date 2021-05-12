@@ -34,3 +34,18 @@ Earl David of Berkshire, 1231-, Clare
                 Earl Godfried, 1128-1185
                 Countess Aethelthryth, 1148-1217
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Murchad mag Enguerrand, 1102-1164, gCais-Inis](murchad_mag_enguerrand_1102.md)
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+
+#### END REFERENCES
