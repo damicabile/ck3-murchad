@@ -1,9 +1,10 @@
 # Princess Cathan Abeldohtor of Ireland, 1218-, Briain
 
 ## FAMILY TREE
+
 ```
 Princess Cathan Abeldohtor of Ireland, 1218-, Briain
-        King Abel mac Gormflaith of Ireland, 1190-1269, Briain
+    King Abel, 1190-1269
         Starkad Slatte, 1170-1209
             Ulf Slatte, 1152-1176
                 Starkad Slatte, 1126-1189
@@ -35,10 +36,10 @@ Princess Cathan Abeldohtor of Ireland, 1218-, Briain
 				Margaret of Hwicce, 1099-1153
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
+
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 * [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
@@ -52,8 +53,10 @@ Princess Cathan Abeldohtor of Ireland, 1218-, Briain
 
 ## RELATIVES
 
-##### END RELATIVES 
+##### END RELATIVES
+
 ## HISTORY
+
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
