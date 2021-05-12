@@ -1,8 +1,8 @@
-# Earl Aed Barrdubson of West Riding, 1261-,  Got
+# Earl Aed Barrdubson of West Riding, 1261-, Got
 
 ## FAMILY TREE
 ```
-Earl Aed Barrdubson of West Riding, 1261-,  Got 
+Earl Aed Barrdubson of West Riding, 1261-, Got 
     Thane Cainchomrac, 1231-     
         Aed Got, 1202-1263
             Dimmasach Got, 1173-1243
