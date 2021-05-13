@@ -38,11 +38,11 @@ King Baethine Dubhson of England, 1205-, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
-* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 ## DESCENDANTS
 
@@ -53,7 +53,6 @@ King Baethine Dubhson of England, 1205-, Briain
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
-
 
 # PORTRAITS
 

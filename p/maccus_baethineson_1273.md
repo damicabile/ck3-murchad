@@ -23,13 +23,12 @@ Prince Maccus Baethineson of England, 1273-, Briain
         ?
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 ## DESCENDANTS
 
@@ -40,3 +39,8 @@ Prince Maccus Baethineson of England, 1273-, Briain
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

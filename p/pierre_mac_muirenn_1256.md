@@ -19,7 +19,6 @@ Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
 
 #### END REFERENCES
 
-
 # PORTRAITS
 
 ## 1278

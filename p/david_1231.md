@@ -35,7 +35,6 @@ Earl David of Berkshire, 1231-, Clare
                 Countess Aethelthryth, 1148-1217
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
@@ -49,3 +48,8 @@ Earl David of Berkshire, 1231-, Clare
 ## HISTORY
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

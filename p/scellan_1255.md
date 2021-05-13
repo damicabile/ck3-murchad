@@ -28,8 +28,8 @@ Duke Scellan of Hwicce, 1255-, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
 * [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain](fuacarta_mac_ben-muman_1212.md)
+* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
 
 ## DESCENDANTS
 
@@ -40,7 +40,6 @@ Duke Scellan of Hwicce, 1255-, Briain
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
-
 
 # PORTRAITS
 
