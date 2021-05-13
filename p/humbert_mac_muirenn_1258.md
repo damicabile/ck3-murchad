@@ -1,8 +1,8 @@
-# Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
+# Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield
 
 ## FAMILY TREE
 ```
-Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
+Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield
     Duke Natfraich, 1224-1274
         Laidine Got, 1200-1231
             Dimmasach Got, 1173-1243
@@ -34,25 +34,3 @@ Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
                 Duke Rian I, 1144-1211
                 Duchess Finneacht, 1143-1205
 ```
-
-# REFERENCES
-
-## ANCESTORS
-
-## DESCENDANTS
-
-## RELATIVES
-
-##### END RELATIVES 
-## HISTORY
-* [1278.md](../h/1278.md)
-
-#### END REFERENCES
-
-# PORTRAITS
-
-## 1278
-![1278](pierre_mac_muirenn_1256/1278.jpg)
-
-#### END PORTRAITS
-
