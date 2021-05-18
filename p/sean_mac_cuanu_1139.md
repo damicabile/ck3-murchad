@@ -32,11 +32,12 @@ Sean mac Cuanu, 1139-1209, Laighin
                 ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
 * [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](cuanu_mac_sean_1121.md)
+* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
 
 ## DESCENDANTS
 
@@ -44,11 +45,7 @@ Sean mac Cuanu, 1139-1209, Laighin
 
 ##### END RELATIVES 
 ## HISTORY
+* [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

@@ -30,3 +30,24 @@ Duchess Cairech nic Faelchu of Deheubarth, 1235-, Briain
                 Rudolf Brunonen, 1119-1175
                 Klara Forgach, 1119-1178
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1278.md](../h/1278.md)
+
+#### END REFERENCES

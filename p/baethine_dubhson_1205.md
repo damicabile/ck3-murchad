@@ -1,8 +1,8 @@
-# King Baethine Dubhson of England, 1205-, Briain
+# King Baethine Dubhson of England, 1205-1281, Briain
 
 ## FAMILY TREE
 ```
-King Baethine Dubhson of England, 1205-, Briain
+King Baethine Dubhson of England, 1205-1281, Briain
     Dubh Briain, 1183-1234
         Somhairle Briain, 1158-1223
             Duke Aengus I, 1123-1190
@@ -26,7 +26,7 @@ King Baethine Dubhson of England, 1205-, Briain
             Ennoguent de Rennes, 1135-1198
                 Morcondeleu de Rennes, 1114-1168
                 Matilda de Vassy, 1114-1189
-        Philippa Sigurdr Lindisfarne, 1153-1221
+        Philippa Sigurdr-Lindisfarne, 1153-1221
             Ralph Sigurdr-Lindisfarne, 1136-1159
                 Duke Conmael, 1106-1145
                 Alberada de Clare, 1105-1155
@@ -35,16 +35,19 @@ King Baethine Dubhson of England, 1205-, Briain
                 Violent de Toulouse, 1107-1174
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 ## DESCENDANTS
+* [Princess Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
+* [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
 
 ## RELATIVES
 
@@ -53,11 +56,3 @@ King Baethine Dubhson of England, 1205-, Briain
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-## 1278
-![1278](baethine_dubhson_1205/1278.jpg)
-
-#### END PORTRAITS
-

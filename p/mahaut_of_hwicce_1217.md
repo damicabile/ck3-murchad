@@ -19,15 +19,17 @@ Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce
             Countess Irmgard, 1128-1194
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
 
 ## DESCENDANTS
-* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](aindle_mac_cuan_1242.md)
+* [Petty King Flaithgus mac Cuan of Deheubarth, 1236-, Briain](flaithgus_mac_cuan_1236.md)
 * [Earl Cuan mac Cuan of Derby, 1245-, Briain](cuan_mac_cuan_1245.md)
 * [Duke Buaidbeo mac Cuan of Essex, 1247-, Briain](buaidbeo_mac_cuan_1247.md)
-* [Duke Flaithgus mac Cuan of Deheubarth, 1236-, Briain](flaithgus_mac_cuan_1236.md)
+* [Lady Etain nig Aindle of Brycheniog, 1267-, Briain](etain_nig_aindle_1267.md)
+* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](aindle_mac_cuan_1242.md)
 
 ## RELATIVES
 
@@ -36,8 +38,3 @@ Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce
 * [1249.md](../h/1249.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

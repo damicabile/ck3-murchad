@@ -34,3 +34,21 @@ Earl Glenn mac Mael-Ruanaid of Desmond, 1242-, Braenain
                 Duke Somerled, 1162-1226
                 Banmormaer Kristin, 1155-1178
 ```
+
+# REFERENCES
+
+## ANCESTORS
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](flaitheman_nic_caindelban_1175.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1278.md](../h/1278.md)
+
+#### END REFERENCES

@@ -8,12 +8,13 @@ Efyrddyl ferch Gruffydd, 1124-1194, Seisyll
             Petty King Gruffydd I, 1003-1063
             Aeldgyth of Hwicce, 1036-1087
         Sioned Ynys Cybi,1048-1114
-            Lord Rhiwallon, 1025-1083
+            High King Rhiwallon, 1025-1083
             ?
     Failenn, 1081-1144
         ?
         ?
 ```
+
 
 # REFERENCES
 
@@ -25,11 +26,7 @@ Efyrddyl ferch Gruffydd, 1124-1194, Seisyll
 
 ##### END RELATIVES 
 ## HISTORY
+* [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

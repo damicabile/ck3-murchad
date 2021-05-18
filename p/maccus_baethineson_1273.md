@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Prince Maccus Baethineson of England, 1273-, Briain
-    King Baethine Dubhson of England, 1205-, Briain
+    King Baethine, 1205-1281, Briain
         Dubh Briain, 1183-1234
             Somhairle Briain, 1158-1223
                 Duke Aengus I, 1123-1190
@@ -15,7 +15,7 @@ Prince Maccus Baethineson of England, 1273-, Briain
             King Conall II, 1155-1215
                 Fingal of Carrick, 1137-1192
                 Ennoguent de Rennes, 1135-1198
-            Philippa Sigurdr Lindisfarne, 1153-1221
+            Philippa Sigurdr-Lindisfarne, 1153-1221
                 Ralph Sigurdr-Lindisfarne, 1136-1159
                 Catriona Dunkeld-Dunbar,1136-1206
     Queen Marthe, 1240-, Pins
@@ -23,11 +23,13 @@ Prince Maccus Baethineson of England, 1273-, Briain
         ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
-* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 ## DESCENDANTS
@@ -37,10 +39,6 @@ Prince Maccus Baethineson of England, 1273-, Briain
 ##### END RELATIVES 
 ## HISTORY
 * [1278.md](../h/1278.md)
+* [1294.md](../h/1294.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

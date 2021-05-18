@@ -11,7 +11,7 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain
         Effros of Bamburgh, 1166-1236
             Eadulf of Bamburgh, 1133-1166
                 Wulfstan of Bamburgh, 1072-1135
-                Duchess Rhiaindrech, 1116-1187
+                Duchess Rhiandrech, 1116-1187
             Cobflaith Briain, 1149-1219
                 Gwyn Ynys Cybi, 1127-1168
                 Muirgel Briain, 1130-1201
@@ -32,6 +32,7 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain
                 Csillag Borkalan, 1093-1171
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -48,8 +49,3 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain
 * [1265.md](../h/1265.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

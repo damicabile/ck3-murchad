@@ -22,3 +22,17 @@ Duke William of Guoladat, 1247-, Sigurdr-York
         ?
         ?
 ```
+
+# REFERENCES
+
+## ANCESTORS
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1278.md](../h/1278.md)
+
+#### END REFERENCES

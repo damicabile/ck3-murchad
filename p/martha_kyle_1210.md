@@ -19,6 +19,7 @@ Martha Kyle, 1210-, Kyle
             Countess Saerlaith, 1118-1160
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -32,8 +33,3 @@ Martha Kyle, 1210-, Kyle
 ## HISTORY
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

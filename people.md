@@ -18,7 +18,7 @@
 - [Ailpin mac Sinech](p/ailpin_mac_sinech_1257.md) (1257-1269), *Duke of Deira, gCais-Inis*
 - [Aindle mac Cuan](p/aindle_mac_cuan_1242.md) (1242-1268), *Lord of Brycheiniog, Briain*
 - [Aine ferch Sithmaith](p/aine_ferch_sithmaith_1169.md) (1169-1220), *Lady of Eryri, Ruairc*
-- [Baethine Dubhson](p/baethine_dubhson_1205.md) (1205-), *King of England, Briain*
+- [Baethine Dubhson](p/baethine_dubhson_1205.md) (1205-1281), *King of England, Briain*
 - [Ben-Ulad nic Deirdre](p/ben-ulad_nic_deirdre_1152.md) (1152-1218), *gCais-Inis*
 - [Bhatair mac Ciar](p/bhatair_mac_ciar_1167.md) (1167-1239), *Duke of Ulster, Briain*
 - [Bhatair mac Sioban](p/bhatair_mac_sioban_1236.md) (1236-1269), *Duke of Deira, gCais-Inis*
@@ -41,7 +41,7 @@
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215- ), *Duke of Connacht, Briain*
 - [Clydog ap Talorc](p/clydog_ap_talorc_1227.md) (1227-), *Lord of Ynys Mon, Ruairc*
-- [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-), *Lady of Ferlix, Briain*
+- [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-1283), *Lady of Ferlix, Briain*
 - [Cobflaith nic Faelan](p/cobflaith_nic_faelan_1101.md) (1101-1176), *Countess of Ceredigion, Briain*
 - [Conchenn nic Gilla-Ruad](p/conchenn_nic_gilla-ruad_1163.md) (1163-1225), *gCais-Cruachu*
 - [Congalach ab Caindelban](p/congalach_ab_caindelban_1148.md) (1148-1209), *Prince of Ireland, Evans*

@@ -6,7 +6,7 @@
 Duke Thurcytel Saeberston of Mercia, 1228-, Briain
     Earl Saebert, 1203-1261
         Harold Briain, 1176-1237
-            Mael-Ciarain Aibilinson Briain, 1153-1227
+            Mael-Ciarain Briain, 1153-1227
                 Jacques Wigeriche, 1133-1171
                 Aibilin Briain, 1135-1203
             Barbara Chatenois-Neufchateau, 1152-1220
@@ -33,20 +33,21 @@ Duke Thurcytel Saeberston of Mercia, 1228-, Briain
                 Morien Caerloyw-Tyddewi, 1122-1192
             Maire gCais-Cruachu, 1145-1219
                 Earl Ailpin, 1101-1136
-                Aedemnnair Conchobair, 1081-1141
+                Aedemmair Conchobair, 1081-1141
                 
 ```
+
 
 # REFERENCES
 
 ## ANCESTORS
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
+* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
 * [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
 * [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
-* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
 
 ## DESCENDANTS
 
@@ -58,8 +59,3 @@ Duke Thurcytel Saeberston of Mercia, 1228-, Briain
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-
