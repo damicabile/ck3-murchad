@@ -18,7 +18,7 @@ Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain
             Sybilla de Beaumont, 1130-1203
                 Ralph de Beaumont, 1111-1166
                 Aelwyd Morgannwg, 1093-1158
-    Duchess Irena, 1197-
+    Duchess Irena, 1197-1269
         Count Wichmann, 1180-1244
             Count Wichmann, 1160-1225
                 Duke Adalbrand I, 1135-1198

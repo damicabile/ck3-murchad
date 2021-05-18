@@ -117,6 +117,7 @@
 - [Lorcan Morienson](p/lorcan_morienson_1204.md) (1204-1271), *King of England, Briain*
 - [Lugaid mac Cacht](p/lugaid_mac_cacht_1227.md) (1227-1257), *Lord of Gwent, Briain*
 - [Maccus Baethineson](p/maccus_baethineson_1273.md) (1273-), *Prince of England, Briain*
+- [Mael-Muire Gormflaithdohtor](p/mael-muire_gormflaithdohtor_1268.md) (1268-), *Duchess of East Seaxe, hEochadha*
 - [Mael-Muire nig Ailpin](p/mael-muire_nig_ailpin_1125.md) (1125-1195)*, Countess of Briefne, gCais-Fathain*
 - [Mahaut of Hwicce](p/mahaut_of_hwicce_1217.md) (1217-1248), *Duchess of Deheubarth, Hwicce*
 - [Martha Kyle](p/martha_kyle_1210.md) (1210-1279), *Kyle*
