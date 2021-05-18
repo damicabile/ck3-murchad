@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi
-    Lord Lles, 1220-1272
+    Lord Lles, 1220-12721272
         Lord Cuhelyn, 1201-1263, Ynys Cybi
             Duke LLes, 1134-1202
                 Gruffydd Caerloyw-Penfro, 1116-1177

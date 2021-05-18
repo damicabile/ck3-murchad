@@ -1,9 +1,9 @@
-# Duke Natfraich mag Aine of Ulster, 1224-, Got
+# Duke Natfraich mag Aine of Ulster, 1224-1274, Got
 
 ## FAMILY TREE
 
 ```
-Duke Natfraich mag Aine of Ulster, 1224-, Got
+Duke Natfraich mag Aine of Ulster, 1224-1274, Got
     Laidine Got, 1200-1231
         Dimmasach Got, 1173-1243
             Prince Dinertach, 1141-1210

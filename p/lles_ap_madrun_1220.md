@@ -1,8 +1,8 @@
-# Lord Lles ap Madrun of Merionnydd, 1220-, Ynys Cybi
+# Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi
 
 ## FAMILY TREE 
 ```
-Lord Lles ap Madrun of Merionnydd, 1220-, Ynys Cybi
+Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi
     Lord Cuhelyn, 1201-1263, Ynys Cybi
         Duke LLes, 1134-1202
             Gruffydd Caerloyw-Penfro, 1116-1177

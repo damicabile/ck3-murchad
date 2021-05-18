@@ -1,8 +1,8 @@
-# Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain
+# Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain
 
 ## FAMILY TREE 
 ```
-Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain
+Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain
     Earl Abban, 1181-1234
         Eochad Briain, 1163-1191
             Earl Abban, 1132-1192

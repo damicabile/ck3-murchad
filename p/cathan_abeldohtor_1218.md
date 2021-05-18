@@ -1,9 +1,9 @@
-# Princess Cathan Abeldohtor of Ireland, 1218-, Briain
+# Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain
 
 ## FAMILY TREE
 
 ```
-Princess Cathan Abeldohtor of Ireland, 1218-, Briain
+Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain
     King Abel, 1190-1269
         Starkad Slatte, 1170-1209
             Ulf Slatte, 1152-1176

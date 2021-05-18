@@ -1,9 +1,9 @@
-# Earl Faelcar mag Ualtar of Buckinghamshire, 1225-, gCais-Gaillimhe
+# Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
 
 ## FAMILY TREE
 
 ```
-Earl Faelcar mag Ualtar of Buckinghamshire, 1225-, gCais-Gaillimhe
+Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
     Ualtar gCais-Gaillimhe, 1199-1254
         Rogallach gCais-Gaillimhe, 1182-1232
             Earl Udalschalk, 1145-1214

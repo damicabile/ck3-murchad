@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Duke Farannan of Munster, 1239-, gCais-Mathrafal
-    Duke Niallan, 1217-
+    Duke Niallan, 1217-1279
         Earl Farannan, 1179-1238
             Aed Briain, 1142-1207
                 Earl Cathnio, 1108-1171
