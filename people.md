@@ -65,6 +65,7 @@
 - [Efyrddyl ferch Gruffydd](p/efyrddyl_ferch_gruffydd_1124.md) (1124-1194), *Seisyll*
 - [Eithne nic Baethine](p/eithne_nic_baethine_1238.md) (1238-), *Princess of England, Briain*
 - [Elen ferch Idwal](p/elen_ferch_idwal_1092.md) (1092-1174), *Lady of Penllyn, Seisyll*
+- [Elidyr ab Iorwerth](p/elidyr_ab_iorwerth_1085.md) (1085-1150), *Caerloyw-Tyddewi*
 - [Ellbrig nig Aileann](p/ellbrig_nig_aileann_1155.md) (1155-1223), *Briain*
 - [Elisabet Gudrodsdatter](p/elisabet_gudrodsdatter_1083.md) (1083-1148), *Crovan*
 - [Enguerrand mac Murchad](p/enguerrand_mac_murchad_1081.md) (1081-1148), *Duke of Ulster, gCais-Inis*
@@ -103,6 +104,7 @@
 - [Haraldr II](p/haraldr_ii_1125.md) (1125-1213), *Duke of the Isles, Crovan*
 - [Harold Mael-Ciarainson](p/harald_mael-ciarainson_1176.md) (1176-1237), *Briain*
 - [Humbert mac Muirenn](p/humbert_mac_muirenn_1258.md) (1258-), *Earl of Oriel, gCais-Macclesfield*
+- [Hunydd ferch Bleddyn](p/hunydd_ferch_bleddyn_1042.md) (1042-1099), *Mathrafal*
 - [Hywela ferch Lles](p/hywela_ferch_lles_1242.md) (1242-), *Lady of Merionnydd, Ynys Cybi*
 - [Iorwerth ap Gwenllian](p/iorwerth_ap_gwenllian_1129.md) (1129-1191), *Lord of Morgannwg, Caerloyw-Tyddewi*
 - [Labraid mac Gormflaith](p/labraid_mac_gormflaith_1188.md) (1188-1257), *Prince of Ireland, Briain*
