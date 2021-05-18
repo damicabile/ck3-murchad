@@ -1,8 +1,8 @@
-# Earl Faelchu mac Farannan of Ennis, 1212-, Briain
+# Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain
 
 ## FAMILY TREE 
 ```
-Earl Faelchu mac Farannan of Ennis, 1212-, Briain
+Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain
     Earl Farannan, 1179-1238
         Aed Briain, 1142-1207
             Earl Cathnio, 1108-1171

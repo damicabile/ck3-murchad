@@ -1,8 +1,8 @@
-# Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe
+# Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe
 
 ## FAMILY TREE 
 ```
-Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe
+Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe
     Earl Gilla-Ruad, 1182-1238
         Earl Adomnan, 1162-1219
             Earl Udalschalk, 1145-1214

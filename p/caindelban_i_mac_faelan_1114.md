@@ -70,7 +70,7 @@ High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
 * [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
-* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_macflaitheman_1216.md)
+* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_mac_flaitheman_1216.md)
 * [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
 * [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain](fuacarta_mac_ben-muman_1212.md)
 * [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)

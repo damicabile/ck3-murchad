@@ -90,7 +90,7 @@
 - [Mathieu de Mousson](p/mathieu_de_mousson_1187.md) (1187- ), *High King of Ireland, Mousson*
 - [Morien nic Finneacht](p/morien_nic_finneacht_1183.md) (1183-1251 ), *LLewellyn*
 - [Muirenn nic Gilla-Ruad](p/muirenn_ii_nic_gilla-ruad_1165.md) (1165-1222), *Duchess of Ulster, gCais-Cruachu*
-- [Muiredach mac Flaitheman](p/muiredach_macflaitheman_1216.md) (1216-), *Briain*
+- [Muiredach mac Flaitheman](p/muiredach_mac_flaitheman_1216.md) (1216-), *Briain*
 - [Natfraich mag Aine](p/natfraich_mag_aine_1224.md) (1224-), *Duke of Ulster, Got*
 - [Natfraich mac Morien](p/natfraich_mac_morien_1218.md) (1218-), *Earl of Ailech, Briain*
 - [Niallan Mac Farannan](p/niallan_mac_farannan_1217.md) (1217-), *Duke of Powys, Briain*

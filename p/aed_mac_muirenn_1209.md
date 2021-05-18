@@ -1,8 +1,8 @@
-# King Aed mac Muirenn of Scotland, 1209-, Briain
+# Aed mac Muirenn, 1209-1281, Briain
 
 ## FAMILY TREE 
 ```
-King Aed mac Muirenn of Scotland, 1209-, Briain
+Aed mac Muirenn, 1209-1281, Briain
     Duke Bhatair, 1167-1239
         Aed Briain, 1142-1207
             Earl Cathnio, 1108-1171

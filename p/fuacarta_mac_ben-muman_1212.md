@@ -1,9 +1,9 @@
-# Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain
+# Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
 
 ## FAMILY TREE
 
 ```
-Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-, Briain
+Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
     Scellan Ceiteach, 1189-1250
         Baron Gilla-Comgan, 1158-1221
             ?

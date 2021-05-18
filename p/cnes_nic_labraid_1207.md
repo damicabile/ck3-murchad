@@ -1,8 +1,8 @@
-# Lady Cnes nic Labraid of Ferlix, 1207-, Briain
+# Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
 
 ## FAMILY TREE 
 ```
-Lady Cnes nic Labraid of Ferlix, 1207-, Briain
+Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
     Prince Labraid, 1188-1257, Briain
         Starkad Slatte, 1170-1209
             Ulf Slatte, 1152-1176

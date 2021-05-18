@@ -1,8 +1,8 @@
-# Duke Cilline mac Failenn of Connacht, 1215-, Briain
+# Duke Cilline mac Failenn of Connacht, 1215-1282, Briain
 
 ## FAMILY TREE 
 ```
-Duke Cilline mac Failenn of Connacht, 1215-, Briain
+Duke Cilline mac Failenn of Connacht, 1215-1282, Briain
     Dagr Sigurdr-Kyle, 1194-1243
         Earl Diodmundr, 1168-1203
             Earl Filippus, 1146-1177

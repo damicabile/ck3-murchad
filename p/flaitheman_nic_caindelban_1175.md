@@ -49,7 +49,7 @@ Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 
 ## DESCENDANTS
-* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_macflaitheman_1216.md)
+* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_mac_flaitheman_1216.md)
 * [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-, Braenain](glenn_mac_mael-ruanaid_1242.md)
 
 ## RELATIVES
