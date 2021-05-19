@@ -35,31 +35,30 @@ Cacht nic Morien, 1201-1255, Briain
                 Petty Queen Gwenllian, 1090-1148
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+* [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
-* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
 * [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
+* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
+* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 
 ## RELATIVES
 
@@ -69,3 +68,8 @@ Cacht nic Morien, 1201-1255, Briain
 * [1265.md](../h/1265.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

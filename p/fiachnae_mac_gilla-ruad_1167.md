@@ -35,17 +35,16 @@ Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu
                 Mairead, 1042-1094        
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 
 ## DESCENDANTS
@@ -57,3 +56,8 @@ Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu
 * [1209.md](../h/1209.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

@@ -35,21 +35,20 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
                 Elisabet Crovan, 1083-1148
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
 * [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain](gelgeis_nic_gnathnad_1217.md)
+* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
 
 ## RELATIVES
 
@@ -59,3 +58,8 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 * [1265.md](../h/1265.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

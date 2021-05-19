@@ -31,15 +31,14 @@ Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
         
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
 * [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
 
 ## DESCENDANTS
 
@@ -51,3 +50,8 @@ Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

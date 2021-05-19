@@ -35,14 +35,13 @@ Princess Eithne nic Baethine of England, 1238-, Briain
                 Countess Saerlaith, 1118-1160
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Martha Kyle, 1210-, Kyle](martha_kyle_1210.md)
+* [Martha Kyle, 1210-1279, Kyle](martha_kyle_1210.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
 
 ## DESCENDANTS
@@ -55,3 +54,11 @@ Princess Eithne nic Baethine of England, 1238-, Briain
 * [1294.md](../h/1294.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+## 1278
+![1278](eithne_nic_baethine_1238/1278.jpg)
+
+#### END PORTRAITS
+

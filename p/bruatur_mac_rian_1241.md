@@ -35,16 +35,15 @@ Earl Bruatur mac Rian of Essex, 1241-, Llewellyn
                 Katalin Arpad-Visegrad, 1125-1195
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](rian_ii_mag_aengus_1208.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn](aengus_ii_mac_finneacht_1177.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Duke Rian II mag Aengus of Meath, 1208-, Llewellyn](rian_ii_mag_aengus_1208.md)
 
 ## DESCENDANTS
 
@@ -56,3 +55,8 @@ Earl Bruatur mac Rian of Essex, 1241-, Llewellyn
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

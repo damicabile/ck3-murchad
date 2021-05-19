@@ -36,3 +36,8 @@ Duke William of Guoladat, 1247-, Sigurdr-York
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

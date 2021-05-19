@@ -35,26 +35,25 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
                 Sybilla de Beaumont, 1130-1203
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
-* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 * [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
-* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
 * [Duke Conmal mac Faelan of Ulster, 1122-1188, Briain](conmal_mac_faelan_1122.md)
-* [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
-* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
 * [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](finnacan_mac_caindelban_1161.md)
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
+* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
 * [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
+* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
+* [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
 
 ## DESCENDANTS
 
@@ -66,3 +65,11 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
 * [1294.md](../h/1294.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+## 1278
+![1278](tadg_barrdubson_1257/1278.jpg)
+
+#### END PORTRAITS
+

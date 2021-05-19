@@ -36,17 +36,16 @@ Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi
         
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
-* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
 * [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
+* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
 
 ## DESCENDANTS
 * [Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi](hywela_ferch_lles_1242.md)
@@ -57,3 +56,8 @@ Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi
 ## HISTORY
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

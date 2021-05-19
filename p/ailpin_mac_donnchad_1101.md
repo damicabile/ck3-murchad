@@ -33,28 +33,27 @@ Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain
 
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
 
 ## DESCENDANTS
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
-* [Earl Dimmasach mag Aine of Hertfordshire, 1218-, Got](dimmasach_mag_aine_1218.md)
-* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-, Got](natfraich_mag_aine_1224.md)
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
 * [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
 * [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 * [Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis](bhatair_mac_sioban_1236.md)
-* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
-* [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
-* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
-* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
 * [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
+* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
+* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
+* [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](dimmasach_mag_aine_1218.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
+* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
 
 ## RELATIVES
 
@@ -62,3 +61,8 @@ Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain
 ## HISTORY
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+

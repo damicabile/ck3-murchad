@@ -35,28 +35,27 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
                 Baroness Euphrosine, 1049-1106
 ```
 
-
 # REFERENCES
 
 ## ANCESTORS
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
-* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
-* [Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal](farannan_mac_slaine_1239.md)
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
 * [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Duke Farannan of Munster, 1239-, gCais-Mathrafal](farannan_1239.md)
 * [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
-* [Countess Gelgeis nic Gnathnad of Athlone, 1217-, Briain](gelgeis_nic_gnathnad_1217.md)
+* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
 * [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
+* [Duke Farannan of Munster, 1239-, gCais-Mathrafal](farannan_1239.md)
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal](farannan_mac_slaine_1239.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
 
 ## RELATIVES
 
@@ -68,3 +67,8 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
 * [1265.md](../h/1265.md)
 
 #### END REFERENCES
+
+# PORTRAITS
+
+#### END PORTRAITS
+
