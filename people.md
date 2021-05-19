@@ -36,6 +36,7 @@
 - [Canannan mac Fiachnae](p/canannan_mac_fiachnae_1219.md) (1219-1266), *Duke of Ulster, Briain*
 - [Cathalan mag Abel](p/cathalan_mag_abel_1220.md) (1220-1242), *Princess of Ireland, Briain*
 - [Cathan Abeldohtor](p/cathan_abeldohtor_1218.md) (1218-1292), *Princess of Ireland, Briain*
+- [Cathan Cathandohtor](p/cathan_cathandohtor_1247.md) (1247-), *Duchess of Cornwall, Briain*
 - [Cathan nic Brian](p/cathan_nic_brian_1078.md) (1078-1144), *Countess of Ennis, Briain*
 - [Cathnio mac Cathan](p/cathnio_mac_cathan_1108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
@@ -163,3 +164,4 @@
 - [Udalschalk mag Eilika](p/udalschalk_mag_eilika_1096.md) (1096-1162), *Duke of Meath, Cilli*
 - [Ultan mac Gelgeis](p/ultan_mac_gelgeis_1249.md) (1249-), *Earl of Ossory, Briain*
 - [William](p/william_1247.md) (1247-), *Duke of Guoladat, Sigurdr-York*
+- [Ylva Drifadohtor](p/ylva_drifadohtor_1261.md) (1261-), *Duchess of Mercia, Hagalin*
