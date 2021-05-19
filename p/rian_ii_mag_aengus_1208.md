@@ -6,7 +6,7 @@ Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn
     Duke Aengus II, 1177-1239
         Duke Rian I, 1144-1211
             Duke Aengus I, 1123-1190
-                Duke Udalschalk, 1095-1162
+                Duke Udalschalk, 1096-1162
                 Countess Cobflaith, 1101-1176
             Duchess Rhiandrech, 1116-1187
                 Lord Rhiwallon, 1087-1137

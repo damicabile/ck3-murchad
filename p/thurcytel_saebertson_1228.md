@@ -32,8 +32,8 @@ Duke Thurcytel Saeberston of Mercia, 1228-, Briain
                 Duke Fiachnae, 1125-1184
                 Morien Caerloyw-Tyddewi, 1122-1192
             Maire gCais-Cruachu, 1145-1219
-                Earl Ailpin, 1101-1136
-                Aedemmair Conchobair, 1081-1141
+                Duke Fiachnae, 1125-1184
+                Morien Caerloyw-Tyddewi, 1122-119
                 
 ```
 

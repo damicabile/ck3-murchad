@@ -7,7 +7,7 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
     King Senchan, 1188-1255
         Somhairle Briain, 1158-1223
             Duke Aengus I, 1123-1190
-                Duke Udalschalk, 1095-1162
+                Duke Udalschalk, 1096-1162
                 Countess Cobflaith, 1101-1176
             Duchess Rhiandrech, 1116-1187
                 Lord Rhiwallon, 1087-1137

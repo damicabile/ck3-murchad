@@ -21,7 +21,7 @@ Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis
     Countess Sinech, 1226-
         Earl Abban, 1181-1234
             Eochad Briain, 1163-1191
-                Earl Abban, 1181-1234
+                Earl Abban, 1132-1192
                 Gnathnad mac Mathgamna, 1134-1193
             Countess Jagoda, 1148-1211
                 Baron Petar, 1111-1165

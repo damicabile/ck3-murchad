@@ -21,7 +21,7 @@ Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain
     Morien LLewellyn, 1183-1251
         Duke Rian I, 1144-1211
             Duke Aengus I, 1123-1190
-                Duke Udalschalk, 1095-1162
+                Duke Udalschalk, 1096-1162
                 Countess Cobflaith, 1101-1176
             Duchess Rhiandrech, 1116-1187
                 Lord Rhiwallon, 1087-1137

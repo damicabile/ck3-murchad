@@ -9,8 +9,8 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
                 High King Murchad, 1027-1095
                 Adelais de Ponthieu, 1049-1107
             Countess Margrethe, 1085-1127
-                High King Olav, 1066-1132
-                Flann ua Neill Noigiallaich, 1066-1132
+                Prince Harald, 1041-1103
+                Countess Margrete, 1041-1107
         Samthann av Vedrafjord, 1108-1165
             High King Olav, 1066-1132
                 High King Ragnvald, 1021-1079

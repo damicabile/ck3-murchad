@@ -6,7 +6,7 @@ King Baethine Dubhson of England, 1205-1281, Briain
     Dubh Briain, 1183-1234
         Somhairle Briain, 1158-1223
             Duke Aengus I, 1123-1190
-                Duke Udalschalk, 1095-1162
+                Duke Udalschalk, 1096-1162
                 Countess Cobflaith, 1101-1176
             Duchess Rhiandrech, 1116-1187
                 Lord Rhiwallon, 1087-1137

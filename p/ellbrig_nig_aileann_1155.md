@@ -9,7 +9,7 @@ Ellbrig nig Aileann, 1155-1223, Briain
                 ?
                 ?
             Aethelswith of Hereford, 1070-1125
-                Earl Aethlwulf, 1070-1125
+                Earl Aethelwulf, 1041-1103
                 Beorhtwynn, 1050-1104
         Countess Flann, 1097-1161
             High King Olav, 1066-1132

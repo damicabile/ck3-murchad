@@ -5,7 +5,7 @@
 Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
     Duke Rian I, 1144-1211
         Duke Aengus I, 1123-1190
-            Duke Udalschalk, 1095-1162
+            Duke Udalschalk, 1096-1162
                 Serene Doge Luchino, 1042-1099
                 Eilika von Cilli, 1050-1106
             Countess Cobflaith, 1101-1176

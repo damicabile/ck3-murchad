@@ -5,7 +5,7 @@
 Morien nic Finneacht, 1183-1251, LLewellyn
     Duke Rian I, 1144-1211
         Duke Aengus I, 1123-1190
-            Duke Udalschalk, 1095-1162
+            Duke Udalschalk, 1096-1162
                 Serene Doge Luchino, 1042-1099
                 Eilika von Cilli, 1050-1106
             Countess Cobflaith, 1101-1176
@@ -28,7 +28,7 @@ Morien nic Finneacht, 1183-1251, LLewellyn
                 Princess Ragnhild, 1045-1110
         Morien Caerloyw-Tyddewi, 1122-1192
             Elidyr Caerloyw-Tyddewi, 1085-1150
-                Lord Iorwerth, 1122-1192
+                Lord Iorwerth, 1053-1109
                 Thyra Reventlow, 1051-1121
             Petty Queen Gwenllian, 1090-1148
                 Lord Meilys, 1047-1101

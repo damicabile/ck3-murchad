@@ -160,5 +160,6 @@
 - [Talorc ab Aine](p/talorc_ab_aine_1200.md) (1200-1271), *Lord of Ynys Mon, Ruairc*
 - [Thurcytel Saeberston](p/thurcytel_saebertson_1228.md) (1228-), *Duke of Mercia, Briain*
 - [Udalschalk mag Aileann](p/udalschalk_mag_aileann_1145.md) (1145-1214)*, Earl of Ui Mhaine, gCais-Gaillimhe*
+- [Udalschalk mag Eilika](p/udalschalk_mag_eilika_1096.md) (1096-1162), *Duke of Meath, Cilli*
 - [Ultan mac Gelgeis](p/ultan_mac_gelgeis_1249.md) (1249-), *Earl of Ossory, Briain*
 - [William](p/william_1247.md) (1247-), *Duke of Guoladat, Sigurdr-York*

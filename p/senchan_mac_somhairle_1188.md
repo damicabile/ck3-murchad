@@ -5,7 +5,7 @@
 King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
     Somhairle Briain, 1158-1223
         Duke Aengus I, 1123-1190
-            Duke Udalschalk, 1095-1162
+            Duke Udalschalk, 1096-1162
                 Serene Doge Luchino, 1042-1099
                 Eilika von Cilli, 1050-1106
             Countess Cobflaith, 1101-1176
