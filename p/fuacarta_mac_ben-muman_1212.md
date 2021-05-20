@@ -17,7 +17,7 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
                 Muirgel Briain, 1130-1201
     Ben-Muman Briain, 1181-1249
         Fuacarta Briain, 1162-1228
-            Jacques Wigeriche, 1133-1171
+            Prince Jacques of Lotharingia, 1133-1171
                 King Gottfried II, 1076-1147
                 Ermessinde, 1098-1155
             Aibilin Briain, 1135-1203

@@ -17,7 +17,7 @@ Muiredach mac Flaitheman, 1216-, Briain
             Fingal of Carrick, 1137-1192
                 King Duff, 1110-1176
                 Adelchisa Lantpertidi, 1108-1176
-            Enoguent de Rennes, 1135-1198
+            Ennoguent de Rennes, 1135-1198
                 Morcondeleu de Rennes, 1114-1168
                 Matilda de Vassy, 1114-1189
         Philippa Sigurdr-Lindisfarne, 1153-1221

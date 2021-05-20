@@ -21,6 +21,12 @@ Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
                 Gertrude Ezzonen, 1126-1173
     Eithne Llyn, 1201-1232
         ?
+            ?
+                ?
+                ?
+            ?
+                ?   
+                ?   
         Ben-Mide Llyn, 1159-1229
             Baron Oenucan, 1116-1181
                 ?

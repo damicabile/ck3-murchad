@@ -13,8 +13,8 @@ Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain
                 Hunydd Mathrafal, 1042-1099
         Countess Ite, 1111-1171
             Wigebert von der Lippe, 1064-1125
-                ?Father of Wigebert von der Lippe
-                ?Mother of Wigebert von der Lippe
+                ?
+                ?
             Gormflaith Briain, 1071-1133
                 Muirchertach Briain, 1041-1090
                 Kenna, 1039-1107                

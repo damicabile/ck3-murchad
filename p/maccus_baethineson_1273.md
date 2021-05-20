@@ -17,7 +17,7 @@ Prince Maccus Baethineson of England, 1273-, Briain
                 Ennoguent de Rennes, 1135-1198
             Philippa Sigurdr-Lindisfarne, 1153-1221
                 Ralph Sigurdr-Lindisfarne, 1136-1159
-                Catriona Dunkeld-Dunbar,1136-1206
+                Catriona Dunkeld-Dunbar, 1136-1206
     Queen Marthe, 1240-, Pins
         ?
         ?

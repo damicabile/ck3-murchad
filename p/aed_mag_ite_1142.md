@@ -18,7 +18,7 @@ Aed mag Ite, 1142-1207, Briain
                 ?
             Hunydd Mathrafal, 1042-1099
                 Petty King Bleddyn, 1025-1086
-                Branwen Nwrcelyn
+                Branwen Nwrcelyn, 1025-1052
     Countess Ite, 1111-1171
         Wigebert von der Lippe, 1064-1125
             ?

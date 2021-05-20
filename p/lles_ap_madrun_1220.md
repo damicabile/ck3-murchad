@@ -25,7 +25,7 @@ Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi
                 Petty Queen Gwenllian, 1090-1148
             Ffraid Caerloyw-Penfro, 1145-1208
                 Gruffydd Caerloyw-Penfro, 1116-1177
-                Epiphania Makrembolites, 1111-1186                
+                Epiphania Makrembolites, 1111-1187                
         Heulwen Morgannwg, 1160-1233
             Cadwal Morgannwg, 1141-1209
                 Meiriadog Morgannwg, 1103-1166

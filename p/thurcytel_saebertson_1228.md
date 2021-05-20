@@ -29,11 +29,11 @@ Duke Thurcytel Saeberston of Mercia, 1228-, Briain
                 Countess Mael-Muire, 1125-1195
         Narbflaith gCais-Gaillimhe, 1175-1231
             Earl Udalschalk, 1145-1214
-                Duke Fiachnae, 1125-1184
-                Morien Caerloyw-Tyddewi, 1122-1192
+                Earl Aelfmaer, 1128-1167
+                Aileann Briain, 1128-1184
             Maire gCais-Cruachu, 1145-1219
                 Duke Fiachnae, 1125-1184
-                Morien Caerloyw-Tyddewi, 1122-119
+                Morien Caerloyw-Tyddewi, 1122-1192
                 
 ```
 

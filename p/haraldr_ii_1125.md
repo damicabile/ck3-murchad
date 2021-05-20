@@ -9,7 +9,7 @@ Duke Haraldr II of the Isles, 1125-1213, Crovan
             ?
         Princess Ragnhild, 1045-1110
             King Harald IV, 1015-1082
-            Yelizaveta Rurikid, 1015-1082
+            Yelizaveta Rurikid, 1025-1089
     Duchess Beitris, 1083-1152    
         Duke Gospatric II, 1063-1129
             Duke Gospatric I, 1040-1108

@@ -18,13 +18,21 @@ Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
             High Queen Constance, 1144-1209
                 Prince Randolph I, 1108-1149
                 Lerthan Crovan, 1108-1169
-        Hawise of Hwicce, 1184-1241
-            Alan of Hwicce, 1165-121
-                Nicholas of Hwicce, 1139-1169
-                Hawise Mel, 1138-1200
-            Gunnhildr Crovan, 1153-1192
-                Duke Haraldr II, 1125-1213
-                Duchess Anna, 1116-1180
+    Hawise of Hwicce, 1184-1241
+        Alan of Hwicce, 1165-121
+            Nicholas of Hwicce, 1139-1169
+                Duke Aelfweard I, 1119-1139
+                Duchess Urraca, 1118-1174
+            Hawise Mel, 1138-1200
+                Duke Niall, 1099-1161
+                Duchess Adelaide, 1118-1188
+        Gunnhildr Crovan, 1153-1192
+            Duke Haraldr II, 1125-1213
+                Duke Haraldr I, 1080-1128
+                Duchess Beitris, 1083-1152
+            Duchess Anna, 1116-1180
+                Audvald Stenkyrka, 1066-1128
+                Princess Gunhild, 1087-1152
          
 ```
 

@@ -13,7 +13,7 @@ Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi
     Agata de Lacon
         Filipu de Lacon, 1092-1158
             Paulu de Lacon, 1050-1106
-            ?Mother of Filipu de Lacon
+            Giselle de Normandie, 1074-1140
         Aelfswith Aelfricson, 1118-1173
             Count William, 1026-1081
             Baroness Berthe, 1050-1115

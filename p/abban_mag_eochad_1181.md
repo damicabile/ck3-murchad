@@ -13,8 +13,8 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
                 Elisabet Crovan, 1083-1148
         Gnathnad mac Mathgamna, 1134-1193
             Gilla-na-Naem mac Mathgamna, 1105-1135
-                ?Father of Gilla-na-Naem mac Mathgamna
-                ?Mother of Gilla-na-Naem mac Mathgamna
+                ?
+                ?
             Lady Nest, 1104-1172
                 Lord Cynfyn, 1077-1145
                 Morien Caerloyw-Tyddewi, 1086-1160

@@ -9,8 +9,8 @@ Duke Scellan of Hwicce, 1255-, Briain
                 ?
                 ?
             Effros of Bamburgh, 1166-1236
-                ?
-                ?
+                Eadulf of Bamburgh, 1133-1166
+                Cobflaith Briain, 1149-1219
         Ben-Muman Briain, 1181-1249
             Fuacarta Briain, 1162-1228
                 Prince Jacques of Lotharingia, 1133-1171
