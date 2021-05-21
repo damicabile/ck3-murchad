@@ -47,7 +47,7 @@ Somhairle mag Aengus, 1158-1223, Briain
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## DESCENDANTS
-* [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephanie_baethinedohtor_1276.md)
+* [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephania_baethinedohtor_1276.md)
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl](taithlech_mac_senchan_1243.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)

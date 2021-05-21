@@ -1,8 +1,8 @@
-# Princess Stephanie Baethinedohtor of England, 1276-, Briain
+# Princess Stephania Baethinedohtor of England, 1276-, Briain
 
 ## FAMILY TREE
 ```
-Princess Stephanie Baethinedohtor of England, 1276-, Briain
+Princess Stephania Baethinedohtor of England, 1276-, Briain
     King Baethine Dubhson of England, 1205-1281, Briain
         Dubh Briain, 1183-1234
             Somhairle Briain, 1158-1223

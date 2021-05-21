@@ -1,9 +1,9 @@
-# Princess Eithne nic Baethine of England, 1238-, Briain
+# Queen Eithne nic Baethine of England, 1238-, Briain
 
 ## FAMILY TREE
 ```
-Princess Eithne nic Baethine of England, 1238-, Briain
-    King Baethine, 1205-1281, Briain
+Queen Eithne nic Baethine of England, 1238-, Briain
+    King Baethine, 1205-1281
         Dubh Briain, 1183-1234
             Somhairle Briain, 1158-1223
                 Duke Aengus I, 1123-1190
@@ -18,7 +18,7 @@ Princess Eithne nic Baethine of England, 1238-, Briain
             Philippa Sigurdr-Lindisfarne, 1153-1221
                 Ralph Sigurdr-Lindisfarne, 1136-1159
                 Catriona Dunkeld-Dunbar, 1136-1206
-    Martha Kyle, 1210-, Kyle
+    Martha Kyle, 1210-
         Prince Ewan, 1178-1216
             King Andrew, 1113-1188
                 King Uisdean, 1085-1145

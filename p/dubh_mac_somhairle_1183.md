@@ -49,7 +49,7 @@ Dubh mac Somhairle, 1183-1234, Briain
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
 * [Princess Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
-* [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephanie_baethinedohtor_1276.md)
+* [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephania_baethinedohtor_1276.md)
 
 ## RELATIVES
 

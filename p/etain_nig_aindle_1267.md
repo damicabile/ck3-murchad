@@ -1,8 +1,8 @@
-# Lady Etain nig Aindle of Brycheniog, 1267-, Briain
+# Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain
 
 ## FAMILY TREE
 ```
-Lady Etain nig Aindle of Brycheniog, 1267-, Briain
+Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain
     Lord Aindle, 1242-1268
         Cuan Briain, 1216-1249
             High King Mathieu, 1187-1251

@@ -57,7 +57,7 @@ Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain
 * [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
 * [Earl Bruatur mac Rian of Essex, 1241-, Llewellyn](bruatur_mac_rian_1241.md)
 * [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](senchan_mac_somhairle_1188.md)
-* [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephanie_baethinedohtor_1276.md)
+* [Princess Stephanie Baethinedohtor of England, 1276-, Briain](stephania_baethinedohtor_1276.md)
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
