@@ -39,23 +39,24 @@ Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe
 # REFERENCES
 
 ## ANCESTORS
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
 * [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 
 ## DESCENDANTS
+* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
 * [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
 * [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](gormlaith_nic_gormlaith_1231.md)
-* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
 
 ## RELATIVES
 

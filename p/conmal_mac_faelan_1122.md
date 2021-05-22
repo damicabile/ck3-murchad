@@ -40,16 +40,16 @@ Duke Conmal mac Faelan of Ulster, 1122-1188, Briain
 
 ## ANCESTORS
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## DESCENDANTS
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
 * [Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis](bhatair_mac_sioban_1236.md)
+* [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
 * [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
 * [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
-* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
-* [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
 
 ## RELATIVES
 

@@ -25,9 +25,9 @@ Martha Kyle, 1210-1279, Kyle
 ## ANCESTORS
 
 ## DESCENDANTS
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
+* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
 
 ## RELATIVES
 

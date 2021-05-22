@@ -25,14 +25,14 @@ High King Mathieu de Mousson of Ireland, 1187-1251, Mousson
 ## ANCESTORS
 
 ## DESCENDANTS
-* [Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain](etain_nig_aindle_1267.md)
-* [Duke Buaidbeo mac Cuan of Essex, 1247-, Briain](buaidbeo_mac_cuan_1247.md)
-* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
 * [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](aindle_mac_cuan_1242.md)
-* [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](mael-muire_gormflaithdohtor_1268.md)
+* [Duke Buaidbeo mac Cuan of Essex, 1247-, Briain](buaidbeo_mac_cuan_1247.md)
 * [Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain](coilboth_mag_etain_1287.md)
 * [Earl Cuan mac Cuan of Derby, 1245-, Briain](cuan_mac_cuan_1245.md)
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
+* [Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain](etain_nig_aindle_1267.md)
 * [Petty King Flaithgus mac Cuan of Deheubarth, 1236-, Briain](flaithgus_mac_cuan_1236.md)
+* [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](mael-muire_gormflaithdohtor_1268.md)
 
 ## RELATIVES
 

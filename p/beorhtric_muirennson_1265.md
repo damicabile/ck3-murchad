@@ -36,14 +36,14 @@ Duke Beorhtric Muirennson of Leinster, 1265-, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 * [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
+* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 
 ## DESCENDANTS
 

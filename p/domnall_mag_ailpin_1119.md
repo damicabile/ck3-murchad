@@ -9,9 +9,6 @@ Domnall mag Ailpin, 1119-1180, gCais-Fathain
                 Donnchad Briain, 990-1065
                 Adelais de Ponthieu, 1049-1107
                 ?
-            High King Brian II, 1048-1111
-                High King Murchad, 1027-1095
-                ?
             Adelais de Ponthieu, 1049-1107
                 Enguerrand de Ponthieu, 1026-1053
                 Adelaide de Normandie, 1029-1084
@@ -39,3 +36,19 @@ Domnall mag Ailpin, 1119-1180, gCais-Fathain
 
 Process finished with exit code 0
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+
+#### END REFERENCES

@@ -42,6 +42,7 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
 ## ANCESTORS
 * [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
 * [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
 
 ## DESCENDANTS
 

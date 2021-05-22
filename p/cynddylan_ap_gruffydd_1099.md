@@ -21,6 +21,7 @@ Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro
 # REFERENCES
 
 ## ANCESTORS
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
 ## DESCENDANTS
 * [Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro](riaged_ap_cynddylan_1169.md)

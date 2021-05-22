@@ -39,17 +39,17 @@ Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha
 # REFERENCES
 
 ## ANCESTORS
-* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](mathieu_de_mousson_1187.md)
-* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
-* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
+* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
+* [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](mathieu_de_mousson_1187.md)
+* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
 
 ## DESCENDANTS
 

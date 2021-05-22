@@ -1,6 +1,5 @@
 # DINASTIES 
 
-
 - [Murchad mac Donnchad of Munster, 1069](d/1069.md)
 - [Murchad Mac Donnchad of Munster, 1089](d/1089.md)
 - [Petty King Brian II mac Murchad of Munster, 1095](d/1095.md)

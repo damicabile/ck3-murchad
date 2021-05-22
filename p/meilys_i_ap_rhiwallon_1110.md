@@ -34,3 +34,25 @@ Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
                 ?
                 ?
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+
+## DESCENDANTS
+* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
+* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
+* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
+* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](senchan_mac_somhairle_1188.md)
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1154.md](../h/1154.md)
+
+#### END REFERENCES

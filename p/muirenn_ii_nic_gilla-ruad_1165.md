@@ -39,18 +39,18 @@ Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
 # REFERENCES
 
 ## ANCESTORS
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 * [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 
 ## DESCENDANTS
-* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 * [Aed mac Muirenn, 1209-1281, Briain](aed_mac_muirenn_1209.md)
+* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 * [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](mael-muire_gormflaithdohtor_1268.md)
 
 ## RELATIVES

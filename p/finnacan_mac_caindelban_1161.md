@@ -42,15 +42,15 @@ Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran
 ## ANCESTORS
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## DESCENDANTS
 * [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
-* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
-* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
 * [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got](cainchomrac_tailefhlaith_1231.md)
+* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
 
 ## RELATIVES
 

@@ -39,13 +39,13 @@ Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 * [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
-* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
+* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 
 ## DESCENDANTS
 

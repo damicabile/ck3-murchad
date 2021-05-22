@@ -39,10 +39,10 @@ Lady Catriona nic Bruatur of Ceredigion, 1261-, Llewellyn
 # REFERENCES
 
 ## ANCESTORS
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](rian_ii_mag_aengus_1208.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn](aengus_ii_mac_finneacht_1177.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+* [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](rian_ii_mag_aengus_1208.md)
 
 ## DESCENDANTS
 

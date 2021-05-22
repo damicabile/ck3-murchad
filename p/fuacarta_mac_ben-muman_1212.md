@@ -36,8 +36,8 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## DESCENDANTS
 * [Duke Scellan of Hwicce, 1255-, Briain](scellan_1255.md)

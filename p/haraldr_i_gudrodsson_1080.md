@@ -34,3 +34,20 @@ Duke Haraldr I Gudrodsson of the Isles, 1080-1128, Crovan
                 King Olafr, 980-1022
                 Astrid Bodricz, 979-1006
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+
+## DESCENDANTS
+* [Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain](cnes_nic_labraid_1207.md)
+* [Duke Haraldr II of the Isles, 1125-1213, Crovan](haraldr_ii_1125.md)
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1154.md](../h/1154.md)
+
+#### END REFERENCES

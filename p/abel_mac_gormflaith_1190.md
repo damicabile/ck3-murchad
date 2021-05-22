@@ -40,19 +40,20 @@ King Abel mac Gormflaith of Ireland, 1190-1269, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 
 ## DESCENDANTS
 * [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+* [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](cathalan_mag_abel_1220.md)
 * [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
 * [Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain](cathan_cathandohtor_1247.md)
+* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
 * [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](mael-muire_gormflaithdohtor_1268.md)
 
 ## RELATIVES

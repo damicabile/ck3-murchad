@@ -39,25 +39,25 @@ Somhairle mag Aengus, 1158-1223, Briain
 # REFERENCES
 
 ## ANCESTORS
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 
 ## DESCENDANTS
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
-* [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
-* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](senchan_mac_somhairle_1188.md)
-* [King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl](taithlech_mac_senchan_1243.md)
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
-* [Princess Stephania Baethinedohtor of England, 1276-, Briain](stephania_baethinedohtor_1276.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
+* [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
+* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](senchan_mac_somhairle_1188.md)
+* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
+* [Princess Stephania Baethinedohtor of England, 1276-, Briain](stephania_baethinedohtor_1276.md)
+* [King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl](taithlech_mac_senchan_1243.md)
 
 ## RELATIVES
 
