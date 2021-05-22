@@ -106,6 +106,8 @@
 - [Gormflaith nic Caindelban](p/gormflaith_nic_caindelban_1171.md) (1171-1253), *High Queen of Ireland, Briain*
 - [Gormlaith nic Dunlaith](p/gormlaith_nic_dunlaith_1214.md) (1214-1283), *Countess of Ui Mhaine, gCais-Gaillimhe*
 - [Gormlaith nic Gormlaith](p/gormlaith_nic_gormlaith_1231.md) (1231-), *Countess of Ui-Mhaine, gCais-Gaillimhe*
+- [Gruffydd III ap Maredudd](p/gruffydd_iii_ap_maredudd_1064.md) (1064-1140), *Petty King of Deheubarth, Caerloyw-Penfro*
+- [Gruffydd ap Maredudd](p/gruffydd_ap_maredudd_1116.md) (1116-1177), *Caerloyw-Penfro*
 - [Gwerfyl ferch Meilys](p/gwerfyl_ferch_meilys_1180.md) (1180-1248), *Lady of Merionnydd, Ynys Cybi*
 - [Haer](p/haer_1132.md) (1132-1197), *Brycheiniog*
 - [Haraldr II](p/haraldr_ii_1125.md) (1125-1213), *Duke of the Isles, Crovan*

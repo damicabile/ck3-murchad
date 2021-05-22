@@ -35,19 +35,23 @@ Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
                 Muirgel Briain, 1130-1201
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 * [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 
 ## DESCENDANTS
+* [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](beorhtric_muirennson_1265.md)
+* [King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl](taithlech_mac_senchan_1243.md)
 
 ## RELATIVES
 
@@ -56,8 +60,3 @@ Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
 * [1278.md](../h/1278.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

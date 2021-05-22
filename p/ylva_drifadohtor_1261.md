@@ -34,3 +34,21 @@ Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin
                 Brynjulf Yngling-Konungahella, 1146-1167
                 Countess Ragna, 1147-1209
 ```
+
+
+# REFERENCES
+
+## ANCESTORS
+* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+
+## DESCENDANTS
+
+## RELATIVES
+
+##### END RELATIVES 
+## HISTORY
+* [1294.md](../h/1294.md)
+
+#### END REFERENCES

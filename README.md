@@ -4,4 +4,6 @@
 
 [PEOPLE](people.md)
 
-[DINASTIES](dinasties.md)
+[DINASTIES](trees.md)
+
+[HOUSES](houses.md)

@@ -20,6 +20,7 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
         ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -36,8 +37,3 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
 * [1167.md](../h/1167.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

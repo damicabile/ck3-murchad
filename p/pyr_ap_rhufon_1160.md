@@ -39,6 +39,7 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
                 Duchess Matheode, 1034-1075
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -47,8 +48,9 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 ## DESCENDANTS
 * [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
 * [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](cathalan_mag_abel_1220.md)
-* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
 * [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
+* [Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain](cathan_cathandohtor_1247.md)
 
 ## RELATIVES
 
@@ -59,8 +61,3 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 * [1186_2.md](../h/1186_2.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

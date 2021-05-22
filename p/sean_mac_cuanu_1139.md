@@ -32,6 +32,7 @@ Sean mac Cuanu, 1139-1209, Laighin
                 ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -48,8 +49,3 @@ Sean mac Cuanu, 1139-1209, Laighin
 * [1167.md](../h/1167.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

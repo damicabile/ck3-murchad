@@ -35,16 +35,17 @@ Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
                 Duchess Matheode, 1034-1075
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
 
 ## DESCENDANTS
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
 * [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
+* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
+* [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 
 ## RELATIVES
 
@@ -56,8 +57,3 @@ Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
 * [1209.md](../h/1209.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

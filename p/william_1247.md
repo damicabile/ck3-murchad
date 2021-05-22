@@ -23,6 +23,7 @@ Duke William of Guoladat, 1247-, Sigurdr-York
         ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -34,10 +35,6 @@ Duke William of Guoladat, 1247-, Sigurdr-York
 ##### END RELATIVES 
 ## HISTORY
 * [1278.md](../h/1278.md)
+* [1294.md](../h/1294.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

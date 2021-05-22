@@ -17,6 +17,7 @@ Earl Sean mac Brian of Oriel, 1101-1135, Laighin
         ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -32,8 +33,3 @@ Earl Sean mac Brian of Oriel, 1101-1135, Laighin
 ## HISTORY
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

@@ -7,6 +7,7 @@ Earl Flanchad of Lincolnshire, 1231-, Michael
     ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -18,10 +19,6 @@ Earl Flanchad of Lincolnshire, 1231-, Michael
 ##### END RELATIVES 
 ## HISTORY
 * [1278.md](../h/1278.md)
+* [1294.md](../h/1294.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

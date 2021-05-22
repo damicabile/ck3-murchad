@@ -36,6 +36,7 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
                 ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
@@ -52,8 +53,3 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
 * [1186.md](../h/1186.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

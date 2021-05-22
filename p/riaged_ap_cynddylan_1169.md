@@ -19,12 +19,14 @@ Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
             Countess Cobflaith, 1101-1176
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 * [Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro](cynddylan_ap_gruffydd_1099.md)
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## DESCENDANTS
 
@@ -37,8 +39,3 @@ Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
 * [1186_2.md](../h/1186_2.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-

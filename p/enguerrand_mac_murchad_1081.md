@@ -21,18 +21,19 @@ Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis
             ?
 ```
 
+
 # REFERENCES
 
 ## ANCESTORS
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 
 ## DESCENDANTS
-* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
+* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](ben-ulad_nic_deirdre_1152.md)
 * [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
 * [Murchad mag Enguerrand, 1102-1164, gCais-Inis](murchad_mag_enguerrand_1102.md)
 * [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
-* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](ben-ulad_nic_deirdre_1152.md)
+* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
+* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
 
 ## RELATIVES
 
@@ -41,8 +42,3 @@ Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis
 * [1154.md](../h/1154.md)
 
 #### END REFERENCES
-
-# PORTRAITS
-
-#### END PORTRAITS
-
