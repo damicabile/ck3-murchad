@@ -66,6 +66,7 @@
 - [Dimmasach mag Aine](p/dimmasach_mag_aine_1218.md) (1218-1279), *Earl of Hertfordshire, Got*
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
+- [Domnall mag Ailpin](p/domnall_mag_ailpin_1119.md) (1119-1180), *gCais-Fathain*
 - [Donnchad mac Murchad](p/donnchad_mac_murchad_1068.md) (1068-1109), *Earl of Ailech, Briain*
 - [Dubh mac Somhairle](p/dubh_mac_somhairle_1183.md) (1183-1234), *Briain*
 - [Efyrddyl ferch Gruffydd](p/efyrddyl_ferch_gruffydd_1124.md) (1124-1194), *Seisyll*
@@ -96,6 +97,7 @@
 - [Flaitheman nic Caindelban](p/flaitheman_nic_caindelban_1175.md) (1175-1237)*, Prince of Ireland, Briain*
 - [Flaithgus mac Cuan](p/flaithgus_mac_cuan_1236.md) (1236-), *Petty King of Deheubarth, Briain*
 - [Flanchad](p/flanchad_1231.md) (1231-), *Earl of Lincolnshire,  Michael*
+- [Flann nig Olav](p/flann_nig_olav_1097.md) (1097-1161), *Countess of Ui Mhaine, Vedrafjord*
 - [Fuacarta mac Ben-Muman](p/fuacarta_mac_ben-muman_1212.md) (1212-1267), *Earl of Leicestershire, Briain*
 - [Gelgeis nic Gnathnad](p/gelgeis_nic_gnathnad_1217.md) (1217-1277), *Countess of Athlone, Briain*
 - [Gilla-Ruad mac Conchenn](p/gilla-ruad_mac_conchenn_1182.md) (1182-1238), *Earl of Ui Mhaine, gCais-Gaillimhe*
@@ -110,6 +112,7 @@
 - [Gruffydd ap Maredudd](p/gruffydd_ap_maredudd_1116.md) (1116-1177), *Caerloyw-Penfro*
 - [Gwerfyl ferch Meilys](p/gwerfyl_ferch_meilys_1180.md) (1180-1248), *Lady of Merionnydd, Ynys Cybi*
 - [Haer](p/haer_1132.md) (1132-1197), *Brycheiniog*
+- [Haraldr I Gudrodsson](p/haraldr_i_gudrodsson_1080.md) (1080-1128), *Duke of the Isles, Crovan*
 - [Haraldr II](p/haraldr_ii_1125.md) (1125-1213), *Duke of the Isles, Crovan*
 - [Harold Mael-Ciarainson](p/harald_mael-ciarainson_1176.md) (1176-1237), *Briain*
 - [Humbert mac Muirenn](p/humbert_mac_muirenn_1258.md) (1258-), *Earl of Oriel, gCais-Macclesfield*
@@ -132,6 +135,7 @@
 - [Martha Kyle](p/martha_kyle_1210.md) (1210-1279), *Kyle*
 - [Mauda nic Morien](p/mauda_nic_morien_1199.md) (1199-1272), *Mayor of Tirsa, Briain*
 - [Mathieu de Mousson](p/mathieu_de_mousson_1187.md) (1187-1251), *High King of Ireland, Mousson*
+- [Meilys I ap Rhiwallon](p/meilys_i_ap_rhiwallon_1110.md) (1110-1165), *Duke of Powys, gCais-Fathain*
 - [Meilys II ab Owain](p/meilys_ii_ab_owain_1163.md) (1163-1181), *Duke of Powys, Ynys-Cybi*
 - [Morien](p/morien_1226.md) (1226-), *Duchess of Lancaster, gClais-Macclesfield*
 - [Morien nic Finneacht](p/morien_nic_finneacht_1183.md) (1183-1251), *LLewellyn*
