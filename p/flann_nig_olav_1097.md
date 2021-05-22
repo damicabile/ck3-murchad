@@ -24,7 +24,7 @@ Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord
     Flann ua Neill Noigiallaich, 1076-1143
         Earl Flaithbertach, 1045-1110
             Earl Domnall, 1027-1098
-                Earl Aed, 1078-1147
+                Earl Aed, 1006-1033
                 ?
             ?
                 ?

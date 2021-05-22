@@ -6,8 +6,7 @@ Domnall mag Ailpin, 1119-1180, gCais-Fathain
     Earl Ailpin, 1101-1136
         Earl Donnchad, 1068-1109
             High King Murchad, 1027-1095
-                Donnchad Briain, 990-1065
-                Adelais de Ponthieu, 1049-1107
+                Donnchad Briain, 990-1065  
                 ?
             Adelais de Ponthieu, 1049-1107
                 Enguerrand de Ponthieu, 1026-1053

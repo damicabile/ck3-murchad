@@ -3,22 +3,30 @@
 ## FAMILY TREE
 ```
 Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis
-    High King Brian II, 1048-1111
-        High King Murchad, 1027-1095
-            Donnchad Briain, 990-1065
-                High King Brian, 941-1014
-                Gormflaith nic Murchad, 953-1030
-            ?
+    High King Murchad, 1027-1095
+        Donnchad Briain, 990-1065
+            King Brian, 941-1014
+                Earl Cennetig, 880-951
+                Bebinn ua Briuin Seola, 895-965
+            Gormflaith nic Murchad, 953-1030
+                Earl Murchad, 911-972
+                ?
         ?
-            ?
-            ?
     Adelais de Ponthieu, 1049-1107
         Enguerrand de Ponthieu, 1026-1053
             Hugues de Ponthieu, 1001-1052
+                Enguerrand de Ponthieu, 985-1048
+                ?
             Bertha d'Aumale, 1002-1055
+                Guerinfrey d'Aumale, 966-1030
+                ?
         Adelaide de Normandie, 1029-1084
             Duke Robert, 1002-1055
+                Duke Richard II, 974-1026
+                Judhael de Rennes, 982-1017
             ?
+                ?
+                ?
 ```
 
 

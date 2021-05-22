@@ -5,6 +5,7 @@
 - [Abel mac Gormflaith](p/abel_mac_gormflaith_1190.md) (1190-1269 ), *King of Ireland, Briain*
 - [Adomnan mac Maire](p/adomnan_mac_maire_1162.md) (1162-1219), *Earl of Ui Mhaine, gCais-Gaillimhe*
 - [Aed Barrdubson](p/aed_barrdubson_1261.md) (1261-), *Earl of West Riding,  Got*
+- [Aed mac Domnall](p/aed_mac_domnall_1078.md) (1078-1147), *Earl of Ennis, Neill Noigiallaich*
 - [Aed mac Muirenn](p/aed_mac_muirenn_1209.md) (1209-1281), *Briain*
 - [Aed mac Narbflaith](p/aed_mac_narbflaith_1202.md) (1202-1263), *Got*
 - [Aed mag Ite](p/aed_mag_ite_1142.md) (1142-1207), *Briain*
@@ -25,6 +26,7 @@
 - [Bhatair mac Sioban](p/bhatair_mac_sioban_1236.md) (1236-1269), *Duke of Deira, gCais-Inis*
 - [Brian II mac Murchad](p/brian_ii_mac_murchad_1048.md) (1048-1111), *High King of Munster, Briain*
 - [Briccene mac Conmal](p/briccene_mac_conmal_1158.md) (1158-1209)*, gCais-Padraig*
+- [Bruatur mac Enguerrand](p/bruatur_mac_enguerrand_1108.md) (1108-1135), *gCais-Inis*
 - [Bruatur mac Rian](p/bruatur_mac_rian_1241.md) (1241-), *Earl of Essex, Llewellyn*
 - [Buaidbeo mac Cuan](p/buaidbeo_mac_cuan_1247.md) (1247-), *Duke of Essex, Briain*
 - [Cacht nic Morien](p/cacht_nic_morien_1201.md) (1201-1255), *Briain*
@@ -118,6 +120,7 @@
 - [Humbert mac Muirenn](p/humbert_mac_muirenn_1258.md) (1258-), *Earl of Oriel, gCais-Macclesfield*
 - [Hunydd ferch Bleddyn](p/hunydd_ferch_bleddyn_1042.md) (1042-1099), *Mathrafal*
 - [Hywela ferch Lles](p/hywela_ferch_lles_1242.md) (1242-), *Lady of Merionnydd, Ynys Cybi*
+- [Idwal ap Gruffydd](p/idwal_ap_gruffydd_1054.md) (1054-1112), *Earl of Perfeddwlad, Seisyll*
 - [Iorwerth ap Gwenllian](p/iorwerth_ap_gwenllian_1129.md) (1129-1191), *Lord of Morgannwg, Caerloyw-Tyddewi*
 - [Labraid mac Gormflaith](p/labraid_mac_gormflaith_1188.md) (1188-1257), *Prince of Ireland, Briain*
 - [Laidine mac Narbflaith](p/laidine_mac_narbflaith_1200.md) (1200-1231), *Got*

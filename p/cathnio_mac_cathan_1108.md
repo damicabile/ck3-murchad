@@ -6,7 +6,7 @@
 Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain
     Earl Aed, 1078-1147
         Earl Domnall, 1027-1098
-            Earl Aed, 1078-1147
+            Earl Aed, 1006-1033
                 Earl Flaithbertach, 976-1036
                 Bebinn Briain, 989-1072
             ?

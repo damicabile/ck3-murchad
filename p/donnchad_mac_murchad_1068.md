@@ -5,7 +5,7 @@
 Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain
     High King Murchad, 1027-1095
         Donnchad Briain, 990-1065
-            High King Brian, 941-1014
+            King Brian, 941-1014
             Gormflaith nic Murchad, 953-1030
         ?
             ?
