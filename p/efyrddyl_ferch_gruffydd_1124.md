@@ -19,6 +19,7 @@ Efyrddyl ferch Gruffydd, 1124-1194, Seisyll
 # REFERENCES
 
 ## ANCESTORS
+* [Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll](idwal_ap_gruffydd_1054.md)
 
 ## DESCENDANTS
 

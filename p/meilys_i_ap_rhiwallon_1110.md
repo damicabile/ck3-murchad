@@ -40,6 +40,7 @@ Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
 
 ## ANCESTORS
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
+* [Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll](idwal_ap_gruffydd_1054.md)
 
 ## DESCENDANTS
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)

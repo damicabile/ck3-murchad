@@ -99,6 +99,7 @@ Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 
 ##### END RELATIVES 
 ## HISTORY
+* [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)
 

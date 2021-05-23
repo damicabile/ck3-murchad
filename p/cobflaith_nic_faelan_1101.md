@@ -87,6 +87,7 @@ Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain
 
 ##### END RELATIVES 
 ## HISTORY
+* [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)
 * [1186.md](../h/1186.md)
 * [1278.md](../h/1278.md)

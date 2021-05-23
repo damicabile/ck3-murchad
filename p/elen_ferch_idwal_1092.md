@@ -39,6 +39,7 @@ Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
 # REFERENCES
 
 ## ANCESTORS
+* [Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll](idwal_ap_gruffydd_1054.md)
 
 ## DESCENDANTS
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn](aengus_ii_mac_finneacht_1177.md)
@@ -66,6 +67,7 @@ Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
 
 ##### END RELATIVES 
 ## HISTORY
+* [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)
 
 #### END REFERENCES

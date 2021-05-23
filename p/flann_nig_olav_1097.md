@@ -42,6 +42,7 @@ Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord
 # REFERENCES
 
 ## ANCESTORS
+* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
 
 ## DESCENDANTS
 * [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
@@ -58,6 +59,7 @@ Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord
 
 ##### END RELATIVES 
 ## HISTORY
+* [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)
 
 #### END REFERENCES

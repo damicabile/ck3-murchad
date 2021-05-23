@@ -103,6 +103,7 @@ High King Faelan mac Brian of Ireland, 1084-1136, Briain
 
 ##### END RELATIVES 
 ## HISTORY
+* [1133.md](../h/1133.md)
 * [1141.md](../h/1141.md)
 * [1278.md](../h/1278.md)
 

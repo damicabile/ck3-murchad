@@ -50,5 +50,6 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)
+* [1308.md](../h/1308.md)
 
 #### END REFERENCES
