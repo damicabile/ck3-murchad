@@ -81,6 +81,7 @@
 - [Eochad mag Abban](p/eochad_mag_abban_1163.md) (1163-1191), *Briain*
 - [Eochucan mac Mauda](p/eochucan_mac_mauda_1234.md) (1234-1269), *Duke of Lancaster, Briain*
 - [Eonagan mag Ellbrig](p/eonagan_mag_ellbrig_1193.md) (1193-1260), *Earl of Briefne, gCais-Inis*
+- [Ermessinde](p/ermessinde_1264.md) (1264-), *Duchess of East Anglia, Adelsward*
 - [Ernad Seonaidson](p/ernad_seonaidson_1245.md) (1245-), *Earl of Warwickshire, Briain*
 - [Etain nig Aindle](p/etain_nig_aindle_1267.md) (1267-1290), *Lady of Brycheniog, Briain*
 - [Ewan](p/ewan_1232.md) (1232-1298), *Duke of East Anglia, Briain*
@@ -103,7 +104,7 @@
 - [Gelgeis nic Gnathnad](p/gelgeis_nic_gnathnad_1217.md) (1217-1277), *Countess of Athlone, Briain*
 - [Gilla-Ruad mac Conchenn](p/gilla-ruad_mac_conchenn_1182.md) (1182-1238), *Earl of Ui Mhaine, gCais-Gaillimhe*
 - [Gilla-Ruad mac Fiachnae](p/gilla-ruad_mac_fiachnae_1142.md) (1142-1204)*, gCais-Cruachu*
-- [Glenn mac Mael-Ruanaid](p/glenn_mac_mael-ruanaid_1242.md) (1242-), *Earl of Desmond, Braenain*
+- [Glenn mac Mael-Ruanaid](p/glenn_mac_mael-ruanaid_1242.md) (1242-1300), *Earl of Desmond, Braenain*
 - [Gnathnad nic Garb](p/gnathnad_nic_garb_1191.md) (1191-1219), *Countess of Athlone, Briain*
 - [Gormflaith Abeldohtor](p/gormflaith_abeldohtor_1211.md) (1211-1274), *Princess of Ireland, Briain*
 - [Gormflaith nic Caindelban](p/gormflaith_nic_caindelban_1171.md) (1171-1253), *High Queen of Ireland, Briain*
@@ -111,6 +112,7 @@
 - [Gormlaith nic Gormlaith](p/gormlaith_nic_gormlaith_1231.md) (1231-), *Countess of Ui-Mhaine, gCais-Gaillimhe*
 - [Gruffydd III ap Maredudd](p/gruffydd_iii_ap_maredudd_1064.md) (1064-1140), *Petty King of Deheubarth, Caerloyw-Penfro*
 - [Gruffydd ap Maredudd](p/gruffydd_ap_maredudd_1116.md) (1116-1177), *Caerloyw-Penfro*
+- [Gruoch nic Glenn](p/gruoch_nic_glenn_1273.md) (1273-), *Duchess of Munster, Braenain*
 - [Gwerfyl ferch Meilys](p/gwerfyl_ferch_meilys_1180.md) (1180-1248), *Lady of Merionnydd, Ynys Cybi*
 - [Haer](p/haer_1132.md) (1132-1197), *Brycheiniog*
 - [Haraldr I Gudrodsson](p/haraldr_i_gudrodsson_1080.md) (1080-1128), *Duke of the Isles, Crovan*
@@ -146,13 +148,14 @@
 - [Muirenn I nic Gilla-Ruad](p/muirenn_i_nic_gilla-ruad_1165.md) (1165-1230), * gCais-Cruachu*
 - [Muirenn II nic Gilla-Ruad](p/muirenn_ii_nic_gilla-ruad_1165.md) (1165-1222), *Duchess of Ulster, gCais-Cruachu*
 - [Muiredach mac Flaitheman](p/muiredach_mac_flaitheman_1216.md) (1216-1281), *Briain*
+- [Muirenn II nic Pierre](p/muirenn_ii_nic_pierre_1275.md) (1275-), *Duchess of Lancaster,  Congalaigh*
 - [Muirenne nic Pierre](p/muirenne_nic_pierre_1275.md) (1275-), *Duchess of Ulster, gCais-Macclesfield*
 - [Murchad mag Enguerrand](p/murchad_mag_enguerrand_1102.md) (1102-1164), *gCais-Inis*
 - [Natfraich mag Aine](p/natfraich_mag_aine_1224.md) (1224-1274), *Duke of Ulster, Got*
 - [Natfraich mac Morien](p/natfraich_mac_morien_1218.md) (1218-1282), *Earl of Ailech, Briain*
 - [Nest ferch Morien](p/nest_ferch_morien_1104.md) (1104-1172), *Lady of Eryri, Caerloyw-Tyddewi*
 - [Niallan Mac Farannan](p/niallan_mac_farannan_1217.md) (1217-1279), *Duke of Powys, Briain*
-- [Pierre mac Muirenn](p/pierre_mac_muirenn_1256.md) (1256-), *Duke of Ulster, gCais-Macclesfield*
+- [Pierre mac Muirenn](p/pierre_mac_muirenn_1256.md) (1256-1282), *Duke of Ulster, gCais-Macclesfield*
 - [Pyr ap Rhufon](p/pyr_ap_rhufon_1160.md) (1160-1228), *Caerloyw-Penfro*
 - [Rhufon ap Gruffydd](p/rhufon_ap_gruffydd_1140.md) (1140-1166), *Petty King of Deheubarth, Caerloyw-Penfro*
 - [Rian I ab Aengus](p/rian_i_ab_aengus_1144.md) (1144-1211), *Duke of Meath, LLewellyn*

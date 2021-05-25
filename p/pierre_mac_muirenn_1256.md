@@ -1,8 +1,8 @@
-# Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
+# Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield
 
 ## FAMILY TREE
 ```
-Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
+Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield
     Duke Natfraich, 1224-1274
         Laidine Got, 1200-1231
             Dimmasach Got, 1173-1243

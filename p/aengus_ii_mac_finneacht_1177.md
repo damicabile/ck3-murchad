@@ -16,7 +16,7 @@ Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
                 Lord Meilys, 1047-1101
                 Eadhild, 1050-1114
             Lady Elen, 1092-1174
-                Earl Idwal, 1054-1112
+                Earl Idwal, 1054-111211121112
                 Sioned Ynys Cybi, 1048-1114
     Duchess Finneacht, 1143-1205
         Duke Fiachnae, 1125-1184

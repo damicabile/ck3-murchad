@@ -1,9 +1,9 @@
-# Earl Glenn mac Mael-Ruanaid of Desmond, 1242-, Braenain
+# Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain
 
 ## FAMILY TREE
 ```
-Earl Glenn mac Mael-Ruanaid of Desmond, 1242-, Braenain
-    Mormaer Mael-Runaid, 1220-1262
+Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain
+    Earl Mael-Ruanaid, 1220-1262
         Flaitheman Briain, 1175-1237
             High King Caindelban II, 1147-1227
                 High King Caindelban I, 1114-1186
@@ -18,8 +18,8 @@ Earl Glenn mac Mael-Ruanaid of Desmond, 1242-, Braenain
             Philippa Sigurdr-Lindisfarne, 1153-1221
                 Ralph Sigurdr-Lindisfarne, 1136-1159
                 Catriona Dunkeld-Dunbar, 1136-1206
-    Maisie Cetchatach-Banff, 1223-
-        Talore Cetchatach-Banff, 1203-1255
+    Maisie Cetchathach-Banff, 1223-1301
+        Talore Cetchathach-Banff, 1203-1255
             Earl Donnucan, 1176-1207
                 Mormaer Culdub, 1146-1200
                 Tomnat de Penthievre, 1141-1213

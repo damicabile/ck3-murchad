@@ -16,7 +16,7 @@ King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
                 Lord Meilys, 1047-1101
                 Eadhild, 1050-1114
             Lady Elen, 1092-1174
-                Earl Idwal, 1054-1112
+                Earl Idwal, 1054-111211121112
                 Sioned Ynys Cybi, 1048-1114
     Heulwen Ynys Cybi, 1158-1208
         Duke Owain II, 1139-1166

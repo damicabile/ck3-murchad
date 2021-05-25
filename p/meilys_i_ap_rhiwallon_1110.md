@@ -19,7 +19,7 @@ Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
                 ?
                 ?
     Lady Elen, 1092-1174
-        Earl Idwal, 1054-1112
+        Earl Idwal, 1054-111211121112
             Petty King Gruffydd I, 1003-1063
                 Petty King Llywelyn, 978-1023
                 Angharad Dinefwr, 978-1025
