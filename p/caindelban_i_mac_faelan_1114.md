@@ -90,7 +90,7 @@ High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
 * [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
 * [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
 * [Princess Morien nic Lorcan of England, 1221-1290, Briain](morien_nic_lorcan_1221.md)
-* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_mac_flaitheman_1216.md)
+* [Muiredach mac Flaitheman, 1216-1281, Briain](muiredach_mac_flaitheman_1216.md)
 * [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 * [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)

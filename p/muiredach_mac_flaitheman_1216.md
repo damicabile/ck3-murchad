@@ -1,9 +1,9 @@
-# Muiredach mac Flaitheman, 1216-, Briain
+# Muiredach mac Flaitheman, 1216-1281, Briain
 
 ## FAMILY TREE
 
 ```
-Muiredach mac Flaitheman, 1216-, Briain
+Muiredach mac Flaitheman, 1216-1281, Briain
     Flaitheman Briain, 1175-1237
         High King Caindelban II, 1147-1227
             High King Caindelban I, 1114-1186

@@ -40,6 +40,7 @@ Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
 
 ## ANCESTORS
 * [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
+* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
 
 ## DESCENDANTS
 * [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)

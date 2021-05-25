@@ -87,7 +87,7 @@ Elisabet Gudrodsdatter, 1083-1148, Crovan
 * [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
 * [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
 * [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
-* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_mac_flaitheman_1216.md)
+* [Muiredach mac Flaitheman, 1216-1281, Briain](muiredach_mac_flaitheman_1216.md)
 * [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 * [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
 * [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)

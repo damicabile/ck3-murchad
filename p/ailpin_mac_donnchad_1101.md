@@ -35,7 +35,6 @@ Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain
 # REFERENCES
 
 ## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 * [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
 
 ## DESCENDANTS

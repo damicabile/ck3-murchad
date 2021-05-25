@@ -50,7 +50,7 @@ Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 
 ## DESCENDANTS
 * [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-, Braenain](glenn_mac_mael-ruanaid_1242.md)
-* [Muiredach mac Flaitheman, 1216-, Briain](muiredach_mac_flaitheman_1216.md)
+* [Muiredach mac Flaitheman, 1216-1281, Briain](muiredach_mac_flaitheman_1216.md)
 
 ## RELATIVES
 
