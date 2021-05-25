@@ -49,7 +49,7 @@ Duke Liam II of Northumbria, 1214-1271, Briain
 * [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 
 ## DESCENDANTS
-* [Duke Ewan of East Anglia, 1232-, Briain](ewan_1232.md)
+* [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
 
 ## RELATIVES
 

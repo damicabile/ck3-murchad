@@ -56,7 +56,7 @@ Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe
 * [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
 * [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
 * [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](gormlaith_nic_gormlaith_1231.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 * [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](ylva_drifadohtor_1261.md)
 
 ## RELATIVES

@@ -51,7 +51,7 @@ Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 * [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
 * [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 
 ## RELATIVES
 

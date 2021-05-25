@@ -44,7 +44,7 @@ Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc
 * [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
 
 ## DESCENDANTS
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc](clydog_ap_talorc_1227.md)
+* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 * [Lord Sion ab Augustin of Eryri, 1224-1232, Ruairc](sion_ab_augustin_1224.md)
 * [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](talorc_ab_aine_1200.md)
 

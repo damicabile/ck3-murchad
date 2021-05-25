@@ -52,9 +52,9 @@ Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain
 * [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](gormlaith_nic_gormlaith_1231.md)
 * [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 * [Duke Scellan of Hwicce, 1255-, Briain](scellan_1255.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 
 ## RELATIVES
 

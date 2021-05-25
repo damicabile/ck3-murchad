@@ -40,7 +40,7 @@ Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin
 
 ## ANCESTORS
 * [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 * [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
 
 ## DESCENDANTS

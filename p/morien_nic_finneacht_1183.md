@@ -58,11 +58,11 @@ Morien nic Finneacht, 1183-1251, LLewellyn
 * [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
 * [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
-* [Duke Eochucan mac Mauda of Lancaster, 1234-, Briain](eochucan_mac_mauda_1234.md)
+* [Duke Eochucan mac Mauda of Lancaster, 1234-1269, Briain](eochucan_mac_mauda_1234.md)
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 * [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 * [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](muirenne_nic_pierre_1275.md)
 * [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
 

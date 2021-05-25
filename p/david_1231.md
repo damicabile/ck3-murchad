@@ -1,8 +1,8 @@
-# Earl David of Berkshire, 1231-, Clare
+# Earl David of Berkshire, 1231-1279, Clare
 
 ## FAMILY TREE
 ```
-Earl David of Berkshire, 1231-, Clare
+Earl David of Berkshire, 1231-1279, Clare
     David de Clare, 1209-1241
         Earl John, 1185-1244
             Earl William, 1168-1187

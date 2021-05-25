@@ -1,9 +1,9 @@
-# Duke Thurcytel Saeberston of Mercia, 1228-, Briain
+# Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain
 
 ## FAMILY TREE
 
 ```
-Duke Thurcytel Saeberston of Mercia, 1228-, Briain
+Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain
     Earl Saebert, 1203-1261
         Harold Briain, 1176-1237
             Mael-Ciarain Briain, 1153-1227

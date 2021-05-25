@@ -32,7 +32,7 @@ Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi
 ## DESCENDANTS
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](aine_ferch_sithmaith_1169.md)
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc](clydog_ap_talorc_1227.md)
+* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 * [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
 * [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)

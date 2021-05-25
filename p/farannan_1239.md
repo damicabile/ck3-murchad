@@ -1,8 +1,8 @@
-# Duke Farannan of Munster, 1239-, gCais-Mathrafal
+# Duke Farannan of Munster, 1239-1299, gCais-Mathrafal
 
 ## FAMILY TREE
 ```
-Duke Farannan of Munster, 1239-, gCais-Mathrafal
+Duke Farannan of Munster, 1239-1299, gCais-Mathrafal
     Duke Niallan, 1217-1279
         Earl Farannan, 1179-1238
             Aed Briain, 1142-1207
@@ -54,6 +54,7 @@ Duke Farannan of Munster, 1239-, gCais-Mathrafal
 
 ##### END RELATIVES 
 ## HISTORY
+* [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)
 

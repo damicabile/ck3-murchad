@@ -52,18 +52,18 @@ Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain
 * [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
 * [Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain](coilboth_mag_etain_1287.md)
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
-* [Duke Eochucan mac Mauda of Lancaster, 1234-, Briain](eochucan_mac_mauda_1234.md)
+* [Duke Eochucan mac Mauda of Lancaster, 1234-1269, Briain](eochucan_mac_mauda_1234.md)
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 * [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 * [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 * [Princess Morien nic Lorcan of England, 1221-1290, Briain](morien_nic_lorcan_1221.md)
 * [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](muirenne_nic_pierre_1275.md)
 * [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
 * [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
 * [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
-* [Princess Rois nic Lorcan of England, 1225-, Briain](rois_nic_lorcan_1225.md)
+* [Princess Rois nic Lorcan of England, 1225-1296, Briain](rois_nic_lorcan_1225.md)
 
 ## RELATIVES
 

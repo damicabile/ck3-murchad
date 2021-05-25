@@ -54,7 +54,7 @@ Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 * [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 * [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)

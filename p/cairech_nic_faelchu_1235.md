@@ -1,8 +1,8 @@
-# Duchess Cairech nic Faelchu of Deheubarth, 1235-, Briain
+# Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain
 
 ## FAMILY TREE
 ```
-Duchess Cairech nic Faelchu of Deheubarth, 1235-, Briain
+Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain
     Earl Faelchu mac Farannan of Ennis, 1212-, Briain
         Earl Farannan, 1179-1238
             Aed Briain, 1142-1207

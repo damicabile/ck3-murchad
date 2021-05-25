@@ -46,7 +46,7 @@ Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 * [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](lles_ap_madrun_1220.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 * [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
 * [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 * [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)

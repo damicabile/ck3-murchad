@@ -46,7 +46,7 @@ Slaine Eithnedohtor, 1268-, gCais-Mathrafal
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
-* [Duke Farannan of Munster, 1239-, gCais-Mathrafal](farannan_1239.md)
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
 * [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 * [Martha Kyle, 1210-1279, Kyle](martha_kyle_1210.md)
 * [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)

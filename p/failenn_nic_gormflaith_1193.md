@@ -50,7 +50,7 @@ Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain
 ## DESCENDANTS
 * [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](cilline_mac_failenn_1215.md)
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
-* [Duke Ewan of East Anglia, 1232-, Briain](ewan_1232.md)
+* [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
 * [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
 
 ## RELATIVES

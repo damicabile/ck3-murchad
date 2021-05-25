@@ -1,8 +1,8 @@
-# Princess Rois nic Lorcan of England, 1225-, Briain
+# Princess Rois nic Lorcan of England, 1225-1296, Briain
 
 ## FAMILY TREE
 ```
-Princess Rois nic Lorcan of England, 1225-, Briain
+Princess Rois nic Lorcan of England, 1225-1296, Briain
     King Lorcan Morienson of England, 1204-1271, Briain
         Loeguire Briain, 1182-1244
             High King Caindelban II, 1147-1227

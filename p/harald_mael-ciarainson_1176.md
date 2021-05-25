@@ -47,7 +47,7 @@ Harold Mael-Ciarainson, 1176-1237, Briain
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 
 ## DESCENDANTS
-* [Duke Thurcytel Saeberston of Mercia, 1228-, Briain](thurcytel_saebertson_1228.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 * [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](ylva_drifadohtor_1261.md)
 
 ## RELATIVES

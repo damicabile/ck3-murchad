@@ -1,8 +1,8 @@
-# Earl Flanchad of Lincolnshire, 1231-, Michael
+# Earl Flanchad of Lincolnshire, 1231-1299, Michael
 
 ## FAMILY TREE
 ```
-Earl Flanchad of Lincolnshire, 1231-, Michael
+Earl Flanchad of Lincolnshire, 1231-1299, Michael
     ?
     ?
 ```

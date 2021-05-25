@@ -45,7 +45,7 @@
 - [Catriona nic Bruatur](p/catriona_nic_bruatur_1261.md) (1261-), *Lady of Ceredigion, Llewellyn*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215-1282), *Duke of Connacht, Briain*
-- [Clydog ap Talorc](p/clydog_ap_talorc_1227.md) (1227-1297, *Lord of Ynys Mon, Ruairc*
+- [Clydog ap Talorc](p/clydog_ap_talorc_1227.md) (1227-1297), *Lord of Ynys Mon, Ruairc*
 - [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-1283), *Lady of Ferlix, Briain*
 - [Cobflaith nic Faelan](p/cobflaith_nic_faelan_1101.md) (1101-1176), *Countess of Ceredigion, Briain*
 - [Coilboth mag Etain](p/coilboth_mag_etain_1287.md) (1287-), *Lord of Brycheiniog, Briain*

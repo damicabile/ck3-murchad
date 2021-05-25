@@ -54,11 +54,10 @@ Earl Farannan mac Ciar of Ennis, 1179-1238, Briain
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 
 ## DESCENDANTS
-* [Duchess Cairech nic Faelchu of Deheubarth, 1235-, Briain](cairech_nic_faelchu_1235.md)
+* [Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain](cairech_nic_faelchu_1235.md)
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
 * [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](faelchu_mac_farannan_1212.md)
-* [Duke Farannan of Munster, 1239-, gCais-Mathrafal](farannan_1239.md)
-* [Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal](farannan_mac_slaine_1239.md)
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
 * [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
 * [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
 

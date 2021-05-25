@@ -56,7 +56,7 @@ Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain
 * [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 
 ## DESCENDANTS
-* [Duke Eochucan mac Mauda of Lancaster, 1234-, Briain](eochucan_mac_mauda_1234.md)
+* [Duke Eochucan mac Mauda of Lancaster, 1234-1269, Briain](eochucan_mac_mauda_1234.md)
 
 ## RELATIVES
 

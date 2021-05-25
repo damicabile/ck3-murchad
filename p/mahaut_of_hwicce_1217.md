@@ -30,7 +30,7 @@ Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce
 * [Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain](coilboth_mag_etain_1287.md)
 * [Earl Cuan mac Cuan of Derby, 1245-, Briain](cuan_mac_cuan_1245.md)
 * [Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain](etain_nig_aindle_1267.md)
-* [Petty King Flaithgus mac Cuan of Deheubarth, 1236-, Briain](flaithgus_mac_cuan_1236.md)
+* [Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain](flaithgus_mac_cuan_1236.md)
 * [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](mael-muire_gormflaithdohtor_1268.md)
 
 ## RELATIVES

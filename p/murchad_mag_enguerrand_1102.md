@@ -42,7 +42,7 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
 * [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
 ## DESCENDANTS
-* [Earl David of Berkshire, 1231-, Clare](david_1231.md)
+* [Earl David of Berkshire, 1231-1279, Clare](david_1231.md)
 
 ## RELATIVES
 

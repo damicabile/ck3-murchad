@@ -1,8 +1,8 @@
-# Duchess Morien of Lancaster, 1226-, gClais-Macclesfield
+# Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield
 
 ## FAMILY TREE
 ```
-Duchess Morien of Lancaster, 1226-, gClais-Macclesfield
+Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield
     Rhun Caerloyw-Penfro, 1201-1258
         Rhufon Caerloyw-Penfro, 1179-1229
             Cynwrig Caerloyw-Penfro, 1157-1222

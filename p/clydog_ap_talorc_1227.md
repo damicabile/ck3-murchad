@@ -1,8 +1,8 @@
-# Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc
+# Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc
 
 ## FAMILY TREE
 ```
-Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc
+Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc
     Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc
         Slebine gCais-Cruachu, 1175-1236    
             Rigan gCais-Cruachu, 1150-1207

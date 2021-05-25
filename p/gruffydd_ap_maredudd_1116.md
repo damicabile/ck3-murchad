@@ -42,12 +42,12 @@ Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro
 * [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
 ## DESCENDANTS
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc](clydog_ap_talorc_1227.md)
+* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 * [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 * [Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi](hywela_ferch_lles_1242.md)
 * [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](lles_ap_madrun_1220.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 
 ## RELATIVES
 

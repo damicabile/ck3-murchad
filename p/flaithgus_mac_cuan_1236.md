@@ -1,8 +1,8 @@
-# Petty King Flaithgus mac Cuan of Deheubarth, 1236-, Briain
+# Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain
 
 ## FAMILY TREE 
 ```
-Petty King Flaithgus mac Cuan of Deheubarth, 1236-, Briain
+Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain
     Cuan Briain, 1216-1249
         High King Mathieu, 1187-1251
             Renaud de Mousson, 1148-1206

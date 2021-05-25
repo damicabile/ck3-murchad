@@ -49,7 +49,7 @@ Dimmasach mac Dinertach, 1173-1243, Got
 ## DESCENDANTS
 * [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
 * [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
-* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got](cainchomrac_tailefhlaith_1231.md)
+* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got](cainchomrac_tailefhlaith_1231.md)
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
 * [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](dimmasach_mag_aine_1218.md)
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)

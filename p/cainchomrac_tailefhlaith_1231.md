@@ -1,9 +1,9 @@
-# Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got
+# Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got
 
 ## FAMILY TREE
 
 ```
-Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got
+Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got
     Aed Got, 1202-1263
         Dimmasach Got, 1173-1243
             Prince Dinertach, 1141-1210

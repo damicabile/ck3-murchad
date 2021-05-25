@@ -42,8 +42,7 @@ Duke Niallan Mac Farannan of Powys, 1217-1279, Briain
 
 ## DESCENDANTS
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
-* [Duke Farannan of Munster, 1239-, gCais-Mathrafal](farannan_1239.md)
-* [Earl Farannan mac Slaine of Cambridgeshire, 1239-, gCais-Mathrafal](farannan_mac_slaine_1239.md)
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
 * [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
 
 ## RELATIVES

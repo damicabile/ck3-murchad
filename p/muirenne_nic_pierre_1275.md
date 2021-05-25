@@ -50,7 +50,7 @@ Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
 * [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
-* [Duchess Morien of Lancaster, 1226-, gClais-Macclesfield](morien_1226.md)
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 * [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 

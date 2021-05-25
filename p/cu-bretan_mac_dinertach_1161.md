@@ -48,7 +48,7 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 
 ## DESCENDANTS
 * [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
-* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-, Got](cainchomrac_tailefhlaith_1231.md)
+* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got](cainchomrac_tailefhlaith_1231.md)
 * [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](dimmasach_mag_aine_1218.md)
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 * [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](muirenne_nic_pierre_1275.md)

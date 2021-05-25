@@ -36,7 +36,7 @@ Starkad Ulfsson Slatte, 1170-1209, Slatte
 * [Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain](cnes_nic_labraid_1207.md)
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
 * [Earl Ernad Seonaidson of Warwickshire, 1245-, Briain](ernad_seonaidson_1245.md)
-* [Duke Ewan of East Anglia, 1232-, Briain](ewan_1232.md)
+* [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
 * [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)
 * [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
 * [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)

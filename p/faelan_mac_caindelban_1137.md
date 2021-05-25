@@ -47,7 +47,7 @@ Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain
 * [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## DESCENDANTS
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc](clydog_ap_talorc_1227.md)
+* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 * [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 * [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)

@@ -51,7 +51,7 @@ Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi
 * [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
 
 ## DESCENDANTS
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-, Ruairc](clydog_ap_talorc_1227.md)
+* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 * [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 * [Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi](hywela_ferch_lles_1242.md)
 * [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](lles_ap_madrun_1220.md)
