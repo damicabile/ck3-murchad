@@ -3,8 +3,8 @@
 ## FAMILY TREE
 ```
 Lady Catriona nic Bruatur of Ceredigion, 1261-, Llewellyn
-    Earl Bruatur mac Rian of Essex, 1241-, Llewellyn
-        Duke Rian II, 1208-1278, Llewellyn
+    Earl Bruatur mac Rian of Essex, 1241-
+        Duke Rian II, 1208-1278
             Duke Aengus II, 1177-1239
                 Duke Rian I, 1144-1211
                 Duchess Finneacht, 1143-1205

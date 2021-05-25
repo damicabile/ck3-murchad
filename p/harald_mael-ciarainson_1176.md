@@ -4,7 +4,7 @@
 
 ```
 Harold Mael-Ciarainson, 1176-1237, Briain 
-    Mael-Ciarain Aibilinson Briain, 1153-1227
+    Mael-Ciarain Briain, 1153-1227
         Jacques Wigeriche, 1133-1171
             King Gottfried II, 1076-1147
                 King Gottfried I, 1040-1090

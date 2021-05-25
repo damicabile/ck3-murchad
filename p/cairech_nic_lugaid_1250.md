@@ -4,7 +4,7 @@
 ```
 Lady Cairech nic Lugaid of Gwent, 1250-, Briain
     Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain
-        Rhun Caerloyw-Penfro, 1201-
+        Rhun Caerloyw-Penfro, 1201-1258
             Rhufon Caerloyw-Penfro, 1179-1229
                 Cynwrig Caerloyw-Penfro, 1157-1222            
                 Duchess Dubchoblaig, 1157-1179
@@ -24,6 +24,8 @@ Lady Cairech nic Lugaid of Gwent, 1250-, Briain
             ?
         Mayor Margred, 1189-1244
             ?
+                ?
+                ?
             Anowed, 1146-1210
                 ?
                 ?

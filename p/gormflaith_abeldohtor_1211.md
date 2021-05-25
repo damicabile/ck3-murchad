@@ -25,7 +25,7 @@ Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain
                 Petty King Gruffydd III, 1064-1140
                 Iudloguen de Rennes, 1112-1178
             Madalena d'Armagnac, 1135-1206
-                Ricard d'Armagnac, 1113-1179138
+                Ricard d'Armagnac, 1113-1179
                 Magdalena de Perigord, 1111-1183
         Caintigern Briain, 1156-1228
             Slebine Briain, 1132-1201

@@ -4,7 +4,7 @@
 ```
 Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
     Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
-        Duke Natfraich, 1224-12741274
+        Duke Natfraich, 1224-1274
             Laidine Got, 1200-1231
                 Dimmasach Got, 1173-1243
                 Narbflaith Briain, 1173-1242

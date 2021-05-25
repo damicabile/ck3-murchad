@@ -16,8 +16,8 @@ Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi
                 Paulu de Lacon, 1050-1106
                 Giselle de Normandie, 1074-1140
             Aelfswith Aelfricson, 1118-1173
-                Earl Cynewulf, 1085-1146
-                Aldonca de Barcelona, 1086-1148
+                Count William, 1026-1081
+                Baroness Berthe, 1050-1115
     Lathir Briain, 1162-1231
         Faelan Briain, 1137-1173
             High King Caindelban I, 1114-1186

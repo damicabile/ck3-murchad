@@ -13,8 +13,8 @@ Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe
                 Morien Caerloyw-Tyddewi, 1122-1192
         Beorthflaed Briain, 1180-1242
             Mael-Ciarain Briain, 1153-1227
-                Prince Jacques, 1133-1171
-                Aibilin Briain, 1133-1171
+                Jacques Wigeriche, 1133-1171
+                Aibilin Briain, 1135-1203
             Barbara Chatenois-Neufchateau, 1152-1220
                 Count Karl, 1134-1196
                 Gertrude Ezzonen, 1126-1173

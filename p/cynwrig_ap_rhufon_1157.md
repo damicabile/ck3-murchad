@@ -3,7 +3,7 @@
 ## FAMILY TREE 
 ```
 Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
-    Duke Rhufon, 1140-1166
+    Petty King Rhufon, 1140-1166
         Petty King Gruffydd III, 1064-1140
             Petty King Maredudd III, 1047-1099
                 Petty King Bleddyn, 1025-1086

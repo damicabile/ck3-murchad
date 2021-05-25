@@ -5,7 +5,7 @@
 ```
 Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
     Scellan Ceiteach, 1189-1250
-        Baron Gilla-Comgan, 1158-1221
+        Baron Gilla-Comgain, 1158-1221
             ?
             ?
         Effros of Bamburgh, 1166-1236

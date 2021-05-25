@@ -18,8 +18,10 @@ Duke Scellan of Hwicce, 1255-, Briain
             Viola z Homberka, 1163-1233
                 Count Jaros, 1137-1217
                 Princess Vilemina, 1137-1192            
-    Thiedburga von Wettin, 1210-
+    Thiedburga von Wettin, 1210-1279
         ?
+            ?
+            ?
         Elbrig, 1244
             ?
             ?

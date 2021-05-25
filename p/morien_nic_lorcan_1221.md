@@ -23,7 +23,7 @@ Princess Morien nic Lorcan of England, 1221-1290, Briain
             Baron Hans, 1128-1183
                 Baron Laurentz, 1093-1143
                 Horthwina von Altmark, 1093-1143
-            Theodrada von Wittenberg
+            Theodrada von Wittenberg, 1153-1205
                 ?
                 ?
         Imma von Are, 1183-1256

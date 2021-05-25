@@ -4,7 +4,7 @@
 ```
 Earl Ultan mac Gelgeis of Ossory, 1249-, Briain
     Earl Muirgius, 1190-1250
-        Gilla-na-Naem, 1165-1229
+        Gilla-na-Naem Briain, 1165-1229
             Earl Abban, 1132-1191
                 Duke Udalschalk, 1096-1162
                 Countess Cobflaith, 1101-1176

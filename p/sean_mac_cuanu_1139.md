@@ -5,15 +5,12 @@
 Sean mac Cuanu, 1139-1209, Laighin
     Earl Cuanu, 1121-1152
         Earl Sean, 1101-1135
-             High King Murchad, 1027-1095
-                 Donnchad Briain, 990-1065
-                 ?
-             ?
-                 ?
-                 ?
+            High King Brian II, 1048-1111
+                High King Murchad, 1027-1095
+                ?
             Countess Dub-Dil, 1067-1127
-                 ?
-                 ?
+                ?
+                ?
         Finnguala, 1087-1138
             ?
             ?
