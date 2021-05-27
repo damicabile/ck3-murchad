@@ -12,7 +12,14 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
             Duchess Rhiandrech, 1116-1187
                 Lord Rhiwallon, 1087-1137
                 Lady Elen, 1092-1174
-    Gyda af Orkneyjar, 1223-
+        Heulwen Ynys Cybi, 1158-1208
+            Duke Owain II, 1139-1166
+                Duke Meilys I, 1110-1165
+                Duchess Eylo, 1113-1159
+            Agata de Lacon, 1137-1207
+                Filipu de Lacon, 1092-1158
+                Aelfswith Aelfricson, 1118-1173
+    Gyda af Orkneyjar, 1223-1296
         Duke Snorri III, 1183-1247
             Duke Snorri II, 1149-1218
                 Duke Tyke, 1112-1164

@@ -4,13 +4,20 @@
 ```
 Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain
     Sinach Briain, 1265-
-        King Lorcan Morienson of England, 1204-1271, Briain
+        King Lorcan, 1204-1271
             Loeguire Briain, 1182-1244
                 High King Caindelban II, 1147-1227
                 High Queen Constance, 1144-1209
-            Narbflaith Got, 1224-
-                Laidine Got, 1200-1231
-                Aine Got, 1200-1268
+            Morien Llewellyn, 1183-1251
+                Duke Rian I, 1144-1211
+                Duchess Finneacht, 1143-1205
+        Countess Narbflaith, 1224-1305
+            Laidine Got, 1200-1231
+                Dimmasach Got, 1173-1243
+                Narbflaith Briain, 1173-1242
+            Aine Got, 1200-1268
+                Morann Got, 1182-1250
+                Muirne gCais-Inis, 1183-1259
     Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain
         Lord Aindle, 1242-1268
             Cuan Briain, 1216-1249

@@ -27,7 +27,7 @@ Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin
                 ?
                 ?
         Margareta Yngling-Konungahella, 1209-1280
-            Duke Högni, 1142-1216
+            Duke Hogni, 1142-1216
                 Earl Dorolfr, 1110-1151
                 Euginia ua Mail Sechlainn, 1103-1169 
             Duchess Bergdora, 1165-1233

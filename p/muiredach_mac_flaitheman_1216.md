@@ -12,6 +12,13 @@ Muiredach mac Flaitheman, 1216-1281, Briain
             High Queen Flann, 1117-1172
                 Domnall ua Neill Noigiallaich, 1069-1120
                 Rois Neill, 1071-1145
+        High Queen Constance, 1144-1209
+            Prince Randolph I, 1108-1149
+                King Richard, 1055-1113
+                Duchess Octreda, 1091-1108
+            Lerthan Crovan, 1108-1169
+                Dimmasach Crovan, 1074-1116
+                Duchess Sybilla, 1081-1115
     Princess Marthoc, 1178-1224
         King Conall II, 1155-1215
             Fingal of Carrick, 1137-1192

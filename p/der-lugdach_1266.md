@@ -11,13 +11,13 @@ Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal
             Cathan, 1187-1248
                 ?
                 ?
-        Duchess Slaine, 1220
+        Slaine Briain, 1220-1282
             Earl Abban, 1181-1234
                 Eochad Briain, 1163-1191
                 Countess Jagoda, 1148-1211
             Grainne de Comminges, 1202-1245
-                Davi de Comminges, 1150-1219
-                Grainne Llewellyn, 1163-1234
+                Amaneus de Comminges, 1184-1235
+                Irminburg Brunonen, 1173-1242
     Queen Eithne, 1238-
         King Baethine, 1205-1281
             Dubh Briain, 1183-1234
@@ -26,7 +26,7 @@ Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal
             Catriona of Carrick, 1187-1215
                 King Conall II, 1155-1215
                 Philippa Sigurdr-Lindisfarne, 1153-1221
-        Martha Kyle, 1210-, Kyle
+        Martha Kyle, 1210-
             Prince Ewan, 1178-1216
                 King Andrew, 1113-1188
                 Princess Elin, 1158-1222

@@ -14,7 +14,7 @@ Duke Farannan of Munster, 1239-1299, gCais-Mathrafal
         Cathan, 1187-1248
             ?
             ?
-    Duchess Slaine, 1220
+    Slaine Briain, 1220-1282
         Earl Abban, 1181-1234
             Eochad Briain, 1163-1191
                  Earl Abban, 1132-1192
@@ -23,12 +23,13 @@ Duke Farannan of Munster, 1239-1299, gCais-Mathrafal
                 Baron Petar, 1111-1165
                 Baroness Aurengarde, 1111-1164
         Grainne de Comminges, 1202-1245
-            Davi de Comminges, 1150-1219
-                Peire-Raimond de Comminges, 1123-1180
-                Bourgogne Ivrea-Pourcain, 1123-1186
-            Grainne Llewellyn, 1163-1234
-                Duke Rian I, 1144-1211
-                Duchess Finneacht, 1143-1205
+            Amaneus de Comminges, 1184-1235
+                Davi de Comminges, 1150-1219
+                Grainne Llewellyn, 1163-1234
+            Irminburg Brunonen, 1173-1242
+                Detmar Brunonen, 1152-1214
+                Glismod Brunonen, 1149-1215
+
 ```
 
 

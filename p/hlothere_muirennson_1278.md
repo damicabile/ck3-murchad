@@ -1,11 +1,13 @@
-# Duke Beorhtric Muirennson of Leinster, 1265-, Briain
+# Duke Hlothere Muirennson of Kent, 1278-, Kiil
 
 ## FAMILY TREE
 ```
-Duke Beorhtric Muirennson of Leinster, 1265-, Briain
+Duke Hlothere Muirennson of Kent, 1278-, Kiil
     Earl Ernan, 1245-1306
         Baldewin, 1211-1264
             ?
+                ?
+                ?
             Heilwiwa, 1164-1223
         Seonaid Briain, 1217-1277
             Prince Labraid, 1188-1257, Briain
@@ -29,28 +31,4 @@ Duke Beorhtric Muirennson of Leinster, 1265-, Briain
             Countess Gnathnad, 1191-1219
                 Gormgus Briain, 1167-1221
                 Garb Briain, 1147-1214
-
 ```
-
-
-# REFERENCES
-
-## ANCESTORS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
-* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
-
-## DESCENDANTS
-
-## RELATIVES
-
-##### END RELATIVES 
-## HISTORY
-* [1294.md](../h/1294.md)
-
-#### END REFERENCES

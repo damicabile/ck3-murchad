@@ -11,7 +11,7 @@ Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield
             Aine Got, 1200-1268
                 Morann Got, 1182-1250
                 Muirne gCais-Inis, 1183-1259
-        Duchess Morien, 1226-
+        Duchess Morien I, 1226-1295
             Rhun Caerloyw-Penfro, 1201-1258
                 Rhufon Caerloyw-Penfro, 1179-1229
                 Annwyl Caerloyw-Tyddewi, 1171-1251

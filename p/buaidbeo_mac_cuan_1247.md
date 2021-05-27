@@ -1,9 +1,9 @@
-# Duke Buaidbeo mac Cuan of Essex, 1247-, Briain
+# Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain
 
 ## FAMILY TREE
 
 ```
-Duke Buaidbeo mac Cuan of Essex, 1247-, Briain
+Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain
     Cuan Briain, 1216-1249
         High King Mathieu, 1187-1251
             Renaud de Mousson, 1148-1206

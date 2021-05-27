@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha
-    Duke Buaidbeo mac Cuan of Essex, 1247-, Briain
+    Duke Buaidbeo, 1247-1282, Briain
         Cuan Briain, 1216-1249
             High King Mathieu, 1187-1251
                 Renaud de Mousson, 1148-1206

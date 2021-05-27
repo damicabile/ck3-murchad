@@ -2,39 +2,37 @@
 
 ## FAMILY TREE
 ```
-Duchess Gruoch nic Glenn of Munster, 1273-, Braenain
-    Earl Glenn, 1242-1300
-        Earl Mael-Ruanaid, 1220-1262
-            Flaitheman Briain, 1175-1237
-                High King Caindelban II, 1147-1227
-                Princess Marthoc, 1178-1224
-                High Queen Constance, 1144-1209
-            Princess Marthoc, 1178-1224
-                King Conall II, 1155-1215
-                Philippa Sigurdr-Lindisfarne, 1153-1221
-        Maisie Cetchathach-Banff, 1223-1301
-            Talore Cetchathach-Banff, 1203-1255
-                Earl Donnucan, 1176-1207
-                Mairgred gCais-Cruachu, 1175-1236
-            Tailefhlaith Orkneyjar-Wick, 1202-1263
-                Crichan Orkneyjar-Wick, 1164-1217
-                Rodina Dunkeld-Dunbar, 1178-1247
-    Court Chaplain Sybilla, 1248-
-        Earl David, 1231-1279
-            David de Clare, 1209-1241
-                Earl John, 1185-1244
-                Countess Bretislava, 1169-1241
-            Giselle Mel, 1209-1260
-                Duke Nicholas I, 1157-1210
-                Aethelgifu Reginar, 1188-1255
-        Agnethe Thrugot, 1217-1280
-            Asger Thrugot, 1193-1237
-                Duke Anund II, 1174-1202
-                Katrine Thrugot, 1164-1219
-            Ingrid Stenkiling-Roskilde, 1192-1262
-                Greger Stenkiling-Roskilde, 1171-1195
-                Duchess Kyriake, 1172-1241
-
+Earl David of Berkshire, 1231-1279, Clare
+    David de Clare, 1209-1241
+        Earl John, 1185-1244
+            Earl William, 1168-1187
+                Earl Hugh, 1150-1179
+                Mary de Pockington, 1148-1212
+            Eugenia Landolfidi, 1161-1191
+                Frederic Landolfidi, 1140-1197
+                Countess Adelheid, 1140-1197
+        Countess Bretislava, 1169-1241
+            Heralt Premyslid-Shrewsbury, 1152-1175
+                Lord Jindrich, 1132-1190
+                Judita z Homberka, 1133-1202
+            Be-Fail Cetchathach-Banff, 1148-1191
+                Ainftech Cetchathach-Banff, 1122-1161
+                Martha Loairn, 1119-1180
+    Giselle Mel, 1209-1260
+        Duke Nicholas I, 1157-1210
+            Przemyslaw Poraj, 1140-1218
+                Mszczuj Poraj, 1094-1142
+                Petty Queen Martha, 1096-1162
+            Duchess Giselle, 1137-1205
+                Duke Niall, 1099-1161
+                Duchess Adelaide, 1118-1188
+        Aethelgifu Reginar, 1188-1255
+            Sean gCais-Inis, 1134-1205
+                Murchad gCais-Inis, 1102-1164
+                Ystradwel Mathrafal, 1099-1163
+            Countess Halina, 1171-1200
+                Earl Godfried, 1128-1185
+                Countess Aethelthryth, 1148-1217
 ```
 
 

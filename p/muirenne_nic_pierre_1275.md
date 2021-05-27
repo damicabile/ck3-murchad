@@ -15,7 +15,7 @@ Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
                 Muirne gCais-Inis, 1183-1259
                     Earl Ailpin, 1158-1222
                     Ellbrig Briain, 1155-1223
-        Duchess Morien, 1226-
+        Duchess Morien I, 1226-1295
             Rhun Caerloyw-Penfro, 1201-1258
                 Rhufon Caerloyw-Penfro, 1179-1229
                 Annwyl Caerloyw-Tyddewi, 1171-1251

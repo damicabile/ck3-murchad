@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Prince Rodan mac Narbflaith of England, 1263-, Briain
-    King Lorcan Morienson of England, 1204-1271, Briain
+    King Lorcan, 1204-1271
         Loeguire Briain, 1182-1244
             High King Caindelban II, 1147-1227
                 High King Caindelban I, 1114-1186

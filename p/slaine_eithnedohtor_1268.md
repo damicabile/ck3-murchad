@@ -11,13 +11,13 @@ Slaine Eithnedohtor, 1268-, gCais-Mathrafal
             Cathan, 1187-1248
                 ?
                 ?
-        Duchess Slaine, 1220
+        Slaine Briain, 1220-1282
             Earl Abban, 1181-1234
                 Eochad Briain, 1163-1191
                 Countess Jagoda, 1148-1211
             Grainne de Comminges, 1202-1245
-                Davi de Comminges, 1150-1219
-                Grainne Llewellyn, 1163-1234
+                Amaneus de Comminges, 1184-1235
+                Irminburg Brunonen, 1173-1242
     Queen Eithne, 1238-
         King Baethine, 1205-1281
             Dubh Briain, 1183-1234

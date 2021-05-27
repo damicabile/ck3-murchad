@@ -1,8 +1,8 @@
-# Earl Ernad Seonaidson of Warwickshire, 1245-, Briain
+# Earl Ernad Seonaidson of Warwickshire, 1245-1306, Briain
 
 ## FAMILY TREE 
 ```
-Earl Ernad Seonaidson of Warwickshire, 1245-, Briain
+Earl Ernad Seonaidson of Warwickshire, 1245-1306, Briain
     Baldewin, 1211-1264
         ?
         Heilwiwa, 1164-1223
