@@ -1,8 +1,8 @@
-# Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain
+# Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain
 
 ## FAMILY TREE
 ```
-Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain
+Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain
     Godschalk Limburg-Falkenstein, 1220-1282
         Count Meinhard, 1178-1258
             Count Wiknand, 1153-1217
@@ -18,7 +18,7 @@ Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain
             Countess Hrothwina, 1153-1219
                 ?
                 Enda von Katlenburg, 1130-1197
-    Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain
+    Cathan Abeldohtor, 1218-1292
         King Abel, 1190-1269
             Starkad Slatte, 1170-1209
                 Ulf Slatte, 1152-1176
