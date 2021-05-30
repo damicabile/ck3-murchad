@@ -34,7 +34,6 @@ Earl Natfraich mac Morien of Ailech, 1218-1282, Briain
             Morien Caerloyw-Tyddewi, 1122-1192
                 Elidyr Caerloyw-Tyddewi, 1085-1150
                 Petty Queen Gwenllian, 1090-1148
-
 ```
 
 

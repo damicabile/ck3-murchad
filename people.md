@@ -158,6 +158,7 @@
 - [Muirenn II nic Pierre](p/muirenn_ii_nic_pierre_1275.md) (1275-), *Duchess of Lancaster,  Congalaigh*
 - [Muirenne nic Pierre](p/muirenne_nic_pierre_1275.md) (1275-), *Duchess of Ulster, gCais-Macclesfield*
 - [Murchad mag Enguerrand](p/murchad_mag_enguerrand_1102.md) (1102-1164), *gCais-Inis*
+- [Natfraich](p/natfraich_1280.md) (1280-), *Duke of Bar, Cathasaigh*
 - [Natfraich mag Aine](p/natfraich_mag_aine_1224.md) (1224-1274), *Duke of Ulster, Got*
 - [Natfraich mac Morien](p/natfraich_mac_morien_1218.md) (1218-1282), *Earl of Ailech, Briain*
 - [Nest ferch Morien](p/nest_ferch_morien_1104.md) (1104-1172), *Lady of Eryri, Caerloyw-Tyddewi*
@@ -182,6 +183,7 @@
 - [Sorcha ferch Finneacht](p/sorcha_ferch_finneacht_1172.md) (1172-1235), *Queen of Wales, Llewellyn*
 - [Starkad Ulfsson Slatte](p/starkad_ulfsson_1170.md) (1170-1209), *Slatte*
 - [Stephania Baethinedohtor](p/stephania_baethinedohtor_1276.md) (1276-1306), *Princess of England, Briain*
+- [Sverrir Drifason](p/sverrir_drifason_1272.md) (1272-), *Duke of Champagne, Hagalin*
 - [Tadg Barrdubson](p/tadg_barrdubson_1257.md) (1257-), *Duke of Deira, Got*
 - [Tailefhlaith Barrdubdohtor](p/tailefhlaith_barrdubdohtor_1252.md) (1252-), *Countess of Breifne,  Got*
 - [Taithlech mac Senchan](p/taithlech_mac_senchan_1243.md) (1243-), *King of Wales, gCais-Tegeingl*
