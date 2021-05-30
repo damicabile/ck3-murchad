@@ -27,7 +27,7 @@ Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal
                 Ekbert Brunonen, 1176-1234
                 Narbflaith gCais-Gaillimhe, 1175-1231
         Duchess Drifa, 1228-1282
-            Sverrir  Hagalin, 1211-1249
+            Sverrir Hagalin, 1211-1249
                 Duke Suni, 1173-1223
                 Drifa, 1184-1248
             Margareta Yngling-Konungahella, 1209-1280
