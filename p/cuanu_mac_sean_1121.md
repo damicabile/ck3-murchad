@@ -24,16 +24,16 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
+## PARENTS 
+* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](p/sean_mac_brian_1101.md)
+* Finnguala, 1087-1138
 
-## DESCENDANTS
-* [Sean mac Cuanu, 1139-1209, Laighin](sean_mac_cuanu_1139.md)
+## CHILDREN 
+* [Sean mac Cuanu, 1139-1209, Laighin](p/sean_mac_cuanu_1139.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)

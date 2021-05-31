@@ -38,28 +38,16 @@ Dubh mac Somhairle, 1183-1234, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll](idwal_ap_gruffydd_1054.md)
-* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+## PARENTS 
+* [Somhairle mag Aengus, 1158-1223, Briain](p/somhairle_mag_aengus_1158.md)
+* Heulwen Ynys Cybi, 1158-1208
 
-## DESCENDANTS
-* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
-* [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
-* [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
-* [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
-* [Princess Stephania Baethinedohtor of England, 1276-, Briain](stephania_baethinedohtor_1276.md)
+## CHILDREN 
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 

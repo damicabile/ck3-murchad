@@ -34,3 +34,23 @@ Slaine nig Abban, 1220-1282, Briain
                 Rudolf Brunonen, 1119-1175
                 Klara Forgach, 1119-1178
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](p/abban_mag_eochad_1181.md)
+* Grainne de Comminges, 1202-1245
+
+## CHILDREN 
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
+* Duke Airmerdach, 1261-
+* Duke Farannan, 1239-
+* Duke Airmedach, 1261-
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+
+#### END REFERENCES

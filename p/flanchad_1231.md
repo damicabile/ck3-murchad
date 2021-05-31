@@ -10,13 +10,15 @@ Earl Flanchad of Lincolnshire, 1231-1299, Michael
 
 # REFERENCES
 
-## ANCESTORS
+## PARENTS 
+* 
+* 
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

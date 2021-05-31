@@ -34,3 +34,20 @@ Duke Eadbald Mael-Muireson of Poitou, 1286-, hEochadha
                 Dunlang Cetchathach-Banff, 1164-1231
                 Gormflaith Briain, 1211-1274
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Duke Constans, 1265-1291
+* [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](p/mael-muire_gormflaithdohtor_1268.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

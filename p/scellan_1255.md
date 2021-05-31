@@ -30,17 +30,19 @@ Duke Scellan of Hwicce, 1255-, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
-* [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](fuacarta_mac_ben-muman_1212.md)
+## PARENTS 
+* [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](p/fuacarta_mac_ben-muman_1212.md)
+* Thiedburga von Wettin, 1210-1279
 
-## DESCENDANTS
+## CHILDREN 
+* [Duke Fuacarta of Anjou, 1283-, gCais-Sherwood](p/fuacarta_1283.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)
+* [1308.md](../h/1308.md)
 
 #### END REFERENCES

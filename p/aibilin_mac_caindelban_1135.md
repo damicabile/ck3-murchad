@@ -39,26 +39,18 @@ Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+## PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
 
-## DESCENDANTS
-* [Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe](faelcar_mag_ualtar_1225.md)
-* [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](fuacarta_mac_ben-muman_1212.md)
-* [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](gormlaith_nic_gormlaith_1231.md)
-* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
-* [Duke Scellan of Hwicce, 1255-, Briain](scellan_1255.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
+## CHILDREN 
+* Fuacarta Briain, 1162-1228
+* Mael-Ciarain Briain, 1153-1227
+* Duchess Dubchoblaig, 1157-1179
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1154.md](../h/1154.md)
 

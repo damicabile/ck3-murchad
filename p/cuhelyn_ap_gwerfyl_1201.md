@@ -39,23 +39,17 @@ Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
-* [Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro](gruffydd_ap_maredudd_1116.md)
-* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
-* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
-* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
-* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
+## PARENTS 
+* Duke LLes, 1134-1202
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
 
-## DESCENDANTS
-* [Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi](hywela_ferch_lles_1242.md)
-* [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](lles_ap_madrun_1220.md)
+## CHILDREN 
+* Lord Lles, 1220-12721272
+* [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](p/lles_ap_madrun_1220.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1249.md](../h/1249.md)
 

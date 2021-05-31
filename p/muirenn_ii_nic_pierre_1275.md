@@ -29,3 +29,20 @@ Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh
                 ?
 
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
+* Julienne of Mar, 1238-1299
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

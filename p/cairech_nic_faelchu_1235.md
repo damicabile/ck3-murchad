@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain
-    Earl Faelchu mac Farannan of Ennis, 1212-, Briain
+    Earl Faelchu, 1212-1265
         Earl Farannan, 1179-1238
             Aed Briain, 1142-1207
                 Earl Cathnio, 1108-1171
@@ -34,20 +34,15 @@ Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+## PARENTS 
+* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](p/faelchu_mac_farannan_1212.md)
+* Dwynwen de Comminges, 1204-1277
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

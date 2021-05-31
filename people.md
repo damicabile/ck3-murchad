@@ -21,6 +21,7 @@
 - [Aine ferch Sithmaith](p/aine_ferch_sithmaith_1169.md) (1169-1220), *Lady of Eryri, Ruairc*
 - [Alienora](p/alienora_1275.md) (1275-), *Duke of Normandy, Corbeil*
 - [Baethine Dubhson](p/baethine_dubhson_1205.md) (1205-1281), *King of England, Briain*
+- [Ben-Mide](p/ben-mide_1282.md) (1282-), *Countess of Chartres, gCais-Mathrafal*
 - [Ben-Ulad nic Deirdre](p/ben-ulad_nic_deirdre_1152.md) (1152-1218), *gCais-Inis*
 - [Beorhtric Muirennson](p/beorhtric_muirennson_1265.md) (1265-), *Duke of Leinster, Briain*
 - [Bhatair mac Ciar](p/bhatair_mac_ciar_1167.md) (1167-1239), *Duke of Ulster, Briain*
@@ -42,9 +43,11 @@
 - [Cathalan mag Abel](p/cathalan_mag_abel_1220.md) (1220-1242), *Princess of Ireland, Briain*
 - [Cathan Abeldohtor](p/cathan_abeldohtor_1218.md) (1218-1292), *Princess of Ireland, Briain*
 - [Cathan Cathandohtor](p/cathan_cathandohtor_1247.md) (1247-1308), *Duchess of Cornwall, Briain*
+- [Cathan Cathandohtor](p/cathan_cathandohtor_1270.md) (1270-), *Duchess of Gwynedd, Briain*
 - [Cathan nic Brian](p/cathan_nic_brian_1078.md) (1078-1144), *Countess of Ennis, Briain*
 - [Cathnio mac Cathan](p/cathnio_mac_cathan_1108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Catriona nic Bruatur](p/catriona_nic_bruatur_1261.md) (1261-), *Lady of Ceredigion, Llewellyn*
+- [Cenwulf](p/cenwulf_1309.md) (1309-), *Earl of Valois, Senlis*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215-1282), *Duke of Connacht, Briain*
 - [Clydog ap Talorc](p/clydog_ap_talorc_1227.md) (1227-1297), *Lord of Ynys Mon, Ruairc*
@@ -64,6 +67,7 @@
 - [Cuanu mac Sean](p/cuanu_mac_sean_1121.md) (1121-1152), *Earl of Oriel, Laighin*
 - [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201-1263), *Lord of Merionnydd, Ynys Cybi*
 - [Cynddylan ap Gruffydd](p/cynddylan_ap_gruffydd_1099.md) (1099-1154), *Lord of Merionnydd, Caerloyw-Penfro*
+- [Cynehelm Ben-Uladson](p/cynehelm_ben-uladson_1270.md) (1270-), *Earl of Lindsey, Briain*
 - [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222), *Caerloyw-Penfro*
 - [David](p/david_1231.md) (1231-1279), *Earl of Berkshire, Clare*
 - [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*
@@ -147,13 +151,16 @@
 - [Mahaut of Hwicce](p/mahaut_of_hwicce_1217.md) (1217-1248), *Duchess of Deheubarth, Hwicce*
 - [Martha Kyle](p/martha_kyle_1210.md) (1210-1279), *Kyle*
 - [Mathieu](p/mathieu_1220.md) (1220-), *Duke of Orleans, Antoing*
+- [Mauda nic Cairech](p/mauda_nic_cairech_1255.md) (1255-), *Petty Queen of Deheubarth, Briain*
 - [Mauda nic Morien](p/mauda_nic_morien_1199.md) (1199-1272), *Mayor of Tirsa, Briain*
 - [Mathieu de Mousson](p/mathieu_de_mousson_1187.md) (1187-1251), *High King of Ireland, Mousson*
 - [Meilys I ap Rhiwallon](p/meilys_i_ap_rhiwallon_1110.md) (1110-1165), *Duke of Powys, gCais-Fathain*
 - [Meilys II ab Owain](p/meilys_ii_ab_owain_1163.md) (1163-1181), *Duke of Powys, Ynys-Cybi*
+- [Morag](p/morag_1274.md) (1274-), *Countess of Dunbar, Briain*
 - [Morien](p/morien_1226.md) (1226-1295), *Duchess of Lancaster, gClais-Macclesfield*
 - [Morien nic Finneacht](p/morien_nic_finneacht_1183.md) (1183-1251), *LLewellyn*
 - [Morien nic Lorcan](p/morien_nic_lorcan_1221.md) (1221-1290), *Princess of England, Briain*
+- [Muirchertach mac Cairech](p/muirchertach_mac_cairech_1272.md) (1272-), *Duke of Gwynedd, Briain*
 - [Muirenn Gelgeisdohtor](p/muirenn_gelgeisdohtor_1245.md) (1245-), *Duchess of Leinster, Briain*
 - [Muirenn I nic Gilla-Ruad](p/muirenn_i_nic_gilla-ruad_1165.md) (1165-1230), * gCais-Cruachu*
 - [Muirenn II nic Gilla-Ruad](p/muirenn_ii_nic_gilla-ruad_1165.md) (1165-1222), *Duchess of Ulster, gCais-Cruachu*
@@ -188,6 +195,8 @@
 - [Starkad Ulfsson Slatte](p/starkad_ulfsson_1170.md) (1170-1209), *Slatte*
 - [Stephania Baethinedohtor](p/stephania_baethinedohtor_1276.md) (1276-1306), *Princess of England, Briain*
 - [Sverrir Drifason](p/sverrir_drifason_1272.md) (1272-), *Duke of Champagne, Hagalin*
+- [Swietoslawa](p/swietoslawa_1259.md) (1259-), *Countess of Amiens, Olesnicy*
+- [Sybilla](p/sybilla_1248.md) (1248-), *Court Chaplain, Clare*
 - [Tadg Barrdubson](p/tadg_barrdubson_1257.md) (1257-), *Duke of Deira, Got*
 - [Tailefhlaith Barrdubdohtor](p/tailefhlaith_barrdubdohtor_1252.md) (1252-), *Countess of Breifne,  Got*
 - [Taithlech mac Senchan](p/taithlech_mac_senchan_1243.md) (1243-), *King of Wales, gCais-Tegeingl*

@@ -37,25 +37,17 @@ Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
+## PARENTS 
+* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](p/ailpin_mac_donnchad_1101.md)
+* Aedemmair Conchobair, 1081-1141
 
-## DESCENDANTS
-* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
-* [Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis](bhatair_mac_sioban_1236.md)
-* [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](dimmasach_mag_aine_1218.md)
-* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
-* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
-* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
+## CHILDREN 
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](p/ailpin_mac_mael-muire_1158.md)
+* Aedammair gCais-Inis, 1154-1223
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1209.md](../h/1209.md)

@@ -22,16 +22,15 @@ Martha Kyle, 1210-1279, Kyle
 
 # REFERENCES
 
-## ANCESTORS
+## PARENTS 
+* Prince Ewan, 1178-1216
+* Gudrun av Rost, 1174-1228
 
-## DESCENDANTS
-* [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
-* [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 
 #### END REFERENCES

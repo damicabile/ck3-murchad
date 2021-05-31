@@ -40,23 +40,15 @@ Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got
 
 # REFERENCES
 
-## ANCESTORS
-* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
-* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
-* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](finnacan_mac_caindelban_1161.md)
+## PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](p/aed_mac_narbflaith_1202.md)
+* Tailefhlaith Got, 1207-1273
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1265.md](../h/1265.md)
 

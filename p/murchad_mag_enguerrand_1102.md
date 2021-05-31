@@ -38,15 +38,16 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
 
 # REFERENCES
 
-## ANCESTORS
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+## PARENTS 
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](p/enguerrand_mac_murchad_1081.md)
+* Countess Margrethe, 1085-1127
 
-## DESCENDANTS
-* [Earl David of Berkshire, 1231-1279, Clare](david_1231.md)
+## CHILDREN 
+* Sean gCais-Inis, 1134-1205
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

@@ -38,3 +38,20 @@ Duchess Ermessinde of East Anglia, 1264-, Adelsward
                 ?
                 ?
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
+* Duchess Aine, 1222-1281
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

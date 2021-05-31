@@ -38,29 +38,16 @@ Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
-* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](cynwrig_ap_rhufon_1157.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro](gruffydd_ap_maredudd_1116.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
-* [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
-* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
+## PARENTS 
+* Rhun Caerloyw-Penfro, 1201-1258
+* [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
 
-## DESCENDANTS
+## CHILDREN 
+* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](p/cairech_nic_lugaid_1250.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1249.md](../h/1249.md)
 

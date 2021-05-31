@@ -38,23 +38,16 @@ Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+## PARENTS 
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
+* Sybilla de Beaumont, 1130-1203
 
-## DESCENDANTS
-* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
+## CHILDREN 
+* Earl Muirgius, 1190-1250
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 
 #### END REFERENCES

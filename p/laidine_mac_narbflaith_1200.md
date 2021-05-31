@@ -38,34 +38,19 @@ Laidine mac Narbflaith, 1200-1231, Got
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
-* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+## PARENTS 
+* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
+* Narbflaith Briain, 1173-1242
 
-## DESCENDANTS
-* [Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain](coilboth_mag_etain_1287.md)
-* [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
-* [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](dimmasach_mag_aine_1218.md)
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
-* [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](muirenne_nic_pierre_1275.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
-* [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
-* [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
+## CHILDREN 
+* Countess Narbflaith, 1224-1305
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
+* Narbflaith Ainedohtor Got, 1224-
+* [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](p/dimmasach_mag_aine_1218.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1265.md](../h/1265.md)
 

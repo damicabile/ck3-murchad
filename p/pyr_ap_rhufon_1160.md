@@ -42,20 +42,16 @@ Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro
 
 # REFERENCES
 
-## ANCESTORS
-* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
-* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
+## PARENTS 
+* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](p/rhufon_ap_gruffydd_1140.md)
+* Madalena d'Armagnac, 1135-1206
 
-## DESCENDANTS
-* [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
-* [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](cathalan_mag_abel_1220.md)
-* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
-* [Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain](cathan_cathandohtor_1247.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+## CHILDREN 
+* Annwyl Caerloyw-Penfro, 1187-1247
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

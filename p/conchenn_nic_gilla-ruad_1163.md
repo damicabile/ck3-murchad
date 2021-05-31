@@ -38,24 +38,16 @@ Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+## PARENTS 
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
+* Sybilla de Beaumont, 1130-1203
 
-## DESCENDANTS
-* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
-* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
-* [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](gormlaith_nic_gormlaith_1231.md)
+## CHILDREN 
+* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](p/gilla-ruad_mac_conchenn_1182.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

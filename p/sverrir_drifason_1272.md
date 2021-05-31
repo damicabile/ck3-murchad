@@ -34,3 +34,20 @@ Duke Sverrir Drifason of Champagne, 1272-, Hagalin
                 Brynjulf Yngling-Konungahella, 1146-1167
                 Countess Ragna, 1147-1209
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](p/thurcytel_saebertson_1228.md)
+* Duchess Drifa, 1228-1282
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

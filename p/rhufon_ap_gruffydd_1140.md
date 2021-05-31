@@ -32,23 +32,17 @@ Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro
 
 # REFERENCES
 
-## ANCESTORS
-* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
+## PARENTS 
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](p/gruffydd_iii_ap_maredudd_1064.md)
+* Iudloguen de Rennes, 1112-1178
 
-## DESCENDANTS
-* [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
-* [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](cathalan_mag_abel_1220.md)
-* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
-* [Duchess Cathan Cathandohtor of Cornwall, 1247-, Briain](cathan_cathandohtor_1247.md)
-* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](cynwrig_ap_rhufon_1157.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
-* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
-* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
+## CHILDREN 
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](p/pyr_ap_rhufon_1160.md)
+* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](p/cynwrig_ap_rhufon_1157.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

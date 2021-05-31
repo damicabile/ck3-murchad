@@ -35,3 +35,20 @@ Count Seoan of Guines, 1261-, Briain
                 Leofwynn Dunkeld-Wolverhampton, 1145-1200
 
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Sebastiaen van Bergh, 1217-1288
+* Tuathflaith Briain, 1240-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

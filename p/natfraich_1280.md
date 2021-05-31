@@ -34,3 +34,20 @@ Duke Natfraich of Bar, 1280-, Cathasaigh
                 ?
                 ?
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](p/humbert_mac_muirenn_1258.md)
+* Countess Muirenn, 1262-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

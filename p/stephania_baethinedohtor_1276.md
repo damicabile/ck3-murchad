@@ -18,7 +18,7 @@ Princess Stephania Baethinedohtor of England, 1276-1306, Briain
             Philippa Sigurdr-Lindisfarne, 1153-1221
                 Ralph Sigurdr-Lindisfarne, 1136-1159
                 Catriona Dunkeld-Dunbar, 1136-1206
-    Queen Marthe, 1240-, Pins
+    Queen Marthe, 1240-
         ?
         ?
 ```
@@ -26,16 +26,16 @@ Princess Stephania Baethinedohtor of England, 1276-1306, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+## PARENTS 
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
+* Queen Marthe, 1240-
 
-## DESCENDANTS
+## CHILDREN 
+* [Duke Inwaer Stephaniason of Wessex, 1295-, Briain](p/inwaer_stephaniason_1295.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

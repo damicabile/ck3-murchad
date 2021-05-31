@@ -34,3 +34,20 @@ Duke Mathieu of Orleans, 1220-, Antoing
                 Wojciech Piast-Sieradz, 1162-1228
                 Wilmot Csanad, 1157-1216
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Earl Gilles, 1251-
+* Countess Magdalena, 1226-1277
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

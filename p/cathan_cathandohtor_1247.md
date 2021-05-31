@@ -18,7 +18,7 @@ Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain
             Countess Hrothwina, 1153-1219
                 ?
                 Enda von Katlenburg, 1130-1197
-    Cathan Abeldohtor, 1218-1292
+    Cathan Briain, 1218-1292
         King Abel, 1190-1269
             Starkad Slatte, 1170-1209
                 Ulf Slatte, 1152-1176
@@ -38,21 +38,19 @@ Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
-* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+## PARENTS 
+* Godschalk Limburg-Falkenstein, 1220-1282
+* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](p/cathan_abeldohtor_1218.md)
 
-## DESCENDANTS
+## CHILDREN 
+* [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](p/cathan_cathandohtor_1270.md)
+* [Duke Erc mac Cathan of Cornwall, 1264-, Briain](p/erc_mac_cathan_1264.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1294.md](../h/1294.md)
+* [1308.md](../h/1308.md)
 
 #### END REFERENCES

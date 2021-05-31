@@ -38,29 +38,17 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+## PARENTS 
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](p/dinertach_mac_caindelban_1141.md)
+* Hawise Normandie-Bedford, 1141-1213
 
-## DESCENDANTS
-* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
-* [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got](cainchomrac_tailefhlaith_1231.md)
-* [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](dimmasach_mag_aine_1218.md)
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
-* [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](muirenne_nic_pierre_1275.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
-* [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
-* [Prince Rodan mac Narbflaith of England, 1263-, Briain](rodan_mac_narbflaith_1263.md)
-* [Duke Tadg Barrdubson of Deira, 1257-, Got](tadg_barrdubson_1257.md)
-* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
+## CHILDREN 
+* Flann Got, 1188-1252
+* Morann Got, 1182-1250
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

@@ -10,7 +10,7 @@ Duke Hlothere Muirennson of Kent, 1278-, Kiil
                 ?
             Heilwiwa, 1164-1223
         Seonaid Briain, 1217-1277
-            Prince Labraid, 1188-1257, Briain
+            Prince Labraid, 1188-1257
                 Starkad Slatte, 1170-1209
                 High Queen Gormflaith, 1171-1253
             Hawise of Hwicce, 1184-1241
@@ -32,3 +32,20 @@ Duke Hlothere Muirennson of Kent, 1278-, Kiil
                 Gormgus Briain, 1167-1221
                 Garb Briain, 1147-1214
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Earl Ernan, 1245-1306
+* Duchess Muirenn, 1245-1283
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

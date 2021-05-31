@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
-    Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield
+    Duke Pierre, 1256-1282
         Duke Natfraich, 1224-1274
             Laidine Got, 1200-1231
                 Dimmasach Got, 1173-1243
@@ -42,23 +42,15 @@ Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
-* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
-* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
-* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
-* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
-* [Morien nic Finneacht, 1183-1251, LLewellyn](morien_nic_finneacht_1183.md)
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
+## PARENTS 
+* [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
+* Julienne of Mar, 1238-
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1294.md](../h/1294.md)
 

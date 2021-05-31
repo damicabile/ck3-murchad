@@ -38,25 +38,17 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll](idwal_ap_gruffydd_1054.md)
-* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+## PARENTS 
+* Gormgus Briain, 1167-1221
+* Garb Briain, 1147-1214
 
-## DESCENDANTS
-* [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](beorhtric_muirennson_1265.md)
-* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
-* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
+## CHILDREN 
+* Duchess Gelgeis, 1217-1277
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

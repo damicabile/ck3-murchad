@@ -21,7 +21,21 @@ Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy
             Mayor Margred, 1189-1244
                 ?
                 Anowed, 1146-1210
-
-Process finished with exit code 0
-
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Pasgen Llyn, 1238-1279
+* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](p/cairech_nic_lugaid_1250.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

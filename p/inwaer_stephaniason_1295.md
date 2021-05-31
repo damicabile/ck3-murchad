@@ -26,7 +26,7 @@ Duke Inwaer Stephaniason of Wessex, 1295-, Briain
             Catriona of Carrick, 1187-1215
                 King Conall II, 1155-1215
                 Philippa Sigurdr-Lindisfarne, 1153-1221
-        Queen Marthe, 1240-, Pins
+        Queen Marthe, 1240-
             ?
                 ?
                 ?
@@ -34,3 +34,20 @@ Duke Inwaer Stephaniason of Wessex, 1295-, Briain
                 ?
                 ?
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Frang ua Braenain, 1274-
+* [Princess Stephania Baethinedohtor of England, 1276-1306, Briain](p/stephania_baethinedohtor_1276.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

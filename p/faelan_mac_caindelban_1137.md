@@ -39,23 +39,17 @@ Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+## PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
 
-## DESCENDANTS
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
-* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
-* [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](lles_ap_madrun_1220.md)
+## CHILDREN 
+* Coblaith is Nadruva, 1171-1240
+* [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 

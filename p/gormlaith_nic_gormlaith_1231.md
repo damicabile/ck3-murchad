@@ -38,24 +38,15 @@ Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
-* [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+## PARENTS 
+* Earl Odran, 1200-1259
+* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](p/gormlaith_nic_dunlaith_1214.md)
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1294.md](../h/1294.md)
 

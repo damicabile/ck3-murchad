@@ -41,23 +41,16 @@ Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
+## PARENTS 
+* High King Olav, 1066-1132
+* Flann ua Neill Noigiallaich, 1076-1143
 
-## DESCENDANTS
-* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
-* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
-* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](ben-ulad_nic_deirdre_1152.md)
-* [Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis](bhatair_mac_sioban_1236.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
-* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
-* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+## CHILDREN 
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](p/aelfmaer_mag_osraed_1128.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)

@@ -39,15 +39,15 @@ Process finished with exit code 0
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
+## PARENTS 
+* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](p/ailpin_mac_donnchad_1101.md)
+* Aedemmair Conchobair, 1081-1141
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1141.md](../h/1141.md)
 

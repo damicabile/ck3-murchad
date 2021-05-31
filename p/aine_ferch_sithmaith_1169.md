@@ -34,23 +34,17 @@ Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
-* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
+## PARENTS 
+* Lord Rodan, 1140-1181
+* Princess Sithmaith, 1140-1181
 
-## DESCENDANTS
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
-* [Lord Sion ab Augustin of Eryri, 1224-1232, Ruairc](sion_ab_augustin_1224.md)
-* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](talorc_ab_aine_1200.md)
+## CHILDREN 
+* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](p/talorc_ab_aine_1200.md)
+* Lord Augustin, 1196-1224
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1186.md](../h/1186.md)
 * [1186_2.md](../h/1186_2.md)

@@ -34,3 +34,20 @@ Duke Fuacarta of Anjou, 1283-, gCais-Sherwood
                 Eberhard Ludowinger, 1170-1232
                 Annelies von Goseck, 1172-1235
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Duke Scellan of Hwicce, 1255-, Briain](p/scellan_1255.md)
+* Duchess Gertrude, 1257-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

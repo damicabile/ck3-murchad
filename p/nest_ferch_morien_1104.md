@@ -26,25 +26,17 @@ Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi
 
 # REFERENCES
 
-## ANCESTORS
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+## PARENTS 
+* Lord Cynfyn, 1077-1145
+* Morien Caerloyw-Tyddewi, 1086-1160
 
-## DESCENDANTS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](aine_ferch_sithmaith_1169.md)
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
-* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
-* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](gormlaith_nic_dunlaith_1214.md)
-* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [Lord Sion ab Augustin of Eryri, 1224-1232, Ruairc](sion_ab_augustin_1224.md)
-* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](talorc_ab_aine_1200.md)
-* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
+## CHILDREN 
+* Gnathnad mac Mathgamna, 1134-1193
+* Lord Rodan, 1140-1181
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

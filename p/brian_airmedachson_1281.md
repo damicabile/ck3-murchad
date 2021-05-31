@@ -34,3 +34,20 @@ Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal
                 Duke Hogni, 1142-1216
                 Duchess Bergdora, 1165-1233
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Duke Airmedach, 1261-
+* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](p/ylva_drifadohtor_1261.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

@@ -38,14 +38,18 @@ Earl David of Berkshire, 1231-1279, Clare
 
 # REFERENCES
 
-## ANCESTORS
-* [Murchad mag Enguerrand, 1102-1164, gCais-Inis](murchad_mag_enguerrand_1102.md)
+## PARENTS 
+* David de Clare, 1209-1241
+* Giselle Mel, 1209-1260
 
-## DESCENDANTS
+## CHILDREN 
+* Court Chaplain Sybilla, 1248-
+* [Court Chaplain Sybilla, 1248-, Clare](p/sybilla_1248.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
+* [1294.md](../h/1294.md)
 
 #### END REFERENCES

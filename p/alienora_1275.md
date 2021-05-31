@@ -34,3 +34,20 @@ Duke Alienora of Normandy, 1275-, Corbeil
                 ?
                 ?
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* Count Sayer, 1244-1279
+* Maha Fadlid, 1237-1302
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

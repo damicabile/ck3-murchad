@@ -39,20 +39,15 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
 
 # REFERENCES
 
-## ANCESTORS
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain](muirenn_gelgeisdohtor_1245.md)
-* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](senchan_mac_somhairle_1188.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+## PARENTS 
+* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](p/senchan_mac_somhairle_1188.md)
+* Gyda af Orkneyjar, 1223-1296
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

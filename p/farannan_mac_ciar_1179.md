@@ -38,32 +38,17 @@ Earl Farannan mac Ciar of Ennis, 1179-1238, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
-* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+## PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
 
-## DESCENDANTS
-* [Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain](cairech_nic_faelchu_1235.md)
-* [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
-* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](faelchu_mac_farannan_1212.md)
-* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
-* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
+## CHILDREN 
+* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](p/faelchu_mac_farannan_1212.md)
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1209.md](../h/1209.md)
 * [1227.md](../h/1227.md)

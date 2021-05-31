@@ -34,3 +34,20 @@ Duchess Gruoch nic Glenn of Munster, 1273-, Braenain
                 Greger Stenkiling-Roskilde, 1171-1195
                 Duchess Kyriake, 1172-1241
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain](p/glenn_mac_mael-ruanaid_1242.md)
+* Court Chaplain Sybilla, 1248-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

@@ -38,20 +38,17 @@ Queen Eithne nic Baethine of England, 1238-, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
-* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
-* [Martha Kyle, 1210-1279, Kyle](martha_kyle_1210.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+## PARENTS 
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
+* Martha Kyle, 1210-
 
-## DESCENDANTS
-* [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
+## CHILDREN 
+* [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](p/der-lugdach_1266.md)
+* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

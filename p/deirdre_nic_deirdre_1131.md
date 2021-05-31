@@ -35,17 +35,16 @@ Deirdre nic Deirdre, 1131-1196, gCais-Inis
 
 # REFERENCES
 
-## ANCESTORS
-* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+## PARENTS 
+* Loup de Saulx, 1105-1167
+* Deirdre gCais-Inis, 1101-1155
 
-## DESCENDANTS
-* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](ben-ulad_nic_deirdre_1152.md)
-* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
+## CHILDREN 
+* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](p/ben-ulad_nic_deirdre_1152.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

@@ -3,7 +3,7 @@
 ## FAMILY TREE 
 ```
 Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
-    Prince Labraid, 1188-1257, Briain
+    Prince Labraid, 1188-1257
         Starkad Slatte, 1170-1209
             Ulf Slatte, 1152-1176
                 Starkad Slatte, 1126-1189            
@@ -39,21 +39,15 @@ Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [Duke Haraldr I Gudrodsson of the Isles, 1080-1128, Crovan](haraldr_i_gudrodsson_1080.md)
-* [Duke Haraldr II of the Isles, 1125-1213, Crovan](haraldr_ii_1125.md)
-* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+## PARENTS 
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
+* Hawise of Hwicce, 1184-1241
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

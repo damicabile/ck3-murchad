@@ -39,27 +39,15 @@ Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
-* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
-* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](rian_i_ab_aengus_1144.md)
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+## PARENTS 
+* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](p/eonagan_mag_ellbrig_1193.md)
+* Countess Sinech, 1226-
 
-## DESCENDANTS
+## CHILDREN 
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1265.md](../h/1265.md)
 

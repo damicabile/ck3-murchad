@@ -27,24 +27,17 @@ Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain
 
 # REFERENCES
 
-## ANCESTORS
-* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
-* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
-* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+## PARENTS 
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
+* Cathan, 1187-1248
 
-## DESCENDANTS
+## CHILDREN 
+* Petty Queen Cairech, 1235-1299
+* [Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain](p/cairech_nic_faelchu_1235.md)
 
-## RELATIVES
+## SIBLINGS
 
-##### END RELATIVES 
+##### END SIBLINGS  
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)
