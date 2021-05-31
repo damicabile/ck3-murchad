@@ -45,9 +45,9 @@ Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu
 ## CHILDREN 
 * Grainne Llewellyn, 1163-1234
 * [Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn](p/sorcha_ferch_finneacht_1172.md)
-* [Morien nic Finneacht, 1183-1251, LLewellyn](p/morien_nic_finneacht_1183.md)
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn](p/aengus_ii_mac_finneacht_1177.md)
 * Morien Llewellyn, 1183-1251
+* [Morien nic Finneacht, 1183-1251, LLewellyn](p/morien_nic_finneacht_1183.md)
 
 ## SIBLINGS
 

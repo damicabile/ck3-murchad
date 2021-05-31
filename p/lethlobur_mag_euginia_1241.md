@@ -1,9 +1,9 @@
-# Earl Lethlobur mag Euginia of Northumberland, 1241-, Briain
+# Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain
 
 ## FAMILY TREE 
 ```
-Earl Lethlobur mag Euginia of Northumberland, 1241-, Briain
-    Dobieslaw Piast Sieradz, 1241-
+Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain
+    Dobieslaw Piast-Sieradz, 1212-1279
         Count Doman, 1158-1222    
             Duke Wojciech, 1110-1182
                 Duke Enekio, 1088-1109
@@ -18,7 +18,7 @@ Earl Lethlobur mag Euginia of Northumberland, 1241-, Briain
             Huld Yngling, 1158-1202
                 Count Sumarlidi, 1118-1170
                 Marta Galta, 1119-1186
-    Euginia Briain, 1213-
+    Baroness Euginia, 1213-1273
         Prince Labraid, 1188-1257
             Starkad Slatte, 1170-1209
                 Ulf Slatte, 1152-1176

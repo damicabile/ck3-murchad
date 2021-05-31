@@ -1,6 +1,6 @@
 # HISTORY OF MUNSTER - CK3 - AA4
 
-- [Petty King Murchad mac Donnchad of Munster,1069](h/1069.md)
+- [Petty King Murchad mac Donnchad of Munster, 1069](h/1069.md)
 - [Petty King Murchad Mac Donnchad of Munster, 1089](h/1089.md)
 - [Petty King Brian II mac Murchad of Munster, 1095](h/1095.md)
 - [Petty King Brian II mac Murchad of Munster, 1108](h/1108.md)
@@ -17,3 +17,4 @@
 - [High King Abel mac Gormflaith of Ireland, 1265](h/1265.md)
 - [King Baethine of England, 1278](h/1278.md)
 - [Queen Eithne of England, 1294](h/1294.md)
+- [Queen Eithne of France, 1308](h/1308.md)

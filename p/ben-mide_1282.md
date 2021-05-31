@@ -33,7 +33,7 @@ Countess Ben-Mide of Chartres, 1282-, gCais-Mathrafal
             Margareta Yngling-Konungahella, 1209-1280
                 Duke Hogni, 1142-1216
                 Duchess Bergdora, 1165-1233
-
+    
 ```
 
 
