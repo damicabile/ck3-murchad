@@ -16,6 +16,7 @@
 - [Aengus I mac Cobflaith](p/aengus_i_mac_cobflaith_1123.md) (1123-1190)*, Duke of Meath, Briain*
 - [Aethelberht Tailefhlaithson](p/aethelberht_tailefhlaithson_1274.md) (1274-), *Earl of Buccingahamm, Got*
 - [Aethelburg Giseledohtor](p/aethelburg_giseledohtor_1283.md) (1283-), *Countess of Worcestershire, Kiil*
+- [Aethelburh](p/aethelburh_1285.md) (1285-), *Countess of Alencon, Briain*
 - [Aibilin mac Caindelban](p/aibilin_mac_caindelban_1135.md) (1135-1203), *Princess of Ireland, Briain*
 - [Aileann nic Cobflaith](p/aileann_nic_cobflaith_1128.md) (1128-1184)*, Briain*
 - [Ailpin mac Mael-Muire](p/ailpin_mac_mael-muire_1158.md) (1158-1222), *Earl of Briefne, gCais-Inis*
@@ -215,6 +216,7 @@
 - [Thurcytel Saeberston](p/thurcytel_saebertson_1228.md) (1228-1287), *Duke of Mercia, Briain*
 - [Udalschalk mag Aileann](p/udalschalk_mag_aileann_1145.md) (1145-1214)*, Earl of Ui Mhaine, gCais-Gaillimhe*
 - [Udalschalk mag Eilika](p/udalschalk_mag_eilika_1096.md) (1096-1162), *Duke of Meath, Cilli*
+- [Uilliam Lorcanson](p/uilliam_lorcanson_1283.md) (1283-), *Earl of Evreux, Briain*
 - [Ultan mac Gelgeis](p/ultan_mac_gelgeis_1249.md) (1249-), *Earl of Ossory, Briain*
 - [William](p/william_1247.md) (1247-), *Duke of Guoladat, Sigurdr-York*
 - [Wulfgifu Ermessindedohtor](p/wulfgifu_ermessindedohtor_1282.md) (1282-), *Countess of South Seaxe, Briain*
