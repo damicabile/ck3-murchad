@@ -11,6 +11,7 @@
 - [Aed mag Ite](p/aed_mag_ite_1142.md) (1142-1207), *Briain*
 - [Aelfmaer mag Osraed](p/aelfmaer_mag_osraed_1128.md) (1128-1167), *Earl of Ui Mhaine, Hayles*
 - [Aelfstan Aedson](p/aelfstan_aedson_1279.md) (1279-), *Earl of Macon, Got*
+- [Aelfthryth](p/aelfthryth_1275.md) (1275-), *Countess of Nevers, Hayles*
 - [Aengus II mac Finneacht](p/aengus_ii_mac_finneacht_1177.md) (1177-1239), *Duke of Meath, Llewellyn*
 - [Aengus I mac Cobflaith](p/aengus_i_mac_cobflaith_1123.md) (1123-1190)*, Duke of Meath, Briain*
 - [Aethelberht Tailefhlaithson](p/aethelberht_tailefhlaithson_1274.md) (1274-), *Earl of Buccingahamm, Got*
@@ -59,6 +60,7 @@
 - [Cobflaith nic Faelan](p/cobflaith_nic_faelan_1101.md) (1101-1176), *Countess of Ceredigion, Briain*
 - [Coblaith nic Cairech](p/coblaith_nic_cairech_1277.md) (1277-), *Count of Vermandois, gCais-Trefynwy*
 - [Coilboth mag Etain](p/coilboth_mag_etain_1287.md) (1287-), *Lord of Brycheiniog, Briain*
+- [Comgan mag Aine](p/comgan_mag_aine_1302.md) (1302-), *Count of Issoudun, gCais-Berkhamsted*
 - [Conchenn nic Gilla-Ruad](p/conchenn_nic_gilla-ruad_1163.md) (1163-1225), *gCais-Cruachu*
 - [Congalach ab Caindelban](p/congalach_ab_caindelban_1148.md) (1148-1209), *Prince of Ireland, Evans*
 - [Conmal mac Faelan](p/conmal_mac_faelan_1122.md) (1122-1188), *Duke of Ulster, Briain*
@@ -190,6 +192,7 @@
 - [Rodan mac Narbflaith](p/rodan_mac_narbflaith_1263.md) (1263-), *Prince of England, Briain*
 - [Rois nic Lorcan](p/rois_nic_lorcan_1225.md) (1225-1296), *Princess of England, Briain*
 - [Scellan](p/scellan_1255.md) (1255-), *Duke of Hwicce, Briain*
+- [Scule Stephaniason](p/scule_stephaniason_1302.md) (1302-), *Earl of Wight, Briain*
 - [Sean mac Brian](p/sean_mac_brian_1101.md) (1101-1135), *Earl of Oriel, Laighin*
 - [Sean mac Cuanu](p/sean_mac_cuanu_1139.md) (1139-1209), *Laighin*
 - [Senchan mac Somhairle](p/senchan_mac_somhairle_1188.md) (1188-1255), *King of Wales, gCais-Tegeingl*
@@ -214,7 +217,7 @@
 - [Udalschalk mag Eilika](p/udalschalk_mag_eilika_1096.md) (1096-1162), *Duke of Meath, Cilli*
 - [Ultan mac Gelgeis](p/ultan_mac_gelgeis_1249.md) (1249-), *Earl of Ossory, Briain*
 - [William](p/william_1247.md) (1247-), *Duke of Guoladat, Sigurdr-York*
-- [Wulfgar](p/wulfgar_1282.md) (1282-), *Duke of Berry, Randolph*
 - [Wulfgifu Ermessindedohtor](p/wulfgifu_ermessindedohtor_1282.md) (1282-), *Countess of South Seaxe, Briain*
+- [Wulfrun](p/wulfrun_1282.md) (1282-), *Countess of Avalois, Pudsey*
 - [Wulfwynn Riandohtor](p/wulfwynn_riandohtor_1273.md) (1273-), *Countess of Herefordshire, Llewellyn*
 - [Ylva Drifadohtor](p/ylva_drifadohtor_1261.md) (1261-), *Duchess of Mercia, Hagalin*
