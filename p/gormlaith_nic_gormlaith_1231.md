@@ -11,7 +11,7 @@ Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe
             Maire gCais-Cruachu, 1145-1219
                 Duke Fiachnae, 1125-1184
                 Morien Caerloyw-Tyddewi, 1122-1192
-        Beorthflaed Briain, 1180-1242
+        Beorhtflaed Briain, 1180-1242
             Mael-Ciarain Briain, 1153-1227
                 Jacques Wigeriche, 1133-1171
                 Aibilin Briain, 1135-1203

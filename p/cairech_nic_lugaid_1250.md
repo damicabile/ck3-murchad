@@ -15,7 +15,7 @@ Lady Cairech nic Lugaid of Gwent, 1250-, Briain
             Loeguire Briain, 1182-1244
                 High King Caindelban II, 1147-1227
                 High Queen Constance, 1144-1209
-            Morien LLewellyn, 1183-1251
+            Morien Llewellyn, 1183-1251
                 Duke Rian I, 1144-1211
                 Duchess Finneacht, 1143-1205
     Lady Elena of Brycheiniog, 1229-

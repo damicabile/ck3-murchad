@@ -39,7 +39,7 @@ Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn
 # REFERENCES
 
 ## PARENTS 
-* [Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn](p/aengus_ii_mac_finneacht_1177.md)
+* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](p/aengus_ii_mac_finneacht_1177.md)
 * Duchess Joan, 1174-1238
 
 ## CHILDREN 

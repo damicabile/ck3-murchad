@@ -39,7 +39,7 @@ Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn
 # REFERENCES
 
 ## PARENTS 
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](p/rian_i_ab_aengus_1144.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
 
 ## CHILDREN 

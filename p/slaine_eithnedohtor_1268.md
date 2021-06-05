@@ -1,9 +1,9 @@
-# Slaine Eithnedohtor, 1268-, gCais-Mathrafal
+# Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
 
 ## FAMILY TREE
 ```
-Slaine Eithnedohtor, 1268-, gCais-Mathrafal
-    Duke Farannan, 1239-
+Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
+    Duke Farannan, 1239-1299
         Duke Niallan, 1217-1279
             Earl Farannan, 1179-1238
                 Aed Briain, 1142-1207

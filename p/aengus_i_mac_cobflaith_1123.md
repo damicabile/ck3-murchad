@@ -37,7 +37,7 @@ Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain
 
 ## CHILDREN 
 * [Somhairle mag Aengus, 1158-1223, Briain](p/somhairle_mag_aengus_1158.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](p/rian_i_ab_aengus_1144.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
 
 ## SIBLINGS
 

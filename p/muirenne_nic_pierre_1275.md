@@ -21,7 +21,7 @@ Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
                 Annwyl Caerloyw-Tyddewi, 1171-1251
             Cacht Briain, 1201-1255
                 Loeguire Briain, 1182-1244
-                Morien LLewellyn, 1183-1251
+                Morien Llewellyn, 1183-1251
     Julienne of Mar, 1238-
         Matudan of Mar, 1213-1254
             Robartach of Mar, 1183-1247

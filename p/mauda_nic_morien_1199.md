@@ -18,7 +18,7 @@ Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain
             Lerthan Crovan, 1108-1169
                 Dimmasach Crovan, 1074-1116
                 Duchess Sybilla, 1081-1115
-    Morien LLewellyn, 1183-1251
+    Morien Llewellyn, 1183-1251
         Duke Rian I, 1144-1211
             Duke Aengus I, 1123-1190
                 Duke Udalschalk, 1096-1162
@@ -40,7 +40,7 @@ Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain
 
 ## PARENTS 
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
-* [Morien nic Finneacht, 1183-1251, LLewellyn](p/morien_nic_finneacht_1183.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
 
 ## CHILDREN 
 * [Duke Eochucan mac Mauda of Lancaster, 1234-1269, Briain](p/eochucan_mac_mauda_1234.md)

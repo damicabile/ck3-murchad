@@ -1,8 +1,8 @@
-# Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
+# Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn
 
 ## FAMILY TREE 
 ```
-Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
+Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn
     Duke Rian I, 1144-1211
         Duke Aengus I, 1123-1190
             Duke Udalschalk, 1096-1162
@@ -40,12 +40,12 @@ Duke Aengus II mac Finneacht of Meath, 1177-1239, LLewellyn
 # REFERENCES
 
 ## PARENTS 
-* [Duke Rian I ab Aengus of Meath, 1144-1211, LLewellyn](p/rian_i_ab_aengus_1144.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
 
 ## CHILDREN 
 * [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](p/rian_ii_mag_aengus_1208.md)
-* Duke Riain II, 1208-1278
+* Duke Rian II, 1208-1278
 
 ## SIBLINGS
 

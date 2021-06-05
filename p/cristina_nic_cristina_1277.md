@@ -17,7 +17,7 @@ Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield
                 Annwyl Caerloyw-Tyddewi, 1171-1251
             Cacht Briain, 1201-1255
                 Loeguire Briain, 1182-1244
-                Morien LLewellyn, 1183-1251
+                Morien Llewellyn, 1183-1251
     Countess Cristina, 1248-1277
         Duke Cilline, 1215-1282
             Dagr Sigurdr-Kyle, 1194-1243

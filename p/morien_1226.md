@@ -26,7 +26,7 @@ Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield
             High Queen Constance, 1144-1209
                 Prince Randolph I, 1108-1149
                 Lerthan Crovan, 1108-1169
-        Morien LLewellyn, 1183-1251
+        Morien Llewellyn, 1183-1251
             Duke Rian I, 1144-1211
                 Duke Aengus I, 1123-1190
                 Duchess Rhiandrech, 1116-1187

@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got
-    Thane Cainchomrac, 1231-     
+    Thane Cainchomrac, 1231-1293     
         Aed Got, 1202-1263
             Dimmasach Got, 1173-1243
                 Prince Dinertach, 1141-1210

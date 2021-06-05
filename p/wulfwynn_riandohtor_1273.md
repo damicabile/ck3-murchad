@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn
-    Duke Riain II, 1208-1278
+    Duke Rian II, 1208-1278
         Duke Aengus II, 1177-1239
             Duke Rian I, 1144-1211
                 Duke Aengus I, 1123-1190
@@ -27,7 +27,7 @@ Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn
 # REFERENCES
 
 ## PARENTS 
-* Duke Riain II, 1208-1278
+* Duke Rian II, 1208-1278
 * Gnathnad Lorc, 1242-
 
 ## CHILDREN 

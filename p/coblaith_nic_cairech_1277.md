@@ -13,7 +13,7 @@ Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy
                 Annwyl Caerloyw-Tyddewi, 1171-1251
             Cacht Briain, 1201-1255
                 Loeguire Briain, 1182-1244
-                Morien LLewellyn, 1183-1251
+                Morien Llewellyn, 1183-1251
         Lady Elena of Brycheiniog, 1229-
             Niccolo Fibonacci, 1183-1235
                 ?

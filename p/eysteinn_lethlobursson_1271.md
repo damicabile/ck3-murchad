@@ -20,19 +20,5 @@ Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde
                 Gunnhildr Crovan, 1153-1192
     Countess Constance, 1240-1292
         ?
-            ?
-                ?
-                ?
-            ?
-                ?
-                ?
         ?
-            ?
-                ?
-                ?
-            ?
-                ?
-                ?
-
-        
 ```

@@ -17,7 +17,7 @@ Duke Natfraich of Bar, 1280-, Cathasaigh
                 Annwyl Caerloyw-Tyddewi, 1171-1251
             Cacht Briain, 1201-1255
                 Loeguire Briain, 1182-1244
-                Morien LLewellyn, 1183-1251
+                Morien Llewellyn, 1183-1251
     Countess Muirenn, 1262-
         Earl Natfraich, 1218-1282
             Loeguire Briain, 1182-1244
