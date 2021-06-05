@@ -33,7 +33,4 @@ Earl Aelfstan Aedson of Macon, 1279-, Got
             Perinne de Boulogne, 1212-1288  
                 Earl Hugues, 1188-1263
                 Countess Anna, 1184-1238
-
-Process finished with exit code 0
-
 ```
