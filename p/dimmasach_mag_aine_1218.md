@@ -1,9 +1,9 @@
-# Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got
+# Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted
 
 ## FAMILY TREE
 
 ```
-Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got
+Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted
     Laidine Got, 1200-1231
         Dimmasach Got, 1173-1243
             Prince Dinertach, 1141-1210

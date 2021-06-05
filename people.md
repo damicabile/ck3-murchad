@@ -79,7 +79,7 @@
 - [David](p/david_1231.md) (1231-1279), *Earl of Berkshire, Clare*
 - [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*
 - [Der-Lugdach](p/der-lugdach_1266.md) (1266-), *Duchess of Westfalen, gCais-Mathrafal*
-- [Dimmasach mag Aine](p/dimmasach_mag_aine_1218.md) (1218-1279), *Earl of Hertfordshire, Got*
+- [Dimmasach mag Aine](p/dimmasach_mag_aine_1218.md) (1218-1279), *gCais-Berkhamsted*
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Domnall mag Ailpin](p/domnall_mag_ailpin_1119.md) (1119-1180), *gCais-Fathain*
