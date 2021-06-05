@@ -42,6 +42,13 @@ Duke Hlothere Muirennson of Kent, 1278-, Kiil
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Earl Muirgius, 1190-1250
+* Duchess Gelgeis, 1217-1277
+* Baldewin, 1211-1264
+* Seonaid Briain, 1217-1277
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

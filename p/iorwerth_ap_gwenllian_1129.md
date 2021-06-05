@@ -31,6 +31,13 @@ Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi
 * Elidyr Caerloyw-Tyddewi, 1168-1229
 * Annwyl Caerloyw-Tyddewi, 1171-1251
 
+
+## GREAT-PARENTS 
+* Lord Iorwerth, 1053-1109
+* Thyra Reventlow, 1051-1121
+* Lord Meilys, 1047-1101
+* Eadhild, 1050-1114
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

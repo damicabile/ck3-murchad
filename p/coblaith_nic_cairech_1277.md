@@ -32,6 +32,11 @@ Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](p/lugaid_mac_cacht_1227.md)
+* Lady Elena of Brycheiniog, 1229-
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

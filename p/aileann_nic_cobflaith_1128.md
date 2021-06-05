@@ -38,6 +38,13 @@ Aileann nic Cobflaith, 1128-1184, Briain
 * [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](p/udalschalk_mag_aileann_1145.md)
 * [Ellbrig nig Aileann, 1155-1223, Briain](p/ellbrig_nig_aileann_1155.md)
 
+
+## GREAT-PARENTS 
+* Serene Doge Luchino, 1042-1099
+* Eilika von Cilli, 1050-1106
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -27,6 +27,10 @@ Earl Sean mac Brian of Oriel, 1101-1135, Laighin
 ## CHILDREN 
 * [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](p/cuanu_mac_sean_1121.md)
 
+
+## GREAT-PARENTS 
+* High King Murchad, 1027-1095
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

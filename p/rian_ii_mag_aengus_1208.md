@@ -43,9 +43,16 @@ Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn
 * Duchess Joan, 1174-1238
 
 ## CHILDREN 
-* [Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn](p/wulfwynn_riandohtor_1273.md)
 * Earl Bruatur mac Rian of Essex, 1241-
 * [Earl Bruatur mac Rian of Essex, 1241-, Llewellyn](p/bruatur_mac_rian_1241.md)
+* [Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn](p/wulfwynn_riandohtor_1273.md)
+
+
+## GREAT-PARENTS 
+* Peter de Normandie, 1139-1201
+* Gurli Stibolt, 1137-1207
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
 
 ## SIBLINGS
 

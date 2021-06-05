@@ -45,6 +45,13 @@ Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis
 ## CHILDREN 
 * [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](p/ailpin_mac_sinech_1257.md)
 
+
+## GREAT-PARENTS 
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](p/aelfmaer_mag_osraed_1128.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
+* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](p/cormac_mac_bruatur_1133.md)
+* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](p/mael-muire_nig_ailpin_1125.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

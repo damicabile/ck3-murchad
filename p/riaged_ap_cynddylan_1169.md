@@ -28,6 +28,13 @@ Riaged ap Cynddylan, 1169-1219, Caerloyw-Penfro
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Gwyn Ynys Cybi, 1127-1168
+* Muirgel Briain, 1130-1201
+* Lord Riaged, 1126-1181
+* Peigi Dunkeld, 1125-1192
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -46,6 +46,13 @@ Briccene mac Conmal, 1158-1209, gCais-Padraig
 ## CHILDREN 
 * Countess Sioban, 1191-1255
 
+
+## GREAT-PARENTS 
+* Lord Cadfan, 1096-1123
+* Estefania de Barcelona, 1075-1133
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

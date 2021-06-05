@@ -45,6 +45,13 @@ Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](p/starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+* Alan of Hwicce, 1165-121
+* Gunnhildr Crovan, 1153-1192
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -46,6 +46,13 @@ Somhairle mag Aengus, 1158-1223, Briain
 * [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](p/senchan_mac_somhairle_1188.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
 
+
+## GREAT-PARENTS 
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](p/udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
+* Lord Rhiwallon, 1087-1137
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](p/elen_ferch_idwal_1092.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

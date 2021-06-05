@@ -47,6 +47,13 @@ Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 * [Muiredach mac Flaitheman, 1216-1281, Briain](p/muiredach_mac_flaitheman_1216.md)
 * Earl Mael-Ruanaid, 1220-1262
 
+
+## GREAT-PARENTS 
+* Prince Randolph I, 1108-1149
+* Lerthan Crovan, 1108-1169
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

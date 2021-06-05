@@ -47,6 +47,13 @@ Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain
 * Baron Lonan, 1255-1297
 * Gormlaith Cetchathach-Banff, 1231-1290
 
+
+## GREAT-PARENTS 
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](p/pyr_ap_rhufon_1160.md)
+* Caintigern Briain, 1156-1228
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](p/starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

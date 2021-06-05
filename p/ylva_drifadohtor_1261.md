@@ -43,9 +43,16 @@ Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin
 * Duchess Drifa, 1228-1282
 
 ## CHILDREN 
+* [Countess Gerroc Airmedachdohtor of Clermont, 1289-, gCais-Mathrafal](p/gerroc_airmedachdohtor_1289.md)
 * [Countess Ben-Mide of Chartres, 1282-, gCais-Mathrafal](p/ben-mide_1282.md)
 * [Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal](p/brian_airmedachson_1281.md)
-* [Countess Gerroc Airmedachdohtor of Clermont, 1289-, gCais-Mathrafal](p/gerroc_airmedachdohtor_1289.md)
+
+
+## GREAT-PARENTS 
+* Earl Saebert, 1203-1261
+* Maire Brunonen, 1200-1268
+* Sverrir Hagalin, 1211-1249
+* Margareta Yngling-Konungahella, 1209-1280
 
 ## SIBLINGS
 

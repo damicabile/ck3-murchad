@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal
-    Duke Farannan, 1239-
+    Duke Farannan, 1239-1299
         Duke Niallan, 1217-1279
             Earl Farannan, 1179-1238
                 Aed Briain, 1142-1207
@@ -39,10 +39,17 @@ Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal
 # REFERENCES
 
 ## PARENTS 
-* Duke Farannan, 1239-
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](p/eithne_nic_baethine_1238.md)
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
+* Martha Kyle, 1210-
 
 ## SIBLINGS
 

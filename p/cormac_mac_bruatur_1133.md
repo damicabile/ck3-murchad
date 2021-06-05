@@ -47,6 +47,13 @@ Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis
 * [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](p/ailpin_mac_mael-muire_1158.md)
 * Aedammair gCais-Inis, 1154-1223
 
+
+## GREAT-PARENTS 
+* High King Olav, 1066-1132
+* Flann ua Neill Noigiallaich, 1076-1143
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](p/enguerrand_mac_murchad_1081.md)
+* Countess Margrethe, 1085-1127
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

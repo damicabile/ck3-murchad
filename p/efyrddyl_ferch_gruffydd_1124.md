@@ -24,6 +24,11 @@ Efyrddyl ferch Gruffydd, 1124-1194, Seisyll
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Earl Idwal, 1054-111211121112
+* Sioned Ynys Cybi,1048-1114
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

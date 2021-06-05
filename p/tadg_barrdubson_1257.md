@@ -44,6 +44,13 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](p/aed_mac_narbflaith_1202.md)
+* Tailefhlaith Got, 1207-1273
+* Earl Eoganan, 1193-1260
+* Countess Sioban, 1191-1255
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

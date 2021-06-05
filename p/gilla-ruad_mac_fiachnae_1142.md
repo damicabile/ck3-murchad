@@ -43,11 +43,18 @@ Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu
 * Morien Caerloyw-Tyddewi, 1122-1192
 
 ## CHILDREN 
-* [Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu](p/fiachnae_mac_gilla-ruad_1167.md)
-* Muirenn gCais-Cruachu, 1159-1215
-* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](p/muirenn_ii_nic_gilla-ruad_1165.md)
 * [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](p/muirenn_i_nic_gilla-ruad_1165.md)
 * [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](p/conchenn_nic_gilla-ruad_1163.md)
+* [Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu](p/fiachnae_mac_gilla-ruad_1167.md)
+* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](p/muirenn_ii_nic_gilla-ruad_1165.md)
+* Muirenn gCais-Cruachu, 1159-1215
+
+
+## GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](p/elidyr_ab_iorwerth_1085.md)
+* Petty Queen Gwenllian, 1090-1148
 
 ## SIBLINGS
 

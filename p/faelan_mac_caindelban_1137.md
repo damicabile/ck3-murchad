@@ -47,6 +47,13 @@ Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain
 * [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
 * Coblaith is Nadruva, 1171-1240
 
+
+## GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* Domnall ua Neill Noigiallaich, 1069-1120
+* Rois Neill, 1071-1145
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

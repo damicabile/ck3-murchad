@@ -39,6 +39,13 @@ Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain
 * [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
 * [Somhairle mag Aengus, 1158-1223, Briain](p/somhairle_mag_aengus_1158.md)
 
+
+## GREAT-PARENTS 
+* Serene Doge Luchino, 1042-1099
+* Eilika von Cilli, 1050-1106
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

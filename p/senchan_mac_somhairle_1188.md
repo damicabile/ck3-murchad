@@ -45,6 +45,13 @@ King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
 ## CHILDREN 
 * [King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl](p/taithlech_mac_senchan_1243.md)
 
+
+## GREAT-PARENTS 
+* Duke Owain II, 1139-1166
+* Agata de Lacon, 1137-1207
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](p/aengus_i_mac_cobflaith_1123.md)
+* Duchess Rhiandrech, 1116-1187
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

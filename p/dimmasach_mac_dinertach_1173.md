@@ -46,6 +46,13 @@ Dimmasach mac Dinertach, 1173-1243, Got
 * [Laidine mac Narbflaith, 1200-1231, Got](p/laidine_mac_narbflaith_1200.md)
 * [Aed mac Narbflaith, 1202-1263, Got](p/aed_mac_narbflaith_1202.md)
 
+
+## GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
+* Prince Randolph I, 1108-1149
+* Lerthan Crovan, 1108-1169
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -32,6 +32,12 @@ Earl Ernad Seonaidson of Warwickshire, 1245-1306, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
+* Hawise of Hwicce, 1184-1241
+* Heilwiwa, 1164-1223
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

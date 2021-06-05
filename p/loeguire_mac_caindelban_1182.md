@@ -44,9 +44,16 @@ Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain
 
 ## CHILDREN 
 * [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
-* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
 * [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
+
+
+## GREAT-PARENTS 
+* Prince Randolph I, 1108-1149
+* Lerthan Crovan, 1108-1169
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
 
 ## SIBLINGS
 

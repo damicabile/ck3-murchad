@@ -45,6 +45,13 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Duke Snorri III, 1183-1247
+* Duchess Sol, 1182-1246
+* [Somhairle mag Aengus, 1158-1223, Briain](p/somhairle_mag_aengus_1158.md)
+* Heulwen Ynys Cybi, 1158-1208
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

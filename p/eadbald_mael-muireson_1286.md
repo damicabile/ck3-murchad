@@ -44,6 +44,13 @@ Duke Eadbald Mael-Muireson of Poitou, 1286-, hEochadha
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Anastasios Chalkokondyles, 1238-1294
+* Caissene Briain, 1248-
+* [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](p/buaidbeo_mac_cuan_1247.md)
+* Baroness Gormflaith, 1251-
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

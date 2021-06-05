@@ -35,6 +35,7 @@ Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil
                 ?
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -42,6 +43,13 @@ Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil
 * Duchess Gisele, 1266-
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* Earl Ernan, 1245-1306
+* Duchess Muirenn, 1245-1283
+* [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
+* Duchess Aine, 1222-1281
 
 ## SIBLINGS
 

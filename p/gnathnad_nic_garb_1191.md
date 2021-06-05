@@ -46,6 +46,13 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 * [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
 * Duchess Gelgeis, 1217-1277
 
+
+## GREAT-PARENTS 
+* Gwyn Ynys Cybi, 1127-1168
+* Muirgel Briain, 1130-1201
+* Earl Abban, 1132-1192
+* Gnathnad mac Mathgamna, 1134-1193
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

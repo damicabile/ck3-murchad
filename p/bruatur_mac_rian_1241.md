@@ -44,6 +44,13 @@ Earl Bruatur mac Rian of Essex, 1241-, Llewellyn
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Count Wichmann, 1180-1244
+* Countess Hemma, 1179-1237
+* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](p/aengus_ii_mac_finneacht_1177.md)
+* Duchess Joan, 1174-1238
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

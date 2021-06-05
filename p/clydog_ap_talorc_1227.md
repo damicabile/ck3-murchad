@@ -44,6 +44,13 @@ Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Duke LLes, 1134-1202
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
+* Slebine gCais-Cruachu, 1175-1236
+* [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](p/aine_ferch_sithmaith_1169.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

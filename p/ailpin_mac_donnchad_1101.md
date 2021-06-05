@@ -42,6 +42,13 @@ Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](p/mael-muire_nig_ailpin_1125.md)
 * [Domnall mag Ailpin, 1119-1180, gCais-Fathain](p/domnall_mag_ailpin_1119.md)
 
+
+## GREAT-PARENTS 
+* High King Murchad, 1027-1095
+* Adelais de Ponthieu, 1049-1107
+* Domnall Neill, 1030-1077
+* Eua, 1040-1090
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

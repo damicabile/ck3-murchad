@@ -46,6 +46,13 @@ Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
+* Narbflaith Briain, 1173-1242
+* Flann Got, 1188-1252
+* Rois gCais-Gabhran, 1188-1255
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

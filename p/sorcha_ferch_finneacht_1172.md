@@ -44,6 +44,13 @@ Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
+* Morien Caerloyw-Tyddewi, 1122-1192
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](p/aengus_i_mac_cobflaith_1123.md)
+* Duchess Rhiandrech, 1116-1187
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

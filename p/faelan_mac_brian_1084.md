@@ -38,6 +38,12 @@ High King Faelan mac Brian of Ireland, 1084-1136, Briain
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
 
+
+## GREAT-PARENTS 
+* High King Murchad, 1027-1095
+* Petty King Bleddyn, 1025-1086
+* Branwen Nwrcelyn, 1025-1052
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -37,9 +37,15 @@ Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis
 * Adelais de Ponthieu, 1049-1107
 
 ## CHILDREN 
-* [Murchad mag Enguerrand, 1102-1164, gCais-Inis](p/murchad_mag_enguerrand_1102.md)
 * [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](p/bruatur_mac_enguerrand_1108.md)
 * Deirdre gCais-Inis, 1101-1155
+* [Murchad mag Enguerrand, 1102-1164, gCais-Inis](p/murchad_mag_enguerrand_1102.md)
+
+
+## GREAT-PARENTS 
+* Donnchad Briain, 990-1065
+* Enguerrand de Ponthieu, 1026-1053
+* Adelaide de Normandie, 1029-1084
 
 ## SIBLINGS
 

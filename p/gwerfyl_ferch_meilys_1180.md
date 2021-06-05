@@ -47,6 +47,13 @@ Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi
 * [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](p/cuhelyn_ap_gwerfyl_1201.md)
 * Lady Denis, 1197-1236
 
+
+## GREAT-PARENTS 
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](p/faelan_mac_caindelban_1137.md)
+* Countess Agnes, 1137-1197
+* Duke Owain II, 1139-1166
+* Agata de Lacon, 1137-1207
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

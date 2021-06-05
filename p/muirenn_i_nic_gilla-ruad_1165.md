@@ -45,6 +45,13 @@ Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu
 ## CHILDREN 
 * Earl Muirgius, 1190-1250
 
+
+## GREAT-PARENTS 
+* Ralph de Beaumont, 1111-1166
+* Aelwyd Morgannwg, 1093-1158
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
+* Morien Caerloyw-Tyddewi, 1122-1192
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -45,6 +45,13 @@ Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe
 ## CHILDREN 
 * [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](p/gilla-ruad_mac_conchenn_1182.md)
 
+
+## GREAT-PARENTS 
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
+* Morien Caerloyw-Tyddewi, 1122-1192
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](p/aelfmaer_mag_osraed_1128.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

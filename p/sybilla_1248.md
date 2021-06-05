@@ -44,6 +44,13 @@ Court Chaplain Sybilla, 1248-, Clare
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Asger Thrugot, 1193-1237
+* Ingrid Stenkiling-Roskilde, 1192-1262
+* David de Clare, 1209-1241
+* Giselle Mel, 1209-1260
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

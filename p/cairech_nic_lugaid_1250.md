@@ -42,6 +42,13 @@ Lady Cairech nic Lugaid of Gwent, 1250-, Briain
 ## CHILDREN 
 * [Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy](p/coblaith_nic_cairech_1277.md)
 
+
+## GREAT-PARENTS 
+* Rhun Caerloyw-Penfro, 1201-1258
+* [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
+* Niccolo Fibonacci, 1183-1235
+* Mayor Margred, 1189-1244
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

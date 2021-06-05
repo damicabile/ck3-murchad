@@ -45,6 +45,13 @@ Duke Cilline mac Failenn of Connacht, 1215-1282, Briain
 ## CHILDREN 
 * Countess Cristina, 1248-1277
 
+
+## GREAT-PARENTS 
+* Earl Diodmundr, 1168-1203
+* Gurli Sigurdr-Kyle, 1158-1224
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](p/starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

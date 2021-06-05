@@ -35,6 +35,7 @@ Earl Kjartan of Angus, 1274-, Braghde
                 ?
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -42,6 +43,11 @@ Earl Kjartan of Angus, 1274-, Braghde
 * Countess Constance, 1240-1292
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* Dobieslaw Piast-Sieradz, 1212-1279
+* Baroness Euginia, 1213-1273
 
 ## SIBLINGS
 

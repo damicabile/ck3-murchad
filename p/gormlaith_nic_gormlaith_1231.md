@@ -44,6 +44,13 @@ Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](p/gilla-ruad_mac_conchenn_1182.md)
+* Dunlaith Briain, 1181-1243
+* Rogallach gCais-Gaillimhe, 1182-1232
+* Beorhtflaed Briain, 1180-1242
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

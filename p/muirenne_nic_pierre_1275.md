@@ -48,6 +48,13 @@ Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
+* Duchess Morien I, 1226-1295
+* Matudan of Mar, 1213-1254
+* Countess Lillias, 1217-1249
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -35,6 +35,7 @@ Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got
                 Muirenn gCais-Cruachu, 1159-1215        
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -42,6 +43,11 @@ Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got
 * [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](p/tailefhlaith_barrdubdohtor_1252.md)
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* Thane Cainchomrac, 1231-1293
+* Duchess Barrdub, 1228-1270
 
 ## SIBLINGS
 

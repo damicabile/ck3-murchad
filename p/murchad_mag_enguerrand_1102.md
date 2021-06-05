@@ -45,6 +45,13 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
 ## CHILDREN 
 * Sean gCais-Inis, 1134-1205
 
+
+## GREAT-PARENTS 
+* High King Murchad, 1027-1095
+* Adelais de Ponthieu, 1049-1107
+* Prince Harald, 1041-1103
+* Countess Margrete, 1041-1107
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

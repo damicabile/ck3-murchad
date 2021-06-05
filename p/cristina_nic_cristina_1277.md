@@ -44,6 +44,13 @@ Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
+* Duchess Morien I, 1226-1295
+* [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](p/cilline_mac_failenn_1215.md)
+* Duchess Isabelle, 1211-1274
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

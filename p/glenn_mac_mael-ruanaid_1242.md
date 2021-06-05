@@ -43,9 +43,16 @@ Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain
 * Maisie Cetchathach-Banff, 1223-1301
 
 ## CHILDREN 
+* Frang ua Braenain, 1274-
 * [Duchess Gruoch nic Glenn of Munster, 1273-, Braenain](p/gruoch_nic_glenn_1273.md)
 * [Countess Morag of Dunbar, 1274-, Briain](p/morag_1274.md)
-* Frang ua Braenain, 1274-
+
+
+## GREAT-PARENTS 
+* Talore Cetchathach-Banff, 1203-1255
+* Tailefhlaith Orkneyjar-Wick, 1202-1263
+* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](p/flaitheman_nic_caindelban_1175.md)
+* Princess Marthoc, 1178-1224
 
 ## SIBLINGS
 

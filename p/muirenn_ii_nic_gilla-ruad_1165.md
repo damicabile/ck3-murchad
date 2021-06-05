@@ -46,6 +46,13 @@ Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu
 * [Aed mac Muirenn, 1209-1281, Briain](p/aed_mac_muirenn_1209.md)
 * Fiachnae Briain, 1189-1235
 
+
+## GREAT-PARENTS 
+* Ralph de Beaumont, 1111-1166
+* Aelwyd Morgannwg, 1093-1158
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
+* Morien Caerloyw-Tyddewi, 1122-1192
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

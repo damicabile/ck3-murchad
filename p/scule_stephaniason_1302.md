@@ -35,6 +35,7 @@ Earl Scule Stephaniason of Wight, 1302-, Briain
                 ?
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -42,6 +43,13 @@ Earl Scule Stephaniason of Wight, 1302-, Briain
 * [Princess Stephania Baethinedohtor of England, 1276-1306, Briain](p/stephania_baethinedohtor_1276.md)
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain](p/glenn_mac_mael-ruanaid_1242.md)
+* Bebinn, 1246-1308
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
+* Queen Marthe, 1240-
 
 ## SIBLINGS
 

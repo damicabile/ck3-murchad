@@ -46,6 +46,13 @@ Muiredach mac Flaitheman, 1216-1281, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* King Conall II, 1155-1215
+* Philippa Sigurdr-Lindisfarne, 1153-1221
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

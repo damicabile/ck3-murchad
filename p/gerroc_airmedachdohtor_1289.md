@@ -44,6 +44,13 @@ Countess Gerroc Airmedachdohtor of Clermont, 1289-, gCais-Mathrafal
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](p/thurcytel_saebertson_1228.md)
+* Duchess Drifa, 1228-1282
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -43,8 +43,15 @@ Earl David of Berkshire, 1231-1279, Clare
 * Giselle Mel, 1209-1260
 
 ## CHILDREN 
-* [Court Chaplain Sybilla, 1248-, Clare](p/sybilla_1248.md)
 * Court Chaplain Sybilla, 1248-
+* [Court Chaplain Sybilla, 1248-, Clare](p/sybilla_1248.md)
+
+
+## GREAT-PARENTS 
+* Earl John, 1185-1244
+* Countess Bretislava, 1169-1241
+* Duke Nicholas I, 1157-1210
+* Aethelgifu Reginar, 1188-1255
 
 ## SIBLINGS
 

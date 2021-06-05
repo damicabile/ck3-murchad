@@ -44,8 +44,15 @@ Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain
 * Baroness Euginia, 1213-1273
 
 ## CHILDREN 
-* [Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde](p/eysteinn_lethlobursson_1271.md)
 * [Earl Kjartan of Angus, 1274-, Braghde](p/kjartan_1274.md)
+* [Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde](p/eysteinn_lethlobursson_1271.md)
+
+
+## GREAT-PARENTS 
+* Count Doman, 1158-1222
+* Francesa de Foix, 1191-1255
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
+* Hawise of Hwicce, 1184-1241
 
 ## SIBLINGS
 

@@ -31,6 +31,11 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
 ## CHILDREN 
 * [Sean mac Cuanu, 1139-1209, Laighin](p/sean_mac_cuanu_1139.md)
 
+
+## GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
+* Countess Dub-Dil, 1067-1127
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

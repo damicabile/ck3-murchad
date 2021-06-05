@@ -44,6 +44,13 @@ Duke Inwaer Stephaniason of Wessex, 1295-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain](p/glenn_mac_mael-ruanaid_1242.md)
+* Bebinn, 1246-1308
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
+* Queen Marthe, 1240-
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

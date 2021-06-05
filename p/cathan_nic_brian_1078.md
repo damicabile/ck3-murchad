@@ -35,6 +35,12 @@ Countess Cathan nic Brian of Ennis, 1078-1144, Briain
 ## CHILDREN 
 * [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](p/cathnio_mac_cathan_1108.md)
 
+
+## GREAT-PARENTS 
+* High King Murchad, 1027-1095
+* Petty King Bleddyn, 1025-1086
+* Branwen Nwrcelyn, 1025-1052
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

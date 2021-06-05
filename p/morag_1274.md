@@ -44,6 +44,13 @@ Countess Morag of Dunbar, 1274-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Earl David of Berkshire, 1231-1279, Clare](p/david_1231.md)
+* Agnethe Thrugot, 1217-1280
+* Earl Mael-Ruanaid, 1220-1262
+* Maisie Cetchathach-Banff, 1223-1301
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

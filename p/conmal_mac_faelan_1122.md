@@ -45,6 +45,13 @@ Duke Conmal mac Faelan of Ulster, 1122-1188, Briain
 ## CHILDREN 
 * [Briccene mac Conmal, 1158-1209, gCais-Padraig](p/briccene_mac_conmal_1158.md)
 
+
+## GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
+* Duke Gudrod, 1049-1115
+* Princess Ragnhild, 1045-1110
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

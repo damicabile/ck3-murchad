@@ -36,6 +36,7 @@ Count Comgan mag Aine of Issoudun, 1302-, gCais-Berkhamsted
 
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -43,6 +44,11 @@ Count Comgan mag Aine of Issoudun, 1302-, gCais-Berkhamsted
 * Aine gCais-Berkhamsted, 1273-
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](p/dimmasach_mag_aine_1218.md)
+* Mayor Der-Ilei, 1240-1308
 
 ## SIBLINGS
 

@@ -45,6 +45,13 @@ Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc
 ## CHILDREN 
 * [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](p/clydog_ap_talorc_1227.md)
 
+
+## GREAT-PARENTS 
+* Lord Rodan, 1140-1181
+* Princess Sithmaith, 1140-1181
+* Rigan gCais-Cruachu, 1150-1207
+* Mairgred Briain, 1153-124
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

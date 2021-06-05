@@ -36,6 +36,13 @@ Lord Sion ab Augustin of Eryri, 1224-1232, Ruairc
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Baron Fulop, 1123-1191
+* Eulalia, 1141-1202
+* Slebine gCais-Cruachu, 1175-1236
+* [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](p/aine_ferch_sithmaith_1169.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

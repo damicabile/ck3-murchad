@@ -45,6 +45,13 @@ Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* Domnall ua Neill Noigiallaich, 1069-1120
+* Rois Neill, 1071-1145
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

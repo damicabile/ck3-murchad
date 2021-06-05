@@ -44,6 +44,13 @@ Prince Rodan mac Narbflaith of England, 1263-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](p/laidine_mac_narbflaith_1200.md)
+* Aine Got, 1200-1268
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

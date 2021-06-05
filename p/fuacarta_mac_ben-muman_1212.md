@@ -42,6 +42,13 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
 ## CHILDREN 
 * [Duke Scellan of Hwicce, 1255-, Briain](p/scellan_1255.md)
 
+
+## GREAT-PARENTS 
+* Fuacarta Briain, 1162-1228
+* Viola z Homberka, 1163-1233
+* Baron Gilla-Comgain, 1158-1221
+* Effros of Bamburgh, 1166-1236
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

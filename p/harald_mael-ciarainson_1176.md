@@ -47,6 +47,13 @@ Harold Mael-Ciarainson, 1176-1237, Briain
 ## CHILDREN 
 * Earl Saebert, 1203-1261
 
+
+## GREAT-PARENTS 
+* Jacques Wigeriche, 1133-1171
+* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](p/aibilin_mac_caindelban_1135.md)
+* Count Karl, 1134-1196
+* Gertrude Ezzonen, 1126-1173
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

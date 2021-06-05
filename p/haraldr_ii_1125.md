@@ -29,6 +29,13 @@ Duke Haraldr II of the Isles, 1125-1213, Crovan
 ## CHILDREN 
 * Gunnhildr Crovan, 1153-1192
 
+
+## GREAT-PARENTS 
+* Duke Gudrod, 1049-1115
+* Princess Ragnhild, 1045-1110
+* Duke Gospatric II, 1063-1129
+* Countess Hywela, 1040-1109
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

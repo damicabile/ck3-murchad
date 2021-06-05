@@ -27,10 +27,17 @@ Starkad Ulfsson Slatte, 1170-1209, Slatte
 * Blahomira z Vickova, 1152-1209
 
 ## CHILDREN 
-* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](p/failenn_nic_gormflaith_1193.md)
 * Caindelban Briain, 1199-1240
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](p/abel_mac_gormflaith_1190.md)
+* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](p/failenn_nic_gormflaith_1193.md)
 * [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](p/abel_mac_gormflaith_1190.md)
+
+
+## GREAT-PARENTS 
+* Starkad Slatte, 1126-1189
+* Bothild Hiort, 1124-1191
+* Count Ojir, 1120-1181
+* Countess Johanne, 1113-1185
 
 ## SIBLINGS
 

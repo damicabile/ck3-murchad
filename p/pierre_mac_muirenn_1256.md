@@ -43,8 +43,15 @@ Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield
 * Duchess Morien I, 1226-1295
 
 ## CHILDREN 
-* [Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh](p/muirenn_ii_nic_pierre_1275.md)
 * [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](p/muirenne_nic_pierre_1275.md)
+* [Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh](p/muirenn_ii_nic_pierre_1275.md)
+
+
+## GREAT-PARENTS 
+* Rhun Caerloyw-Penfro, 1201-1258
+* [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](p/laidine_mac_narbflaith_1200.md)
+* Aine Got, 1200-1268
 
 ## SIBLINGS
 

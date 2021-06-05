@@ -47,6 +47,13 @@ Duke Liam II of Northumbria, 1214-1271, Briain
 ## CHILDREN 
 * [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
 
+
+## GREAT-PARENTS 
+* Earl Diodmundr, 1168-1203
+* Gurli Sigurdr-Kyle, 1158-1224
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](p/starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

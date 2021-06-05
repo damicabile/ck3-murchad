@@ -45,6 +45,13 @@ Earl Cuan mac Cuan of Derby, 1245-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](p/mathieu_de_mousson_1187.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+* Duke Robert I, 1179-1249
+* Duchess Constance, 1178-1241
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

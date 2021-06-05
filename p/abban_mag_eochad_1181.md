@@ -48,6 +48,13 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
 * [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
 * [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
 
+
+## GREAT-PARENTS 
+* Earl Abban, 1132-1192
+* Gnathnad mac Mathgamna, 1134-1193
+* Baron Petar, 1111-1165
+* Baroness Aurengarde, 1111-1164
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

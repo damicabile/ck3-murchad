@@ -46,6 +46,12 @@ Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Rogallach gCais-Gaillimhe, 1182-1232
+* Beorhtflaed Briain, 1180-1242
+* Ben-Mide Llyn, 1159-1229
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

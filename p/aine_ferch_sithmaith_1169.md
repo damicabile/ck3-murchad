@@ -42,6 +42,13 @@ Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc
 * Lord Augustin, 1196-1224
 * [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](p/talorc_ab_aine_1200.md)
 
+
+## GREAT-PARENTS 
+* Petty King Mo-Lua, 1101-1165
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](p/nest_ferch_morien_1104.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

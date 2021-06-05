@@ -33,6 +33,11 @@ Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](p/iorwerth_ap_gwenllian_1129.md)
 * Morien Caerloyw-Tyddewi, 1122-1192
 
+
+## GREAT-PARENTS 
+* Petty King Bleddyn, 1025-1086
+* Morien Maelienydd, 1036-1093
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

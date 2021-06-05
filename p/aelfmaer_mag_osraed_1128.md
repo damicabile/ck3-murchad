@@ -42,6 +42,13 @@ Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles
 * [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](p/udalschalk_mag_aileann_1145.md)
 * [Ellbrig nig Aileann, 1155-1223, Briain](p/ellbrig_nig_aileann_1155.md)
 
+
+## GREAT-PARENTS 
+* High King Olav, 1066-1132
+* Flann ua Neill Noigiallaich, 1076-1143
+* Earl Wulfgeat, 1025-1100
+* Aethelswith of Hereford, 1070-1125
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

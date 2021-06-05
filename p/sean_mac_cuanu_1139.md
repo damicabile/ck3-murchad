@@ -38,6 +38,13 @@ Sean mac Cuanu, 1139-1209, Laighin
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Earl Somhairle, 1066-1121
+* Countess Cumman, 1082-1144
+* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](p/sean_mac_brian_1101.md)
+* Finnguala, 1087-1138
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -45,6 +45,13 @@ Earl Aed Barrdubson of West Riding, 1261-, Got
 ## CHILDREN 
 * [Earl Aelfstan Aedson of Macon, 1279-, Got](p/aelfstan_aedson_1279.md)
 
+
+## GREAT-PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](p/aed_mac_narbflaith_1202.md)
+* Tailefhlaith Got, 1207-1273
+* Earl Eoganan, 1193-1260
+* Countess Sioban, 1191-1255
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

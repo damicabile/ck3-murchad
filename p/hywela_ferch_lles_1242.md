@@ -40,6 +40,13 @@ Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](p/cuhelyn_ap_gwerfyl_1201.md)
+* Lady Madrun, 1185-1253
+* Count Msciwoj, 1174-1226
+* Countess Adelheid, 1197-1274
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

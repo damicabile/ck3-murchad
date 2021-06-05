@@ -45,6 +45,13 @@ Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
 ## CHILDREN 
 * [Countess Eithne Slainedohtor of Chalon, 1285-, gCais-Mathrafal](p/eithne_slainedohtor_1285.md)
 
+
+## GREAT-PARENTS 
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
+* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
+* Martha Kyle, 1210-
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

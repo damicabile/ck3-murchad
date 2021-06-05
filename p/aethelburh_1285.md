@@ -31,6 +31,7 @@ Countess Aethelburh of Alencon, 1285-, Briain
                 Irminburg Brunonen, 1173-1242
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -38,6 +39,13 @@ Countess Aethelburh of Alencon, 1285-, Briain
 * Thane Cathan, 1258-
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
+* Alberich von Stuttgart, 1209-1275
+* [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](p/caintigern_abeldohtor_1215.md)
 
 ## SIBLINGS
 

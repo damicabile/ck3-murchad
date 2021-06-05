@@ -45,6 +45,13 @@ Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha
 ## CHILDREN 
 * [Duke Eadbald Mael-Muireson of Poitou, 1286-, hEochadha](p/eadbald_mael-muireson_1286.md)
 
+
+## GREAT-PARENTS 
+* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](p/canannan_mac_fiachnae_1219.md)
+* Gormlaith Cetchathach-Banff, 1231-1290
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](p/mahaut_of_hwicce_1217.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

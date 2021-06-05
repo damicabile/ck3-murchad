@@ -36,6 +36,7 @@ Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
 
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -43,6 +44,13 @@ Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
 * [Duchess Ermessinde of East Anglia, 1264-, Adelsward](p/ermessinde_1264.md)
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
+* Duchess Aine, 1222-1281
+* Fragan, 1210-1272
+* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](p/gormflaith_abeldohtor_1211.md)
 
 ## SIBLINGS
 

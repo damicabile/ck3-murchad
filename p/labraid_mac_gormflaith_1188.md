@@ -44,10 +44,17 @@ Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
 
 ## CHILDREN 
+* [Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain](p/cnes_nic_labraid_1207.md)
 * Seonaid Briain, 1217-
 * Seonaid Briain, 1217-1277
-* [Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain](p/cnes_nic_labraid_1207.md)
 * Baroness Euginia, 1213-1273
+
+
+## GREAT-PARENTS 
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* Ulf Slatte, 1152-1176
+* Blahomira z Vickova, 1152-1209
 
 ## SIBLINGS
 

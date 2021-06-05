@@ -38,6 +38,13 @@ Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain
 ## CHILDREN 
 * [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
 
+
+## GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
+* Earl Domnall, 1027-1098
+* Lasairfiona, 1057-1112
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

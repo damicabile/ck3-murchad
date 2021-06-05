@@ -43,8 +43,15 @@ Queen Eithne nic Baethine of England, 1238-, Briain
 * Martha Kyle, 1210-
 
 ## CHILDREN 
-* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](p/der-lugdach_1266.md)
+* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
+
+
+## GREAT-PARENTS 
+* Prince Ewan, 1178-1216
+* Gudrun av Rost, 1174-1228
+* [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
+* Catriona of Carrick, 1187-1215
 
 ## SIBLINGS
 

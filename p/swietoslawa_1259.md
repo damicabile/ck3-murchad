@@ -44,6 +44,13 @@ Countess Swietoslawa of Amiens, 1259-, Olesnicy
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Count Mszczuj, 1156-1195
+* Malfrida Vogak, 1151-1209
+* Matudan of Mar, 1213-1254
+* Countess Lillias, 1217-1249
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

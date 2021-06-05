@@ -36,6 +36,7 @@ Countess Eithne Slainedohtor of Chalon, 1285-, gCais-Mathrafal
 
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -43,6 +44,13 @@ Countess Eithne Slainedohtor of Chalon, 1285-, gCais-Mathrafal
 * [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
+* Countess Narbflaith, 1224-1305
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
+* [Queen Eithne nic Baethine of England, 1238-, Briain](p/eithne_nic_baethine_1238.md)
 
 ## SIBLINGS
 

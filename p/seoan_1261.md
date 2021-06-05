@@ -45,6 +45,11 @@ Count Seoan of Guines, 1261-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Caindelban Briain, 1199-1240
+* Wiltrud Nordheim-Obervellach, 1199-1263
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -43,8 +43,15 @@ Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro
 * Mechthild von Goseck, 1099-1165
 
 ## CHILDREN 
-* Ffraid Caerloyw-Penfro, 1145-1208
 * Duke LLes, 1134-1202
+* Ffraid Caerloyw-Penfro, 1145-1208
+
+
+## GREAT-PARENTS 
+* Prince-Bishop Adalbert, 1072-1099
+* Enda von Oldenburg, 1073-1137
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](p/gruffydd_iii_ap_maredudd_1064.md)
+* Petty Queen Nest, 1065-1124
 
 ## SIBLINGS
 

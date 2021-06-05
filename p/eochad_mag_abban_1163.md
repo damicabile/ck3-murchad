@@ -30,6 +30,13 @@ Eochad mag Abban, 1163-1191, Briain
 * Dunlaith Briain, 1181-1243
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](p/abban_mag_eochad_1181.md)
 
+
+## GREAT-PARENTS 
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](p/udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
+* Gilla-na-Naem mac Mathgamna, 1105-1135
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](p/nest_ferch_morien_1104.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

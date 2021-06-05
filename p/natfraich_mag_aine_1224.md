@@ -47,6 +47,13 @@ Duke Natfraich mag Aine of Ulster, 1224-1274, Got
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](p/humbert_mac_muirenn_1258.md)
 * [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
 
+
+## GREAT-PARENTS 
+* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
+* Narbflaith Briain, 1173-1242
+* Morann Got, 1182-1250
+* Muirne gCais-Inis, 1183-1259
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -39,6 +39,11 @@ High Queen Slaine nic Caindelban of Ireland, 1212-1229, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

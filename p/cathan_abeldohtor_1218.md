@@ -46,6 +46,13 @@ Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain
 ## CHILDREN 
 * [Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain](p/cathan_cathandohtor_1247.md)
 
+
+## GREAT-PARENTS 
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](p/pyr_ap_rhufon_1160.md)
+* Caintigern Briain, 1156-1228
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](p/starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

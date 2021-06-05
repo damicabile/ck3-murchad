@@ -45,6 +45,13 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Gormgus Briain, 1167-1221
+* Garb Briain, 1147-1214
+* [Eochad mag Abban, 1163-1191, Briain](p/eochad_mag_abban_1163.md)
+* Countess Jagoda, 1148-1211
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

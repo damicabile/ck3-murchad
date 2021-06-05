@@ -46,6 +46,13 @@ Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain
 * [Aed mac Muirenn, 1209-1281, Briain](p/aed_mac_muirenn_1209.md)
 * Fiachnae Briain, 1189-1235
 
+
+## GREAT-PARENTS 
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](p/cathnio_mac_cathan_1108.md)
+* Countess Ite, 1111-1171
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
+* Morien Caerloyw-Tyddewi, 1122-1192
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

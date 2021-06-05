@@ -45,6 +45,13 @@ Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu
 ## CHILDREN 
 * [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](p/gilla-ruad_mac_conchenn_1182.md)
 
+
+## GREAT-PARENTS 
+* Ralph de Beaumont, 1111-1166
+* Aelwyd Morgannwg, 1093-1158
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
+* Morien Caerloyw-Tyddewi, 1122-1192
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

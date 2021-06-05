@@ -45,6 +45,13 @@ Duke Eochucan mac Mauda of Lancaster, 1234-1269, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
+* Onfroy de Cognac, 1172-1233
+* Aleta Griphuvud, 1175-1244
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

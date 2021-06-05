@@ -45,6 +45,13 @@ Lathir nic Faelan, 1162-1231, Briain
 ## CHILDREN 
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
 
+
+## GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
+* Duke Eustache, 1104-1158
+* Rhonwen Caerloyw-Penfro, 1104-1166
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

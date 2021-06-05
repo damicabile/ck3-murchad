@@ -35,6 +35,7 @@ Earl Aelfstan Aedson of Macon, 1279-, Got
                 Countess Anna, 1184-1238
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -42,6 +43,12 @@ Earl Aelfstan Aedson of Macon, 1279-, Got
 * Geneviva d'Aubusson, 1259-
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* Thane Cainchomrac, 1231-1293
+* Duchess Barrdub, 1228-1270
+* Reeve Ana, 1231-1289
 
 ## SIBLINGS
 

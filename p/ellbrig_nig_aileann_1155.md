@@ -43,9 +43,16 @@ Ellbrig nig Aileann, 1155-1223, Briain
 * [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
 
 ## CHILDREN 
-* Earl Eoganan, 1193-1260
 * Muirne gCais-Inis, 1183-1259
+* Earl Eoganan, 1193-1260
 * [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](p/eonagan_mag_ellbrig_1193.md)
+
+
+## GREAT-PARENTS 
+* Earl Osraed, 1088-1149
+* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](p/flann_nig_olav_1097.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](p/udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
 
 ## SIBLINGS
 

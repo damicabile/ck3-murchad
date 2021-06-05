@@ -45,6 +45,13 @@ Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
 ## CHILDREN 
 * Duke Owain II, 1139-1166
 
+
+## GREAT-PARENTS 
+* Earl Idwal, 1054-111211121112
+* Sioned Ynys Cybi, 1048-1114
+* Lord Meilys, 1047-1101
+* Eadhild, 1050-1114
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

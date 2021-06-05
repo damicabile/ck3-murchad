@@ -45,6 +45,13 @@ Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain
 ## CHILDREN 
 * Baroness Gormflaith, 1251-
 
+
+## GREAT-PARENTS 
+* Count Wichmann, 1180-1244
+* Countess Hemma, 1179-1237
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
+* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](p/muirenn_ii_nic_gilla-ruad_1165.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

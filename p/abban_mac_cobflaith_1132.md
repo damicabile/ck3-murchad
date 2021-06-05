@@ -38,6 +38,13 @@ Earl Abban mac Cobflaith of Athlone, 1132-1191, Briain
 ## CHILDREN 
 * Gilla-na-Naem Briain, 1165-1229
 
+
+## GREAT-PARENTS 
+* Serene Doge Luchino, 1042-1099
+* Eilika von Cilli, 1050-1106
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

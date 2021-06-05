@@ -44,6 +44,13 @@ Aed mac Muirenn, 1209-1281, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
+* Sybilla de Beaumont, 1130-1203
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

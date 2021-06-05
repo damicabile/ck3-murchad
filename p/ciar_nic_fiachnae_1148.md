@@ -43,9 +43,16 @@ Ciar nic Fiachnae, 1148-1222, gCais-Cruachu
 * Morien Caerloyw-Tyddewi, 1122-1192
 
 ## CHILDREN 
-* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
-* Narbflaith Briain, 1173-1242
 * [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
+* Narbflaith Briain, 1173-1242
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
+
+
+## GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](p/elidyr_ab_iorwerth_1085.md)
+* Petty Queen Gwenllian, 1090-1148
 
 ## SIBLINGS
 

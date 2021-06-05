@@ -42,6 +42,13 @@ Duke Beorhtric Muirennson of Leinster, 1265-, Briain
 ## CHILDREN 
 * [Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil](p/aethelburg_giseledohtor_1283.md)
 
+
+## GREAT-PARENTS 
+* Earl Muirgius, 1190-1250
+* Duchess Gelgeis, 1217-1277
+* Baldewin, 1211-1264
+* Seonaid Briain, 1217-1277
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

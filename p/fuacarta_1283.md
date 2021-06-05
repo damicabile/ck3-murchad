@@ -44,6 +44,13 @@ Duke Fuacarta of Anjou, 1283-, gCais-Sherwood
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](p/fuacarta_mac_ben-muman_1212.md)
+* Thiedburga von Wettin, 1210-1279
+* Baron Norbert, 1206-1261
+* Dorothea Ludowinger-Coburg, 1213-1280
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

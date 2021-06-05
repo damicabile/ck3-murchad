@@ -47,6 +47,13 @@ Aed mac Narbflaith, 1202-1263, Got
 * Thane Cainchomrac, 1231-1293
 * [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got](p/cainchomrac_tailefhlaith_1231.md)
 
+
+## GREAT-PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](p/dinertach_mac_caindelban_1141.md)
+* Hawise Normandie-Bedford, 1141-1213
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

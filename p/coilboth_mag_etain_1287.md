@@ -44,6 +44,13 @@ Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
+* Countess Narbflaith, 1224-1305
+* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](p/aindle_mac_cuan_1242.md)
+* Elan Fibonacci, 1229-
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -44,10 +44,17 @@ King Abel mac Gormflaith of Ireland, 1190-1269, Briain
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
 
 ## CHILDREN 
-* [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](p/cathalan_mag_abel_1220.md)
 * [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](p/gormflaith_abeldohtor_1211.md)
+* [Princess Cathalan mag Abel of Ireland, 1220-1242, Briain](p/cathalan_mag_abel_1220.md)
 * [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](p/cathan_abeldohtor_1218.md)
 * [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](p/caintigern_abeldohtor_1215.md)
+
+
+## GREAT-PARENTS 
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* Ulf Slatte, 1152-1176
+* Blahomira z Vickova, 1152-1209
 
 ## SIBLINGS
 

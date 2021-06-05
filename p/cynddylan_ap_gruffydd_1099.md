@@ -27,6 +27,12 @@ Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro
 ## CHILDREN 
 * Lord Riaged, 1126-1181
 
+
+## GREAT-PARENTS 
+* Iestyn Morgannwg, 1045-1112
+* Angharad, 1045-1066
+* Petty King Maredudd III, 1047-1099
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

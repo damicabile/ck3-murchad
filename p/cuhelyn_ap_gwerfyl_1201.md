@@ -44,8 +44,15 @@ Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
 
 ## CHILDREN 
-* [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](p/lles_ap_madrun_1220.md)
 * Lord Lles, 1220-12721272
+* [Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi](p/lles_ap_madrun_1220.md)
+
+
+## GREAT-PARENTS 
+* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](p/meilys_ii_ab_owain_1163.md)
+* [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
+* [Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro](p/gruffydd_ap_maredudd_1116.md)
+* Epiphania Makrembolites, 1111-1187
 
 ## SIBLINGS
 

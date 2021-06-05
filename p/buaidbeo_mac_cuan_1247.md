@@ -46,6 +46,13 @@ Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain
 ## CHILDREN 
 * [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](p/mael-muire_gormflaithdohtor_1268.md)
 
+
+## GREAT-PARENTS 
+* [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](p/mathieu_de_mousson_1187.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+* Duke Robert I, 1179-1249
+* Duchess Constance, 1178-1241
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -42,6 +42,12 @@ Elisabet Gudrodsdatter, 1083-1148, Crovan
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
 
+
+## GREAT-PARENTS 
+* King Harald IV, 1015-1082
+* Yelizaveta Rurikid, 1025-1089
+* Haraldr Crovan, 1026-1060
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

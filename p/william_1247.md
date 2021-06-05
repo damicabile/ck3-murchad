@@ -32,6 +32,11 @@ Duke William of Guoladat, 1247-, Sigurdr-York
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Duke Arthur, 1176-1217
+* Mathilde von Limburg, 1159-1226
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -43,8 +43,15 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 * Hawise Normandie-Bedford, 1141-1213
 
 ## CHILDREN 
-* Flann Got, 1188-1252
 * Morann Got, 1182-1250
+* Flann Got, 1188-1252
+
+
+## GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* High Queen Flann, 1117-1172
+* Prince Randolph I, 1108-1149
+* Lerthan Crovan, 1108-1169
 
 ## SIBLINGS
 

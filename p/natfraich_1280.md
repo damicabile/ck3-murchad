@@ -44,6 +44,13 @@ Duke Natfraich of Bar, 1280-, Cathasaigh
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
+* Saerlaith, 1227-1286
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
+* Duchess Morien I, 1226-1295
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

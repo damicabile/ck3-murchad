@@ -43,10 +43,17 @@ Laidine mac Narbflaith, 1200-1231, Got
 * Narbflaith Briain, 1173-1242
 
 ## CHILDREN 
-* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](p/dimmasach_mag_aine_1218.md)
-* Countess Narbflaith, 1224-1305
-* Narbflaith Ainedohtor Got, 1224-
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
+* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](p/dimmasach_mag_aine_1218.md)
+* Narbflaith Ainedohtor Got, 1224-
+* Countess Narbflaith, 1224-1305
+
+
+## GREAT-PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](p/dinertach_mac_caindelban_1141.md)
+* Hawise Normandie-Bedford, 1141-1213
 
 ## SIBLINGS
 

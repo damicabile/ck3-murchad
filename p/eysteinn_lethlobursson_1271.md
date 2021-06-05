@@ -23,6 +23,7 @@ Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde
         ?
 ```
 
+
 # REFERENCES
 
 ## PARENTS 
@@ -30,6 +31,11 @@ Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde
 * Countess Constance, 1240-1292
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
+* Dobieslaw Piast-Sieradz, 1212-1279
+* Baroness Euginia, 1213-1273
 
 ## SIBLINGS
 

@@ -45,6 +45,13 @@ Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro
 ## CHILDREN 
 * Rhufon Caerloyw-Penfro, 1179-1229
 
+
+## GREAT-PARENTS 
+* Ricard d'Armagnac, 1113-1179
+* Magdalena de Perigord, 1111-1183
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](p/gruffydd_iii_ap_maredudd_1064.md)
+* Iudloguen de Rennes, 1112-1178
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

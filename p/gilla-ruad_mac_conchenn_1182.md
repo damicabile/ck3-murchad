@@ -45,6 +45,13 @@ Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe
 ## CHILDREN 
 * [Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe](p/gormlaith_nic_dunlaith_1214.md)
 
+
+## GREAT-PARENTS 
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
+* Sybilla de Beaumont, 1130-1203
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](p/udalschalk_mag_aileann_1145.md)
+* Maire gCais-Cruachu, 1145-1219
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

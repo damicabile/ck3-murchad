@@ -44,6 +44,13 @@ Duke Sverrir Drifason of Champagne, 1272-, Hagalin
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Earl Saebert, 1203-1261
+* Maire Brunonen, 1200-1268
+* Sverrir Hagalin, 1211-1249
+* Margareta Yngling-Konungahella, 1209-1280
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

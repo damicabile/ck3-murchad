@@ -44,6 +44,13 @@ Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
+* Rhufon Caerloyw-Penfro, 1179-1229
+* Annwyl Caerloyw-Tyddewi, 1171-1251
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

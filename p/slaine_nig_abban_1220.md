@@ -43,11 +43,17 @@ Slaine nig Abban, 1220-1282, Briain
 * Grainne de Comminges, 1202-1245
 
 ## CHILDREN 
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
 * Duke Airmedach, 1261-
 * Thane Cathan, 1258-
 * Duke Airmerdach, 1261-
-* Duke Farannan, 1239-
-* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
+
+
+## GREAT-PARENTS 
+* [Eochad mag Abban, 1163-1191, Briain](p/eochad_mag_abban_1163.md)
+* Countess Jagoda, 1148-1211
+* Amaneus de Comminges, 1184-1235
+* Irminburg Brunonen, 1173-1242
 
 ## SIBLINGS
 

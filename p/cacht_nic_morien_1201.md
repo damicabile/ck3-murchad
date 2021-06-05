@@ -43,9 +43,16 @@ Cacht nic Morien, 1201-1255, Briain
 * [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
 
 ## CHILDREN 
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](p/morien_1226.md)
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](p/lugaid_mac_cacht_1227.md)
 * Duchess Morien I, 1226-1295
-* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](p/morien_1226.md)
+
+
+## GREAT-PARENTS 
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
 
 ## SIBLINGS
 

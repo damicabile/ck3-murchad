@@ -32,8 +32,13 @@ Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain
 * Cathan, 1187-1248
 
 ## CHILDREN 
-* [Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain](p/cairech_nic_faelchu_1235.md)
 * Petty Queen Cairech, 1235-1299
+* [Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain](p/cairech_nic_faelchu_1235.md)
+
+
+## GREAT-PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
 
 ## SIBLINGS
 

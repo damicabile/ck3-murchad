@@ -31,8 +31,15 @@ Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi
 * Morien Caerloyw-Tyddewi, 1086-1160
 
 ## CHILDREN 
-* Gnathnad mac Mathgamna, 1134-1193
 * Lord Rodan, 1140-1181
+* Gnathnad mac Mathgamna, 1134-1193
+
+
+## GREAT-PARENTS 
+* Lord Iorwerth, 1053-1109
+* Thyra Reventlow, 1051-1121
+* Petty King Bleddyn, 1025-1086
+* Morien Maelienydd, 1036-1093
 
 ## SIBLINGS
 

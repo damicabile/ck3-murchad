@@ -45,6 +45,13 @@ Process finished with exit code 0
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Domnall Conchobair, 1063-1096
+* Agathe de Normandie, 1064-1091
+* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](p/donnchad_mac_murchad_1068.md)
+* Rois Neill, 1071-1145
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

@@ -44,6 +44,13 @@ Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](p/faelchu_mac_farannan_1212.md)
+* Dwynwen de Comminges, 1204-1277
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](p/mahaut_of_hwicce_1217.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

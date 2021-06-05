@@ -44,6 +44,13 @@ Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Aelfgar of Hwicce, 1019-1062
+* Aelgifu, 1020-1086
+* Petty King Llywelyn, 978-1023
+* Angharad Dinefwr, 978-1025
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

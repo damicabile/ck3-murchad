@@ -45,6 +45,13 @@ Dubh mac Somhairle, 1183-1234, Briain
 ## CHILDREN 
 * [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
 
+
+## GREAT-PARENTS 
+* Duke Owain II, 1139-1166
+* Agata de Lacon, 1137-1207
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](p/aengus_i_mac_cobflaith_1123.md)
+* Duchess Rhiandrech, 1116-1187
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

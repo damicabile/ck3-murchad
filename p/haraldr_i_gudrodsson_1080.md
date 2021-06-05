@@ -45,6 +45,12 @@ Duke Haraldr I Gudrodsson of the Isles, 1080-1128, Crovan
 ## CHILDREN 
 * [Duke Haraldr II of the Isles, 1125-1213, Crovan](p/haraldr_ii_1125.md)
 
+
+## GREAT-PARENTS 
+* King Harald IV, 1015-1082
+* Yelizaveta Rurikid, 1025-1089
+* Haraldr Crovan, 1026-1060
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

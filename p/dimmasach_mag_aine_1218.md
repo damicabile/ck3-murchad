@@ -50,6 +50,13 @@ Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted
 ## CHILDREN 
 * Aine gCais-Berkhamsted, 1273-
 
+
+## GREAT-PARENTS 
+* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
+* Narbflaith Briain, 1173-1242
+* Morann Got, 1182-1250
+* Muirne gCais-Inis, 1183-1259
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

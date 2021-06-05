@@ -44,10 +44,17 @@ High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain
 * High Queen Flann, 1117-1172
 
 ## CHILDREN 
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
 * [High Queen Slaine nic Caindelban of Ireland, 1212-1229, Briain](p/slaine_nic_caindelban_1212.md)
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
 * [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](p/flaitheman_nic_caindelban_1175.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+
+
+## GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* Domnall ua Neill Noigiallaich, 1069-1120
+* Rois Neill, 1071-1145
 
 ## SIBLINGS
 

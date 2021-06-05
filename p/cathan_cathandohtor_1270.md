@@ -45,6 +45,13 @@ Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Godschalk Limburg-Falkenstein, 1220-1282
+* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](p/cathan_abeldohtor_1218.md)
+* Nomedas is Nadruva, 1195-1256
+* Hedwig von Abensberg, 1201-1258
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

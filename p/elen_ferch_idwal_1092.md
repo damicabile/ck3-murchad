@@ -43,9 +43,15 @@ Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
 * Sioned Ynys Cybi, 1048-1114
 
 ## CHILDREN 
-* Gwyn Ynys Cybi, 1127-1168
-* Duchess Rhiandrech, 1116-1187
 * [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](p/meilys_i_ap_rhiwallon_1110.md)
+* Duchess Rhiandrech, 1116-1187
+* Gwyn Ynys Cybi, 1127-1168
+
+
+## GREAT-PARENTS 
+* High King Rhiwallon, 1025-1083
+* Petty King Gruffydd I, 1003-1063
+* Aeldgyth of Hwicce, 1036-1087
 
 ## SIBLINGS
 

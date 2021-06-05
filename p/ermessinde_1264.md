@@ -49,6 +49,11 @@ Duchess Ermessinde of East Anglia, 1264-, Adelsward
 ## CHILDREN 
 * [Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain](p/wulfgifu_ermessindedohtor_1282.md)
 
+
+## GREAT-PARENTS 
+* [Duke Liam II of Northumbria, 1214-1271, Briain](p/liam_ii_1214.md)
+* Duchess Peironela, 1213-
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

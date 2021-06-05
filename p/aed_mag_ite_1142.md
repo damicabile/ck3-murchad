@@ -40,9 +40,16 @@ Aed mag Ite, 1142-1207, Briain
 * Countess Ite, 1111-1171
 
 ## CHILDREN 
-* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
-* Narbflaith Briain, 1173-1242
 * [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
+* Narbflaith Briain, 1173-1242
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
+
+
+## GREAT-PARENTS 
+* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](p/aed_mac_domnall_1078.md)
+* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](p/cathan_nic_brian_1078.md)
+* Wigebert von der Lippe, 1064-1125
+* Gormflaith Briain, 1071-1133
 
 ## SIBLINGS
 

@@ -46,6 +46,13 @@ Earl Natfraich mac Morien of Ailech, 1218-1282, Briain
 ## CHILDREN 
 * Countess Muirenn, 1262-
 
+
+## GREAT-PARENTS 
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

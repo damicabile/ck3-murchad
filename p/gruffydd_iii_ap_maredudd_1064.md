@@ -40,13 +40,17 @@ Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro
 
 ## PARENTS 
 * Petty King Maredudd III, 1047-1099
-* 
 
 ## CHILDREN 
+* Rhonwen Caerloyw-Penfro, 1104-1166
+* Maredudd Caerloyw-Penfro, 1099-1138
 * [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](p/rhufon_ap_gruffydd_1140.md)
 * [Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro](p/cynddylan_ap_gruffydd_1099.md)
-* Maredudd Caerloyw-Penfro, 1099-1138
-* Rhonwen Caerloyw-Penfro, 1104-1166
+
+
+## GREAT-PARENTS 
+* Petty King Bleddyn, 1025-1086
+* Haer Efionydd, 1030-1065
 
 ## SIBLINGS
 

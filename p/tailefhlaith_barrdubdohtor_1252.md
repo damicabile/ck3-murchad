@@ -45,6 +45,13 @@ Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got
 ## CHILDREN 
 * [Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got](p/aethelberht_tailefhlaithson_1274.md)
 
+
+## GREAT-PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](p/aed_mac_narbflaith_1202.md)
+* Tailefhlaith Got, 1207-1273
+* Earl Eoganan, 1193-1260
+* Countess Sioban, 1191-1255
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

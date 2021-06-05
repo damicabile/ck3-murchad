@@ -32,6 +32,11 @@ Prince Maccus Baethineson of England, 1273-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
+* Catriona of Carrick, 1187-1215
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

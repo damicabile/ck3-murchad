@@ -32,11 +32,15 @@ Duke Niallan Mac Farannan of Powys, 1217-1279, Briain
 * Cathan, 1187-1248
 
 ## CHILDREN 
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
 * Duke Airmedach, 1261-
 * Thane Cathan, 1258-
 * Duke Airmerdach, 1261-
-* Duke Farannan, 1239-
-* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
+
+
+## GREAT-PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
 
 ## SIBLINGS
 

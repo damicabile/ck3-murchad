@@ -43,11 +43,18 @@ Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
 
 ## CHILDREN 
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
-* Rigan gCais-Cruachu, 1150-1207
-* Maire gCais-Cruachu, 1145-1219
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
+* Maire gCais-Cruachu, 1145-1219
+* Rigan gCais-Cruachu, 1150-1207
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
+
+
+## GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
+* Duke Gudrod, 1049-1115
+* Princess Ragnhild, 1045-1110
 
 ## SIBLINGS
 

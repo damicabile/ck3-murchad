@@ -45,6 +45,13 @@ Bruatur mac Enguerrand, 1108-1135, gCais-Inis
 ## CHILDREN 
 * [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](p/cormac_mac_bruatur_1133.md)
 
+
+## GREAT-PARENTS 
+* High King Murchad, 1027-1095
+* Adelais de Ponthieu, 1049-1107
+* Prince Harald, 1041-1103
+* Countess Margrete, 1041-1107
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

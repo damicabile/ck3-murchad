@@ -41,6 +41,13 @@ Princess Morien nic Lorcan of England, 1221-1290, Briain
 ## CHILDREN 
 * Lorcan Briain, 1261-1307
 
+
+## GREAT-PARENTS 
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
+* Baron Henneke, 1181-1252
+* Imma von Are, 1183-1256
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

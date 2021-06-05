@@ -45,6 +45,13 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Loup de Saulx, 1105-1167
+* Deirdre gCais-Inis, 1101-1155
+* Earl Osraed, 1088-1149
+* Countess Flann, 1096-1161
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

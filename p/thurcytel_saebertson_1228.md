@@ -48,6 +48,13 @@ Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain
 * [Duke Sverrir Drifason of Champagne, 1272-, Hagalin](p/sverrir_drifason_1272.md)
 * [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](p/ylva_drifadohtor_1261.md)
 
+
+## GREAT-PARENTS 
+* [Harold Mael-Ciarainson, 1176-1237, Briain](p/harald_mael-ciarainson_1176.md)
+* Caitilin ua Laidhgnen, 1175-1203
+* Ekbert Brunonen, 1176-1234
+* Narbflaith gCais-Gaillimhe, 1175-1231
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

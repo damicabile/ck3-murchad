@@ -45,6 +45,13 @@ Duke Bhatair mac Sioban of Deira, 1236-1269, gCais-Inis
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* [Briccene mac Conmal, 1158-1209, gCais-Padraig](p/briccene_mac_conmal_1158.md)
+* Muirenn gCais-Cruachu, 1159-1215
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](p/ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](p/ellbrig_nig_aileann_1155.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

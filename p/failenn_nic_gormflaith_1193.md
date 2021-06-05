@@ -46,6 +46,13 @@ Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain
 * [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](p/cilline_mac_failenn_1215.md)
 * [Duke Liam II of Northumbria, 1214-1271, Briain](p/liam_ii_1214.md)
 
+
+## GREAT-PARENTS 
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* Ulf Slatte, 1152-1176
+* Blahomira z Vickova, 1152-1209
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

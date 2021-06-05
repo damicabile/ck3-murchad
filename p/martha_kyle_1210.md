@@ -28,6 +28,13 @@ Martha Kyle, 1210-1279, Kyle
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* King Andrew, 1113-1188
+* Princess Elin, 1158-1222
+* Grettir av Rost, 1157-1213
+* Martha Cetchatach-Banff, 1156-1219
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

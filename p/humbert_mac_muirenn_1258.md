@@ -46,6 +46,13 @@ Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](p/cristina_nic_cristina_1277.md)
 * [Duke Natfraich of Bar, 1280-, Cathasaigh](p/natfraich_1280.md)
 
+
+## GREAT-PARENTS 
+* Rhun Caerloyw-Penfro, 1201-1258
+* [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](p/laidine_mac_narbflaith_1200.md)
+* Aine Got, 1200-1268
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

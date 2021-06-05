@@ -37,6 +37,12 @@ Duke Scellan of Hwicce, 1255-, Briain
 ## CHILDREN 
 * [Duke Fuacarta of Anjou, 1283-, gCais-Sherwood](p/fuacarta_1283.md)
 
+
+## GREAT-PARENTS 
+* Elbrig, 1244
+* Scellan Ceiteach, 1189-1250
+* Ben-Muman Briain, 1181-1249
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

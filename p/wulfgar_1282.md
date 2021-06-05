@@ -1,8 +1,8 @@
-# Duke Wulfgar of Berry, 1282-, Randolph
+# Duke Wulfgar of Berry, 1282-, Briain
 
 ## FAMILY TREE
 ```
-Duke Wulfgar of Berry, 1282-, Randolph
+Duke Wulfgar of Berry, 1282-, Briain
     ?
     ?
 ```
@@ -11,10 +11,11 @@ Duke Wulfgar of Berry, 1282-, Randolph
 # REFERENCES
 
 ## PARENTS 
-* 
-* 
 
 ## CHILDREN 
+
+
+## GREAT-PARENTS 
 
 ## SIBLINGS
 

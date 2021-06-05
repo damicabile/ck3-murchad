@@ -44,6 +44,13 @@ Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
 
 ## CHILDREN 
 
+
+## GREAT-PARENTS 
+* Gilla-na-Naem Briain, 1165-1229
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](p/muirenn_i_nic_gilla-ruad_1165.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](p/abban_mag_eochad_1181.md)
+* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](p/gnathnad_nic_garb_1191.md)
+
 ## SIBLINGS
 
 ##### END SIBLINGS  

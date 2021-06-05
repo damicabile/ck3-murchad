@@ -37,6 +37,13 @@ Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain
 ## CHILDREN 
 * [Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain](p/coilboth_mag_etain_1287.md)
 
+
+## GREAT-PARENTS 
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](p/mahaut_of_hwicce_1217.md)
+* Niccolo Fibonacci, 1183-1235
+* Mayor Margred, 1189-1244
+
 ## SIBLINGS
 
 ##### END SIBLINGS  
