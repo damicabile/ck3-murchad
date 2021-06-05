@@ -43,8 +43,8 @@ Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield
 * Duchess Morien I, 1226-1295
 
 ## CHILDREN 
-* [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](p/muirenne_nic_pierre_1275.md)
 * [Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh](p/muirenn_ii_nic_pierre_1275.md)
+* [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](p/muirenne_nic_pierre_1275.md)
 
 ## SIBLINGS
 

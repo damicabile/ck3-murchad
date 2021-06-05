@@ -39,10 +39,11 @@ Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
 # REFERENCES
 
 ## PARENTS 
-* Duke Farannan, 1239-
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](p/eithne_nic_baethine_1238.md)
 
 ## CHILDREN 
+* [Countess Eithne Slainedohtor of Chalon, 1285-, gCais-Mathrafal](p/eithne_slainedohtor_1285.md)
 
 ## SIBLINGS
 

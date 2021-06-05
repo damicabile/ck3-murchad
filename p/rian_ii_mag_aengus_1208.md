@@ -43,6 +43,7 @@ Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn
 * Duchess Joan, 1174-1238
 
 ## CHILDREN 
+* [Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn](p/wulfwynn_riandohtor_1273.md)
 * Earl Bruatur mac Rian of Essex, 1241-
 * [Earl Bruatur mac Rian of Essex, 1241-, Llewellyn](p/bruatur_mac_rian_1241.md)
 

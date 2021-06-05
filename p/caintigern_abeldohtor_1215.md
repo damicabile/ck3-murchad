@@ -44,6 +44,7 @@ Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain
 
 ## CHILDREN 
 * Caissene Briain, 1248-
+* Thane Maine, 1253-
 
 ## SIBLINGS
 

@@ -44,8 +44,8 @@ Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain
 
 ## CHILDREN 
 * [Duchess Gruoch nic Glenn of Munster, 1273-, Braenain](p/gruoch_nic_glenn_1273.md)
-* Frang ua Braenain, 1274-
 * [Countess Morag of Dunbar, 1274-, Briain](p/morag_1274.md)
+* Frang ua Braenain, 1274-
 
 ## SIBLINGS
 

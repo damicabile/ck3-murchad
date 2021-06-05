@@ -43,8 +43,8 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 * Garb Briain, 1147-1214
 
 ## CHILDREN 
-* Duchess Gelgeis, 1217-1277
 * [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
+* Duchess Gelgeis, 1217-1277
 
 ## SIBLINGS
 

@@ -39,10 +39,11 @@ Earl Aed Barrdubson of West Riding, 1261-, Got
 # REFERENCES
 
 ## PARENTS 
-* Thane Cainchomrac, 1231-
+* Thane Cainchomrac, 1231-1293
 * Duchess Barrdub, 1228-1270
 
 ## CHILDREN 
+* [Earl Aelfstan Aedson of Macon, 1279-, Got](p/aelfstan_aedson_1279.md)
 
 ## SIBLINGS
 

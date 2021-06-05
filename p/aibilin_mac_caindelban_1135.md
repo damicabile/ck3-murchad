@@ -44,8 +44,8 @@ Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain
 * High Queen Flann, 1117-1172
 
 ## CHILDREN 
-* Fuacarta Briain, 1162-1228
 * Mael-Ciarain Briain, 1153-1227
+* Fuacarta Briain, 1162-1228
 * Duchess Dubchoblaig, 1157-1179
 
 ## SIBLINGS

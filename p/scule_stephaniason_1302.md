@@ -34,3 +34,19 @@ Earl Scule Stephaniason of Wight, 1302-, Briain
                 ?
                 ?
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Frang ua Braenain, 1274-
+* [Princess Stephania Baethinedohtor of England, 1276-1306, Briain](p/stephania_baethinedohtor_1276.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

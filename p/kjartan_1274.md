@@ -34,3 +34,19 @@ Earl Kjartan of Angus, 1274-, Braghde
                 ?
                 ?
 ```
+
+# REFERENCES
+
+## PARENTS 
+* [Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain](p/lethlobur_mag_euginia_1241.md)
+* Countess Constance, 1240-1292
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

@@ -41,7 +41,7 @@ Earl Natfraich mac Morien of Ailech, 1218-1282, Briain
 
 ## PARENTS 
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
-* Morien Llewellyn, 1183-1251
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
 
 ## CHILDREN 
 * Countess Muirenn, 1262-

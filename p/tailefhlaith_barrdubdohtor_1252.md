@@ -39,10 +39,11 @@ Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got
 # REFERENCES
 
 ## PARENTS 
-* Thane Cainchomrac, 1231-
+* Thane Cainchomrac, 1231-1293
 * Duchess Barrdub, 1228-1270
 
 ## CHILDREN 
+* [Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got](p/aethelberht_tailefhlaithson_1274.md)
 
 ## SIBLINGS
 

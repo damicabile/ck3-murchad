@@ -43,8 +43,8 @@ Ellbrig nig Aileann, 1155-1223, Briain
 * [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
 
 ## CHILDREN 
-* Muirne gCais-Inis, 1183-1259
 * Earl Eoganan, 1193-1260
+* Muirne gCais-Inis, 1183-1259
 * [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](p/eonagan_mag_ellbrig_1193.md)
 
 ## SIBLINGS

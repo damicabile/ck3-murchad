@@ -37,8 +37,8 @@ Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro
 * Iudloguen de Rennes, 1112-1178
 
 ## CHILDREN 
-* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](p/pyr_ap_rhufon_1160.md)
 * [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](p/cynwrig_ap_rhufon_1157.md)
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](p/pyr_ap_rhufon_1160.md)
 
 ## SIBLINGS
 

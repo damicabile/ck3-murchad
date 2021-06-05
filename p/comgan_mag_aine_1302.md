@@ -35,3 +35,19 @@ Count Comgan mag Aine of Issoudun, 1302-, gCais-Berkhamsted
                 ?
 
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Count Cernach, 1271-1303
+* Aine gCais-Berkhamsted, 1273-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

@@ -43,13 +43,13 @@ High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
 
 ## CHILDREN 
-* Princess Sithmaith, 1140-1181
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](p/aibilin_mac_caindelban_1135.md)
-* Finnacan gCais-Gabhran, 1161-1244
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](p/faelan_mac_caindelban_1137.md)
-* [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](p/finnacan_mac_caindelban_1161.md)
 * [Prince Congalach ab Caindelban of Ireland, 1148-1209, Evans](p/congalach_ab_caindelban_1148.md)
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](p/faelan_mac_caindelban_1137.md)
+* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](p/aibilin_mac_caindelban_1135.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
+* Finnacan gCais-Gabhran, 1161-1244
+* [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](p/finnacan_mac_caindelban_1161.md)
+* Princess Sithmaith, 1140-1181
 * [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](p/dinertach_mac_caindelban_1141.md)
 
 ## SIBLINGS

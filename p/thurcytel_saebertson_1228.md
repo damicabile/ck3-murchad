@@ -45,8 +45,8 @@ Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain
 * Maire Brunonen, 1200-1268
 
 ## CHILDREN 
-* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](p/ylva_drifadohtor_1261.md)
 * [Duke Sverrir Drifason of Champagne, 1272-, Hagalin](p/sverrir_drifason_1272.md)
+* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](p/ylva_drifadohtor_1261.md)
 
 ## SIBLINGS
 

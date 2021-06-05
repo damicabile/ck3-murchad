@@ -40,6 +40,7 @@ Duke Farannan of Munster, 1239-1299, gCais-Mathrafal
 * [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
 
 ## CHILDREN 
+* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
 
 ## SIBLINGS
 

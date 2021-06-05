@@ -219,6 +219,7 @@
 - [Uilliam Lorcanson](p/uilliam_lorcanson_1283.md) (1283-), *Earl of Evreux, Briain*
 - [Ultan mac Gelgeis](p/ultan_mac_gelgeis_1249.md) (1249-), *Earl of Ossory, Briain*
 - [William](p/william_1247.md) (1247-), *Duke of Guoladat, Sigurdr-York*
+- [Wulfgar](p/wulfgar_1282.md) (1282-), *Duke of Berry, Briain*
 - [Wulfgifu Ermessindedohtor](p/wulfgifu_ermessindedohtor_1282.md) (1282-), *Countess of South Seaxe, Briain*
 - [Wulfrun](p/wulfrun_1282.md) (1282-), *Countess of Avalois, Pudsey*
 - [Wulfwynn Riandohtor](p/wulfwynn_riandohtor_1273.md) (1273-), *Countess of Herefordshire, Llewellyn*

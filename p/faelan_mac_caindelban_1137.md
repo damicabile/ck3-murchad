@@ -44,8 +44,8 @@ Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain
 * High Queen Flann, 1117-1172
 
 ## CHILDREN 
-* Coblaith is Nadruva, 1171-1240
 * [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
+* Coblaith is Nadruva, 1171-1240
 
 ## SIBLINGS
 

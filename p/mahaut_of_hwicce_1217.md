@@ -27,10 +27,10 @@ Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce
 * Duchess Constance, 1178-1241
 
 ## CHILDREN 
-* [Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain](p/flaithgus_mac_cuan_1236.md)
+* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](p/aindle_mac_cuan_1242.md)
 * [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](p/buaidbeo_mac_cuan_1247.md)
 * [Earl Cuan mac Cuan of Derby, 1245-, Briain](p/cuan_mac_cuan_1245.md)
-* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](p/aindle_mac_cuan_1242.md)
+* [Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain](p/flaithgus_mac_cuan_1236.md)
 
 ## SIBLINGS
 

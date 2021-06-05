@@ -27,8 +27,8 @@ Eochad mag Abban, 1163-1191, Briain
 * Gnathnad mac Mathgamna, 1134-1193
 
 ## CHILDREN 
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](p/abban_mag_eochad_1181.md)
 * Dunlaith Briain, 1181-1243
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](p/abban_mag_eochad_1181.md)
 
 ## SIBLINGS
 

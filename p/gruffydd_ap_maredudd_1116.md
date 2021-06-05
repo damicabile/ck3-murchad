@@ -43,8 +43,8 @@ Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro
 * Mechthild von Goseck, 1099-1165
 
 ## CHILDREN 
-* Duke LLes, 1134-1202
 * Ffraid Caerloyw-Penfro, 1145-1208
+* Duke LLes, 1134-1202
 
 ## SIBLINGS
 

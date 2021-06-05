@@ -14,3 +14,19 @@ Earl Uilliam Lorcanson of Evreux, 1283-, Briain
         ?
         ?
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Lorcan Briain, 1261-1307
+* Failenn ua Braein, 1255-1306
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

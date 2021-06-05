@@ -41,8 +41,8 @@ Aed mag Ite, 1142-1207, Briain
 
 ## CHILDREN 
 * [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
 * Narbflaith Briain, 1173-1242
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
 
 ## SIBLINGS
 

@@ -42,13 +42,14 @@ King Lorcan Morienson of England, 1204-1271, Briain
 
 ## PARENTS 
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
-* Morien Llewellyn, 1183-1251
+* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
 
 ## CHILDREN 
 * [Prince Rodan mac Narbflaith of England, 1263-, Briain](p/rodan_mac_narbflaith_1263.md)
-* Sinach Briain, 1265-
+* Prince Rodan, 1263-1306
 * [Princess Morien nic Lorcan of England, 1221-1290, Briain](p/morien_nic_lorcan_1221.md)
 * [Princess Rois nic Lorcan of England, 1225-1296, Briain](p/rois_nic_lorcan_1225.md)
+* Sinach Briain, 1265-
 
 ## SIBLINGS
 

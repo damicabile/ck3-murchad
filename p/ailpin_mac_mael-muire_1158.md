@@ -43,8 +43,8 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
 * [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](p/mael-muire_nig_ailpin_1125.md)
 
 ## CHILDREN 
-* Muirne gCais-Inis, 1183-1259
 * Earl Eoganan, 1193-1260
+* Muirne gCais-Inis, 1183-1259
 * [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](p/eonagan_mag_ellbrig_1193.md)
 
 ## SIBLINGS

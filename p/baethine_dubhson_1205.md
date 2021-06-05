@@ -43,8 +43,8 @@ King Baethine Dubhson of England, 1205-1281, Briain
 * Catriona of Carrick, 1187-1215
 
 ## CHILDREN 
-* [Prince Maccus Baethineson of England, 1273-, Briain](p/maccus_baethineson_1273.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](p/eithne_nic_baethine_1238.md)
+* [Prince Maccus Baethineson of England, 1273-, Briain](p/maccus_baethineson_1273.md)
 * [Princess Stephania Baethinedohtor of England, 1276-1306, Briain](p/stephania_baethinedohtor_1276.md)
 
 ## SIBLINGS

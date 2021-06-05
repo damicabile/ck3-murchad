@@ -44,6 +44,7 @@ Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain
 * Annwyl Caerloyw-Penfro, 1187-1247
 
 ## CHILDREN 
+* Baron Lonan, 1255-1297
 * Gormlaith Cetchathach-Banff, 1231-1290
 
 ## SIBLINGS

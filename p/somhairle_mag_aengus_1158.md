@@ -43,8 +43,8 @@ Somhairle mag Aengus, 1158-1223, Briain
 * Duchess Rhiandrech, 1116-1187
 
 ## CHILDREN 
-* [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
 * [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](p/senchan_mac_somhairle_1188.md)
+* [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
 
 ## SIBLINGS
 

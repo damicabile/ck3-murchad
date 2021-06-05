@@ -47,6 +47,7 @@ Duchess Ermessinde of East Anglia, 1264-, Adelsward
 * Duchess Aine, 1222-1281
 
 ## CHILDREN 
+* [Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain](p/wulfgifu_ermessindedohtor_1282.md)
 
 ## SIBLINGS
 

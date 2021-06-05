@@ -34,3 +34,19 @@ Earl Aelfstan Aedson of Macon, 1279-, Got
                 Earl Hugues, 1188-1263
                 Countess Anna, 1184-1238
 ```
+
+# REFERENCES
+
+## PARENTS 
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](p/aed_barrdubson_1261.md)
+* Geneviva d'Aubusson, 1259-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

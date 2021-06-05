@@ -44,8 +44,8 @@ Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi
 * [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
 
 ## CHILDREN 
-* Lady Denis, 1197-1236
 * [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](p/cuhelyn_ap_gwerfyl_1201.md)
+* Lady Denis, 1197-1236
 
 ## SIBLINGS
 

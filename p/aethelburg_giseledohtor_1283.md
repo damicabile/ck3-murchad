@@ -34,3 +34,19 @@ Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil
                 ?
                 ?
 ```
+
+# REFERENCES
+
+## PARENTS 
+* [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](p/beorhtric_muirennson_1265.md)
+* Duchess Gisele, 1266-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

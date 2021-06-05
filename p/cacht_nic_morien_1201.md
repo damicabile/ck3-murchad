@@ -43,9 +43,9 @@ Cacht nic Morien, 1201-1255, Briain
 * [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
 
 ## CHILDREN 
-* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](p/morien_1226.md)
-* Duchess Morien I, 1226-1295
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](p/lugaid_mac_cacht_1227.md)
+* Duchess Morien I, 1226-1295
+* [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](p/morien_1226.md)
 
 ## SIBLINGS
 

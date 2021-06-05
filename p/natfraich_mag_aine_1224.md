@@ -44,8 +44,8 @@ Duke Natfraich mag Aine of Ulster, 1224-1274, Got
 * Aine Got, 1200-1268
 
 ## CHILDREN 
-* [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
 * [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](p/humbert_mac_muirenn_1258.md)
+* [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
 
 ## SIBLINGS
 

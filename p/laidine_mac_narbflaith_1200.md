@@ -43,10 +43,10 @@ Laidine mac Narbflaith, 1200-1231, Got
 * Narbflaith Briain, 1173-1242
 
 ## CHILDREN 
+* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](p/dimmasach_mag_aine_1218.md)
 * Countess Narbflaith, 1224-1305
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
 * Narbflaith Ainedohtor Got, 1224-
-* [Earl Dimmasach mag Aine of Hertfordshire, 1218-1279, Got](p/dimmasach_mag_aine_1218.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
 
 ## SIBLINGS
 

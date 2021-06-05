@@ -40,6 +40,7 @@ Duke Beorhtric Muirennson of Leinster, 1265-, Briain
 * Duchess Muirenn, 1245-1283
 
 ## CHILDREN 
+* [Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil](p/aethelburg_giseledohtor_1283.md)
 
 ## SIBLINGS
 

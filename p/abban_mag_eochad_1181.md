@@ -43,10 +43,10 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
 * Countess Jagoda, 1148-1211
 
 ## CHILDREN 
-* Countess Sinech, 1226-
 * Duchess Gelgeis, 1217-1277
-* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
+* Countess Sinech, 1226-
 * [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
 
 ## SIBLINGS
 

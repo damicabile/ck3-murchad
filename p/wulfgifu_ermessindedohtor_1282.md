@@ -35,3 +35,19 @@ Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
                 ?
 
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Baron Lonan, 1255-1297
+* [Duchess Ermessinde of East Anglia, 1264-, Adelsward](p/ermessinde_1264.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

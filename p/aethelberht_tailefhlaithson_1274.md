@@ -34,3 +34,19 @@ Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got
                 Briccene gCais-Padraig, 1158-1209
                 Muirenn gCais-Cruachu, 1159-1215        
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Flannacan, 1237-1297
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](p/tailefhlaith_barrdubdohtor_1252.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

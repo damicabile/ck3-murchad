@@ -30,3 +30,19 @@ Countess Aethelburh of Alencon, 1285-, Briain
                 Amaneus de Comminges, 1184-1235
                 Irminburg Brunonen, 1173-1242
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Thane Maine, 1253-
+* Thane Cathan, 1258-
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

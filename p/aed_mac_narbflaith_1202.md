@@ -44,7 +44,7 @@ Aed mac Narbflaith, 1202-1263, Got
 * Narbflaith Briain, 1173-1242
 
 ## CHILDREN 
-* Thane Cainchomrac, 1231-
+* Thane Cainchomrac, 1231-1293
 * [Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got](p/cainchomrac_tailefhlaith_1231.md)
 
 ## SIBLINGS

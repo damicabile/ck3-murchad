@@ -40,10 +40,12 @@ Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain
 # REFERENCES
 
 ## PARENTS 
-* Dobieslaw Piast Sieradz, 1241-
-* Euginia Briain, 1213-
+* Dobieslaw Piast-Sieradz, 1212-1279
+* Baroness Euginia, 1213-1273
 
 ## CHILDREN 
+* [Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde](p/eysteinn_lethlobursson_1271.md)
+* [Earl Kjartan of Angus, 1274-, Braghde](p/kjartan_1274.md)
 
 ## SIBLINGS
 

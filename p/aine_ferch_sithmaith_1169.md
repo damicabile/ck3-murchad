@@ -39,8 +39,8 @@ Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc
 * Princess Sithmaith, 1140-1181
 
 ## CHILDREN 
-* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](p/talorc_ab_aine_1200.md)
 * Lord Augustin, 1196-1224
+* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](p/talorc_ab_aine_1200.md)
 
 ## SIBLINGS
 

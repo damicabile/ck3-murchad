@@ -43,8 +43,10 @@ Morien nic Finneacht, 1183-1251, Llewellyn
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
 
 ## CHILDREN 
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
 * [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
+* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
 
 ## SIBLINGS
 

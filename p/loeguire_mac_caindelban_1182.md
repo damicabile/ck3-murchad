@@ -43,8 +43,8 @@ Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
 
 ## CHILDREN 
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
 * [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
 * [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
 * [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
 

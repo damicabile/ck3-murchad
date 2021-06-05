@@ -39,6 +39,7 @@ Princess Morien nic Lorcan of England, 1221-1290, Briain
 * Geilana von Weyhe, 1203-1246
 
 ## CHILDREN 
+* Lorcan Briain, 1261-1307
 
 ## SIBLINGS
 

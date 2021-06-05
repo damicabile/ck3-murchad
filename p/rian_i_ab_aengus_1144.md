@@ -43,10 +43,9 @@ Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn
 * Duchess Rhiandrech, 1116-1187
 
 ## CHILDREN 
-* Grainne Llewellyn, 1163-1234
 * [Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn](p/sorcha_ferch_finneacht_1172.md)
+* Grainne Llewellyn, 1163-1234
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](p/aengus_ii_mac_finneacht_1177.md)
-* Morien Llewellyn, 1183-1251
 * [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
 
 ## SIBLINGS

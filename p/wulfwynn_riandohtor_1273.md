@@ -27,7 +27,7 @@ Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn
 # REFERENCES
 
 ## PARENTS 
-* Duke Rian II, 1208-1278
+* [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](p/rian_ii_mag_aengus_1208.md)
 * Gnathnad Lorc, 1242-
 
 ## CHILDREN 

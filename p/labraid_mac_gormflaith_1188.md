@@ -44,10 +44,10 @@ Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
 
 ## CHILDREN 
+* Seonaid Briain, 1217-
 * Seonaid Briain, 1217-1277
 * [Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain](p/cnes_nic_labraid_1207.md)
-* Seonaid Briain, 1217-
-* Euginia Briain, 1213-
+* Baroness Euginia, 1213-1273
 
 ## SIBLINGS
 

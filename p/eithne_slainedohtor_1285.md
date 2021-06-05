@@ -35,3 +35,19 @@ Countess Eithne Slainedohtor of Chalon, 1285-, gCais-Mathrafal
                 Gudrun av Rost, 1174-1228
 
 ```
+
+# REFERENCES
+
+## PARENTS 
+* Prince Rodan, 1263-1306
+* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
+
+## CHILDREN 
+
+## SIBLINGS
+
+##### END SIBLINGS  
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

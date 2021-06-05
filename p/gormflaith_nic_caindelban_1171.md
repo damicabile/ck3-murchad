@@ -50,11 +50,11 @@ High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
 
 ## CHILDREN 
-* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
+* Caindelban Briain, 1199-1240
 * [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
 * [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](p/failenn_nic_gormflaith_1193.md)
-* Caindelban Briain, 1199-1240
 * [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](p/abel_mac_gormflaith_1190.md)
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
 
 ## SIBLINGS
 

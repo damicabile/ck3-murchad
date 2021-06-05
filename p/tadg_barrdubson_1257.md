@@ -39,7 +39,7 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
 # REFERENCES
 
 ## PARENTS 
-* Thane Cainchomrac, 1231-
+* Thane Cainchomrac, 1231-1293
 * Duchess Barrdub, 1228-1270
 
 ## CHILDREN 

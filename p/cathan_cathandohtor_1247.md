@@ -43,8 +43,8 @@ Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain
 * [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](p/cathan_abeldohtor_1218.md)
 
 ## CHILDREN 
-* [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](p/cathan_cathandohtor_1270.md)
 * [Duke Erc mac Cathan of Cornwall, 1264-, Briain](p/erc_mac_cathan_1264.md)
+* [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](p/cathan_cathandohtor_1270.md)
 
 ## SIBLINGS
 

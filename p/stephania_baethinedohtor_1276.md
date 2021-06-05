@@ -32,6 +32,7 @@ Princess Stephania Baethinedohtor of England, 1276-1306, Briain
 
 ## CHILDREN 
 * [Duke Inwaer Stephaniason of Wessex, 1295-, Briain](p/inwaer_stephaniason_1295.md)
+* [Earl Scule Stephaniason of Wight, 1302-, Briain](p/scule_stephaniason_1302.md)
 
 ## SIBLINGS
 

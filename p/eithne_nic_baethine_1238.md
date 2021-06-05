@@ -43,8 +43,8 @@ Queen Eithne nic Baethine of England, 1238-, Briain
 * Martha Kyle, 1210-
 
 ## CHILDREN 
+* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](p/der-lugdach_1266.md)
-* [Slaine Eithnedohtor, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
 
 ## SIBLINGS
 
