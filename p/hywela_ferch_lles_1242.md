@@ -35,17 +35,16 @@ Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi
 # REFERENCES
 
 ## PARENTS 
-* Lord Lles, 1220-12721272
-* Katarina Grymala, 1216-
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](p/cuhelyn_ap_gwerfyl_1201.md)
-* Lady Madrun, 1185-1253
-* Count Msciwoj, 1174-1226
-* Countess Adelheid, 1197-1274
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 
 ## SIBLINGS
 

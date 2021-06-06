@@ -39,17 +39,17 @@ Countess Morag of Dunbar, 1274-, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain](p/glenn_mac_mael-ruanaid_1242.md)
-* Court Chaplain Sybilla, 1248-
+* [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain](glenn_mac_mael-ruanaid_1242.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Earl David of Berkshire, 1231-1279, Clare](p/david_1231.md)
-* Agnethe Thrugot, 1217-1280
-* Earl Mael-Ruanaid, 1220-1262
-* Maisie Cetchathach-Banff, 1223-1301
+* [Earl David of Berkshire, 1231-1279, Clare](david_1231.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](flaitheman_nic_caindelban_1175.md)
 
 ## SIBLINGS
 

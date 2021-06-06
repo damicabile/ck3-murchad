@@ -39,17 +39,14 @@ Duke Mathieu of Orleans, 1220-, Antoing
 # REFERENCES
 
 ## PARENTS 
-* Earl Gilles, 1251-
-* Countess Magdalena, 1226-1277
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Earl Mathieu, 1185-1248
-* Countess Anne, 1186-1254
-* Milosz z Opolan, 1204-1267
-* Pechna Opolski, 1207-1276
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

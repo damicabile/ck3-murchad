@@ -23,17 +23,14 @@ Martha Kyle, 1210-1279, Kyle
 # REFERENCES
 
 ## PARENTS 
-* Prince Ewan, 1178-1216
-* Gudrun av Rost, 1174-1228
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* King Andrew, 1113-1188
-* Princess Elin, 1158-1222
-* Grettir av Rost, 1157-1213
-* Martha Cetchatach-Banff, 1156-1219
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

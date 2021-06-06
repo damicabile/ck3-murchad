@@ -39,20 +39,19 @@ Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin
 # REFERENCES
 
 ## PARENTS 
-* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](p/thurcytel_saebertson_1228.md)
-* Duchess Drifa, 1228-1282
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 
 ## CHILDREN 
-* [Countess Gerroc Airmedachdohtor of Clermont, 1289-, gCais-Mathrafal](p/gerroc_airmedachdohtor_1289.md)
-* [Countess Ben-Mide of Chartres, 1282-, gCais-Mathrafal](p/ben-mide_1282.md)
-* [Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal](p/brian_airmedachson_1281.md)
+* [Countess Ben-Mide of Chartres, 1282-, gCais-Mathrafal](ben-mide_1282.md)
+* [Countess Gerroc Airmedachdohtor of Clermont, 1289-, gCais-Mathrafal](gerroc_airmedachdohtor_1289.md)
+* [Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal](brian_airmedachson_1281.md)
 
 
 ## GREAT-PARENTS 
-* Earl Saebert, 1203-1261
-* Maire Brunonen, 1200-1268
-* Sverrir Hagalin, 1211-1249
-* Margareta Yngling-Konungahella, 1209-1280
+
+
+## GREAT-GREAT-PARENTS 
+* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
 
 ## SIBLINGS
 

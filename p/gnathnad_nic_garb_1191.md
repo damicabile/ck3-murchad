@@ -39,19 +39,21 @@ Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain
 # REFERENCES
 
 ## PARENTS 
-* Gormgus Briain, 1167-1221
-* Garb Briain, 1147-1214
 
 ## CHILDREN 
-* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
-* Duchess Gelgeis, 1217-1277
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
 
 
 ## GREAT-PARENTS 
-* Gwyn Ynys Cybi, 1127-1168
-* Muirgel Briain, 1130-1201
-* Earl Abban, 1132-1192
-* Gnathnad mac Mathgamna, 1134-1193
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 
 ## SIBLINGS
 

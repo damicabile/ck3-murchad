@@ -39,21 +39,20 @@ Earl Abban mag Eochad of Athlone, 1181-1234, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Eochad mag Abban, 1163-1191, Briain](p/eochad_mag_abban_1163.md)
-* Countess Jagoda, 1148-1211
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 
 ## CHILDREN 
-* Duchess Gelgeis, 1217-1277
-* Countess Sinech, 1226-
-* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](p/gelgeis_nic_gnathnad_1217.md)
-* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](slaine_nig_abban_1220.md)
 
 
 ## GREAT-PARENTS 
-* Earl Abban, 1132-1192
-* Gnathnad mac Mathgamna, 1134-1193
-* Baron Petar, 1111-1165
-* Baroness Aurengarde, 1111-1164
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
 
 ## SIBLINGS
 

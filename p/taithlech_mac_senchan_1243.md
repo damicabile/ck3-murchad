@@ -40,17 +40,17 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
 # REFERENCES
 
 ## PARENTS 
-* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](p/senchan_mac_somhairle_1188.md)
-* Gyda af Orkneyjar, 1223-1296
+* [King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl](senchan_mac_somhairle_1188.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Duke Snorri III, 1183-1247
-* Duchess Sol, 1182-1246
-* [Somhairle mag Aengus, 1158-1223, Briain](p/somhairle_mag_aengus_1158.md)
-* Heulwen Ynys Cybi, 1158-1208
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 
 ## SIBLINGS
 

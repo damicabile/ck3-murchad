@@ -39,17 +39,20 @@ Duke Eadbald Mael-Muireson of Poitou, 1286-, hEochadha
 # REFERENCES
 
 ## PARENTS 
-* Duke Constans, 1265-1291
-* [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](p/mael-muire_gormflaithdohtor_1268.md)
+* [Duchess Mael-Muire Gormflaithdohtor of East Seaxe, 1268-, hEochadha](mael-muire_gormflaithdohtor_1268.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Anastasios Chalkokondyles, 1238-1294
-* Caissene Briain, 1248-
-* [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](p/buaidbeo_mac_cuan_1247.md)
-* Baroness Gormflaith, 1251-
+* [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](buaidbeo_mac_cuan_1247.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
+* [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
 
 ## SIBLINGS
 

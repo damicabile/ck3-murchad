@@ -34,17 +34,18 @@ Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh
 # REFERENCES
 
 ## PARENTS 
-* [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
-* Julienne of Mar, 1238-1299
+* [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
-* Duchess Morien I, 1226-1295
-* Matudan of Mar, 1213-1254
-* Countess Lillias, 1217-1249
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 
 ## SIBLINGS
 

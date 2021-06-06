@@ -39,17 +39,18 @@ Earl Bruatur mac Rian of Essex, 1241-, Llewellyn
 # REFERENCES
 
 ## PARENTS 
-* [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](p/rian_ii_mag_aengus_1208.md)
-* Duchess Irena, 1197-
+* [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](rian_ii_mag_aengus_1208.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Count Wichmann, 1180-1244
-* Countess Hemma, 1179-1237
-* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](p/aengus_ii_mac_finneacht_1177.md)
-* Duchess Joan, 1174-1238
+* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
 
 ## SIBLINGS
 

@@ -27,15 +27,14 @@ Duke William of Guoladat, 1247-, Sigurdr-York
 # REFERENCES
 
 ## PARENTS 
-* Duke Thomas, 1200-1248
-* Almodis de Chartres, 1219-
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Duke Arthur, 1176-1217
-* Mathilde von Limburg, 1159-1226
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

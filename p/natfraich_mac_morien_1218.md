@@ -40,18 +40,23 @@ Earl Natfraich mac Morien of Ailech, 1218-1282, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
-* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
 
 ## CHILDREN 
-* Countess Muirenn, 1262-
 
 
 ## GREAT-PARENTS 
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
-* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](p/finneacht_mac_fiachnae_1143.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 
 ## SIBLINGS
 

@@ -26,17 +26,15 @@ Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi
 # REFERENCES
 
 ## PARENTS 
-* Lord Iorwerth, 1053-1109
-* Thyra Reventlow, 1051-1121
 
 ## CHILDREN 
-* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](p/iorwerth_ap_gwenllian_1129.md)
-* Morien Caerloyw-Tyddewi, 1122-1192
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 
 
 ## GREAT-PARENTS 
-* Petty King Bleddyn, 1025-1086
-* Morien Maelienydd, 1036-1093
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

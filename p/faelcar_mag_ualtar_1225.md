@@ -41,16 +41,15 @@ Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
 # REFERENCES
 
 ## PARENTS 
-* Ualtar gCais-Gaillimhe, 1199-1254
-* Eithne Llyn, 1201-1232
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Rogallach gCais-Gaillimhe, 1182-1232
-* Beorhtflaed Briain, 1180-1242
-* Ben-Mide Llyn, 1159-1229
+
+
+## GREAT-GREAT-PARENTS 
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
 
 ## SIBLINGS
 

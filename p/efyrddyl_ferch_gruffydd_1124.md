@@ -19,15 +19,14 @@ Efyrddyl ferch Gruffydd, 1124-1194, Seisyll
 # REFERENCES
 
 ## PARENTS 
-* Earl Gruffydd, 1072-1130
-* Failenn, 1081-1144
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Earl Idwal, 1054-111211121112
-* Sioned Ynys Cybi,1048-1114
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

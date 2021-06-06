@@ -19,15 +19,16 @@ Earl Uilliam Lorcanson of Evreux, 1283-, Briain
 # REFERENCES
 
 ## PARENTS 
-* Lorcan Briain, 1261-1307
-* Failenn ua Braein, 1255-1306
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Manuel, 1218-1269
-* [Princess Morien nic Lorcan of England, 1221-1290, Briain](p/morien_nic_lorcan_1221.md)
+* [Princess Morien nic Lorcan of England, 1221-1290, Briain](morien_nic_lorcan_1221.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
 
 ## SIBLINGS
 

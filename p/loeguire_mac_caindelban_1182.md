@@ -39,21 +39,23 @@ Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 
 ## CHILDREN 
-* [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
-* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
-* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
 
 
 ## GREAT-PARENTS 
-* Prince Randolph I, 1108-1149
-* Lerthan Crovan, 1108-1169
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## SIBLINGS
 

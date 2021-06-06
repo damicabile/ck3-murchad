@@ -40,17 +40,17 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](p/abban_mag_eochad_1181.md)
-* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](p/gnathnad_nic_garb_1191.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Gormgus Briain, 1167-1221
-* Garb Briain, 1147-1214
-* [Eochad mag Abban, 1163-1191, Briain](p/eochad_mag_abban_1163.md)
-* Countess Jagoda, 1148-1211
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

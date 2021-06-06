@@ -40,20 +40,22 @@ Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe
 # REFERENCES
 
 ## PARENTS 
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](p/aelfmaer_mag_osraed_1128.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
 
 ## CHILDREN 
-* Narbflaith gCais-Gaillimhe, 1175-1231
-* Rogallach gCais-Gaillimhe, 1182-1232
-* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](p/adomnan_mac_maire_1162.md)
+* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
 
 
 ## GREAT-PARENTS 
-* Earl Osraed, 1088-1149
-* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](p/flann_nig_olav_1097.md)
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](p/udalschalk_mag_eilika_1096.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## SIBLINGS
 

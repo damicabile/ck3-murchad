@@ -39,17 +39,20 @@ Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield
 # REFERENCES
 
 ## PARENTS 
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](p/humbert_mac_muirenn_1258.md)
-* Countess Cristina, 1248-1277
+* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
-* Duchess Morien I, 1226-1295
-* [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](p/cilline_mac_failenn_1215.md)
-* Duchess Isabelle, 1211-1274
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
+* [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](cilline_mac_failenn_1215.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 
 ## SIBLINGS
 

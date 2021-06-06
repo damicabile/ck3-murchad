@@ -32,19 +32,22 @@ Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](p/udalschalk_mag_eilika_1096.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## CHILDREN 
-* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](p/rian_i_ab_aengus_1144.md)
-* [Somhairle mag Aengus, 1158-1223, Briain](p/somhairle_mag_aengus_1158.md)
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 
 ## GREAT-PARENTS 
-* Serene Doge Luchino, 1042-1099
-* Eilika von Cilli, 1050-1106
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

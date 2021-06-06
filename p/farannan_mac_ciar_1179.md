@@ -39,19 +39,25 @@ Earl Farannan mac Ciar of Ennis, 1179-1238, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
 
 ## CHILDREN 
-* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](p/faelchu_mac_farannan_1212.md)
-* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
+* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](faelchu_mac_farannan_1212.md)
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
 
 
 ## GREAT-PARENTS 
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](p/cathnio_mac_cathan_1108.md)
-* Countess Ite, 1111-1171
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
-* Morien Caerloyw-Tyddewi, 1122-1192
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
+* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
 
 ## SIBLINGS
 

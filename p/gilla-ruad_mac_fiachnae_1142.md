@@ -39,22 +39,24 @@ Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu
 # REFERENCES
 
 ## PARENTS 
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
-* Morien Caerloyw-Tyddewi, 1122-1192
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 
 ## CHILDREN 
-* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](p/muirenn_i_nic_gilla-ruad_1165.md)
-* [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](p/conchenn_nic_gilla-ruad_1163.md)
-* [Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu](p/fiachnae_mac_gilla-ruad_1167.md)
-* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](p/muirenn_ii_nic_gilla-ruad_1165.md)
-* Muirenn gCais-Cruachu, 1159-1215
+* [Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu](fiachnae_mac_gilla-ruad_1167.md)
+* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
+* [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
 
 
 ## GREAT-PARENTS 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](p/elidyr_ab_iorwerth_1085.md)
-* Petty Queen Gwenllian, 1090-1148
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

@@ -39,18 +39,20 @@ Lathir nic Faelan, 1162-1231, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](p/faelan_mac_caindelban_1137.md)
-* Countess Agnes, 1137-1197
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
 
 ## CHILDREN 
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 
 
 ## GREAT-PARENTS 
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
-* Duke Eustache, 1104-1158
-* Rhonwen Caerloyw-Penfro, 1104-1166
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
 ## SIBLINGS
 

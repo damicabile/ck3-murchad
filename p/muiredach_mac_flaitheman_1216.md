@@ -41,17 +41,18 @@ Muiredach mac Flaitheman, 1216-1281, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](p/flaitheman_nic_caindelban_1175.md)
-* Princess Marthoc, 1178-1224
+* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](flaitheman_nic_caindelban_1175.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* King Conall II, 1155-1215
-* Philippa Sigurdr-Lindisfarne, 1153-1221
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## SIBLINGS
 

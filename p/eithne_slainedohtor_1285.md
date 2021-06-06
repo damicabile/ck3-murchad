@@ -40,17 +40,24 @@ Countess Eithne Slainedohtor of Chalon, 1285-, gCais-Mathrafal
 # REFERENCES
 
 ## PARENTS 
-* Prince Rodan, 1263-1306
-* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](p/slaine_eithnedohtor_1268.md)
+* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
-* Countess Narbflaith, 1224-1305
-* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
-* [Queen Eithne nic Baethine of England, 1238-, Briain](p/eithne_nic_baethine_1238.md)
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
+* [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
+* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](slaine_nig_abban_1220.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
 
 ## SIBLINGS
 

@@ -40,17 +40,19 @@ Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
 # REFERENCES
 
 ## PARENTS 
-* Baron Lonan, 1255-1297
-* [Duchess Ermessinde of East Anglia, 1264-, Adelsward](p/ermessinde_1264.md)
+* [Duchess Ermessinde of East Anglia, 1264-, Adelsward](ermessinde_1264.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
-* Duchess Aine, 1222-1281
-* Fragan, 1210-1272
-* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](p/gormflaith_abeldohtor_1211.md)
+* [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
+* [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
+* [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
 
 ## SIBLINGS
 

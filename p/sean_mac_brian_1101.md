@@ -21,15 +21,16 @@ Earl Sean mac Brian of Oriel, 1101-1135, Laighin
 # REFERENCES
 
 ## PARENTS 
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
-* Countess Dub-Dil, 1067-1127
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 
 ## CHILDREN 
-* [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](p/cuanu_mac_sean_1121.md)
+* [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](cuanu_mac_sean_1121.md)
 
 
 ## GREAT-PARENTS 
-* High King Murchad, 1027-1095
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

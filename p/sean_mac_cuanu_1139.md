@@ -33,17 +33,17 @@ Sean mac Cuanu, 1139-1209, Laighin
 # REFERENCES
 
 ## PARENTS 
-* [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](p/cuanu_mac_sean_1121.md)
-* Unnr Sigurdr-Kyle, 1105-1167
+* [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](cuanu_mac_sean_1121.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Earl Somhairle, 1066-1121
-* Countess Cumman, 1082-1144
-* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](p/sean_mac_brian_1101.md)
-* Finnguala, 1087-1138
+* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 
 ## SIBLINGS
 

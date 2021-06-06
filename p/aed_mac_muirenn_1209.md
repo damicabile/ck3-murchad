@@ -39,17 +39,22 @@ Aed mac Muirenn, 1209-1281, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
-* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](p/muirenn_ii_nic_gilla-ruad_1165.md)
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
+* [Duchess Muirenn II nic Gilla-Ruad of Ulster, 1165-1222, gCais-Cruachu](muirenn_ii_nic_gilla-ruad_1165.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
-* Sybilla de Beaumont, 1130-1203
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 
 ## SIBLINGS
 

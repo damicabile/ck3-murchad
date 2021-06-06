@@ -39,20 +39,21 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](p/cormac_mac_bruatur_1133.md)
-* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](p/mael-muire_nig_ailpin_1125.md)
+* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
+* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
 
 ## CHILDREN 
-* Muirne gCais-Inis, 1183-1259
-* Earl Eoganan, 1193-1260
-* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](p/eonagan_mag_ellbrig_1193.md)
+* [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
 
 
 ## GREAT-PARENTS 
-* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](p/bruatur_mac_enguerrand_1108.md)
-* Samthann av Vedrafjord, 1108-1165
-* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](p/ailpin_mac_donnchad_1101.md)
-* Aedemmair Conchobair, 1081-1141
+* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
+* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](ailpin_mac_donnchad_1101.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
 
 ## SIBLINGS
 

@@ -27,15 +27,17 @@ Prince Maccus Baethineson of England, 1273-, Briain
 # REFERENCES
 
 ## PARENTS 
-* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
-* Queen Marthe, 1240-
+* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
-* Catriona of Carrick, 1187-1215
+* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 ## SIBLINGS
 

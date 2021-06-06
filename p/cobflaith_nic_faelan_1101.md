@@ -39,23 +39,21 @@ Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## CHILDREN 
-* Muirgel Briain, 1130-1201
-* Earl Abban, 1132-1192
-* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](p/aengus_i_mac_cobflaith_1123.md)
-* Slebine Briain, 1132-1201
-* [Earl Abban mac Cobflaith of Athlone, 1132-1191, Briain](p/abban_mac_cobflaith_1132.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
+* [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [Earl Abban mac Cobflaith of Athlone, 1132-1191, Briain](abban_mac_cobflaith_1132.md)
 
 
 ## GREAT-PARENTS 
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
-* Duke Gudrod, 1049-1115
-* Princess Ragnhild, 1045-1110
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

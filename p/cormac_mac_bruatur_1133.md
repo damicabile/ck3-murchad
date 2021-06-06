@@ -40,19 +40,17 @@ Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](p/bruatur_mac_enguerrand_1108.md)
-* Samthann av Vedrafjord, 1108-1165
+* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
 
 ## CHILDREN 
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](p/ailpin_mac_mael-muire_1158.md)
-* Aedammair gCais-Inis, 1154-1223
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 
 
 ## GREAT-PARENTS 
-* High King Olav, 1066-1132
-* Flann ua Neill Noigiallaich, 1076-1143
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](p/enguerrand_mac_murchad_1081.md)
-* Countess Margrethe, 1085-1127
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

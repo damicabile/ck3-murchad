@@ -39,21 +39,23 @@ Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu
 # REFERENCES
 
 ## PARENTS 
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
-* Morien Caerloyw-Tyddewi, 1122-1192
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 
 ## CHILDREN 
-* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](p/aengus_ii_mac_finneacht_1177.md)
-* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
-* Grainne Llewellyn, 1163-1234
-* [Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn](p/sorcha_ferch_finneacht_1172.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
+* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
+* [Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn](sorcha_ferch_finneacht_1172.md)
 
 
 ## GREAT-PARENTS 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
-* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](p/elidyr_ab_iorwerth_1085.md)
-* Petty Queen Gwenllian, 1090-1148
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

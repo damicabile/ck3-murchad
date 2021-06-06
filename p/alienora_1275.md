@@ -39,17 +39,14 @@ Duke Alienora of Normandy, 1275-, Corbeil
 # REFERENCES
 
 ## PARENTS 
-* Count Sayer, 1244-1279
-* Maha Fadlid, 1237-1302
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Reeve Rashid, 1180-1248
-* Reeve Alienor, 1200-1257
-* Earl Lancelin, 1207-1273
-* Adelid de Tiberiade, 1205-1278
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

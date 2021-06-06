@@ -40,17 +40,16 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* High King Heahberht, 1135-1165
-* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](p/deirdre_nic_deirdre_1131.md)
+* [Deirdre nic Deirdre, 1131-1196, gCais-Inis](deirdre_nic_deirdre_1131.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Loup de Saulx, 1105-1167
-* Deirdre gCais-Inis, 1101-1155
-* Earl Osraed, 1088-1149
-* Countess Flann, 1096-1161
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
 ## SIBLINGS
 

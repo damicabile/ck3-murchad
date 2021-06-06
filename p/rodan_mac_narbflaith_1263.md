@@ -39,17 +39,23 @@ Prince Rodan mac Narbflaith of England, 1263-, Briain
 # REFERENCES
 
 ## PARENTS 
-* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
-* Narbflaith Ainedohtor Got, 1224-
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
-* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
-* [Laidine mac Narbflaith, 1200-1231, Got](p/laidine_mac_narbflaith_1200.md)
-* Aine Got, 1200-1268
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
 
 ## SIBLINGS
 

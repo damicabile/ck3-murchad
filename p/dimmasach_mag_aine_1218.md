@@ -44,18 +44,22 @@ Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted
 # REFERENCES
 
 ## PARENTS 
-* [Laidine mac Narbflaith, 1200-1231, Got](p/laidine_mac_narbflaith_1200.md)
-* Aine Got, 1200-1268
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 
 ## CHILDREN 
-* Aine gCais-Berkhamsted, 1273-
 
 
 ## GREAT-PARENTS 
-* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
-* Narbflaith Briain, 1173-1242
-* Morann Got, 1182-1250
-* Muirne gCais-Inis, 1183-1259
+* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
 
 ## SIBLINGS
 

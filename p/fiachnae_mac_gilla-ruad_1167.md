@@ -39,18 +39,19 @@ Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu
 # REFERENCES
 
 ## PARENTS 
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](p/gilla-ruad_mac_fiachnae_1142.md)
-* Sybilla de Beaumont, 1130-1203
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 
 ## CHILDREN 
-* Captain Niallgus, 1192-1259
 
 
 ## GREAT-PARENTS 
-* Ralph de Beaumont, 1111-1166
-* Aelwyd Morgannwg, 1093-1158
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
-* Morien Caerloyw-Tyddewi, 1122-1192
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+* [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
 
 ## SIBLINGS
 

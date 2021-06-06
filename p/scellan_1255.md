@@ -31,17 +31,16 @@ Duke Scellan of Hwicce, 1255-, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](p/fuacarta_mac_ben-muman_1212.md)
-* Thiedburga von Wettin, 1210-1279
+* [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](fuacarta_mac_ben-muman_1212.md)
 
 ## CHILDREN 
-* [Duke Fuacarta of Anjou, 1283-, gCais-Sherwood](p/fuacarta_1283.md)
+* [Duke Fuacarta of Anjou, 1283-, gCais-Sherwood](fuacarta_1283.md)
 
 
 ## GREAT-PARENTS 
-* Elbrig, 1244
-* Scellan Ceiteach, 1189-1250
-* Ben-Muman Briain, 1181-1249
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

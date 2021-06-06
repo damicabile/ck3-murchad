@@ -39,17 +39,16 @@ Duke Sverrir Drifason of Champagne, 1272-, Hagalin
 # REFERENCES
 
 ## PARENTS 
-* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](p/thurcytel_saebertson_1228.md)
-* Duchess Drifa, 1228-1282
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Earl Saebert, 1203-1261
-* Maire Brunonen, 1200-1268
-* Sverrir Hagalin, 1211-1249
-* Margareta Yngling-Konungahella, 1209-1280
+
+
+## GREAT-GREAT-PARENTS 
+* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
 
 ## SIBLINGS
 

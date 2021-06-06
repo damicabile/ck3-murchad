@@ -35,17 +35,18 @@ Duchess Cairech nic Faelchu of Deheubarth, 1235-1299, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](p/faelchu_mac_farannan_1212.md)
-* Dwynwen de Comminges, 1204-1277
+* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](faelchu_mac_farannan_1212.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
-* Cathan, 1187-1248
-* Amaneus de Comminges, 1184-1235
-* Irminburg Brunonen, 1173-1242
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
 
 ## SIBLINGS
 

@@ -27,17 +27,19 @@ Princess Stephania Baethinedohtor of England, 1276-1306, Briain
 # REFERENCES
 
 ## PARENTS 
-* [King Baethine Dubhson of England, 1205-1281, Briain](p/baethine_dubhson_1205.md)
-* Queen Marthe, 1240-
+* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 
 ## CHILDREN 
-* [Duke Inwaer Stephaniason of Wessex, 1295-, Briain](p/inwaer_stephaniason_1295.md)
-* [Earl Scule Stephaniason of Wight, 1302-, Briain](p/scule_stephaniason_1302.md)
+* [Duke Inwaer Stephaniason of Wessex, 1295-, Briain](inwaer_stephaniason_1295.md)
+* [Earl Scule Stephaniason of Wight, 1302-, Briain](scule_stephaniason_1302.md)
 
 
 ## GREAT-PARENTS 
-* [Dubh mac Somhairle, 1183-1234, Briain](p/dubh_mac_somhairle_1183.md)
-* Catriona of Carrick, 1187-1215
+* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
 ## SIBLINGS
 

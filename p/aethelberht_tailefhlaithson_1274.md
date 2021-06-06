@@ -39,15 +39,16 @@ Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got
 # REFERENCES
 
 ## PARENTS 
-* Flannacan, 1237-1297
-* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](p/tailefhlaith_barrdubdohtor_1252.md)
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Thane Cainchomrac, 1231-1293
-* Duchess Barrdub, 1228-1270
+
+
+## GREAT-GREAT-PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
 
 ## SIBLINGS
 

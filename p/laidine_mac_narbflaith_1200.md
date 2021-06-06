@@ -39,21 +39,23 @@ Laidine mac Narbflaith, 1200-1231, Got
 # REFERENCES
 
 ## PARENTS 
-* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
-* Narbflaith Briain, 1173-1242
+* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
 
 ## CHILDREN 
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
-* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](p/dimmasach_mag_aine_1218.md)
-* Narbflaith Ainedohtor Got, 1224-
-* Countess Narbflaith, 1224-1305
+* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](dimmasach_mag_aine_1218.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 
 
 ## GREAT-PARENTS 
-* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](p/dinertach_mac_caindelban_1141.md)
-* Hawise Normandie-Bedford, 1141-1213
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## SIBLINGS
 

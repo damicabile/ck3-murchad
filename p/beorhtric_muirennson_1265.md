@@ -36,18 +36,19 @@ Duke Beorhtric Muirennson of Leinster, 1265-, Briain
 # REFERENCES
 
 ## PARENTS 
-* Earl Ernan, 1245-1306
-* Duchess Muirenn, 1245-1283
 
 ## CHILDREN 
-* [Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil](p/aethelburg_giseledohtor_1283.md)
+* [Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil](aethelburg_giseledohtor_1283.md)
 
 
 ## GREAT-PARENTS 
-* Earl Muirgius, 1190-1250
-* Duchess Gelgeis, 1217-1277
-* Baldewin, 1211-1264
-* Seonaid Briain, 1217-1277
+
+
+## GREAT-GREAT-PARENTS 
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
+* [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
 
 ## SIBLINGS
 

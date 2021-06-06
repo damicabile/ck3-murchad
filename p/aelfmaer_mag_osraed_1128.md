@@ -35,19 +35,17 @@ Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles
 # REFERENCES
 
 ## PARENTS 
-* Earl Osraed, 1088-1149
-* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](p/flann_nig_olav_1097.md)
+* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
 
 ## CHILDREN 
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](p/udalschalk_mag_aileann_1145.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](p/ellbrig_nig_aileann_1155.md)
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 
 
 ## GREAT-PARENTS 
-* High King Olav, 1066-1132
-* Flann ua Neill Noigiallaich, 1076-1143
-* Earl Wulfgeat, 1025-1100
-* Aethelswith of Hereford, 1070-1125
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

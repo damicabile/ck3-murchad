@@ -39,18 +39,21 @@ Countess Gormlaith nic Dunlaith of Ui Mhaine, 1214-1283, gCais-Gaillimhe
 # REFERENCES
 
 ## PARENTS 
-* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](p/gilla-ruad_mac_conchenn_1182.md)
-* Dunlaith Briain, 1181-1243
+* [Earl Gilla-Ruad mac Conchenn of Ui Mhaine, 1182-1238, gCais-Gaillimhe](gilla-ruad_mac_conchenn_1182.md)
 
 ## CHILDREN 
-* [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](p/gormlaith_nic_gormlaith_1231.md)
+* [Countess Gormlaith nic Gormlaith of Ui-Mhaine, 1231-, gCais-Gaillimhe](gormlaith_nic_gormlaith_1231.md)
 
 
 ## GREAT-PARENTS 
-* [Eochad mag Abban, 1163-1191, Briain](p/eochad_mag_abban_1163.md)
-* Countess Jagoda, 1148-1211
-* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](p/adomnan_mac_maire_1162.md)
-* [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](p/conchenn_nic_gilla-ruad_1163.md)
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
+* [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
+* [Conchenn nic Gilla-Ruad, 1163-1225, gCais-Cruachu](conchenn_nic_gilla-ruad_1163.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 
 ## SIBLINGS
 

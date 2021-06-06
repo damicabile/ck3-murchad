@@ -39,18 +39,16 @@ Bruatur mac Enguerrand, 1108-1135, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](p/enguerrand_mac_murchad_1081.md)
-* Countess Margrethe, 1085-1127
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
 ## CHILDREN 
-* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](p/cormac_mac_bruatur_1133.md)
+* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
 
 
 ## GREAT-PARENTS 
-* High King Murchad, 1027-1095
-* Adelais de Ponthieu, 1049-1107
-* Prince Harald, 1041-1103
-* Countess Margrete, 1041-1107
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

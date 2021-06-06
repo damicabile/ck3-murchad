@@ -39,17 +39,22 @@ Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain
 # REFERENCES
 
 ## PARENTS 
-* Sinach Briain, 1265-
-* [Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain](p/etain_nig_aindle_1267.md)
+* [Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain](etain_nig_aindle_1267.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [King Lorcan Morienson of England, 1204-1271, Briain](p/lorcan_morienson_1204.md)
-* Countess Narbflaith, 1224-1305
-* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](p/aindle_mac_cuan_1242.md)
-* Elan Fibonacci, 1229-
+* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](aindle_mac_cuan_1242.md)
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
 
 ## SIBLINGS
 

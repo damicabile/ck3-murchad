@@ -39,17 +39,19 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
 # REFERENCES
 
 ## PARENTS 
-* Thane Cainchomrac, 1231-1293
-* Duchess Barrdub, 1228-1270
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Aed mac Narbflaith, 1202-1263, Got](p/aed_mac_narbflaith_1202.md)
-* Tailefhlaith Got, 1207-1273
-* Earl Eoganan, 1193-1260
-* Countess Sioban, 1191-1255
+* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
+* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 
 ## SIBLINGS
 

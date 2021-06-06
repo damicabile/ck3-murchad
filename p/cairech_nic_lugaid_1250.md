@@ -36,18 +36,19 @@ Lady Cairech nic Lugaid of Gwent, 1250-, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](p/lugaid_mac_cacht_1227.md)
-* Lady Elena of Brycheiniog, 1229-
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 
 ## CHILDREN 
-* [Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy](p/coblaith_nic_cairech_1277.md)
+* [Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy](coblaith_nic_cairech_1277.md)
 
 
 ## GREAT-PARENTS 
-* Rhun Caerloyw-Penfro, 1201-1258
-* [Cacht nic Morien, 1201-1255, Briain](p/cacht_nic_morien_1201.md)
-* Niccolo Fibonacci, 1183-1235
-* Mayor Margred, 1189-1244
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
 
 ## SIBLINGS
 

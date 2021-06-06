@@ -39,17 +39,17 @@ Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil
 # REFERENCES
 
 ## PARENTS 
-* [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](p/beorhtric_muirennson_1265.md)
-* Duchess Gisele, 1266-
+* [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](beorhtric_muirennson_1265.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Earl Ernan, 1245-1306
-* Duchess Muirenn, 1245-1283
-* [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
-* Duchess Aine, 1222-1281
+* [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
 
 ## SIBLINGS
 

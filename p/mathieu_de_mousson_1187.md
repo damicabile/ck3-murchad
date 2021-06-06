@@ -23,18 +23,15 @@ High King Mathieu de Mousson of Ireland, 1187-1251, Mousson
 # REFERENCES
 
 ## PARENTS 
-* Renaud de Mousson, 1148-1206
-* Klementia Ezzonen, 1149-1215
 
 ## CHILDREN 
-* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
 
 
 ## GREAT-PARENTS 
-* Ogier de Mousson, 1128-1200
-* Baronesse Ermengarde, 1129-1150
-* Count Kuno, 1123-1187
-* Countess Gertrude, 1121-1181
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

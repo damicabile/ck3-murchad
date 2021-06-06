@@ -33,18 +33,17 @@ Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro
 # REFERENCES
 
 ## PARENTS 
-* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](p/gruffydd_iii_ap_maredudd_1064.md)
-* Iudloguen de Rennes, 1112-1178
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
 ## CHILDREN 
-* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](p/cynwrig_ap_rhufon_1157.md)
-* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](p/pyr_ap_rhufon_1160.md)
+* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](cynwrig_ap_rhufon_1157.md)
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
 
 
 ## GREAT-PARENTS 
-* Duke Morcondeleu I, 1068-1114
-* Countess Proscen, 1069-1138
-* Petty King Maredudd III, 1047-1099
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

@@ -39,25 +39,24 @@ High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## CHILDREN 
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](p/faelan_mac_caindelban_1137.md)
-* [Prince Congalach ab Caindelban of Ireland, 1148-1209, Evans](p/congalach_ab_caindelban_1148.md)
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](p/aibilin_mac_caindelban_1135.md)
-* [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](p/finnacan_mac_caindelban_1161.md)
-* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](p/dinertach_mac_caindelban_1141.md)
-* Princess Sithmaith, 1140-1181
-* Finnacan gCais-Gabhran, 1161-1244
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [Prince Congalach ab Caindelban of Ireland, 1148-1209, Evans](congalach_ab_caindelban_1148.md)
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
+* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
+* [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
+* [Prince Finnacan mac Caindelban of Ireland, 1161-1224, gCais-Gabhran](finnacan_mac_caindelban_1161.md)
 
 
 ## GREAT-PARENTS 
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
-* Duke Gudrod, 1049-1115
-* Princess Ragnhild, 1045-1110
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

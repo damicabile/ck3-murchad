@@ -23,18 +23,15 @@ Duke Haraldr II of the Isles, 1125-1213, Crovan
 # REFERENCES
 
 ## PARENTS 
-* [Duke Haraldr I Gudrodsson of the Isles, 1080-1128, Crovan](p/haraldr_i_gudrodsson_1080.md)
-* Duchess Beitris, 1083-1152
+* [Duke Haraldr I Gudrodsson of the Isles, 1080-1128, Crovan](haraldr_i_gudrodsson_1080.md)
 
 ## CHILDREN 
-* Gunnhildr Crovan, 1153-1192
 
 
 ## GREAT-PARENTS 
-* Duke Gudrod, 1049-1115
-* Princess Ragnhild, 1045-1110
-* Duke Gospatric II, 1063-1129
-* Countess Hywela, 1040-1109
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

@@ -35,19 +35,19 @@ Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc
 # REFERENCES
 
 ## PARENTS 
-* Lord Rodan, 1140-1181
-* Princess Sithmaith, 1140-1181
 
 ## CHILDREN 
-* Lord Augustin, 1196-1224
-* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](p/talorc_ab_aine_1200.md)
+* [Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc](talorc_ab_aine_1200.md)
 
 
 ## GREAT-PARENTS 
-* Petty King Mo-Lua, 1101-1165
-* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](p/nest_ferch_morien_1104.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## SIBLINGS
 

@@ -46,22 +46,23 @@ High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 
 ## CHILDREN 
-* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](p/labraid_mac_gormflaith_1188.md)
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](p/abel_mac_gormflaith_1190.md)
-* Caindelban Briain, 1199-1240
-* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](p/failenn_nic_gormflaith_1193.md)
-* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
+* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
 
 
 ## GREAT-PARENTS 
-* Prince Randolph I, 1108-1149
-* Lerthan Crovan, 1108-1169
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## SIBLINGS
 

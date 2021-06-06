@@ -28,19 +28,20 @@ Duke Niallan Mac Farannan of Powys, 1217-1279, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
-* Cathan, 1187-1248
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 
 ## CHILDREN 
-* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](p/farannan_1239.md)
-* Duke Airmedach, 1261-
-* Thane Cathan, 1258-
-* Duke Airmerdach, 1261-
+* [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
 
 
 ## GREAT-PARENTS 
-* [Aed mag Ite, 1142-1207, Briain](p/aed_mag_ite_1142.md)
-* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](p/ciar_nic_fiachnae_1148.md)
+* [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
+* [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
 ## SIBLINGS
 

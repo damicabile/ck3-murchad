@@ -39,17 +39,20 @@ Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal
 # REFERENCES
 
 ## PARENTS 
-* Duke Airmedach, 1261-
-* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](p/ylva_drifadohtor_1261.md)
+* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](ylva_drifadohtor_1261.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](p/niallan_mac_farannan_1217.md)
-* [Slaine nig Abban, 1220-1282, Briain](p/slaine_nig_abban_1220.md)
-* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](p/thurcytel_saebertson_1228.md)
-* Duchess Drifa, 1228-1282
+* [Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain](thurcytel_saebertson_1228.md)
+* [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
+* [Slaine nig Abban, 1220-1282, Briain](slaine_nig_abban_1220.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
+* [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 
 ## SIBLINGS
 

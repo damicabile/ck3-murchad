@@ -39,19 +39,21 @@ Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## CHILDREN 
-* [Dimmasach mac Dinertach, 1173-1243, Got](p/dimmasach_mac_dinertach_1173.md)
-* [Cu-Bretan mac Dinertach, 1161-1232, Got](p/cu-bretan_mac_dinertach_1161.md)
+* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
 
 
 ## GREAT-PARENTS 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
-* Domnall ua Neill Noigiallaich, 1069-1120
-* Rois Neill, 1071-1145
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

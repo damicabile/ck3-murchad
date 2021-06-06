@@ -21,17 +21,15 @@ Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro
 # REFERENCES
 
 ## PARENTS 
-* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](p/gruffydd_iii_ap_maredudd_1064.md)
-* Petty Queen Nest, 1065-1124
+* [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
 ## CHILDREN 
-* Lord Riaged, 1126-1181
 
 
 ## GREAT-PARENTS 
-* Iestyn Morgannwg, 1045-1112
-* Angharad, 1045-1066
-* Petty King Maredudd III, 1047-1099
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

@@ -36,20 +36,21 @@ Aed mag Ite, 1142-1207, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](p/cathnio_mac_cathan_1108.md)
-* Countess Ite, 1111-1171
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
 ## CHILDREN 
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](p/farannan_mac_ciar_1179.md)
-* Narbflaith Briain, 1173-1242
-* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](p/bhatair_mac_ciar_1167.md)
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
+* [Duke Bhatair mac Ciar of Ulster, 1167-1239, Briain](bhatair_mac_ciar_1167.md)
 
 
 ## GREAT-PARENTS 
-* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](p/aed_mac_domnall_1078.md)
-* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](p/cathan_nic_brian_1078.md)
-* Wigebert von der Lippe, 1064-1125
-* Gormflaith Briain, 1071-1133
+* [Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich](aed_mac_domnall_1078.md)
+* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

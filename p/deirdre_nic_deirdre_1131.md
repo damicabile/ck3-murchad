@@ -36,18 +36,16 @@ Deirdre nic Deirdre, 1131-1196, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* Loup de Saulx, 1105-1167
-* Deirdre gCais-Inis, 1101-1155
 
 ## CHILDREN 
-* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](p/ben-ulad_nic_deirdre_1152.md)
+* [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](ben-ulad_nic_deirdre_1152.md)
 
 
 ## GREAT-PARENTS 
-* Renaud de Saulx, 1065-1136
-* Beatrix de Bray, 1066-1128
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](p/enguerrand_mac_murchad_1081.md)
-* Finnguala, 1064-1116
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

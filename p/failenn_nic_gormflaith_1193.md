@@ -39,19 +39,21 @@ Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Starkad Ulfsson Slatte, 1170-1209, Slatte](p/starkad_ulfsson_1170.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
 ## CHILDREN 
-* [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](p/cilline_mac_failenn_1215.md)
-* [Duke Liam II of Northumbria, 1214-1271, Briain](p/liam_ii_1214.md)
+* [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](cilline_mac_failenn_1215.md)
+* [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
 
 
 ## GREAT-PARENTS 
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
-* Ulf Slatte, 1152-1176
-* Blahomira z Vickova, 1152-1209
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## SIBLINGS
 

@@ -43,16 +43,18 @@ Duchess Ermessinde of East Anglia, 1264-, Adelsward
 # REFERENCES
 
 ## PARENTS 
-* [Duke Ewan of East Anglia, 1232-1298, Briain](p/ewan_1232.md)
-* Duchess Aine, 1222-1281
+* [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
 
 ## CHILDREN 
-* [Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain](p/wulfgifu_ermessindedohtor_1282.md)
+* [Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain](wulfgifu_ermessindedohtor_1282.md)
 
 
 ## GREAT-PARENTS 
-* [Duke Liam II of Northumbria, 1214-1271, Briain](p/liam_ii_1214.md)
-* Duchess Peironela, 1213-
+* [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)
 
 ## SIBLINGS
 

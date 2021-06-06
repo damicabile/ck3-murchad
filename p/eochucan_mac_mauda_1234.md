@@ -40,17 +40,21 @@ Duke Eochucan mac Mauda of Lancaster, 1234-1269, Briain
 # REFERENCES
 
 ## PARENTS 
-* Savary de Cognac, 1199-1259
-* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](p/mauda_nic_morien_1199.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
-* [Morien nic Finneacht, 1183-1251, Llewellyn](p/morien_nic_finneacht_1183.md)
-* Onfroy de Cognac, 1172-1233
-* Aleta Griphuvud, 1175-1244
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 
 ## SIBLINGS
 

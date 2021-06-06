@@ -41,19 +41,19 @@ Duke Thurcytel Saeberston of Mercia, 1228-1287, Briain
 # REFERENCES
 
 ## PARENTS 
-* Earl Saebert, 1203-1261
-* Maire Brunonen, 1200-1268
 
 ## CHILDREN 
-* [Duke Sverrir Drifason of Champagne, 1272-, Hagalin](p/sverrir_drifason_1272.md)
-* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](p/ylva_drifadohtor_1261.md)
+* [Court Chaplain Skjaldvor Drifadohtor of Gwynedd, 1267-, Hagalin](skjaldvor_drifadohtor_1267.md)
+* [Duke Sverrir Drifason of Champagne, 1272-, Hagalin](sverrir_drifason_1272.md)
+* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](ylva_drifadohtor_1261.md)
 
 
 ## GREAT-PARENTS 
-* [Harold Mael-Ciarainson, 1176-1237, Briain](p/harald_mael-ciarainson_1176.md)
-* Caitilin ua Laidhgnen, 1175-1203
-* Ekbert Brunonen, 1176-1234
-* Narbflaith gCais-Gaillimhe, 1175-1231
+* [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
 
 ## SIBLINGS
 

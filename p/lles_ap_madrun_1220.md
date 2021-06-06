@@ -40,17 +40,20 @@ Lord Lles ap Madrun of Merionnydd, 1220-1272, Ynys Cybi
 # REFERENCES
 
 ## PARENTS 
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](p/cuhelyn_ap_gwerfyl_1201.md)
-* Lady Madrun, 1185-1253
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Elidyr Caerloyw-Tyddewi, 1168-1229
-* Heulwen Morgannwg, 1160-1233
-* Duke LLes, 1134-1202
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
+* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
+* [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
+* [Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro](gruffydd_ap_maredudd_1116.md)
 
 ## SIBLINGS
 

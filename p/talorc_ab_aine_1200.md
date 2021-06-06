@@ -39,18 +39,19 @@ Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc
 # REFERENCES
 
 ## PARENTS 
-* Slebine gCais-Cruachu, 1175-1236
-* [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](p/aine_ferch_sithmaith_1169.md)
+* [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](aine_ferch_sithmaith_1169.md)
 
 ## CHILDREN 
-* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](p/clydog_ap_talorc_1227.md)
+* [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 
 
 ## GREAT-PARENTS 
-* Lord Rodan, 1140-1181
-* Princess Sithmaith, 1140-1181
-* Rigan gCais-Cruachu, 1150-1207
-* Mairgred Briain, 1153-124
+
+
+## GREAT-GREAT-PARENTS 
+* [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 
 ## SIBLINGS
 

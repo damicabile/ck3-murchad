@@ -39,16 +39,16 @@ Earl Aelfstan Aedson of Macon, 1279-, Got
 # REFERENCES
 
 ## PARENTS 
-* [Earl Aed Barrdubson of West Riding, 1261-, Got](p/aed_barrdubson_1261.md)
-* Geneviva d'Aubusson, 1259-
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Thane Cainchomrac, 1231-1293
-* Duchess Barrdub, 1228-1270
-* Reeve Ana, 1231-1289
+
+
+## GREAT-GREAT-PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
 
 ## SIBLINGS
 

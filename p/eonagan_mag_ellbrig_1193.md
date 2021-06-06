@@ -39,18 +39,26 @@ Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](p/ailpin_mac_mael-muire_1158.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](p/ellbrig_nig_aileann_1155.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 
 ## CHILDREN 
-* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](p/ailpin_mac_sinech_1257.md)
+* [Duke Ailpin mac Sinech of Deira, 1257-1269, gCais-Inis](ailpin_mac_sinech_1257.md)
 
 
 ## GREAT-PARENTS 
-* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](p/aelfmaer_mag_osraed_1128.md)
-* [Aileann nic Cobflaith, 1128-1184, Briain](p/aileann_nic_cobflaith_1128.md)
-* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](p/cormac_mac_bruatur_1133.md)
-* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](p/mael-muire_nig_ailpin_1125.md)
+* [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
+* [Countess Mael-Muire nig Ailpin of Briefne, 1125-1195, gCais-Fathain](mael-muire_nig_ailpin_1125.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
+* [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
+* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](ailpin_mac_donnchad_1101.md)
 
 ## SIBLINGS
 

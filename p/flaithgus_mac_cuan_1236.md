@@ -40,19 +40,22 @@ Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](p/cuan_mac_gormflaith_1216.md)
-* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](p/mahaut_of_hwicce_1217.md)
+* [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
+* [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
 
 ## CHILDREN 
-* [Duke Muirchertach mac Cairech of Gwynedd, 1272-, Briain](p/muirchertach_mac_cairech_1272.md)
-* [Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain](p/mauda_nic_cairech_1255.md)
+* [Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain](mauda_nic_cairech_1255.md)
+* [Duke Muirchertach mac Cairech of Gwynedd, 1272-, Briain](muirchertach_mac_cairech_1272.md)
 
 
 ## GREAT-PARENTS 
-* [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](p/mathieu_de_mousson_1187.md)
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
-* Duke Robert I, 1179-1249
-* Duchess Constance, 1178-1241
+* [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](mathieu_de_mousson_1187.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 
 ## SIBLINGS
 

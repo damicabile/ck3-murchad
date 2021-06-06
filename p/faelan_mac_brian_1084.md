@@ -29,20 +29,20 @@ High King Faelan mac Brian of Ireland, 1084-1136, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## CHILDREN 
-* [Duke Conmal mac Faelan of Ulster, 1122-1188, Briain](p/conmal_mac_faelan_1122.md)
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](p/fiachnae_mac_faelan_1125.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
+* [Duke Conmal mac Faelan of Ulster, 1122-1188, Briain](conmal_mac_faelan_1122.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 
 
 ## GREAT-PARENTS 
-* High King Murchad, 1027-1095
-* Petty King Bleddyn, 1025-1086
-* Branwen Nwrcelyn, 1025-1052
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

@@ -24,20 +24,17 @@ High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford
 # REFERENCES
 
 ## PARENTS 
-* Prince Randolph I, 1108-1149
-* Lerthan Crovan, 1108-1169
 
 ## CHILDREN 
-* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](p/gormflaith_nic_caindelban_1171.md)
-* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](p/flaitheman_nic_caindelban_1175.md)
-* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](p/loeguire_mac_caindelban_1182.md)
+* [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](flaitheman_nic_caindelban_1175.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
 
 ## GREAT-PARENTS 
-* Dimmasach Crovan, 1074-1116
-* Duchess Sybilla, 1081-1115
-* King Richard, 1055-1113
-* Duchess Octreda, 1091-1108
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

@@ -17,6 +17,7 @@
 - [Aethelberht Tailefhlaithson](p/aethelberht_tailefhlaithson_1274.md) (1274-), *Earl of Buccingahamm, Got*
 - [Aethelburg Giseledohtor](p/aethelburg_giseledohtor_1283.md) (1283-), *Countess of Worcestershire, Kiil*
 - [Aethelburh](p/aethelburh_1285.md) (1285-), *Countess of Alencon, Briain*
+- [Aethelflaed](p/aethelflaed_1259.md) (1259-), *Countess of Saumur, Hampshire*
 - [Aibilin mac Caindelban](p/aibilin_mac_caindelban_1135.md) (1135-1203), *Princess of Ireland, Briain*
 - [Aileann nic Cobflaith](p/aileann_nic_cobflaith_1128.md) (1128-1184)*, Briain*
 - [Ailpin mac Mael-Muire](p/ailpin_mac_mael-muire_1158.md) (1158-1222), *Earl of Briefne, gCais-Inis*
@@ -53,6 +54,7 @@
 - [Cathan nic Brian](p/cathan_nic_brian_1078.md) (1078-1144), *Countess of Ennis, Briain*
 - [Cathnio mac Cathan](p/cathnio_mac_cathan_1108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Catriona nic Bruatur](p/catriona_nic_bruatur_1261.md) (1261-), *Lady of Ceredigion, Llewellyn*
+- [Cecco](p/cecco_1265.md) (1265-), *Count of Maine, Canossa*
 - [Cenwulf](p/cenwulf_1309.md) (1309-), *Earl of Valois, Senlis*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215-1282), *Duke of Connacht, Briain*
@@ -118,6 +120,7 @@
 - [Flaitheman nic Caindelban](p/flaitheman_nic_caindelban_1175.md) (1175-1237), *Prince of Ireland, Briain*
 - [Flaithgus mac Cuan](p/flaithgus_mac_cuan_1236.md) (1236-1299), *Petty King of Deheubarth, Briain*
 - [Flanchad](p/flanchad_1231.md) (1231-1299), *Earl of Lincolnshire,  Michael*
+- [Flann Saerlaithdohtor](p/flann_saerlaithdohtor_1265.md) (1265-), *Lady of Merionnydd, gCais-Harlech*
 - [Flann nig Olav](p/flann_nig_olav_1097.md) (1097-1161), *Countess of Ui Mhaine, Vedrafjord*
 - [Fuacarta](p/fuacarta_1283.md) (1283-), *Duke of Anjou, gCais-Sherwood*
 - [Fuacarta mac Ben-Muman](p/fuacarta_mac_ben-muman_1212.md) (1212-1267), *Earl of Leicestershire, Briain*
@@ -199,6 +202,7 @@
 - [Senchan mac Somhairle](p/senchan_mac_somhairle_1188.md) (1188-1255), *King of Wales, gCais-Tegeingl*
 - [Seoan](p/seoan_1261.md) (1261-), *Count of Guines, Briain*
 - [Sion ab Augustin](p/sion_ab_augustin_1224.md) (1224-1232), *Lord of Eryri, Ruairc*
+- [Skjaldvor Drifadohtor](p/skjaldvor_drifadohtor_1267.md) (1267-), *Court Chaplain of Gwynedd, Hagalin*
 - [Slaine Eithnedohtor](p/slaine_eithnedohtor_1268.md) (1268-), *Duchess of Powys, gCais-Mathrafal*
 - [Slaine nic Caindelban](p/slaine_nic_caindelban_1212.md) (1212-1229), *High Queen of Ireland, Briain*
 - [Slaine nig Abban](p/slaine_nig_abban_1220.md) (1220-1282), *Briain*

@@ -39,17 +39,14 @@ Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll
 # REFERENCES
 
 ## PARENTS 
-* Petty King Gruffydd I, 1003-1063
-* Aeldgyth of Hwicce, 1036-1087
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Aelfgar of Hwicce, 1019-1062
-* Aelgifu, 1020-1086
-* Petty King Llywelyn, 978-1023
-* Angharad Dinefwr, 978-1025
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

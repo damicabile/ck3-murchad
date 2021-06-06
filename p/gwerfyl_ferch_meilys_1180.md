@@ -40,19 +40,20 @@ Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi
 # REFERENCES
 
 ## PARENTS 
-* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](p/meilys_ii_ab_owain_1163.md)
-* [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
+* [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
+* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
 
 ## CHILDREN 
-* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](p/cuhelyn_ap_gwerfyl_1201.md)
-* Lady Denis, 1197-1236
+* [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 
 
 ## GREAT-PARENTS 
-* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](p/faelan_mac_caindelban_1137.md)
-* Countess Agnes, 1137-1197
-* Duke Owain II, 1139-1166
-* Agata de Lacon, 1137-1207
+* [Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain](faelan_mac_caindelban_1137.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
 
 ## SIBLINGS
 

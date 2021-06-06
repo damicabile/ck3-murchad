@@ -40,15 +40,16 @@ Count Seoan of Guines, 1261-, Briain
 # REFERENCES
 
 ## PARENTS 
-* Sebastiaen van Bergh, 1217-1288
-* Tuathflaith Briain, 1240-
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Caindelban Briain, 1199-1240
-* Wiltrud Nordheim-Obervellach, 1199-1263
+
+
+## GREAT-GREAT-PARENTS 
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
 ## SIBLINGS
 

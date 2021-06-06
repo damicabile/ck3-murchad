@@ -23,18 +23,17 @@ Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi
 # REFERENCES
 
 ## PARENTS 
-* Duke Owain II, 1139-1166
-* Agata de Lacon, 1137-1207
 
 ## CHILDREN 
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](p/gwerfyl_ferch_meilys_1180.md)
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 
 
 ## GREAT-PARENTS 
-* Filipu de Lacon, 1092-1158
-* Aelfswith Aelfricson, 1118-1173
-* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](p/meilys_i_ap_rhiwallon_1110.md)
-* Duchess Eylo, 1113-1159
+* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 
 ## SIBLINGS
 

@@ -35,17 +35,17 @@ Duke Erc mac Cathan of Cornwall, 1264-, Briain
 # REFERENCES
 
 ## PARENTS 
-* Duke Gerdautas, 1240-1302
-* [Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain](p/cathan_cathandohtor_1247.md)
+* [Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain](cathan_cathandohtor_1247.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Godschalk Limburg-Falkenstein, 1220-1282
-* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](p/cathan_abeldohtor_1218.md)
-* Nomedas is Nadruva, 1195-1256
-* Hedwig von Abensberg, 1201-1258
+* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
 
 ## SIBLINGS
 

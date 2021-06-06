@@ -31,19 +31,22 @@ Aileann nic Cobflaith, 1128-1184, Briain
 # REFERENCES
 
 ## PARENTS 
-* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](p/udalschalk_mag_eilika_1096.md)
-* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](p/cobflaith_nic_faelan_1101.md)
+* [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
+* [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 
 ## CHILDREN 
-* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](p/udalschalk_mag_aileann_1145.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](p/ellbrig_nig_aileann_1155.md)
+* [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 
 
 ## GREAT-PARENTS 
-* Serene Doge Luchino, 1042-1099
-* Eilika von Cilli, 1050-1106
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

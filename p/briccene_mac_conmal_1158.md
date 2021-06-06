@@ -40,18 +40,19 @@ Briccene mac Conmal, 1158-1209, gCais-Padraig
 # REFERENCES
 
 ## PARENTS 
-* [Duke Conmal mac Faelan of Ulster, 1122-1188, Briain](p/conmal_mac_faelan_1122.md)
-* Duchess Prawst, 1117-1188
+* [Duke Conmal mac Faelan of Ulster, 1122-1188, Briain](conmal_mac_faelan_1122.md)
 
 ## CHILDREN 
-* Countess Sioban, 1191-1255
 
 
 ## GREAT-PARENTS 
-* Lord Cadfan, 1096-1123
-* Estefania de Barcelona, 1075-1133
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

@@ -27,15 +27,17 @@ Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy
 # REFERENCES
 
 ## PARENTS 
-* Pasgen Llyn, 1238-1279
-* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](p/cairech_nic_lugaid_1250.md)
+* [Lady Cairech nic Lugaid of Gwent, 1250-, Briain](cairech_nic_lugaid_1250.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](p/lugaid_mac_cacht_1227.md)
-* Lady Elena of Brycheiniog, 1229-
+* [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
 
 ## SIBLINGS
 

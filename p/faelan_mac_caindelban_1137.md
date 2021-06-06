@@ -40,19 +40,20 @@ Prince Faelan mac Caindelban of Ireland, 1137-1173, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## CHILDREN 
-* [Lathir nic Faelan, 1162-1231, Briain](p/lathir_nic_faelan_1162.md)
-* Coblaith is Nadruva, 1171-1240
+* [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
 
 
 ## GREAT-PARENTS 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Elisabet Gudrodsdatter, 1083-1148, Crovan](p/elisabet_gudrodsdatter_1083.md)
-* Domnall ua Neill Noigiallaich, 1069-1120
-* Rois Neill, 1071-1145
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## SIBLINGS
 

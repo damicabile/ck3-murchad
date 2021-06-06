@@ -39,18 +39,15 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
 # REFERENCES
 
 ## PARENTS 
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](p/enguerrand_mac_murchad_1081.md)
-* Countess Margrethe, 1085-1127
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
 ## CHILDREN 
-* Sean gCais-Inis, 1134-1205
 
 
 ## GREAT-PARENTS 
-* High King Murchad, 1027-1095
-* Adelais de Ponthieu, 1049-1107
-* Prince Harald, 1041-1103
-* Countess Margrete, 1041-1107
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

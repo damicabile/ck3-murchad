@@ -23,17 +23,15 @@ Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain
 # REFERENCES
 
 ## PARENTS 
-* High King Murchad, 1027-1095
-* Adelais de Ponthieu, 1049-1107
 
 ## CHILDREN 
-* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](p/ailpin_mac_donnchad_1101.md)
+* [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](ailpin_mac_donnchad_1101.md)
 
 
 ## GREAT-PARENTS 
-* Donnchad Briain, 990-1065
-* Enguerrand de Ponthieu, 1026-1053
-* Adelaide de Normandie, 1029-1084
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

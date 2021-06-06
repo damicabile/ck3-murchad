@@ -29,17 +29,17 @@ Countess Cathan nic Brian of Ennis, 1078-1144, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](p/brian_ii_mac_murchad_1048.md)
-* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](p/hunydd_ferch_bleddyn_1042.md)
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
 
 ## CHILDREN 
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](p/cathnio_mac_cathan_1108.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
 
 ## GREAT-PARENTS 
-* High King Murchad, 1027-1095
-* Petty King Bleddyn, 1025-1086
-* Branwen Nwrcelyn, 1025-1052
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

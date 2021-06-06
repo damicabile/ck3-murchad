@@ -19,17 +19,16 @@ Hunydd ferch Bleddyn, 1042-1099, Mathrafal
 # REFERENCES
 
 ## PARENTS 
-* Petty King Bleddyn, 1025-1086
-* Branwen Nwrcelyn, 1025-1052
 
 ## CHILDREN 
-* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](p/faelan_mac_brian_1084.md)
-* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](p/cathan_nic_brian_1078.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
 
 
 ## GREAT-PARENTS 
-* Cynfyn Mathrafal, 978-1025
-* Angharad Dinefwr, 978-1025
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

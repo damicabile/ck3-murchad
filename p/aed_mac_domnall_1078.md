@@ -35,15 +35,15 @@ Earl Aed mac Domnall of Ennis, 1078-1147, Neill Noigiallaich
 # REFERENCES
 
 ## PARENTS 
-* Earl Domnall, 1027-1098
-* Lasairfiona, 1057-1112
 
 ## CHILDREN 
-* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](p/cathnio_mac_cathan_1108.md)
+* [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
 
 ## GREAT-PARENTS 
-* Earl Aed, 1006-1033
+
+
+## GREAT-GREAT-PARENTS 
 
 ## SIBLINGS
 

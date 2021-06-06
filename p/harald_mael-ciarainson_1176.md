@@ -41,18 +41,16 @@ Harold Mael-Ciarainson, 1176-1237, Briain
 # REFERENCES
 
 ## PARENTS 
-* Mael-Ciarain Briain, 1153-1227
-* Barbara Chatenois-Neufchateau, 1152-1220
 
 ## CHILDREN 
-* Earl Saebert, 1203-1261
 
 
 ## GREAT-PARENTS 
-* Jacques Wigeriche, 1133-1171
-* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](p/aibilin_mac_caindelban_1135.md)
-* Count Karl, 1134-1196
-* Gertrude Ezzonen, 1126-1173
+* [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 
 ## SIBLINGS
 

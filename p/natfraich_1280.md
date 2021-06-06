@@ -39,17 +39,21 @@ Duke Natfraich of Bar, 1280-, Cathasaigh
 # REFERENCES
 
 ## PARENTS 
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](p/humbert_mac_muirenn_1258.md)
-* Countess Muirenn, 1262-
+* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](p/natfraich_mac_morien_1218.md)
-* Saerlaith, 1227-1286
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](p/natfraich_mag_aine_1224.md)
-* Duchess Morien I, 1226-1295
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 
 ## SIBLINGS
 

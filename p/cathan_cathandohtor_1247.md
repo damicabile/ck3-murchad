@@ -39,19 +39,21 @@ Duchess Cathan Cathandohtor of Cornwall, 1247-1308, Briain
 # REFERENCES
 
 ## PARENTS 
-* Godschalk Limburg-Falkenstein, 1220-1282
-* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](p/cathan_abeldohtor_1218.md)
+* [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
 
 ## CHILDREN 
-* [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](p/cathan_cathandohtor_1270.md)
-* [Duke Erc mac Cathan of Cornwall, 1264-, Briain](p/erc_mac_cathan_1264.md)
+* [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](cathan_cathandohtor_1270.md)
+* [Duke Erc mac Cathan of Cornwall, 1264-, Briain](erc_mac_cathan_1264.md)
 
 
 ## GREAT-PARENTS 
-* Count Meinhard, 1178-1258
-* Countess Gebirg, 1175-1242
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](p/abel_mac_gormflaith_1190.md)
-* Annwyl Caerloyw-Penfro, 1187-1247
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
+* [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
 ## SIBLINGS
 

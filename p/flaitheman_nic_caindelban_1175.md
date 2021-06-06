@@ -40,19 +40,20 @@ Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 # REFERENCES
 
 ## PARENTS 
-* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](p/caindelban_ii_mac_caindelban_1147.md)
-* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](p/constance_randolph_1144.md)
+* [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
+* [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
 
 ## CHILDREN 
-* [Muiredach mac Flaitheman, 1216-1281, Briain](p/muiredach_mac_flaitheman_1216.md)
-* Earl Mael-Ruanaid, 1220-1262
+* [Muiredach mac Flaitheman, 1216-1281, Briain](muiredach_mac_flaitheman_1216.md)
 
 
 ## GREAT-PARENTS 
-* Prince Randolph I, 1108-1149
-* Lerthan Crovan, 1108-1169
-* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](p/caindelban_i_mac_faelan_1114.md)
-* High Queen Flann, 1117-1172
+* [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
+
+
+## GREAT-GREAT-PARENTS 
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
 ## SIBLINGS
 

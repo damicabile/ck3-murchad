@@ -39,15 +39,16 @@ Earl Kjartan of Angus, 1274-, Braghde
 # REFERENCES
 
 ## PARENTS 
-* [Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain](p/lethlobur_mag_euginia_1241.md)
-* Countess Constance, 1240-1292
+* [Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain](lethlobur_mag_euginia_1241.md)
 
 ## CHILDREN 
 
 
 ## GREAT-PARENTS 
-* Dobieslaw Piast-Sieradz, 1212-1279
-* Baroness Euginia, 1213-1273
+
+
+## GREAT-GREAT-PARENTS 
+* [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
 
 ## SIBLINGS
 
