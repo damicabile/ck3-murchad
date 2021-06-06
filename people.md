@@ -215,6 +215,7 @@
 - [Sybilla](p/sybilla_1248.md) (1248-), *Court Chaplain, Clare*
 - [Tadg Barrdubson](p/tadg_barrdubson_1257.md) (1257-), *Duke of Deira, Got*
 - [Tailefhlaith Barrdubdohtor](p/tailefhlaith_barrdubdohtor_1252.md) (1252-), *Countess of Breifne,  Got*
+- [Tailefhlaith Tailefhlaithdohtor](p/tailefhlaith_tailefhlaithdohtor_1272.md) (1272-), *Countess of Sens, Got*
 - [Taithlech mac Senchan](p/taithlech_mac_senchan_1243.md) (1243-), *King of Wales, gCais-Tegeingl*
 - [Talorc ab Aine](p/talorc_ab_aine_1200.md) (1200-1271), *Lord of Ynys Mon, Ruairc*
 - [Thurcytel Saeberston](p/thurcytel_saebertson_1228.md) (1228-1287), *Duke of Mercia, Briain*
