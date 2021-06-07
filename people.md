@@ -58,6 +58,7 @@
 - [Cenwulf](p/cenwulf_1309.md) (1309-), *Earl of Valois, Senlis*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215-1282), *Duke of Connacht, Briain*
+- [Cinhoedl ab Sulian](p/cinhoedl_ab_sulian_1259.md) (1259-1301), *Earl of Cornwall, Normandie-Tintagel*
 - [Clydog ap Talorc](p/clydog_ap_talorc_1227.md) (1227-1297), *Lord of Ynys Mon, Ruairc*
 - [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-1283), *Lady of Ferlix, Briain*
 - [Cobflaith nic Faelan](p/cobflaith_nic_faelan_1101.md) (1101-1176), *Countess of Ceredigion, Briain*
@@ -210,6 +211,7 @@
 - [Sorcha ferch Finneacht](p/sorcha_ferch_finneacht_1172.md) (1172-1235), *Queen of Wales, Llewellyn*
 - [Starkad Ulfsson Slatte](p/starkad_ulfsson_1170.md) (1170-1209), *Slatte*
 - [Stephania Baethinedohtor](p/stephania_baethinedohtor_1276.md) (1276-1306), *Princess of England, Briain*
+- [Sulian ab Cinhoedl](p/sulian_ab_cinhoedl_1280.md) (1280-), *Earl of Cornwall, Normandie-Tintagel*
 - [Sverrir Drifason](p/sverrir_drifason_1272.md) (1272-), *Duke of Champagne, Hagalin*
 - [Swietoslawa](p/swietoslawa_1259.md) (1259-), *Countess of Amiens, Olesnicy*
 - [Sybilla](p/sybilla_1248.md) (1248-), *Court Chaplain, Clare*
