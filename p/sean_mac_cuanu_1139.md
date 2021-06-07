@@ -37,17 +37,14 @@ Sean mac Cuanu, 1139-1209, Laighin
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

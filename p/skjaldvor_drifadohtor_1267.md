@@ -43,16 +43,15 @@ Court Chaplain Skjaldvor Drifadohtor of Gwynedd, 1267-, Hagalin
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Harold Mael-Ciarainson, 1176-1237, Briain](harald_mael-ciarainson_1176.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duke Sverrir Drifason of Champagne, 1272-, Hagalin](sverrir_drifason_1272.md)
+* [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](ylva_drifadohtor_1261.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

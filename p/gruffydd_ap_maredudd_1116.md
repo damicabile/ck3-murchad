@@ -42,16 +42,13 @@ Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 

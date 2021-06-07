@@ -44,21 +44,19 @@ Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
+* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
 * [Slaine nig Abban, 1220-1282, Briain](slaine_nig_abban_1220.md)
-* [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
-
 
 ## GREAT-GREAT-PARENTS 
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 

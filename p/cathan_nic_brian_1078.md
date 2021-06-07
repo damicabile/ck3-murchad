@@ -35,15 +35,14 @@ Countess Cathan nic Brian of Ennis, 1078-1144, Briain
 ## CHILDREN 
 * [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Earl Sean mac Brian of Oriel, 1101-1135, Laighin](sean_mac_brian_1101.md)
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)

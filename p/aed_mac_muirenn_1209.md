@@ -44,21 +44,18 @@ Aed mac Muirenn, 1209-1281, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
+* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-* [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
-
 
 ## GREAT-GREAT-PARENTS 
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Earl Cathnio mac Cathan of Ennis, 1108-1171, Briain](cathnio_mac_cathan_1108.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

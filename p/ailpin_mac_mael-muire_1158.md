@@ -45,19 +45,16 @@ Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis
 ## CHILDREN 
 * [Earl Eonagan mag Ellbrig of Briefne, 1193-1260, gCais-Inis](eonagan_mag_ellbrig_1193.md)
 
-
 ## GREAT-PARENTS 
-* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
 * [Earl Ailpin mac Donnchad of Ailech, 1101-1136, gCais-Fathain](ailpin_mac_donnchad_1101.md)
-
+* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
 
 ## GREAT-GREAT-PARENTS 
-* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 * [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
-
+* [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1209.md](../h/1209.md)
 * [1227.md](../h/1227.md)

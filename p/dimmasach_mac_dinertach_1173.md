@@ -45,18 +45,16 @@ Dimmasach mac Dinertach, 1173-1243, Got
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 * [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
 
-
 ## GREAT-PARENTS 
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
+ 
 ## HISTORY
 
 #### END REFERENCES

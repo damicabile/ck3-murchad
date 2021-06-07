@@ -26,15 +26,12 @@ Martha Kyle, 1210-1279, Kyle
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 
 #### END REFERENCES

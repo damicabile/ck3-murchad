@@ -34,16 +34,13 @@ Lord Sion ab Augustin of Eryri, 1224-1232, Ruairc
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](aine_ferch_sithmaith_1169.md)
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1227.md](../h/1227.md)
 

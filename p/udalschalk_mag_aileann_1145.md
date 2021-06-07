@@ -46,20 +46,18 @@ Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe
 ## CHILDREN 
 * [Earl Adomnan mac Maire of Ui Mhaine, 1162-1219, gCais-Gaillimhe](adomnan_mac_maire_1162.md)
 
-
 ## GREAT-PARENTS 
 * [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord](flann_nig_olav_1097.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
+ 
 ## HISTORY
 * [1186.md](../h/1186.md)
 * [1186_2.md](../h/1186_2.md)

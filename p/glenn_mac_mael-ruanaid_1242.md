@@ -41,21 +41,18 @@ Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain
 ## PARENTS 
 
 ## CHILDREN 
-* [Duchess Gruoch nic Glenn of Munster, 1273-, Braenain](gruoch_nic_glenn_1273.md)
 * [Countess Morag of Dunbar, 1274-, Briain](morag_1274.md)
-
+* [Duchess Gruoch nic Glenn of Munster, 1273-, Braenain](gruoch_nic_glenn_1273.md)
 
 ## GREAT-PARENTS 
 * [Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain](flaitheman_nic_caindelban_1175.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

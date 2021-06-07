@@ -43,18 +43,16 @@ Cu-Bretan mac Dinertach, 1161-1232, Got
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
+ 
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

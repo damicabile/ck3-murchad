@@ -38,21 +38,18 @@ Countess Aethelburh of Alencon, 1285-, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Niallan Mac Farannan of Powys, 1217-1279, Briain](niallan_mac_farannan_1217.md)
 * [Slaine nig Abban, 1220-1282, Briain](slaine_nig_abban_1220.md)
 * [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
 
-
 ## GREAT-GREAT-PARENTS 
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

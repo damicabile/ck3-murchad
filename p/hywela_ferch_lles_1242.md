@@ -38,17 +38,14 @@ Lady Hywela ferch Lles of Merionnydd, 1242-, Ynys Cybi
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Lord Cuhelyn ap Gwerfyl of Merionnydd, 1201-1263, Ynys Cybi](cuhelyn_ap_gwerfyl_1201.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

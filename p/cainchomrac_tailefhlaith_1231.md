@@ -45,20 +45,17 @@ Duke Cainchomrac mac Tailefhlaith of Kent, 1231-1293, Got
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
 * [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
 * [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 

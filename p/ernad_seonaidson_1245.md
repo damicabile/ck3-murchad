@@ -30,18 +30,15 @@ Earl Ernad Seonaidson of Warwickshire, 1245-1306, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

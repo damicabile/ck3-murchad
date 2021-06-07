@@ -38,17 +38,14 @@ Lady Flann Saerlaithdohtor of Merionnydd, 1265-, gCais-Harlech
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

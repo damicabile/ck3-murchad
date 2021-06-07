@@ -41,15 +41,12 @@ Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles
 * [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
 * [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1167.md](../h/1167.md)
 

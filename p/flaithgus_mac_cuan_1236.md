@@ -44,22 +44,22 @@ Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain
 * [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
 
 ## CHILDREN 
-* [Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain](mauda_nic_cairech_1255.md)
 * [Duke Muirchertach mac Cairech of Gwynedd, 1272-, Briain](muirchertach_mac_cairech_1272.md)
-
+* [Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain](mauda_nic_cairech_1255.md)
 
 ## GREAT-PARENTS 
 * [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](mathieu_de_mousson_1187.md)
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain](aindle_mac_cuan_1242.md)
+* [Earl Cuan mac Cuan of Derby, 1245-, Briain](cuan_mac_cuan_1245.md)
+* [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](buaidbeo_mac_cuan_1247.md)
+ 
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

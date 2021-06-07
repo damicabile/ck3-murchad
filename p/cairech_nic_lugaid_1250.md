@@ -41,18 +41,15 @@ Lady Cairech nic Lugaid of Gwent, 1250-, Briain
 ## CHILDREN 
 * [Count Coblaith nic Cairech of Vermandois, 1277-, gCais-Trefynwy](coblaith_nic_cairech_1277.md)
 
-
 ## GREAT-PARENTS 
 * [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
 * [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

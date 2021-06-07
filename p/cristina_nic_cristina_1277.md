@@ -43,20 +43,18 @@ Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 * [Duke Cilline mac Failenn of Connacht, 1215-1282, Briain](cilline_mac_failenn_1215.md)
-
+* [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 
 ## GREAT-GREAT-PARENTS 
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 * [Princess Failenn nic Gormflaith of Ireland, 1193-1266, Briain](failenn_nic_gormflaith_1193.md)
 * [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
-* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duke Natfraich of Bar, 1280-, Cathasaigh](natfraich_1280.md)
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 

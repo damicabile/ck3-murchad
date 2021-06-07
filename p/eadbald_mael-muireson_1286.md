@@ -43,20 +43,17 @@ Duke Eadbald Mael-Muireson of Poitou, 1286-, hEochadha
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](buaidbeo_mac_cuan_1247.md)
 
-
 ## GREAT-GREAT-PARENTS 
-* [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
 * [Duke Canannan mac Fiachnae of Ulster, 1219-1266, Briain](canannan_mac_fiachnae_1219.md)
 * [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
 * [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
-
+* [Princess Caintigern Abeldohtor of Ireland, 1215-1279, Briain](caintigern_abeldohtor_1215.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

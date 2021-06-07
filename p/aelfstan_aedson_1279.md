@@ -43,16 +43,13 @@ Earl Aelfstan Aedson of Macon, 1279-, Got
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

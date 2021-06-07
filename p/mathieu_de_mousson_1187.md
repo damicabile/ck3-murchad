@@ -27,15 +27,12 @@ High King Mathieu de Mousson of Ireland, 1187-1251, Mousson
 ## CHILDREN 
 * [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

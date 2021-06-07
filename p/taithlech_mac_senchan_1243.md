@@ -44,17 +44,14 @@ King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

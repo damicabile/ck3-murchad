@@ -30,15 +30,12 @@ Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

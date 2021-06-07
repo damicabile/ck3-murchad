@@ -30,15 +30,12 @@ Duke William of Guoladat, 1247-, Sigurdr-York
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

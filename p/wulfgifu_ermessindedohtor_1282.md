@@ -44,19 +44,16 @@ Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
 * [Princess Gormflaith Abeldohtor of Ireland, 1211-1274, Briain](gormflaith_abeldohtor_1211.md)
 
-
 ## GREAT-GREAT-PARENTS 
-* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
 * [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
-
+* [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

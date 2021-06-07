@@ -44,16 +44,13 @@ Earl Faelcar mag Ualtar of Buckinghamshire, 1225-1286, gCais-Gaillimhe
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Earl Udalschalk mag Aileann of Ui Mhaine, 1145-1214, gCais-Gaillimhe](udalschalk_mag_aileann_1145.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

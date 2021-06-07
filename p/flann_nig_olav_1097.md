@@ -46,15 +46,12 @@ Countess Flann nig Olav of Ui Mhaine, 1097-1161, Vedrafjord
 ## CHILDREN 
 * [Earl Aelfmaer mag Osraed of Ui Mhaine, 1128-1167, Hayles](aelfmaer_mag_osraed_1128.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)

@@ -42,21 +42,18 @@ Earl Lethlobur mag Euginia of Northumberland, 1241-1303, Briain
 ## PARENTS 
 
 ## CHILDREN 
-* [Earl Kjartan of Angus, 1274-, Braghde](kjartan_1274.md)
 * [Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde](eysteinn_lethlobursson_1271.md)
-
+* [Earl Kjartan of Angus, 1274-, Braghde](kjartan_1274.md)
 
 ## GREAT-PARENTS 
 * [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

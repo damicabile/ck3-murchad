@@ -43,18 +43,16 @@ Earl Scule Stephaniason of Wight, 1302-, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [King Baethine Dubhson of England, 1205-1281, Briain](baethine_dubhson_1205.md)
 * [Earl Glenn mac Mael-Ruanaid of Desmond, 1242-1300, Braenain](glenn_mac_mael-ruanaid_1242.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duke Inwaer Stephaniason of Wessex, 1295-, Briain](inwaer_stephaniason_1295.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

@@ -39,17 +39,15 @@ Duke Erc mac Cathan of Cornwall, 1264-, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Princess Cathan Abeldohtor of Ireland, 1218-1292, Briain](cathan_abeldohtor_1218.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [King Abel mac Gormflaith of Ireland, 1190-1269, Briain](abel_mac_gormflaith_1190.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](cathan_cathandohtor_1270.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

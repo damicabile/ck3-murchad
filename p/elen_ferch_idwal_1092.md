@@ -43,15 +43,12 @@ Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
 ## CHILDREN 
 * [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)

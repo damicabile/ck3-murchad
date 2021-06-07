@@ -44,20 +44,18 @@ King Senchan mac Somhairle of Wales, 1188-1255, gCais-Tegeingl
 ## CHILDREN 
 * [King Taithlech mac Senchan of Wales, 1243-, gCais-Tegeingl](taithlech_mac_senchan_1243.md)
 
-
 ## GREAT-PARENTS 
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
 
-
 ## GREAT-GREAT-PARENTS 
+* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
 * [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
+ 
 ## HISTORY
 * [1209.md](../h/1209.md)
 * [1227.md](../h/1227.md)

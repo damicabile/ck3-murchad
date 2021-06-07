@@ -44,17 +44,14 @@ Harold Mael-Ciarainson, 1176-1237, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 

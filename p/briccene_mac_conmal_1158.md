@@ -44,19 +44,16 @@ Briccene mac Conmal, 1158-1209, gCais-Padraig
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 * [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1209.md](../h/1209.md)
 

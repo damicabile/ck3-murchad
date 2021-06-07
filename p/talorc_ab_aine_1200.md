@@ -44,18 +44,15 @@ Lord Talorc ab Aine of Ynys Mon, 1200-1271, Ruairc
 ## CHILDREN 
 * [Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc](clydog_ap_talorc_1227.md)
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Lady Nest ferch Morien of Eryri, 1104-1172, Caerloyw-Tyddewi](nest_ferch_morien_1104.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

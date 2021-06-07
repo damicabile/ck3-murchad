@@ -44,16 +44,13 @@ Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

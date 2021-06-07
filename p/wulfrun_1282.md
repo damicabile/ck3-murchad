@@ -14,15 +14,12 @@ Countess Wulfrun of Avalois, 1282-, Pudsey
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

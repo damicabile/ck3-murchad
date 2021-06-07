@@ -14,15 +14,12 @@ Countess Aelfthryth of Nevers, 1275-, Hayles
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

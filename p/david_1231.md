@@ -43,15 +43,12 @@ Earl David of Berkshire, 1231-1279, Clare
 ## CHILDREN 
 * [Court Chaplain Sybilla, 1248-, Clare](sybilla_1248.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 

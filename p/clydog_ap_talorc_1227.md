@@ -43,20 +43,17 @@ Lord Clydog ap Talorc of Ynys Mon, 1227-1297, Ruairc
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 * [Lady Aine ferch Sithmaith of Eryri, 1169-1220, Ruairc](aine_ferch_sithmaith_1169.md)
-
+* [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 
 ## GREAT-GREAT-PARENTS 
+* [Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro](gruffydd_ap_maredudd_1116.md)
 * [Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi](meilys_ii_ab_owain_1163.md)
 * [Lathir nic Faelan, 1162-1231, Briain](lathir_nic_faelan_1162.md)
-* [Gruffydd ap Maredudd, 1116-1177, Caerloyw-Penfro](gruffydd_ap_maredudd_1116.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

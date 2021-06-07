@@ -44,16 +44,14 @@ Slaine nig Abban, 1220-1282, Briain
 ## CHILDREN 
 * [Duke Farannan of Munster, 1239-1299, gCais-Mathrafal](farannan_1239.md)
 
-
 ## GREAT-PARENTS 
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain](gelgeis_nic_gnathnad_1217.md)
+ 
 ## HISTORY
 
 #### END REFERENCES

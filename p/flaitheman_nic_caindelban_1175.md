@@ -46,18 +46,18 @@ Prince Flaitheman nic Caindelban of Ireland, 1175-1237, Briain
 ## CHILDREN 
 * [Muiredach mac Flaitheman, 1216-1281, Briain](muiredach_mac_flaitheman_1216.md)
 
-
 ## GREAT-PARENTS 
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [High Queen Slaine nic Caindelban of Ireland, 1212-1229, Briain](slaine_nic_caindelban_1212.md)
+* [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
+* [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
+ 
 ## HISTORY
 * [1209.md](../h/1209.md)
 * [1227.md](../h/1227.md)

@@ -40,16 +40,13 @@ Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain
 ## CHILDREN 
 * [Duke Scellan of Hwicce, 1255-, Briain](scellan_1255.md)
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Princess Aibilin mac Caindelban of Ireland, 1135-1203, Briain](aibilin_mac_caindelban_1135.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 

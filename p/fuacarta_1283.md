@@ -43,16 +43,13 @@ Duke Fuacarta of Anjou, 1283-, gCais-Sherwood
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Earl Fuacarta mac Ben-Muman of Leicestershire, 1212-1267, Briain](fuacarta_mac_ben-muman_1212.md)
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

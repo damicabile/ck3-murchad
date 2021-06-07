@@ -42,22 +42,19 @@ Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
 
 ## CHILDREN 
-* [Earl Bruatur mac Rian of Essex, 1241-, Llewellyn](bruatur_mac_rian_1241.md)
 * [Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn](wulfwynn_riandohtor_1273.md)
-
+* [Earl Bruatur mac Rian of Essex, 1241-, Llewellyn](bruatur_mac_rian_1241.md)
 
 ## GREAT-PARENTS 
 * [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
 
-
 ## GREAT-GREAT-PARENTS 
-* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-
+* [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

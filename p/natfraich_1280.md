@@ -43,21 +43,19 @@ Duke Natfraich of Bar, 1280-, Cathasaigh
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
-
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
 
 ## GREAT-GREAT-PARENTS 
-* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
+* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 * [Prince Loeguire mac Caindelban of Ireland, 1182-1244, Briain](loeguire_mac_caindelban_1182.md)
 * [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
-* [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
-
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

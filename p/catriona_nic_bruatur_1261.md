@@ -42,17 +42,14 @@ Lady Catriona nic Bruatur of Ceredigion, 1261-, Llewellyn
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Rian II mag Aengus of Meath, 1208-1278, Llewellyn](rian_ii_mag_aengus_1208.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 

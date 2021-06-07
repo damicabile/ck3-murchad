@@ -44,23 +44,22 @@ Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi](elidyr_ab_iorwerth_1085.md)
 * [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
+* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-* [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
+* [Morien nic Finneacht, 1183-1251, Llewellyn](morien_nic_finneacht_1183.md)
+ 
 ## HISTORY
 * [1227.md](../h/1227.md)
 * [1249.md](../h/1249.md)

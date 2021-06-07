@@ -38,15 +38,14 @@ Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis
 * [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
 * [Murchad mag Enguerrand, 1102-1164, gCais-Inis](murchad_mag_enguerrand_1102.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
+* [Earl Donnchad mac Murchad of Ailech, 1068-1109, Briain](donnchad_mac_murchad_1068.md)
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)

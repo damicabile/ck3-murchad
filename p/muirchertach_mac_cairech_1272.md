@@ -43,21 +43,19 @@ Duke Muirchertach mac Cairech of Gwynedd, 1272-, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
+* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](faelchu_mac_farannan_1212.md)
 * [Prince Cuan mac Gormflaith of Ireland, 1216-1249, Briain](cuan_mac_gormflaith_1216.md)
 * [Duchess Mahaut of Hwicce of Deheubarth, 1217-1248, Hwicce](mahaut_of_hwicce_1217.md)
-* [Earl Faelchu mac Farannan of Ennis, 1212-1265, Briain](faelchu_mac_farannan_1212.md)
-
 
 ## GREAT-GREAT-PARENTS 
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 * [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](mathieu_de_mousson_1187.md)
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain](mauda_nic_cairech_1255.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

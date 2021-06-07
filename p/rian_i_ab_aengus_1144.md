@@ -46,20 +46,18 @@ Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
 * [Queen Sorcha ferch Finneacht of Wales, 1172-1235, Llewellyn](sorcha_ferch_finneacht_1172.md)
 
-
 ## GREAT-PARENTS 
 * [Duke Udalschalk mag Eilika of Meath, 1096-1162, Cilli](udalschalk_mag_eilika_1096.md)
 * [Countess Cobflaith nic Faelan of Ceredigion, 1101-1176, Briain](cobflaith_nic_faelan_1101.md)
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
+ 
 ## HISTORY
 * [1186.md](../h/1186.md)
 * [1186_2.md](../h/1186_2.md)

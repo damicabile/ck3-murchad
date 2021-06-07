@@ -39,19 +39,18 @@ Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain
 * [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
-
 ## GREAT-PARENTS 
 * [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
 * [Elisabet Gudrodsdatter, 1083-1148, Crovan](elisabet_gudrodsdatter_1083.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Brian II mac Murchad of Munster, 1048-1111, Briain](brian_ii_mac_murchad_1048.md)
 * [Hunydd ferch Bleddyn, 1042-1099, Mathrafal](hunydd_ferch_bleddyn_1042.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Aileann nic Cobflaith, 1128-1184, Briain](aileann_nic_cobflaith_1128.md)
+* [Earl Abban mac Cobflaith of Athlone, 1132-1191, Briain](abban_mac_cobflaith_1132.md)
+ 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

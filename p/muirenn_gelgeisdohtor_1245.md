@@ -42,21 +42,19 @@ Duchess Muirenn Gelgeisdohtor of Leinster, 1245-, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 * [Gilla-Ruad mac Fiachnae, 1142-1204, gCais-Cruachu](gilla-ruad_mac_fiachnae_1142.md)
 * [Earl Abban mac Cobflaith of Athlone, 1132-1191, Briain](abban_mac_cobflaith_1132.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Earl Ultan mac Gelgeis of Ossory, 1249-, Briain](ultan_mac_gelgeis_1249.md)
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 

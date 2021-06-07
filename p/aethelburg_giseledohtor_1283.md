@@ -43,17 +43,14 @@ Countess Aethelburg Giseledohtor of Worcestershire, 1283-, Kiil
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Ewan of East Anglia, 1232-1298, Briain](ewan_1232.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Duke Liam II of Northumbria, 1214-1271, Briain](liam_ii_1214.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

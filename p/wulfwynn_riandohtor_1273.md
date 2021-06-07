@@ -31,18 +31,16 @@ Countess Wulfwynn Riandohtor of Herefordshire, 1273-, Llewellyn
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Aengus II mac Finneacht of Meath, 1177-1239, Llewellyn](aengus_ii_mac_finneacht_1177.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
 * [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Earl Bruatur mac Rian of Essex, 1241-, Llewellyn](bruatur_mac_rian_1241.md)
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 

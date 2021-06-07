@@ -43,25 +43,23 @@ Duke Natfraich mag Aine of Ulster, 1224-1274, Got
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
 
 ## CHILDREN 
-* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 * [Duke Pierre mac Muirenn of Ulster, 1256-1282, gCais-Macclesfield](pierre_mac_muirenn_1256.md)
-
+* [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](humbert_mac_muirenn_1258.md)
 
 ## GREAT-PARENTS 
 * [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
 
-
 ## GREAT-GREAT-PARENTS 
-* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
-* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
-* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 * [Prince Dinertach mac Caindelban of Ireland, 1141-1210, Briain](dinertach_mac_caindelban_1141.md)
 * [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-
+* [Cu-Bretan mac Dinertach, 1161-1232, Got](cu-bretan_mac_dinertach_1161.md)
+* [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
+* [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](dimmasach_mag_aine_1218.md)
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 

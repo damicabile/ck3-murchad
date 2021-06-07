@@ -40,16 +40,13 @@ Deirdre nic Deirdre, 1131-1196, gCais-Inis
 ## CHILDREN 
 * [Ben-Ulad nic Deirdre, 1152-1218, gCais-Inis](ben-ulad_nic_deirdre_1152.md)
 
-
 ## GREAT-PARENTS 
 * [Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis](enguerrand_mac_murchad_1081.md)
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

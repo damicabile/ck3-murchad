@@ -42,21 +42,18 @@ King Baethine Dubhson of England, 1205-1281, Briain
 * [Dubh mac Somhairle, 1183-1234, Briain](dubh_mac_somhairle_1183.md)
 
 ## CHILDREN 
-* [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
 * [Queen Eithne nic Baethine of England, 1238-, Briain](eithne_nic_baethine_1238.md)
 * [Princess Stephania Baethinedohtor of England, 1276-1306, Briain](stephania_baethinedohtor_1276.md)
-
+* [Prince Maccus Baethineson of England, 1273-, Briain](maccus_baethineson_1273.md)
 
 ## GREAT-PARENTS 
 * [Somhairle mag Aengus, 1158-1223, Briain](somhairle_mag_aengus_1158.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

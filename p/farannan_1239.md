@@ -43,20 +43,17 @@ Duke Farannan of Munster, 1239-1299, gCais-Mathrafal
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
 * [Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal](slaine_eithnedohtor_1268.md)
 
-
 ## GREAT-PARENTS 
-* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
-
+* [Earl Farannan mac Ciar of Ennis, 1179-1238, Briain](farannan_mac_ciar_1179.md)
 
 ## GREAT-GREAT-PARENTS 
-* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 * [Aed mag Ite, 1142-1207, Briain](aed_mag_ite_1142.md)
 * [Ciar nic Fiachnae, 1148-1222, gCais-Cruachu](ciar_nic_fiachnae_1148.md)
-
+* [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

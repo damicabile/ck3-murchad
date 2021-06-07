@@ -43,15 +43,12 @@ Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 

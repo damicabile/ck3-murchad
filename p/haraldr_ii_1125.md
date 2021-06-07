@@ -27,15 +27,12 @@ Duke Haraldr II of the Isles, 1125-1213, Crovan
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

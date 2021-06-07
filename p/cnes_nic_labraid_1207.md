@@ -44,20 +44,17 @@ Lady Cnes nic Labraid of Ferlix, 1207-1283, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Starkad Ulfsson Slatte, 1170-1209, Slatte](starkad_ulfsson_1170.md)
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
-
 ## GREAT-GREAT-PARENTS 
+* [Duke Haraldr II of the Isles, 1125-1213, Crovan](haraldr_ii_1125.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-* [Duke Haraldr II of the Isles, 1125-1213, Crovan](haraldr_ii_1125.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1265.md](../h/1265.md)
 * [1278.md](../h/1278.md)

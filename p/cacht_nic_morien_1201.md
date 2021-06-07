@@ -46,22 +46,22 @@ Cacht nic Morien, 1201-1255, Briain
 * [Lord Lugaid mac Cacht of Gwent, 1227-1257, Briain](lugaid_mac_cacht_1227.md)
 * [Duchess Morien of Lancaster, 1226-1295, gClais-Macclesfield](morien_1226.md)
 
-
 ## GREAT-PARENTS 
-* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
-* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-
+* [Duke Rian I ab Aengus of Meath, 1144-1211, Llewellyn](rian_i_ab_aengus_1144.md)
+* [Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu](finneacht_mac_fiachnae_1143.md)
 
 ## GREAT-GREAT-PARENTS 
 * [Duke Fiachnae mac Faelan of Connacht, 1125-1184, gCais-Cruachu](fiachnae_mac_faelan_1125.md)
 * [High King Caindelban I mac Faelan of Ireland, 1114-1186, Briain](caindelban_i_mac_faelan_1114.md)
 * [Duke Aengus I mac Cobflaith of Meath, 1123-1190, Briain](aengus_i_mac_cobflaith_1123.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Earl Natfraich mac Morien of Ailech, 1218-1282, Briain](natfraich_mac_morien_1218.md)
+* [Mayor Mauda nic Morien of Tirsa, 1199-1272, Briain](mauda_nic_morien_1199.md)
+* [King Lorcan Morienson of England, 1204-1271, Briain](lorcan_morienson_1204.md)
+ 
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

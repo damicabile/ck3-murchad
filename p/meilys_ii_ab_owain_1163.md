@@ -27,17 +27,14 @@ Duke Meilys II ab Owain of Powys, 1163-1181, Ynys-Cybi
 ## CHILDREN 
 * [Lady Gwerfyl ferch Meilys of Merionnydd, 1180-1248, Ynys Cybi](gwerfyl_ferch_meilys_1180.md)
 
-
 ## GREAT-PARENTS 
 * [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll](elen_ferch_idwal_1092.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1167.md](../h/1167.md)
 

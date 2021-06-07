@@ -22,3 +22,24 @@ Countess Tailefhlaith Tailefhlaithdohtor of Sens, 1272-, Got
                 Briccene gCais-Padraig, 1158-1209
                 Muirenn gCais-Cruachu, 1159-1215
 ```
+
+
+# REFERENCES
+
+## PARENTS 
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
+
+## CHILDREN 
+
+## GREAT-PARENTS 
+
+## GREAT-GREAT-PARENTS 
+* [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
+## SIBLINGS
+
+* [Earl Aethelberht Tailefhlaithson of Buccingahamm, 1274-, Got](aethelberht_tailefhlaithson_1274.md)
+ 
+## HISTORY
+* [1308.md](../h/1308.md)
+
+#### END REFERENCES

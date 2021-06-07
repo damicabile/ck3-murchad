@@ -42,15 +42,12 @@ Earl Idwal ap Gruffydd of Perfeddwlad, 1054-1112, Seisyll
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 

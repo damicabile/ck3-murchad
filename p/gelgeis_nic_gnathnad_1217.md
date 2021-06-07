@@ -45,16 +45,14 @@ Countess Gelgeis nic Gnathnad of Athlone, 1217-1277, Briain
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Eochad mag Abban, 1163-1191, Briain](eochad_mag_abban_1163.md)
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Slaine nig Abban, 1220-1282, Briain](slaine_nig_abban_1220.md)
+ 
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

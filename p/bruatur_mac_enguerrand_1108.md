@@ -44,15 +44,13 @@ Bruatur mac Enguerrand, 1108-1135, gCais-Inis
 ## CHILDREN 
 * [Earl Cormac mac Bruatur of Breifne, 1133-1197, gCais-Inis](cormac_mac_bruatur_1133.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Murchad mag Enguerrand, 1102-1164, gCais-Inis](murchad_mag_enguerrand_1102.md)
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 

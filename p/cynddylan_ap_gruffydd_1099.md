@@ -25,15 +25,13 @@ Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro](rhufon_ap_gruffydd_1140.md)
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

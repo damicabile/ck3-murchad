@@ -31,16 +31,14 @@ Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
-
 
 ## GREAT-GREAT-PARENTS 
 * [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Earl Kjartan of Angus, 1274-, Braghde](kjartan_1274.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

@@ -40,19 +40,17 @@ Duke Hlothere Muirennson of Kent, 1278-, Kiil
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
+* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 * [Earl Abban mag Eochad of Athlone, 1181-1234, Briain](abban_mag_eochad_1181.md)
 * [Countess Gnathnad nic Garb of Athlone, 1191-1219, Briain](gnathnad_nic_garb_1191.md)
-* [Muirenn I nic Gilla-Ruad, 1165-1230, gCais-Cruachu](muirenn_i_nic_gilla-ruad_1165.md)
 * [Prince Labraid mac Gormflaith of Ireland, 1188-1257, Briain](labraid_mac_gormflaith_1188.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](beorhtric_muirennson_1265.md)
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

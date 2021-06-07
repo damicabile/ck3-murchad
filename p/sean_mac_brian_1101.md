@@ -26,15 +26,14 @@ Earl Sean mac Brian of Oriel, 1101-1135, Laighin
 ## CHILDREN 
 * [Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin](cuanu_mac_sean_1121.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [High King Faelan mac Brian of Ireland, 1084-1136, Briain](faelan_mac_brian_1084.md)
+* [Countess Cathan nic Brian of Ennis, 1078-1144, Briain](cathan_nic_brian_1078.md)
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 

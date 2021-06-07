@@ -47,18 +47,16 @@ Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Duke Natfraich mag Aine of Ulster, 1224-1274, Got](natfraich_mag_aine_1224.md)
 
-
 ## GREAT-GREAT-PARENTS 
-* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
-
+* [Cacht nic Morien, 1201-1255, Briain](cacht_nic_morien_1201.md)
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh](muirenn_ii_nic_pierre_1275.md)
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 

@@ -45,19 +45,19 @@ Lord Aindle mac Cuan of Brycheiniog, 1242-1268, Briain
 ## CHILDREN 
 * [Lady Etain nig Aindle of Brycheniog, 1267-1290, Briain](etain_nig_aindle_1267.md)
 
-
 ## GREAT-PARENTS 
 * [High King Mathieu de Mousson of Ireland, 1187-1251, Mousson](mathieu_de_mousson_1187.md)
 * [High Queen Gormflaith nic Caindelban of Ireland, 1171-1253, Briain](gormflaith_nic_caindelban_1171.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [High King Caindelban II mac Caindelban of Ireland, 1147-1227, Briain](caindelban_ii_mac_caindelban_1147.md)
 * [High Queen Constance of Randolph of Ireland, 1144-1209, Normandie-Bedford](constance_randolph_1144.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Earl Cuan mac Cuan of Derby, 1245-, Briain](cuan_mac_cuan_1245.md)
+* [Petty King Flaithgus mac Cuan of Deheubarth, 1236-1299, Briain](flaithgus_mac_cuan_1236.md)
+* [Duke Buaidbeo mac Cuan of Essex, 1247-1282, Briain](buaidbeo_mac_cuan_1247.md)
+ 
 ## HISTORY
 * [1249.md](../h/1249.md)
 * [1265.md](../h/1265.md)

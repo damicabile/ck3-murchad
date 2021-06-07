@@ -36,18 +36,16 @@ Petty King Rhufon ap Gruffydd of Deheubarth, 1140-1166, Caerloyw-Penfro
 * [Petty King Gruffydd III ap Maredudd of Deheubarth, 1064-1140, Caerloyw-Penfro](gruffydd_iii_ap_maredudd_1064.md)
 
 ## CHILDREN 
-* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](cynwrig_ap_rhufon_1157.md)
 * [Pyr ap Rhufon, 1160-1228, Caerloyw-Penfro](pyr_ap_rhufon_1160.md)
-
+* [Cynwrig ap Rhufon, 1157-1222, Caerloyw-Penfro](cynwrig_ap_rhufon_1157.md)
 
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Lord Cynddylan ap Gruffydd of Merionnydd, 1099-1154, Caerloyw-Penfro](cynddylan_ap_gruffydd_1099.md)
+ 
 ## HISTORY
 * [1167.md](../h/1167.md)
 * [1186.md](../h/1186.md)

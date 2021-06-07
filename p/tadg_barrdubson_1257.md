@@ -42,20 +42,19 @@ Duke Tadg Barrdubson of Deira, 1257-, Got
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Aed mac Narbflaith, 1202-1263, Got](aed_mac_narbflaith_1202.md)
-
 
 ## GREAT-GREAT-PARENTS 
 * [Briccene mac Conmal, 1158-1209, gCais-Padraig](briccene_mac_conmal_1158.md)
 * [Dimmasach mac Dinertach, 1173-1243, Got](dimmasach_mac_dinertach_1173.md)
 * [Earl Ailpin mac Mael-Muire of Briefne, 1158-1222, gCais-Inis](ailpin_mac_mael-muire_1158.md)
 * [Ellbrig nig Aileann, 1155-1223, Briain](ellbrig_nig_aileann_1155.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Countess Tailefhlaith Barrdubdohtor of Breifne, 1252-, Got](tailefhlaith_barrdubdohtor_1252.md)
+* [Earl Aed Barrdubson of West Riding, 1261-, Got](aed_barrdubson_1261.md)
+ 
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)

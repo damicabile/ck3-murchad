@@ -43,17 +43,14 @@ Count Comgan mag Aine of Issoudun, 1302-, gCais-Berkhamsted
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 * [Dimmasach mag Aine, 1218-1279, gCais-Berkhamsted](dimmasach_mag_aine_1218.md)
 
-
 ## GREAT-GREAT-PARENTS 
 * [Laidine mac Narbflaith, 1200-1231, Got](laidine_mac_narbflaith_1200.md)
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1308.md](../h/1308.md)
 

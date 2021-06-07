@@ -43,15 +43,13 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+* [Bruatur mac Enguerrand, 1108-1135, gCais-Inis](bruatur_mac_enguerrand_1108.md)
+ 
 ## HISTORY
 * [1154.md](../h/1154.md)
 * [1167.md](../h/1167.md)

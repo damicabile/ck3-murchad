@@ -43,15 +43,12 @@ Court Chaplain Sybilla, 1248-, Clare
 
 ## CHILDREN 
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1294.md](../h/1294.md)
 * [1308.md](../h/1308.md)

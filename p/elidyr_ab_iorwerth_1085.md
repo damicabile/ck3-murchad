@@ -30,15 +30,12 @@ Elidyr ab Iorwerth, 1085-1150, Caerloyw-Tyddewi
 ## CHILDREN 
 * [Lord Iorwerth ap Gwenllian of Morgannwg, 1129-1191, Caerloyw-Tyddewi](iorwerth_ap_gwenllian_1129.md)
 
-
 ## GREAT-PARENTS 
 
-
 ## GREAT-GREAT-PARENTS 
-
 ## SIBLINGS
 
-##### END SIBLINGS  
+ 
 ## HISTORY
 * [1141.md](../h/1141.md)
 * [1154.md](../h/1154.md)
