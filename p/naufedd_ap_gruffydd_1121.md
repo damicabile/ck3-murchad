@@ -33,7 +33,4 @@ Earl Naufedd ap Gruffydd of Perfeddwlad, 1121-1141, Seisyll
             ?
                 ?
                 ?
-
-Process finished with exit code 0
-
 ```

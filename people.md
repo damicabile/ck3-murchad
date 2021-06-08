@@ -18,6 +18,7 @@
 - [Aethelburg Giseledohtor](p/aethelburg_giseledohtor_1283.md) (1283-), *Countess of Worcestershire, Kiil*
 - [Aethelburh](p/aethelburh_1285.md) (1285-), *Countess of Alencon, Briain*
 - [Aethelflaed](p/aethelflaed_1259.md) (1259-), *Countess of Saumur, Hampshire*
+- [Affraic nig Olav](p/affraic_nig_olav_1112.md) (1112-1181), *Countess of Wight, Vedrafjord*
 - [Aibilin mac Caindelban](p/aibilin_mac_caindelban_1135.md) (1135-1203), *Princess of Ireland, Briain*
 - [Aileann nic Cobflaith](p/aileann_nic_cobflaith_1128.md) (1128-1184)*, Briain*
 - [Ailpin mac Mael-Muire](p/ailpin_mac_mael-muire_1158.md) (1158-1222), *Earl of Briefne, gCais-Inis*
@@ -80,6 +81,7 @@
 - [Cuhelyn ap Gwerfyl](p/cuhelyn_ap_gwerfyl_1201.md) (1201-1263), *Lord of Merionnydd, Ynys Cybi*
 - [Cynddylan ap Gruffydd](p/cynddylan_ap_gruffydd_1099.md) (1099-1154), *Lord of Merionnydd, Caerloyw-Penfro*
 - [Cynehelm Ben-Uladson](p/cynehelm_ben-uladson_1270.md) (1270-), *Earl of Lindsey, Briain*
+- [Cynfyn ap Morien](p/cynfyn_ap_morien_1077.md) (1077-1145), *Lord of Eryri, Caerloyw-Llyn*
 - [Cynwrig ap Rhufon](p/cynwrig_ap_rhufon_1157.md) (1157-1222), *Caerloyw-Penfro*
 - [David](p/david_1231.md) (1231-1279), *Earl of Berkshire, Clare*
 - [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*
