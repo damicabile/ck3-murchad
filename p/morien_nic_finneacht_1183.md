@@ -16,7 +16,7 @@ Morien nic Finneacht, 1183-1251, Llewellyn
                 Lord Meilys, 1047-1101
                 Eadhild, 1050-1114
             Lady Elen, 1092-1174
-                Earl Idwal, 1054-111211121112
+                Earl Idwal, 1054-1112
                 Sioned Ynys Cybi, 1048-1114
     Duchess Finneacht, 1143-1205
         Duke Fiachnae, 1125-1184

@@ -16,7 +16,7 @@ Dubh mac Somhairle, 1183-1234, Briain
                 Lord Meilys, 1047-1101
                 Eadhild, 1050-1114
             Lady Elen, 1092-1174
-                Earl Idwal, 1054-111211121112
+                Earl Idwal, 1054-1112
                 Sioned Ynys Cybi, 1048-1114
     Heulwen Ynys Cybi, 1158-1208
         Duke Owain II, 1139-1166

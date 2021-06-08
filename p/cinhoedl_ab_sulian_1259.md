@@ -34,6 +34,4 @@ Earl Cinhoedl ab Sulian of Cornwall, 1259-1301, Normandie-Tintagel
                 ?
                 ?
 
-Process finished with exit code 0
-
 ```

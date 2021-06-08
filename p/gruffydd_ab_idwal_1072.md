@@ -1,8 +1,8 @@
-# Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
+# Earl Gruffydd ab Idwal of Perfeddwlad, 1072-1130, Seisyll
 
 ## FAMILY TREE
 ```
-Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
+Earl Gruffydd ab Idwal of Perfeddwlad, 1072-1130, Seisyll
     Earl Idwal, 1054-1112
         Petty King Gruffydd I, 1003-1063
             Petty King Llywelyn, 978-1023
@@ -33,24 +33,5 @@ Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
             ?
                 ?
                 ?
+
 ```
-
-
-# REFERENCES
-
-## PARENTS 
-
-## CHILDREN 
-* [Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain](meilys_i_ap_rhiwallon_1110.md)
-
-## GREAT-PARENTS 
-
-## GREAT-GREAT-PARENTS 
-## SIBLINGS
-
- 
-## HISTORY
-* [1141.md](../h/1141.md)
-* [1154.md](../h/1154.md)
-
-#### END REFERENCES
