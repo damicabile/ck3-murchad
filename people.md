@@ -42,6 +42,7 @@
 - [Bruatur mac Rian](p/bruatur_mac_rian_1241.md) (1241-), *Earl of Essex, Llewellyn*
 - [Buaidbeo mac Cuan](p/buaidbeo_mac_cuan_1247.md) (1247-1282), *Duke of Essex, Briain*
 - [Cacht nic Morien](p/cacht_nic_morien_1201.md) (1201-1255), *Briain*
+- [Cadwgan II ap Llywelyn](p/cadwgan_ii_ap_llywelyn_1078.md) (1078-1125), *Duke of Powys, Mathrafal*
 - [Cainchomrac mac Tailefhlaith](p/cainchomrac_tailefhlaith_1231.md) (1231-1293), *Duke of Kent, Got*
 - [Caindelban I mac Faelan](p/caindelban_i_mac_faelan_1114.md) (1114-1186), *High King of Ireland, Briain*
 - [Caindelban II mac Caindelban](p/caindelban_ii_mac_caindelban_1147.md) (1147-1227), *High King of Ireland, Briain*
@@ -86,10 +87,12 @@
 - [David](p/david_1231.md) (1231-1279), *Earl of Berkshire, Clare*
 - [Deirdre nic Deirdre](p/deirdre_nic_deirdre_1131.md) (1131-1196), *gCais-Inis*
 - [Der-Lugdach](p/der-lugdach_1266.md) (1266-), *Duchess of Westfalen, gCais-Mathrafal*
+- [Derbforgail nic Donnchad](p/derbforgail_nic_donnchad_1005.md) (1005-1050), *High Queen of Leinster, Briain*
 - [Dimmasach mag Aine](p/dimmasach_mag_aine_1218.md) (1218-1279), *gCais-Berkhamsted*
 - [Dimmasach mac Dinertach](p/dimmasach_mac_dinertach_1173.md) (1173-1243), *Got*
 - [Dinertach mac Caindelban](p/dinertach_mac_caindelban_1141.md) (1141-1210)*, Prince of Ireland, Briain*
 - [Domnall mac Flaithbertach](p/domnall_mac_flaithbertach_1069.md) (1069-1120), *Neill Noigiallaich*
+- [Domnall mac Murchad](p/domnall_mac_murchad_1047.md) (1047-1123), *Duke of Meath, Cheinnselaig*
 - [Domnall mag Ailpin](p/domnall_mag_ailpin_1119.md) (1119-1180), *gCais-Fathain*
 - [Donnchad mac Murchad](p/donnchad_mac_murchad_1068.md) (1068-1109), *Earl of Ailech, Briain*
 - [Dubh mac Somhairle](p/dubh_mac_somhairle_1183.md) (1183-1234), *Briain*
@@ -199,6 +202,7 @@
 - [Nest ferch Morien](p/nest_ferch_morien_1104.md) (1104-1172), *Lady of Eryri, Caerloyw-Tyddewi*
 - [Niallan Mac Farannan](p/niallan_mac_farannan_1217.md) (1217-1279), *Duke of Powys, Briain*
 - [Olav mac Ragnvald](p/olav_mac_ragnvald_1066.md) (1066-1132), *High King of Ormond, Vedrafjord*
+- [Onbrawst ferch Cadwgan](p/onbrawst_ferch_cadwgan_1104.md) (1104-1165), *Mathrafal*
 - [Pierre mac Muirenn](p/pierre_mac_muirenn_1256.md) (1256-1282), *Duke of Ulster, gCais-Macclesfield*
 - [Pyr ap Rhufon](p/pyr_ap_rhufon_1160.md) (1160-1228), *Caerloyw-Penfro*
 - [Rhiwallon](p/rhiwallon_1087.md) (1087-1137), *Lord of Ferlix, Briain*

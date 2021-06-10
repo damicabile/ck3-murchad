@@ -6,8 +6,8 @@ Murchad mag Enguerrand, 1102-1164, gCais-Inis
     Duke Enguerrand, 1081-1148
         High King Murchad, 1027-1095
             Donnchad Briain, 990-1065
-                King Brian, 941-1014
-                Gormflaith nic Murchad, 953-1030
+                High King Brian, 941-1014
+                Gormflaith ua Faelain, 953-1030
             ?
                 ?
                 ?

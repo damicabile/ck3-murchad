@@ -7,8 +7,6 @@ Earl Cuanu mac Sean of Oriel, 1121-1152, Laighin
          High King Brian II, 1048-1111
              High King Murchad, 1027-1095
                  Donnchad Briain, 990-1065
-                     King Brian, 941-1014
-                     Gormflaith nic Murchad, 953-1030
                  ?
              ?
                  ?

@@ -6,8 +6,8 @@ Bruatur mac Enguerrand, 1108-1135, gCais-Inis
     Duke Enguerrand, 1081-1148
         High King Murchad, 1027-1095
             Donnchad Briain, 990-1065
-                King Brian, 941-1014
-                Gormflaith nic Murchad, 953-1030
+                 High King Brian, 941-1014
+                 Gormflaith ua Faelain, 953-1030
             ?
                 ?
                 ?

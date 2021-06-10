@@ -5,10 +5,10 @@
 Duke Enguerrand mac Murchad of Ulster, 1081-1148, gCais-Inis
     High King Murchad, 1027-1095
         Donnchad Briain, 990-1065
-            King Brian, 941-1014
+            High King Brian, 941-1014
                 High King Cennetig, 880-951
                 Bebinn ua Briuin Seola, 895-965
-            Gormflaith nic Murchad, 953-1030
+            Gormflaith ua Faelain, 953-1030
                 High King Murchad, 911-972
                 ?
         ?
