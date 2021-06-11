@@ -28,6 +28,7 @@
 - [Aine ferch Sithmaith](p/aine_ferch_sithmaith_1169.md) (1169-1220), *Lady of Eryri, Ruairc*
 - [Alienora](p/alienora_1275.md) (1275-), *Duke of Normandy, Corbeil*
 - [Baethine Dubhson](p/baethine_dubhson_1205.md) (1205-1281), *King of England, Briain*
+- [Bebinn nic Brian](p/bebinn_nic_brian_989.md) (989-1072), *Princess of Ireland, Briain*
 - [Ben-Mide](p/ben-mide_1282.md) (1282-), *Countess of Chartres, gCais-Mathrafal*
 - [Ben-Ulad nic Deirdre](p/ben-ulad_nic_deirdre_1152.md) (1152-1218), *gCais-Inis*
 - [Beorhtric Muirennson](p/beorhtric_muirennson_1265.md) (1265-), *Duke of Leinster, Briain*
@@ -64,6 +65,7 @@
 - [Cinhoedl ab Sulian](p/cinhoedl_ab_sulian_1259.md) (1259-1301), *Earl of Cornwall, Normandie-Tintagel*
 - [Clydog ap Talorc](p/clydog_ap_talorc_1227.md) (1227-1297), *Lord of Ynys Mon, Ruairc*
 - [Cnes nic Labraid](p/cnes_nic_labraid_1207.md) (1207-1283), *Lady of Ferlix, Briain*
+- [Cobflaith nic Donnchad](p/cobflaith_nic_donnchad_1092.md) (1092-1143), *Queen of Poland, Briain*
 - [Cobflaith nic Faelan](p/cobflaith_nic_faelan_1101.md) (1101-1176), *Countess of Ceredigion, Briain*
 - [Coblaith nic Cairech](p/coblaith_nic_cairech_1277.md) (1277-), *Count of Vermandois, gCais-Trefynwy*
 - [Coilboth mag Etain](p/coilboth_mag_etain_1287.md) (1287-), *Lord of Brycheiniog, Briain*
@@ -94,6 +96,7 @@
 - [Domnall mac Flaithbertach](p/domnall_mac_flaithbertach_1069.md) (1069-1120), *Neill Noigiallaich*
 - [Domnall mac Murchad](p/domnall_mac_murchad_1047.md) (1047-1123), *Duke of Meath, Cheinnselaig*
 - [Domnall mag Ailpin](p/domnall_mag_ailpin_1119.md) (1119-1180), *gCais-Fathain*
+- [Donnchad Briain](p/donnchad_briain_990.md) (990-1065), *Prince of Ireland, Briain*
 - [Donnchad mac Murchad](p/donnchad_mac_murchad_1068.md) (1068-1109), *Earl of Ailech, Briain*
 - [Dubh mac Somhairle](p/dubh_mac_somhairle_1183.md) (1183-1234), *Briain*
 - [Eadbald Mael-Muireson](p/eadbald_mael-muireson_1286.md) (1286-), *Duke of Poitou, hEochadha*
@@ -116,6 +119,7 @@
 - [Ewan](p/ewan_1232.md) (1232-1298), *Duke of East Anglia, Briain*
 - [Eysteinn Lethlobursson](p/eysteinn_lethlobursson_1271.md) (1271-), *Earl of Northumberland, Braghde*
 - [Faelan mac Brian](p/faelan_mac_brian_1084.md) (1084-1136), *High King of Ireland, Briain*
+- [Faelcar mac Sean](p/faelcar_mac_sean_1123.md) (1123-1167), *Laighin*
 - [Faelchu mac Farannan](p/faelchu_mac_farannan_1212.md) (1212-1265), *Earl of Ennis, Briain*
 - [Failenn nic Gormflaith](p/failenn_nic_gormflaith_1193.md) (1193-1266), *Princess of Ireland, Briain*
 - [Farannan](p/farannan_1239.md) (1239-1299), *Duke of Munster, gCais-Mathrafal*
