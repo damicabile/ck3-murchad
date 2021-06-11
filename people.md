@@ -59,6 +59,7 @@
 - [Cathnio mac Cathan](p/cathnio_mac_cathan_1108.md) (1108-1171), *Earl of Ennis, Briain*
 - [Catriona nic Bruatur](p/catriona_nic_bruatur_1261.md) (1261-), *Lady of Ceredigion, Llewellyn*
 - [Cecco](p/cecco_1265.md) (1265-), *Count of Maine, Canossa*
+- [Ceithernach mac Murchad](p/ceithernach_mac_murchad_1096.md) (1096-1155), *Briain*
 - [Cenwulf](p/cenwulf_1309.md) (1309-), *Earl of Valois, Senlis*
 - [Ciar nic Fiachnae](p/ciar_nic_fiachnae_1148.md) (1148-1222)*, gCais-Cruachu*
 - [Cilline mac Failenn](p/cilline_mac_failenn_1215.md) (1215-1282), *Duke of Connacht, Briain*
