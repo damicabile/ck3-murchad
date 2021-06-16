@@ -49,6 +49,6 @@ Duke Erc mac Cathan of Cornwall, 1264-, Briain
 * [Duchess Cathan Cathandohtor of Gwynedd, 1270-, Briain](cathan_cathandohtor_1270.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

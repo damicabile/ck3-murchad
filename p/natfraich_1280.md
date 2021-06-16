@@ -57,6 +57,6 @@ Duke Natfraich of Bar, 1280-, Cathasaigh
 * [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](cristina_nic_cristina_1277.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

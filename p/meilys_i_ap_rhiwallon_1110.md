@@ -5,7 +5,7 @@
 Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
     Lord Rhiwallon, 1087-1137
         Lord Meilys, 1047-1101
-            High King Rhiwallon, 1025-1083
+            Lord Rhiwallon, 1025-1083
                 Cynfyn Mathrafal, 978-1025
                 Angharad Dinefwr, 978-1025
             ?
@@ -27,7 +27,7 @@ Duke Meilys I ap Rhiwallon of Powys, 1110-1165, gCais-Fathain
                 Aelfgar of Hwicce, 1019-1062
                 Aelgifu, 1020-1086
         Sioned Ynys Cybi, 1048-1114
-            High King Rhiwallon, 1025-1083
+            Lord Rhiwallon, 1025-1083
                 Cynfyn Mathrafal, 978-1025
                 Angharad Dinefwr, 978-1025
             ?

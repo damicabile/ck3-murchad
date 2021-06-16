@@ -53,6 +53,6 @@ Court Chaplain Skjaldvor Drifadohtor of Gwynedd, 1267-, Hagalin
 * [Duchess Ylva Drifadohtor of Mercia, 1261-, Hagalin](ylva_drifadohtor_1261.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

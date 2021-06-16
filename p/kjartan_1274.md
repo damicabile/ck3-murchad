@@ -52,6 +52,6 @@ Earl Kjartan of Angus, 1274-, Braghde
 * [Earl Eysteinn Lethlobursson of Northumberland, 1271-, Braghde](eysteinn_lethlobursson_1271.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

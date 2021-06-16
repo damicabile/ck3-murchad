@@ -17,4 +17,4 @@
 - [High King Abel mac Gormflaith of Ireland, 1265](h/1265.md)
 - [King Baethine of England, 1278](h/1278.md)
 - [Queen Eithne of England, 1294](h/1294.md)
-- [Queen Eithne of France, 1308](h/1308.md)
+- [Queen Eithne of France, 1308](h/1309.md)

@@ -58,6 +58,6 @@ Lord Coilboth mag Etain of Brycheiniog, 1287-, Briain
  
 ## HISTORY
 * [1294.md](../h/1294.md)
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

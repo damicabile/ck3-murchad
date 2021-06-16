@@ -21,7 +21,7 @@ Somhairle mag Aengus, 1158-1223, Briain
     Duchess Rhiandrech, 1116-1187
         Lord Rhiwallon, 1087-1137
             Lord Meilys, 1047-1101
-                High King Rhiwallon, 1025-1083
+                Lord Rhiwallon, 1025-1083
                 ?
             Eadhild, 1050-1114
                 ?
@@ -31,7 +31,7 @@ Somhairle mag Aengus, 1158-1223, Briain
                 Petty King Gruffydd I, 1003-1063
                 Aeldgyth of Hwicce, 1036-1087
             Sioned Ynys Cybi, 1048-1114
-                High King Rhiwallon, 1025-1083
+                Lord Rhiwallon, 1025-1083
                 ?
 ```
 

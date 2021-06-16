@@ -12,7 +12,7 @@ Earl Naufedd ap Gruffydd of Perfeddwlad, 1121-1141, Seisyll
                 Aelfgar of Hwicce, 1019-1062
                 Aelgifu, 1020-1086
         Sioned Ynys Cybi, 1048-1114
-            High King Rhiwallon, 1025-1083
+            Lord Rhiwallon, 1025-1083
                 Cynfyn Mathrafal, 978-1025
                 Angharad Dinefwr, 978-1025
             ?

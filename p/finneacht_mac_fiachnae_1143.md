@@ -28,7 +28,7 @@ Duchess Finneacht mac Fiachnae of Meath, 1143-1205, gCais-Cruachu
                 ?
         Petty Queen Gwenllian, 1090-1148
             Lord Meilys, 1047-1101
-                High King Rhiwallon, 1025-1083
+                Lord Rhiwallon, 1025-1083
                 ?
             Eadhild, 1050-1114
                 ?

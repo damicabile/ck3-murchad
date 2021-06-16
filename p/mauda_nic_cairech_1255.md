@@ -57,6 +57,6 @@ Petty Queen Mauda nic Cairech of Deheubarth, 1255-, Briain
 * [Duke Muirchertach mac Cairech of Gwynedd, 1272-, Briain](muirchertach_mac_cairech_1272.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

@@ -6,10 +6,10 @@ Murchad mac Domnall, 1118-1180, Cheinnselaig
     Duke Domnall, 1047-1123
         Earl Murchad, 1025-1084
             High King Diarmait, 995-1071       
-                Donnchad mac Diarmait, 980-1011
+                Donnchad ua Cheinnselaig, 980-1011
                 ?
             High Queen Derbforgail, 1005-1050
-                Donnchad Brian, 990-1065
+                Donnchad Briain, 990-1065
                 ?
         Countess Tailltiu, 1026-1080
             ?

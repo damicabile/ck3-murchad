@@ -54,6 +54,6 @@ Duke Inwaer Stephaniason of Wessex, 1295-, Briain
 * [Earl Scule Stephaniason of Wight, 1302-, Briain](scule_stephaniason_1302.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

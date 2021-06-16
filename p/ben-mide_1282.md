@@ -58,6 +58,6 @@ Countess Ben-Mide of Chartres, 1282-, gCais-Mathrafal
 * [Duke Brian Airmedachson of Burgundy, 1281-, gCais-Mathrafal](brian_airmedachson_1281.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

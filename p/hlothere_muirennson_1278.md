@@ -52,6 +52,6 @@ Duke Hlothere Muirennson of Kent, 1278-, Kiil
 * [Duke Beorhtric Muirennson of Leinster, 1265-, Briain](beorhtric_muirennson_1265.md)
  
 ## HISTORY
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

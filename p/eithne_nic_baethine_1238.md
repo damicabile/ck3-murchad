@@ -58,6 +58,6 @@ Queen Eithne nic Baethine of England, 1238-, Briain
 ## HISTORY
 * [1278.md](../h/1278.md)
 * [1294.md](../h/1294.md)
-* [1308.md](../h/1308.md)
+* [1308.md](../h/1309.md)
 
 #### END REFERENCES

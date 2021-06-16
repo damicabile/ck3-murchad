@@ -19,7 +19,7 @@ Lady Elen ferch Idwal of Penllyn, 1092-1174, Seisyll
                 ?
                 ?
     Sioned Ynys Cybi, 1048-1114
-        High King Rhiwallon, 1025-1083
+        Lord Rhiwallon, 1025-1083
             Cynfyn Mathrafal, 978-1025
                 Gwerstan Mathrafal, 954-990
                 ?
