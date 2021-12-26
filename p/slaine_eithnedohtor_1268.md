@@ -1,8 +1,8 @@
-# Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
+# Empress Slaine Eithnedohtor of France, 1268-, gCais-Paris
 
 ## FAMILY TREE
 ```
-Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
+Empress Slaine Eithnedohtor of France, 1268-, gCais-Paris
     Duke Farannan, 1239-1299
         Duke Niallan, 1217-1279
             Earl Farannan, 1179-1238
@@ -57,7 +57,7 @@ Duchess Slaine Eithnedohtor of Powys, 1268-, gCais-Mathrafal
 ## SIBLINGS
 
 * [Duchess Der-Lugdach of Westfalen, 1266-, gCais-Mathrafal](der-lugdach_1266.md)
- 
+
 ## HISTORY
 * [1294.md](../h/1294.md)
 * [1308.md](../h/1309.md)

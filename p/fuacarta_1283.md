@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Duke Fuacarta of Anjou, 1283-, gCais-Sherwood
-    Duke Scellan, 1255-
+    Duke Scellan, 1255-1319
         Earl Fuacarta, 1212-1267
             Scellan Ceiteach, 1189-1250
                 Baron Gilla-Comgain, 1158-1221
@@ -39,7 +39,7 @@ Duke Fuacarta of Anjou, 1283-, gCais-Sherwood
 # REFERENCES
 
 ## PARENTS 
-* [Duke Scellan of Hwicce, 1255-, Briain](scellan_1255.md)
+* [Duke Scellan of Hwicce, 1255-1319, Briain](scellan_1255.md)
 
 ## CHILDREN 
 

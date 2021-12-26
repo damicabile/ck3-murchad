@@ -1,8 +1,8 @@
-# Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh
+# Duchess Muirenn II nic Pierre of Lancaster, 1275-1322, Congalaigh
 
 ## FAMILY TREE
 ```
-Duchess Muirenn II nic Pierre of Lancaster, 1275-, Congalaigh
+Duchess Muirenn II nic Pierre of Lancaster, 1275-1322, Congalaigh
     Duke Pierre, 1256-1282
         Duke Natfraich, 1224-1274
             Laidine Got, 1200-1231

@@ -3,7 +3,7 @@
 ## FAMILY TREE
 ```
 Countess Ben-Mide of Chartres, 1282-, gCais-Mathrafal
-    Duke Airmerdach, 1261-
+    Duke Airmedach, 1261-
         Duke Niallan, 1217-1279
             Earl Farannan, 1179-1238
                 Aed Briain, 1142-1207

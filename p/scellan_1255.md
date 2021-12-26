@@ -1,8 +1,8 @@
-# Duke Scellan of Hwicce, 1255-, Briain
+# Duke Scellan of Hwicce, 1255-1319, gCais-Sherwood
 
 ## FAMILY TREE
 ```
-Duke Scellan of Hwicce, 1255-, Briain
+Duke Scellan of Hwicce, 1255-1319, gCais-Sherwood
     Earl Fuacarta, 1212-1267
         Scellan Ceiteach, 1189-1250
             Baron Gilla-Comgain, 1158-1221

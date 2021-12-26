@@ -1,9 +1,9 @@
-# Duke Mathieu of Orleans, 1220-, Antoing
+# Duke Mathieu of Orleans, 1251-1313, Antoing
 
 ## FAMILY TREE
 ```
-Duke Mathieu of Orleans, 1220-, Antoing
-    Earl Gilles, 1251-
+Duke Mathieu of Orleans, 1251-1313, Antoing
+    Count Gilles, 1224-1288
         Earl Mathieu, 1185-1248
             Earl Roger, 1162-1216
                 Earl Constantin, 1145-1199

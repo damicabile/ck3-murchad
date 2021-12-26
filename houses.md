@@ -150,7 +150,7 @@
 ## gCais-Macclesfield
 - [Earl Humbert mac Muirenn of Oriel, 1258-, gCais-Macclesfield](p/humbert_mac_muirenn_1258.md)
 - [Duchess Cristina nic Cristina of Connacht, 1277-, gCais-Macclesfield](p/cristina_nic_cristina_1277.md)
-- [Duchess Muirenne nic Pierre of Ulster, 1275-, gCais-Macclesfield](p/muirenne_nic_pierre_1275.md)
+- [Duchess Muirenn nic Pierre of Ulster, 1275-1322, gCais-Macclesfield](p/muirenne_nic_pierre_1275.md)
 - [Duke Pierre mac Muirenn of Ulster, 1256-, gCais-Macclesfield](p/pierre_mac_muirenn_1256.md)
 
 ## gCais-Mathrafal

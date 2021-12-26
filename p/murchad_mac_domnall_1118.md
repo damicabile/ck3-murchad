@@ -23,7 +23,7 @@ Murchad mac Domnall, 1118-1180, Cheinnselaig
                 ?
                 ?
         Bronwen Mathrafal, 1075-1140
-            Llywellyn Mathrafal, 1057-1091
+            Llywelyn Mathrafal, 1057-1091
                 Petty King Cadwgan I, 1041-1100
                 ?
             Aeronwy, 1040-1100

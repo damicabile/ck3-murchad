@@ -24,7 +24,7 @@ Captain Fiachnae mac Gilla-Ruad, 1167-1227, gCais-Cruachu
                 Earl Roger, 1020-1090
                 Countess Mabel, 1022-1083
             Hywela Mathrafal, 1093-1161
-                Petty King Cadwgan, 1041-1100
+                Petty King Cadwgan I, 1041-1100
                 Elisabet, 1066-1119
         Aelwyd Morgannwg, 1093-1158
             Earl Meurig, 1068-1139
