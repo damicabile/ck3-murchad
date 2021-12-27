@@ -1,8 +1,8 @@
-# Duke Sverrir Drifason of Champagne, 1272-, Hagalin
+# Duke Sverrir Drifason of Champagne, 1272-1316, Hagalin
 
 ## FAMILY TREE
 ```
-Duke Sverrir Drifason of Champagne, 1272-, Hagalin
+Duke Sverrir Drifason of Champagne, 1272-1316, Hagalin
     Duke Thurcytel, 1228-1287
         Earl Saebert, 1203-1261
             Harold Briain, 1176-1237

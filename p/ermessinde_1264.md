@@ -1,8 +1,8 @@
-# Duchess Ermessinde of East Anglia, 1264-, Adelsward
+# Duchess Ermessinde of East Anglia, 1264-1323, Adelsward
 
 ## FAMILY TREE
 ```
-Duchess Ermessinde of East Anglia, 1264-, Adelsward
+Duchess Ermessinde of East Anglia, 1264-1323, Adelsward
     Duke Ewan, 1232-1298
         Duke Liam II, 1214-1271
             Dagr Sigurdr-Kyle, 1194-1243

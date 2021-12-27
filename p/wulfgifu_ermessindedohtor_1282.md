@@ -1,8 +1,8 @@
-# Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
+# Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-1310, Briain
 
 ## FAMILY TREE
 ```
-Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
+Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-1310, Briain
     Baron Lonan, 1255-1297
         Fragan, 1210-1272
             ?
@@ -18,7 +18,7 @@ Countess Wulfgifu Ermessindedohtor of South Seaxe, 1282-, Briain
             Annwyl Caerloyw-Penfro, 1187-1247
                 Pyr Caerloyw-Penfro, 1160-1228
                 Caintigern Briain, 1156-1228
-    Duchess Ermessinde, 1264-
+    Duchess Ermessinde, 1264-1323
         Duke Ewan, 1232-1298
             Duke Liam II, 1214-1271
                 Dagr Sigurdr-Kyle, 1194-1243
